@@ -257,11 +257,11 @@
         <mark key="^" line="33" column="95" />
         <mark key="." line="33" column="95" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1561284608773">
-        <mark key="[" line="52" column="10" />
-        <mark key="]" line="52" column="8" />
-        <mark key="^" line="52" column="8" />
-        <mark key="." line="52" column="8" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1561306363645">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="37" column="43" />
+        <mark key="^" line="37" column="43" />
+        <mark key="." line="37" column="43" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/image.clj" timestamp="1560896089802">
         <mark key="[" line="22" column="36" />
@@ -293,11 +293,11 @@
       <file name="/Dummy.txt" timestamp="1561284775192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1561305163293">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
-        <mark key="^" line="31" column="27" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1561306110863">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="28" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/util/extensions.clj" timestamp="1561057403897">
         <mark key="[" line="0" column="17" />
@@ -434,7 +434,7 @@
         <text encoding="base64">ICAgIChwcmludGxuIGltYWdlcykKICAgIChwcmludGxuIChpbnRvIHt9IChtYXAgKGZuIFtbayB2XV0gW2sgKGRpc3NvYyB2IDppbWFnZS9kYXRhKV0pIGltYWdlcy13aXRob3V0LWV4dGVuc2lvbnMpKSkKICAgIChwcmludGxuIHV1aWQtPnV1aWQpCiAgICAocHJpbnRsbiB1bml0cykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -456,8 +456,8 @@
         <entry>wva</entry>
         <entry>v</entry>
         <entry>wa'</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
