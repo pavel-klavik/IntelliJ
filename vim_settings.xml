@@ -443,11 +443,11 @@
         <mark key="." line="28" column="91" />
         <mark key="^" line="28" column="91" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1562510032925">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="33" />
-        <mark key="^" line="24" column="33" />
-        <mark key="." line="24" column="33" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1562511231275">
+        <mark key="[" line="79" column="6" />
+        <mark key="]" line="79" column="4" />
+        <mark key="^" line="79" column="4" />
+        <mark key="." line="79" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -461,8 +461,8 @@
       <jump line="67" column="39" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaW1hZ2VzCihpZCB1dWlkIFBSSU1BUlkgS0VZLAogZGF0YSBieXRlYSwKIHZhbCBqc29uLAogb3duZXIgdXVpZCBOT1QgTlVMTCk7Ci0tOzsKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaW1hZ2VzX29yZ3BhZ2VzCihpbWFnZSB1dWlkIE5PVCBOVUxMLAogb3JncGFnZSB1dWlkIE5PVCBOVUxMKTsK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -470,8 +470,8 @@
       <register name="/" type="4">
         <text>html2hiccup</text>
       </register>
-      <register name="0" type="4">
-        <text>;</text>
+      <register name="0" type="2">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaW1hZ2VzCihpZCB1dWlkIFBSSU1BUlkgS0VZLAogZGF0YSBieXRlYSwKIHZhbCBqc29uLAogb3duZXIgdXVpZCBOT1QgTlVMTCk7Ci0tOzsKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaW1hZ2VzX29yZ3BhZ2VzCihpbWFnZSB1dWlkIE5PVCBOVUxMLAogb3JncGFnZSB1dWlkIE5PVCBOVUxMKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDBweDsK</text>
