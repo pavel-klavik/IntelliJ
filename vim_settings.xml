@@ -21,11 +21,11 @@
         <mark key="^" line="21" column="81" />
         <mark key="." line="21" column="81" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1560556604068">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="18" column="20" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1562513784980">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="35" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" timestamp="1560010064066">
         <mark key="[" line="52" column="26" />
@@ -443,11 +443,11 @@
         <mark key="." line="28" column="91" />
         <mark key="^" line="28" column="91" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1562511231275">
-        <mark key="[" line="79" column="6" />
-        <mark key="]" line="79" column="4" />
-        <mark key="^" line="79" column="4" />
-        <mark key="." line="79" column="4" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1562513848973">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -462,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaW1hZ2VzCihpZCB1dWlkIFBSSU1BUlkgS0VZLAogZGF0YSBieXRlYSwKIHZhbCBqc29uLAogb3duZXIgdXVpZCBOT1QgTlVMTCk7Ci0tOzsKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaW1hZ2VzX29yZ3BhZ2VzCihpbWFnZSB1dWlkIE5PVCBOVUxMLAogb3JncGFnZSB1dWlkIE5PVCBOVUxMKTsK</text>
+        <text encoding="base64">LS07OwpEUk9QIFRBQkxFIElGIEVYSVNUUyBmaWxlczsK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -471,7 +471,7 @@
         <text>html2hiccup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaW1hZ2VzCihpZCB1dWlkIFBSSU1BUlkgS0VZLAogZGF0YSBieXRlYSwKIHZhbCBqc29uLAogb3duZXIgdXVpZCBOT1QgTlVMTCk7Ci0tOzsKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaW1hZ2VzX29yZ3BhZ2VzCihpbWFnZSB1dWlkIE5PVCBOVUxMLAogb3JncGFnZSB1dWlkIE5PVCBOVUxMKTsK</text>
+        <text encoding="base64">LS07OwpEUk9QIFRBQkxFIElGIEVYSVNUUyBmaWxlczsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDBweDsK</text>
