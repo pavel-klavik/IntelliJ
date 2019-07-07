@@ -63,7 +63,7 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1560124294227">
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1562509111221">
         <mark key="[" line="56" column="79" />
         <mark key="]" line="56" column="99" />
         <mark key="^" line="56" column="99" />
@@ -443,11 +443,11 @@
         <mark key="." line="28" column="91" />
         <mark key="^" line="28" column="91" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1562508160279">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="59" column="23" />
-        <mark key="^" line="59" column="23" />
-        <mark key="." line="59" column="23" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1562510032925">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -461,8 +461,8 @@
       <jump line="67" column="39" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDBweDsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -470,8 +470,8 @@
       <register name="/" type="4">
         <text>html2hiccup</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1sZWZ0OiAxcHggc29saWQgI2JiYjsK</text>
+      <register name="0" type="4">
+        <text>;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDBweDsK</text>
