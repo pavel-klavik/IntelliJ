@@ -500,11 +500,11 @@
         <mark key="^" line="22" column="31" />
         <mark key="." line="22" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1563398886681">
-        <mark key="[" line="98" column="10" />
-        <mark key="]" line="35" column="36" />
-        <mark key="^" line="35" column="36" />
-        <mark key="." line="35" column="36" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1563402264957">
+        <mark key="[" line="96" column="4" />
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+        <mark key="." line="96" column="23" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1562310421443">
         <mark key="[" line="81" column="64" />
@@ -517,6 +517,12 @@
         <mark key="]" line="26" column="79" />
         <mark key="^" line="26" column="79" />
         <mark key="." line="26" column="79" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1563402101864">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="12" column="40" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit_button.cljs" timestamp="1560002721918">
         <mark key="[" line="25" column="0" />
@@ -541,7 +547,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3JpbmcubWlkZGxld2FyZS5rZXl3b3JkLXBhcmFtcyA6YXMga2V5d29yZC1wYXJhbXNdCg==</text>
+        <text encoding="base64">LS0gOm5hbWUgdXBkYXRlLXVzZXItcHJvZmlsZS1pbWFnZSEgOiEgOm4KLS0gOmRvYyB1cGRhdGVzIGFuIGV4aXN0aW5nIHVzZXIgcHJvZmlsZSBpbWFnZQpVUERBVEUgdXNlcnMKU0VUIHByb2ZpbGVfaW1hZ2UgPSA6cHJvZmlsZV9pbWFnZSwgcHJvZmlsZV90aHVtYm5haWwgPSA6cHJvZmlsZV90aHVtYm5haWwKV0hFUkUgaWQgPSA6aWQK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -550,7 +556,7 @@
         <text>println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleXdvcmQtcGFyYW1zL3dyYXAta2V5d29yZC1wYXJhbXMK</text>
+        <text encoding="base64">LS0gOm5hbWUgdXBkYXRlLXVzZXItcHJvZmlsZS1pbWFnZSEgOiEgOm4KLS0gOmRvYyB1cGRhdGVzIGFuIGV4aXN0aW5nIHVzZXIgcHJvZmlsZSBpbWFnZQpVUERBVEUgdXNlcnMKU0VUIHByb2ZpbGVfaW1hZ2UgPSA6cHJvZmlsZV9pbWFnZSwgcHJvZmlsZV90aHVtYm5haWwgPSA6cHJvZmlsZV90aHVtYm5haWwKV0hFUkUgaWQgPSA6aWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW3JpbmcubWlkZGxld2FyZS5rZXl3b3JkLXBhcmFtcyA6YXMga2V5d29yZC1wYXJhbXNdCg==</text>
