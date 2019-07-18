@@ -447,6 +447,11 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/dashboard.cljs" timestamp="1563314980047">
         <mark key="[" line="19" column="1" />
       </file>
+      <file name="C:/Shared/orgpad/less/_panel.less" timestamp="1563475253094">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1563152787383">
         <mark key="[" line="83" column="40" />
         <mark key="]" line="83" column="41" />
@@ -471,11 +476,16 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/link_editor.cljs" timestamp="1559480498931">
         <mark key="[" line="6" column="68" />
       </file>
-      <file name="C:/Shared/orgpad/less/_root.less" timestamp="1563062911447">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="63" column="31" />
-        <mark key="^" line="63" column="31" />
-        <mark key="." line="63" column="31" />
+      <file name="C:/Shared/orgpad/less/_root.less" timestamp="1563475210443">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_inputs.less" timestamp="1563475662297">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -545,7 +555,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnVzZXIvdGh1bWJuYWlsICAgIyd1c2VyL3Byb2ZpbGUtaW1hZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -557,31 +567,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnVzZXIvdGh1bWJuYWlsICAgIyd1c2VyL3Byb2ZpbGUtaW1hZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlICguZ2V0VHlwZSBwcm9maWxlLWltYWdlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaWxlCg==</text>
+        <text encoding="base64">LmlucHV0LWZpZWxkIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyAoc2x1cnAgZmlsZSkpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGRlZm4gdXBkYXRlLXVzZXIhKQoK</text>
+        <text encoding="base64">ICBmb250LWZhbWlseTogUm9ib3RvLCBzYW5zLXNlcmlmOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3JpbmcubWlkZGxld2FyZS5rZXl3b3JkLXBhcmFtcyA6YXMga2V5d29yZC1wYXJhbXNdCg==</text>
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6IFZlcmRhbmEsIEdlbmV2YSwgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3JpbmcubWlkZGxld2FyZS5tdWx0aXBhcnQtcGFyYW1zIDphcyBtdWx0aXBhcnQtcGFyYW1zXQo=</text>
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6IFZlcmRhbmEsIEdlbmV2YSwgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3JpbmcubWlkZGxld2FyZS5qc29uIDphcyBqc29uXQo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlICguZ2V0VHlwZSBwcm9maWxlLWltYWdlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAoZm4gW2RiIFtfIHJlc3BvbnNlXV0KICAgIChqcy9jb25zb2xlLmxvZyAiUHJvZmlsZSB1cGRhdGUgc3VjY2Vzc2Z1bDoiIHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICBmaWxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlLWVsZW1lbnQgKGpzL2RvY3VtZW50LmdldEVsZW1lbnRCeUlkICJvcmdwYWdlLWZpbGUiKQogICAgICAgIG5hbWUgKC4tbmFtZSBmaWxlLWVsZW1lbnQpCiAgICAgICAgZmlsZSAoYWdldCAoLi1maWxlcyBmaWxlLWVsZW1lbnQpIDApCg==</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyAoc2x1cnAgZmlsZSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -606,8 +616,8 @@
         <entry>wva</entry>
         <entry>v</entry>
         <entry>wa'</entry>
-        <entry>w</entry>
         <entry>:wa</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
