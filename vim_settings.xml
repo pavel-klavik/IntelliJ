@@ -102,11 +102,11 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws.clj" timestamp="1563649749567">
-        <mark key="[" line="98" column="48" />
-        <mark key="]" line="99" column="45" />
-        <mark key="^" line="99" column="45" />
-        <mark key="." line="99" column="45" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws.clj" timestamp="1563654873956">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="9" />
       </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1563022704811">
         <mark key="[" line="21" column="41" />
@@ -307,6 +307,17 @@
         <mark key="." line="68" column="27" />
         <mark key="^" line="68" column="27" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/style.clj" timestamp="1563654708838">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/sql/styles.sql" timestamp="1563654444702">
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="30" />
+        <mark key="^" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1559868100701">
         <mark key="[" line="45" column="2" />
         <mark key="]" line="45" column="92" />
@@ -349,11 +360,12 @@
         <mark key="." line="15" column="59" />
         <mark key="^" line="15" column="59" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1563650519638">
-        <mark key="[" line="108" column="58" />
-        <mark key="]" line="108" column="55" />
-        <mark key="." line="108" column="55" />
-        <mark key="^" line="108" column="55" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1563654690928">
+        <mark key="'" line="109" column="7" />
+        <mark key="[" line="110" column="6" />
+        <mark key="]" line="112" column="35" />
+        <mark key="." line="112" column="35" />
+        <mark key="^" line="112" column="35" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/user.cljs" timestamp="1563229266154">
         <mark key="[" line="11" column="18" />
@@ -436,7 +448,7 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
       </file>
-      <file name="/REPL.clj" timestamp="1563649798880">
+      <file name="/REPL.clj" timestamp="1563655013746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/highlighting.cljs" timestamp="1563155260104">
@@ -522,11 +534,11 @@
         <mark key="^" line="22" column="31" />
         <mark key="." line="22" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1563648173161">
-        <mark key="[" line="156" column="5" />
-        <mark key="]" line="160" column="53" />
-        <mark key="^" line="160" column="53" />
-        <mark key="." line="160" column="53" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1563654617818">
+        <mark key="[" line="156" column="10" />
+        <mark key="]" line="156" column="34" />
+        <mark key="^" line="156" column="34" />
+        <mark key="." line="156" column="34" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1562310421443">
         <mark key="[" line="81" column="64" />
@@ -566,56 +578,57 @@
       <jump line="13" column="33" filename="C:/Shared/orgpad/src/orgpad/server/handler/upload.clj" />
       <jump line="64" column="37" filename="C:/Shared/orgpad/src/orgpad/server/handler/upload.clj" />
       <jump line="66" column="31" filename="C:/Shared/orgpad/src/orgpad/server/db/orgpage.clj" />
+      <jump line="112" column="7" filename="C:/Shared/orgpad/src/orgpad/server/db/user.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgb3JncGFnZS1pZHMpKSkK</text>
+        <text encoding="base64">ICAobG9nL2luZm8gImRlbGV0ZS1zdHlsZSEiIGlkKQo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>println</text>
+        <text encoding="base64">XDx3c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgb3JncGFnZS1pZHMpKSkK</text>
+        <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJkaXNzb2NpbmcgZnJvbSIgb3JncGFnZS1pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGRlZiBtYXJueS1pZCAjdXVpZCAiY2M1NGY0OGMtMzVmYy00MGVkLWFiZDctNjZkODhhNWZkMjUxIikK</text>
+        <text encoding="base64">ICAobG9nL2luZm8gImRlbGV0ZS1zdHlsZSEiIGlkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAobG9nL2luZm8gInByb2ZpbGUtaW1hZ2UiICh3aXRoLW91dC1zdHIgKGNsb2p1cmUucHByaW50L3BwcmludCByZXF1ZXN0KSkpCg==</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyBvcmdwYWdlLWlkcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIFs6ZGl2LmdhcF0KICAgICAgIFtpbnB1dC9pbnB1dCAjOmlucHV0ezpsYWJlbCAgICAgIlBhc3N3b3JkIGFnYWluOiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp2YWx1ZSAgICAgbGFzdC1uYW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6b24tY2hhbmdlIDpwcm9maWxlL3VwZGF0ZS1uZXctcGFzc3dvcmQtY29uZmlybX1dCg==</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyAiZGVsZXRlIGRvbmUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIFs6ZGl2LmJpZy1nYXBdCiAgICAgICBbaW5wdXQvaW5wdXQgIzppbnB1dHs6bGFiZWwgICAgICJPbGQgcGFzc3dvcmQ6IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgOnZhbHVlICAgICBlbWFpbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSA6cHJvZmlsZS91cGRhdGUtb2xkLXBhc3N3b3JkfV0K</text>
+        <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJkaXNzb2NpbmcgZnJvbSIgb3JncGFnZS1pZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0cmFuc2l0aW9uOiAwLjE1cyBlYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJkb25lIikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0cmFuc2l0aW9uOiBiYWNrZ3JvdW5kLWNvbG9yIDVzIGVhc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJkZWxldGluZyBvcmdwYWdlIiBvcmdwYWdlLWlkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDBweDsK</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyAiYWZ0ZXIgZGVsZXRlLXVzZXItYWNjZXNzLXRva2VucyEiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyAiYWZ0ZXIgZGVsZXRlLXVzZXIhIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmlucHV0LWZpZWxkIHsK</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgc3R5bGUtaWRzKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>println</last-search>
+      <last-search encoding="base64">XDx3c1w+</last-search>
       <last-offset />
-      <last-pattern>println</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx3c1w+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -624,6 +637,7 @@
         <entry>get-val-with-id</entry>
         <entry>print</entry>
         <entry>println</entry>
+        <entry encoding="base64">XDx3c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
