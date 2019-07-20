@@ -363,11 +363,11 @@
         <mark key="." line="142" column="95" />
         <mark key="^" line="142" column="95" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1563638956302">
-        <mark key="[" line="102" column="46" />
-        <mark key="]" line="102" column="43" />
-        <mark key="^" line="102" column="43" />
-        <mark key="." line="102" column="43" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1563639532884">
+        <mark key="[" line="102" column="33" />
+        <mark key="]" line="102" column="32" />
+        <mark key="^" line="102" column="32" />
+        <mark key="." line="102" column="32" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/sets.cljc" timestamp="1560102391088">
         <mark key="[" line="19" column="9" />
@@ -556,6 +556,12 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="37" column="44" />
       </file>
+      <file name="C:/Shared/orgpad/resources/sql/orgpages.sql" timestamp="1563639558412">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/editor.cljs" timestamp="1559079549346">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="6" column="48" />
@@ -628,7 +634,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5zZXJ2ZXIudXRpbC5maWxlIDphcyBmaWxlXQo=</text>
+        <text encoding="base64">LS0gOm5hbWUgZ2V0LW9yZ3BhZ2VzIDo/IDoqCi0tIDpkb2MgZ2V0cyBhbGwgb3JncGFnZXMKU0VMRUNUICogRlJPTSBvcmdwYWdlcwoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -637,7 +643,7 @@
         <text encoding="base64">XiAg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpwcm9maWxlL3Bhc3N3b3JkLXVwZGF0ZS1zdWNjZXNzZnVsCiAgKGZuIFtkYiBfXQogICAgKHN3aXRjaC10by1wcm9maWxlLXNldHRpbmdzIGRiKSkpCgoocmYvcmVnLWV2ZW50LWRiCiAgOnByb2ZpbGUvcGFzc3dvcmQtdXBkYXRlLWZhaWxlZAogIChmbiBbZGIgW18gezprZXlzIFtzdGF0dXNdfV1dCiAgICAobGV0IFtlcnJvciAoaWYgKD0gc3RhdHVzIDQwMSkKICAgICAgICAgICAgICAgICAgOndyb25nLXBhc3N3b3JkCiAgICAgICAgICAgICAgICAgIDp1bmtub3duLWVycm9yKV0KICAgICAgKC0+IGRiIChkYi11cGRhdGUvcHJvZmlsZSBkaXNzb2MgOnByb2ZpbGUvbG9hZGluZykKICAgICAgICAgIChkYi11cGRhdGUvcHJvZmlsZSBhc3NvYyA6cHJvZmlsZS9lcnJvciBlcnJvcikpKSkpCgo=</text>
+        <text encoding="base64">LS0gOm5hbWUgZ2V0LW9yZ3BhZ2VzIDo/IDoqCi0tIDpkb2MgZ2V0cyBhbGwgb3JncGFnZXMKU0VMRUNUICogRlJPTSBvcmdwYWdlcwoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5zZXJ2ZXIudXRpbC5maWxlIDphcyBmaWxlXQo=</text>
