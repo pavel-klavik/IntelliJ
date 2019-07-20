@@ -405,11 +405,11 @@
         <mark key="." line="200" column="29" />
         <mark key="^" line="200" column="29" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/profile.cljs" timestamp="1563633455835">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="42" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/profile.cljs" timestamp="1563636212290">
+        <mark key="[" line="162" column="21" />
+        <mark key="]" line="163" column="15" />
+        <mark key="." line="163" column="15" />
+        <mark key="^" line="163" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/cookies.cljs" timestamp="1563634958056">
         <mark key="[" line="31" column="64" />
@@ -604,7 +604,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBwcm9maWxlLW1hcCkK</text>
+        <text encoding="base64">ICAgICAgIFs6ZGl2LmJpZy1nYXBdCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -616,31 +616,31 @@
         <text encoding="base64">LS0gOm5hbWUgZGVsZXRlLWFjY2Vzcy10b2tlbiEgOiEgOm4KLS0gOmRvYyBkZWxldGVzIGFuIGFjY2VzcyB0b2tlbiBnaXZlbiB0aGUgaWQKREVMRVRFIEZST00gYWNjZXNzX3Rva2VucwpXSEVSRSBpZCA9IDppZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBwcm9maWxlLW1hcCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyByZXNwb25zZSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyByZXNwb25zZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7OnVzZXIva2V5cyBbaWRdfSAodXNlci9nZXQtdXNlciBsb2dpbikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7OnVzZXIva2V5cyBbZW1haWxdIDphcyB1cGRhdGVkLXByb3BlcnRpZXN9IChtZXJnZSAodXNlci9nZXQtdXNlciBsb2dpbikgcGFyYW1zKQogICAgICAgIHtpZC1mb3ItZW1haWwgOnVzZXIvaWR9ICh1c2VyL2dldC11c2VyIGVtYWlsKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIFs6ZGl2LmJpZy1nYXBdCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIFs6ZGl2LmJpZy1nYXBdCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBwcm9maWxlLW1hcCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyByZXNwb25zZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyByZXNwb25zZSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB7OnVzZXIva2V5cyBbaWRdfSAodXNlci9nZXQtdXNlciBsb2dpbikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpsYWJlbC13aWR0aCAyMDAK</text>
+        <text encoding="base64">ICAgICAgICB7OnVzZXIva2V5cyBbZW1haWxdIDphcyB1cGRhdGVkLXByb3BlcnRpZXN9IChtZXJnZSAodXNlci9nZXQtdXNlciBsb2dpbikgcGFyYW1zKQogICAgICAgIHtpZC1mb3ItZW1haWwgOnVzZXIvaWR9ICh1c2VyL2dldC11c2VyIGVtYWlsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpsYWJlbC13aWR0aCAyMDAK</text>
+        <text encoding="base64">ICAgICAgIFs6ZGl2LmJpZy1nYXBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOnByb2ZpbGUvb2xkLXBhc3N3b3JkIG5pbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpsYWJlbC13aWR0aCAyMDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
