@@ -339,8 +339,8 @@
         <mark key="." line="142" column="95" />
         <mark key="^" line="142" column="95" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1563624813454">
-        <mark key="[" line="92" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1563631595059">
+        <mark key="[" line="92" column="73" />
         <mark key="]" line="78" column="73" />
         <mark key="^" line="78" column="73" />
         <mark key="." line="78" column="73" />
@@ -553,6 +553,12 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1563631588356">
+        <mark key="[" line="120" column="48" />
+        <mark key="]" line="120" column="23" />
+        <mark key="^" line="120" column="23" />
+        <mark key="." line="120" column="23" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="33" column="30" />
@@ -631,7 +637,7 @@
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiQ29va2llcyBlZmZlY3Q6IiB1cGRhdGUta2V5cyByZW1vdmUta2V5cykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -665,8 +671,8 @@
         <entry>wna</entry>
         <entry encoding="base64">JzwsJz5zL14gIC9n</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
