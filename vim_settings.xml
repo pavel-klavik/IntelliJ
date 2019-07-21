@@ -89,11 +89,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="C:/Shared/orgpad/less/_login.less" timestamp="1563483839649">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="47" column="3" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/util/file.clj" timestamp="1563407257679">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="30" />
@@ -268,11 +263,11 @@
         <mark key="^" line="132" column="93" />
         <mark key="." line="132" column="93" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1562977187113">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="29" column="11" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1563736774541">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="28" />
         <mark key="^" line="29" column="11" />
-        <mark key="." line="29" column="11" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/common.cljs" timestamp="1559867118150">
         <mark key="[" line="43" column="35" />
@@ -590,11 +585,11 @@
       <jump line="112" column="7" filename="C:/Shared/orgpad/src/orgpad/server/db/user.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChhY2NvdW50YW50L25hdmlnYXRlISAoYi9wYXRoLWZvciByb3V0ZXMvcm91dGVzIDphcHAvaW5kZXgpKSAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3c1w+</text>
