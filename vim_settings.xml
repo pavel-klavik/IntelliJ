@@ -366,12 +366,12 @@
         <mark key="." line="15" column="59" />
         <mark key="^" line="15" column="59" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1563654690928">
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1563668098761">
         <mark key="'" line="109" column="7" />
-        <mark key="[" line="110" column="6" />
-        <mark key="]" line="112" column="35" />
-        <mark key="." line="112" column="35" />
-        <mark key="^" line="112" column="35" />
+        <mark key="[" line="109" column="41" />
+        <mark key="]" line="109" column="48" />
+        <mark key="." line="109" column="48" />
+        <mark key="^" line="109" column="48" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/user.cljs" timestamp="1563229266154">
         <mark key="[" line="11" column="18" />
@@ -627,7 +627,7 @@
         <text encoding="base64">ICAgIChsb2cvaW5mbyAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgc3R5bGUtaWRzKSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -651,8 +651,8 @@
         <entry>v</entry>
         <entry>wa'</entry>
         <entry>:wa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
