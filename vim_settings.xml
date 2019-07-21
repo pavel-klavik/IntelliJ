@@ -336,11 +336,11 @@
         <mark key="^" line="45" column="92" />
         <mark key="." line="45" column="92" />
       </file>
-      <file name="C:/Shared/orgpad/resources/sql/permissions.sql" timestamp="1563739473477">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="18" column="38" />
+      <file name="C:/Shared/orgpad/resources/sql/permissions.sql" timestamp="1563741024604">
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="34" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1559950036479">
         <mark key="[" line="12" column="6" />
@@ -599,7 +599,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZGVsZXRlLXVzZXIhIDohIDpuCi0tIDpkb2MgZGVsZXRlcyBhIHVzZXIgcmVjb3JkIGdpdmVuIHRoZSBpZApERUxFVEUgRlJPTSB1c2VycwpXSEVSRSBpZCA9IDppZAo=</text>
+        <text encoding="base64">LS0gOm5hbWUgZGVsZXRlLXRva2VuLXBlcm1pc3Npb24hIDohIDpuCi0tIDpkb2MgZGVsZXRlcyBhIHJlc291cmNlIHBlcm1pc3Npb24gZm9yIGEgZ2l2ZW4gdG9rZW4KREVMRVRFIEZST00gcGVybWlzc2lvbnMKV0hFUkUgcmVzb3VyY2UgPSA6cmVzb3VyY2UgQU5EIHRva2VuID0gOnRva2VuCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -608,7 +608,7 @@
         <text encoding="base64">XDx3c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZGVsZXRlLXVzZXIhIDohIDpuCi0tIDpkb2MgZGVsZXRlcyBhIHVzZXIgcmVjb3JkIGdpdmVuIHRoZSBpZApERUxFVEUgRlJPTSB1c2VycwpXSEVSRSBpZCA9IDppZAo=</text>
+        <text encoding="base64">LS0gOm5hbWUgZGVsZXRlLXRva2VuLXBlcm1pc3Npb24hIDohIDpuCi0tIDpkb2MgZGVsZXRlcyBhIHJlc291cmNlIHBlcm1pc3Npb24gZm9yIGEgZ2l2ZW4gdG9rZW4KREVMRVRFIEZST00gcGVybWlzc2lvbnMKV0hFUkUgcmVzb3VyY2UgPSA6cmVzb3VyY2UgQU5EIHRva2VuID0gOnRva2VuCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXItYnktbG9naW4tb3ItZW1haWwgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1c2VyIHJlY29yZCBnaXZlbiB0aGUgbG9naW4gb3IgZW1haWwKU0VMRUNUIGlkLCBsb2dpbiwgZW1haWwsIHBhc3MsIHZhbCwgaXNfYWRtaW4sIGlzX2FjdGl2ZSBGUk9NIHVzZXJzCldIRVJFIGxvZ2luID0gOmxvZ2luX29yX2VtYWlsIE9SIGVtYWlsID0gOmxvZ2luX29yX2VtYWlsCgo=</text>
