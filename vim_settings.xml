@@ -68,11 +68,11 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="44" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" timestamp="1563717717359">
-        <mark key="[" line="43" column="77" />
-        <mark key="]" line="43" column="77" />
-        <mark key="^" line="43" column="77" />
-        <mark key="." line="43" column="77" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" timestamp="1563824644545">
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/login.cljs" timestamp="1562936422856">
         <mark key="[" line="17" column="0" />
@@ -98,7 +98,7 @@
         <mark key="." line="75" column="27" />
         <mark key="^" line="75" column="27" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1561143462397">
+      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1563823743160">
         <mark key="[" line="58" column="34" />
         <mark key="]" line="58" column="35" />
         <mark key="." line="58" column="35" />
@@ -368,7 +368,7 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1559868100701">
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1563823313092">
         <mark key="[" line="45" column="2" />
         <mark key="]" line="45" column="92" />
         <mark key="^" line="45" column="92" />
@@ -512,11 +512,11 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
       </file>
-      <file name="/REPL.clj" timestamp="1563821445233">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="/REPL.clj" timestamp="1563824441538">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handle.clj" timestamp="1563714456446">
         <mark key="[" line="27" column="2" />
@@ -692,7 +692,7 @@
         <text encoding="base64">SU5ORVIgSk9JTiBzdHlsZXMgT04gc3R5bGVzLmlkPXN0eWxlc19vcmdwYWdlcy5zdHlsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -727,8 +727,8 @@
         <entry>wv</entry>
         <entry>wva</entry>
         <entry>wa'</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
