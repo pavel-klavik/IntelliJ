@@ -111,11 +111,11 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/clients.clj" timestamp="1563921298499">
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="47" column="25" />
-        <mark key="." line="47" column="25" />
-        <mark key="^" line="47" column="25" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/clients.clj" timestamp="1563962505470">
+        <mark key="[" line="43" column="38" />
+        <mark key="]" line="53" column="29" />
+        <mark key="." line="53" column="29" />
+        <mark key="^" line="53" column="29" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1559480515755">
         <mark key="[" line="5" column="61" />
@@ -337,7 +337,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICIiKQo=</text>
+        <text encoding="base64">OzsgTWFwIG9mIGNsaWVudCBpZHMgdG8gb3BlbiBPcmdwYWdlIGlkcy4KKGRlZm9uY2UgXjpwcml2YXRlIGNsaWVudC1pZC0+b3JncGFnZS1pZCAoYXRvbSB7fSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -346,7 +346,7 @@
         <text>remove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlcml2ZSA6cGVybWlzc2lvbi92aWV3IDpwZXJtaXNzaW9uL2VkaXQpCg==</text>
+        <text encoding="base64">OzsgTWFwIG9mIGNsaWVudCBpZHMgdG8gb3BlbiBPcmdwYWdlIGlkcy4KKGRlZm9uY2UgXjpwcml2YXRlIGNsaWVudC1pZC0+b3JncGFnZS1pZCAoYXRvbSB7fSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICIiKQo=</text>
@@ -376,7 +376,7 @@
         <text encoding="base64">ICBSZXR1cm5zIHRoZSBoaWdoZXN0IHBlcm1pc3Npb24gZm9yIGEgZ2l2ZW4gcmVzb3VyY2UsIGEgZ2l2ZW4gdXNlciBhbmQgYW4gb3B0aW9uYWwgdG9rZW4uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -395,8 +395,8 @@
         <entry>wva</entry>
         <entry>v</entry>
         <entry>wa'</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
