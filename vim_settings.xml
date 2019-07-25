@@ -63,6 +63,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="C:/Shared/orgpad/resources/sql/permissions.sql" timestamp="1564094852838">
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="38" />
+      </file>
       <file name="C:/Shared/orgpad/less/_links.less" timestamp="1559485749165">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="15" column="0" />
@@ -141,8 +147,8 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/permission.clj" timestamp="1564075402743">
-        <mark key="[" line="16" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/permission.clj" timestamp="1564094782631">
+        <mark key="[" line="55" column="82" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="46" column="57" />
@@ -337,7 +343,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZm4gZGVsZXRlLXBlcm1pc3Npb24hCiAgIkRlbGV0ZXMgYSBwZXJtaXNzaW9uIGZvciBhIGdpdmVuIHJlc291cmNlIGFuZCBhbiBhY2Nlc3MgdHlwZS4KCiAgVGhlIHN1cHBvcnRlZCBhY2Nlc3MgdHlwZXMgYXJlOgogIC0gOnBlcm1pc3Npb24vdXNlciB0b2dldGhlciB3aXRoIFVVSUQuCiAgLSA6cGVybWlzc2lvbi90b2tlbiB0b2dldGhlciB3aXRoIFVVSUQuCiAgLSA6cGVybWlzc2lvbi9wdWJsaWMKICAtIDpwZXJtaXNzaW9uL2FkbWluLiIKICBbcmVzb3VyY2UtaWQgYWNjZXNzLXR5cGUgYWNjZXNzLXZhbF0KICAoY2FzZSBhY2Nlc3MtdHlwZQogICAgOnBlcm1pc3Npb24vdXNlciAoZGIvZGVsZXRlLXVzZXItcGVybWlzc2lvbiEgezpyZXNvdXJjZSByZXNvdXJjZS1pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp1c2VyICAgICBhY2Nlc3MtdmFsfSkKICAgIDpwZXJtaXNzaW9uL3Rva2VuIChkYi9kZWxldGUtdG9rZW4tcGVybWlzc2lvbiEgezpyZXNvdXJjZSByZXNvdXJjZS1pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRva2VuICAgIGFjY2Vzcy12YWx9KQogICAgOnBlcm1pc3Npb24vcHVibGljIChkYi9kZWxldGUtcHVibGljLXBlcm1pc3Npb24hIHs6cmVzb3VyY2UgcmVzb3VyY2UtaWR9KSkpCgo=</text>
+        <text encoding="base64">LS0gOm5hbWUgZGVsZXRlLXRva2VuLXBlcm1pc3Npb24hIDohIDpuCi0tIDpkb2MgZGVsZXRlcyBhIHJlc291cmNlIHBlcm1pc3Npb24gZm9yIGEgZ2l2ZW4gdG9rZW4KREVMRVRFIEZST00gcGVybWlzc2lvbnMKV0hFUkUgcmVzb3VyY2UgPSA6cmVzb3VyY2UgQU5EIHRva2VuID0gOnRva2VuCg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -346,7 +352,7 @@
         <text>remove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OzsgTWFwIG9mIGNsaWVudCBpZHMgdG8gb3BlbiBPcmdwYWdlIGlkcy4KKGRlZm9uY2UgXjpwcml2YXRlIGNsaWVudC1pZC0+b3JncGFnZS1pZCAoYXRvbSB7fSkpCg==</text>
+        <text encoding="base64">LS0gOm5hbWUgZGVsZXRlLXRva2VuLXBlcm1pc3Npb24hIDohIDpuCi0tIDpkb2MgZGVsZXRlcyBhIHJlc291cmNlIHBlcm1pc3Npb24gZm9yIGEgZ2l2ZW4gdG9rZW4KREVMRVRFIEZST00gcGVybWlzc2lvbnMKV0hFUkUgcmVzb3VyY2UgPSA6cmVzb3VyY2UgQU5EIHRva2VuID0gOnRva2VuCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KGRlZm4gZGVsZXRlLXBlcm1pc3Npb24hCiAgIkRlbGV0ZXMgYSBwZXJtaXNzaW9uIGZvciBhIGdpdmVuIHJlc291cmNlIGFuZCBhbiBhY2Nlc3MgdHlwZS4KCiAgVGhlIHN1cHBvcnRlZCBhY2Nlc3MgdHlwZXMgYXJlOgogIC0gOnBlcm1pc3Npb24vdXNlciB0b2dldGhlciB3aXRoIFVVSUQuCiAgLSA6cGVybWlzc2lvbi90b2tlbiB0b2dldGhlciB3aXRoIFVVSUQuCiAgLSA6cGVybWlzc2lvbi9wdWJsaWMKICAtIDpwZXJtaXNzaW9uL2FkbWluLiIKICBbcmVzb3VyY2UtaWQgYWNjZXNzLXR5cGUgYWNjZXNzLXZhbF0KICAoY2FzZSBhY2Nlc3MtdHlwZQogICAgOnBlcm1pc3Npb24vdXNlciAoZGIvZGVsZXRlLXVzZXItcGVybWlzc2lvbiEgezpyZXNvdXJjZSByZXNvdXJjZS1pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp1c2VyICAgICBhY2Nlc3MtdmFsfSkKICAgIDpwZXJtaXNzaW9uL3Rva2VuIChkYi9kZWxldGUtdG9rZW4tcGVybWlzc2lvbiEgezpyZXNvdXJjZSByZXNvdXJjZS1pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRva2VuICAgIGFjY2Vzcy12YWx9KQogICAgOnBlcm1pc3Npb24vcHVibGljIChkYi9kZWxldGUtcHVibGljLXBlcm1pc3Npb24hIHs6cmVzb3VyY2UgcmVzb3VyY2UtaWR9KSkpCgo=</text>
