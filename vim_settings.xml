@@ -93,7 +93,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="/REPL.clj" timestamp="1560021703131">
+      <file name="/REPL.clj" timestamp="1564696384514">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -104,6 +104,12 @@
         <mark key="]" line="37" column="72" />
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/common.clj" timestamp="1564697541094">
+        <mark key="[" line="15" column="78" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="33" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/link.cljs" timestamp="1559947627478">
         <mark key="[" line="13" column="30" />
@@ -230,11 +236,11 @@
         <mark key="^" line="49" column="12" />
         <mark key="." line="49" column="12" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/permission.clj" timestamp="1564695668178">
-        <mark key="[" line="133" column="26" />
-        <mark key="]" line="134" column="43" />
-        <mark key="^" line="134" column="43" />
-        <mark key="." line="134" column="43" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/permission.clj" timestamp="1564698277318">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="20" />
+        <mark key="^" line="136" column="20" />
+        <mark key="." line="136" column="20" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/time.cljs" timestamp="1559074572593">
         <mark key="[" line="34" column="56" />
@@ -320,6 +326,7 @@
         <entry>v</entry>
         <entry>wa'</entry>
         <entry>w</entry>
+        <entry>mw</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
