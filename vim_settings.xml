@@ -161,11 +161,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1564827761801">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="^" line="235" column="72" />
-        <mark key="." line="235" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1564828636375">
+        <mark key="[" line="235" column="24" />
+        <mark key="]" line="236" column="12" />
+        <mark key="^" line="236" column="12" />
+        <mark key="." line="236" column="12" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/drag_start.cljs" timestamp="1560008790010">
         <mark key="[" line="17" column="0" />
@@ -353,7 +353,7 @@
         <text encoding="base64">ICAgICAgICB7OmxvZ2luL2tleXMgW2xvZ2luLW9yLWVtYWlsIHBhc3N3b3JkIHJlbWVtYmVyIGVycm9yIGxvYWRpbmddfSBAKHJmL3N1YnNjcmliZSBbOmFwcC1zdGF0ZS9sb2dpbl0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -373,8 +373,8 @@
         <entry>v</entry>
         <entry>wa'</entry>
         <entry>mw</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
