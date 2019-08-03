@@ -75,11 +75,11 @@
         <mark key="^" line="71" column="24" />
         <mark key="." line="71" column="24" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/share_orgpage.cljs" timestamp="1564844680487">
-        <mark key="[" line="81" column="39" />
-        <mark key="]" line="86" column="50" />
-        <mark key="." line="86" column="50" />
-        <mark key="^" line="86" column="50" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/share_orgpage.cljs" timestamp="1564846571181">
+        <mark key="[" line="35" column="38" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+        <mark key="^" line="35" column="42" />
       </file>
       <file name="C:/Shared/orgpad/less/_links.less" timestamp="1559485749165">
         <mark key="[" line="10" column="0" />
@@ -319,7 +319,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDYwcHg7CiAgICAgIGhlaWdodDogNjBweDsKICAgICAgYm9yZGVyLXJhZGl1czogMzBweDsKICAgICAgYm9yZGVyOiAxcHggc29saWQgI2JiYjsK</text>
+        <text encoding="base64">ICAgW2J1dHRvbi9idXR0b24gIzpidXR0b257OnR5cGUgIDpzaGFyZS1vcmdwYWdlL2NoYW5nZS1wZXJtaXNzaW9uLXRvLXZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNvbG9yICJncmVlbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgOmljb24gICJleWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDppZCAgICBsb2dpbgogICAgICAgICAgICAgICAgICAgICAgICAgICA6c3R5bGUgezptYXJnaW4tcmlnaHQgNX19XQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y29tcG9uZW50LmNsanM6MTI3IEVycm9yIHJlbmRlcmluZyBjb21wb25lbnQgKGluIA==</text>
@@ -328,7 +328,7 @@
         <text>remove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDYwcHg7CiAgICAgIGhlaWdodDogNjBweDsKICAgICAgYm9yZGVyLXJhZGl1czogMzBweDsKICAgICAgYm9yZGVyOiAxcHggc29saWQgI2JiYjsK</text>
+        <text encoding="base64">ICAgW2J1dHRvbi9idXR0b24gIzpidXR0b257OnR5cGUgIDpzaGFyZS1vcmdwYWdlL2NoYW5nZS1wZXJtaXNzaW9uLXRvLXZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNvbG9yICJncmVlbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgOmljb24gICJleWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDppZCAgICBsb2dpbgogICAgICAgICAgICAgICAgICAgICAgICAgICA6c3R5bGUgezptYXJnaW4tcmlnaHQgNX19XQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOmFwcC1zdGF0ZS91c2VyLXBlcm1pc3Npb25zIiB1c2VycykK</text>
@@ -358,7 +358,7 @@
         <text encoding="base64">ICAgICAgICB7OmxvZ2luL2tleXMgW2xvZ2luLW9yLWVtYWlsIHBhc3N3b3JkIHJlbWVtYmVyIGVycm9yIGxvYWRpbmddfSBAKHJmL3N1YnNjcmliZSBbOmFwcC1zdGF0ZS9sb2dpbl0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -378,8 +378,8 @@
         <entry>v</entry>
         <entry>wa'</entry>
         <entry>mw</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
