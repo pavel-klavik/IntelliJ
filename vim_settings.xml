@@ -75,11 +75,11 @@
         <mark key="^" line="71" column="24" />
         <mark key="." line="71" column="24" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/share_orgpage.cljs" timestamp="1564846678204">
-        <mark key="[" line="46" column="44" />
-        <mark key="]" line="47" column="51" />
-        <mark key="." line="47" column="51" />
-        <mark key="^" line="47" column="51" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/share_orgpage.cljs" timestamp="1564859422671">
+        <mark key="[" line="108" column="64" />
+        <mark key="]" line="108" column="71" />
+        <mark key="." line="108" column="71" />
+        <mark key="^" line="108" column="71" />
       </file>
       <file name="C:/Shared/orgpad/less/_links.less" timestamp="1559485749165">
         <mark key="[" line="10" column="0" />
@@ -215,7 +215,7 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
       </file>
-      <file name="/REPL.clj" timestamp="1564843731828">
+      <file name="/REPL.clj" timestamp="1564858966985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="61" />
         <mark key="^" line="0" column="61" />
@@ -358,7 +358,7 @@
         <text encoding="base64">ICAgICAgICB7OmxvZ2luL2tleXMgW2xvZ2luLW9yLWVtYWlsIHBhc3N3b3JkIHJlbWVtYmVyIGVycm9yIGxvYWRpbmddfSBAKHJmL3N1YnNjcmliZSBbOmFwcC1zdGF0ZS9sb2dpbl0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -378,8 +378,8 @@
         <entry>v</entry>
         <entry>wa'</entry>
         <entry>mw</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
