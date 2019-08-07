@@ -81,8 +81,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/permissions.clj" timestamp="1565032284780">
-        <mark key="[" line="1" column="4" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/permissions.clj" timestamp="1565179716679">
+        <mark key="[" line="28" column="0" />
         <mark key="]" line="3" column="55" />
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
@@ -321,11 +321,11 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="19" column="56" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/op/permission.clj" timestamp="1565016605029">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="4" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/permission.clj" timestamp="1565179729246">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="105" />
+        <mark key="^" line="37" column="105" />
+        <mark key="." line="37" column="105" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/unit_editor.cljs" timestamp="1559080921138">
         <mark key="[" line="39" column="12" />
@@ -564,7 +564,7 @@
         <text encoding="base64">ICAgICAgLnByb2ZpbGUtaW1hZ2UtbGFiZWwgewogICAgICAgIHdpZHRoOiA1MXB4OwogICAgICB9CgogICAgICAuZ3Jvd2luZy1maWVsZCB7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIGZsZXgtZ3JvdzogMTsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -588,8 +588,8 @@
         <entry>wa'</entry>
         <entry>mw</entry>
         <entry>wma</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
