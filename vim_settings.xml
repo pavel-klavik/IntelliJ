@@ -339,6 +339,13 @@
         <mark key="." line="13" column="79" />
         <mark key="^" line="13" column="79" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1565199212432">
+        <mark key="'" line="8" column="42" />
+        <mark key="[" line="108" column="73" />
+        <mark key="]" line="113" column="24" />
+        <mark key="^" line="113" column="24" />
+        <mark key="." line="113" column="24" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/administration.cljs" timestamp="1565208225515">
         <mark key="[" line="67" column="57" />
         <mark key="]" line="72" column="56" />
@@ -451,6 +458,13 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
       </file>
+      <file name="/REPL.clj" timestamp="1565199963827">
+        <mark key="'" line="0" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handle.clj" timestamp="1565024204344">
         <mark key="[" line="65" column="20" />
         <mark key="]" line="72" column="49" />
@@ -499,6 +513,13 @@
         <mark key="]" line="187" column="32" />
         <mark key="^" line="187" column="32" />
         <mark key="." line="187" column="32" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1565338961717">
+        <mark key="'" line="175" column="38" />
+        <mark key="[" line="149" column="75" />
+        <mark key="]" line="149" column="72" />
+        <mark key="^" line="149" column="72" />
+        <mark key="." line="149" column="72" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1565032378926">
         <mark key="[" line="10" column="44" />
@@ -615,7 +636,7 @@
         <text encoding="base64">ICAgICAgICB7OmFkbWluaXN0cmF0aW9uL2tleXMgW3Jlc2V0LXBhc3N3b3JkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -640,8 +661,8 @@
         <entry>mw</entry>
         <entry>wma</entry>
         <entry>vw</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
