@@ -282,11 +282,11 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/util/styles.clj" timestamp="1566067639918">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="19" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/util/styles.clj" timestamp="1566069640360">
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="48" />
+        <mark key="." line="55" column="48" />
+        <mark key="^" line="55" column="48" />
       </file>
       <file name="/Dummy.txt" timestamp="1564820929752">
         <mark key="[" line="0" column="0" />
@@ -409,7 +409,7 @@
         <text encoding="base64">ICAiVHJhbnNmb3JtcyBjbGllbnQtaWQgaW50byBVVUlEIGFuZCBjYWxscyBtZXNzYWdlISIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -429,8 +429,8 @@
         <entry>v</entry>
         <entry>wa'</entry>
         <entry>w'</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
