@@ -180,11 +180,11 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1566243444824">
-        <mark key="[" line="246" column="14" />
-        <mark key="]" line="246" column="30" />
-        <mark key="^" line="246" column="30" />
-        <mark key="." line="246" column="30" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1566245549645">
+        <mark key="[" line="169" column="18" />
+        <mark key="]" line="169" column="29" />
+        <mark key="^" line="169" column="29" />
+        <mark key="." line="169" column="29" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/selection_button.cljs" timestamp="1560002574862">
         <mark key="[" line="35" column="32" />
@@ -369,8 +369,8 @@
       <jump line="46" column="31" filename="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;#B36257&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7OmtleXMgW3N0eWxlLWlkXX0gKGxhc3QgcGFnZXNpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;#B36257&quot;</text>
@@ -382,31 +382,31 @@
         <text encoding="base64">ICAgICAgICBjb2xvcjEgKGdldC1pbiBzdHlsZTEgWzpzdHlsZS9wcm9wcyA6cHJvcHMvYmctY29sb3JdKQogICAgICAgIHRpdGxlLWNvbG9yMSAoZ2V0LWluIHN0eWxlMSBbOnN0eWxlL3Byb3BzIDpwcm9wcy90aXRsZSA6dGl0bGUvY29sb3JdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3Rhb2Vuc3NvLnRpbWJyZSA6YXMgbG9nXQo=</text>
+        <text encoding="base64">ICAgICAgICB7OmtleXMgW3N0eWxlLWlkXX0gKGxhc3QgcGFnZXNpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IHByb3BzLT5pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWluLWtlZGR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKHByaW50bG4gc3R5bGUgIi0+IiAocHJvcHMtPmlkICg6c3R5bGUvcHJvcHMgc3R5bGUpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvbG9yMSAoZ2V0LWluIHN0eWxlMSBbOnN0eWxlL3Byb3BzIDpwcm9wcy9iZy1jb2xvcl0pCiAgICAgICAgdGl0bGUtY29sb3IxIChnZXQtaW4gc3R5bGUxIFs6c3R5bGUvcHJvcHMgOnByb3BzL3RpdGxlIDp0aXRsZS9jb2xvcl0pCiAgICAgICAgY29sb3IyIChnZXQtaW4gc3R5bGUyIFs6c3R5bGUvcHJvcHMgOnByb3BzL2JnLWNvbG9yXSkKICAgICAgICB0aXRsZS1jb2xvcjIgKGdldC1pbiBzdHlsZTIgWzpzdHlsZS9wcm9wcyA6cHJvcHMvdGl0bGUgOnRpdGxlL2NvbG9yXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3Rhb2Vuc3NvLnRpbWJyZSA6YXMgbG9nXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIFs6ZGl2LmJpZy1nYXBdCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bWluLWtlZGR5Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAobWVzc2FnZSEgKGFzc29jIGlucHV0IDpjbGllbnQtaWQgKFVVSUQvZnJvbVN0cmluZyBjbGllbnQtaWQpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBvbG9yMSAoZ2V0LWluIHN0eWxlMSBbOnN0eWxlL3Byb3BzIDpwcm9wcy9iZy1jb2xvcl0pCiAgICAgICAgdGl0bGUtY29sb3IxIChnZXQtaW4gc3R5bGUxIFs6c3R5bGUvcHJvcHMgOnByb3BzL3RpdGxlIDp0aXRsZS9jb2xvcl0pCiAgICAgICAgY29sb3IyIChnZXQtaW4gc3R5bGUyIFs6c3R5bGUvcHJvcHMgOnByb3BzL2JnLWNvbG9yXSkKICAgICAgICB0aXRsZS1jb2xvcjIgKGdldC1pbiBzdHlsZTIgWzpzdHlsZS9wcm9wcyA6cHJvcHMvdGl0bGUgOnRpdGxlL2NvbG9yXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBbezprZXlzIFtjbGllbnQtaWRdIDphcyBpbnB1dH1dCg==</text>
+        <text encoding="base64">ICAgICAgIFs6ZGl2LmJpZy1nYXBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiVHJhbnNmb3JtcyBjbGllbnQtaWQgaW50byBVVUlEIGFuZCBjYWxscyBtZXNzYWdlISIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -429,8 +429,8 @@
         <entry>v</entry>
         <entry>wa'</entry>
         <entry>w'</entry>
-        <entry>w</entry>
         <entry>waa</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
