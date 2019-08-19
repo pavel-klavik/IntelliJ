@@ -562,8 +562,11 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/util/styles.clj" timestamp="1566247700665">
-        <mark key="[" line="7" column="19" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/util/styles.clj" timestamp="1566248467753">
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="87" column="43" />
+        <mark key="." line="87" column="43" />
+        <mark key="^" line="87" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1565641779337">
         <mark key="[" line="0" column="0" />
@@ -680,11 +683,11 @@
       <jump line="57" column="70" filename="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpwcm9wcy93aWR0aCAgICAgd2lkdGgK</text>
+      <register name="&quot;" type="4">
+        <text>titl</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>titl</text>
       </register>
       <register name="/" type="4">
         <text>:draggable</text>
@@ -693,31 +696,31 @@
         <text encoding="base64">ICAgICAgICAgOm9uLW1vdXNlLWRvd24gIyguc3RvcFByb3BhZ2F0aW9uICUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpwcm9wcy93aWR0aCAgICAgd2lkdGgK</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZS1zaXplIChvciAoZ2V0LXRpdGxlLXNpemUgc3R5bGUpIDpoMykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YXJyb3doZWFkL2xlbmd0aCAgICAgKCogMiB3aWR0aCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmFycm93aGVhZC9sZW5ndGggICAgICgqIDIgd2lkdGgpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpwcm9wcy93aWR0aCAgICAgd2lkdGgK</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YXJyb3doZWFkL2xlbmd0aCAgICAgKCogMiB3aWR0aCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmFycm93aGVhZC9sZW5ndGggICAgICgqIDIgd2lkdGgpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpwcm9wcy93aWR0aCAgICAgd2lkdGgK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuYXV0b3Jlc2l6ZS5pbnRlcmNlcHRvciA6YXMgYXV0b3Jlc2l6ZV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmFycm93aGVhZC9sZW5ndGggICAgICgqIDIgd2lkdGgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuY2xlYW4gOmFzIGNsZWFuXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuYXV0b3Jlc2l6ZS5pbnRlcmNlcHRvciA6YXMgYXV0b3Jlc2l6ZV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBbY2xlYW4vZWZmZWN0cyBhdXRvcmVzaXplL3VwZGF0ZS1hdXRvcmVzaXplIG9wL2FwcGx5LW9wc10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuY2xlYW4gOmFzIGNsZWFuXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZm4gY2hhbmdlLXVuaXQtc3R5bGUKICAiQWRkcyBvcGVyYXRpb25zIGNoYW5naW5nIHRoZSBzdHlsZSBvZiBhbGwgc2VsZWN0ZWQgdW5pdHMgdG8gc3R5bGUtaWQuIgogIFtlZmZlY3RzIHN0eWxlLWlkXQogICkKCihkZWZuIGNoYW5nZS1saW5rLXN0eWxlCiAgIkFkZHMgb3BlcmF0aW9ucyBjaGFuZ2luZyB0aGUgc3R5bGUgb2YgYWxsIHNlbGVjdGVkIGxpbmtzIHRvIHN0eWxlLWlkLiIKICBbZWZmZWN0cyBzdHlsZS1pZF0KICApCg==</text>
+        <text encoding="base64">ICBbY2xlYW4vZWZmZWN0cyBhdXRvcmVzaXplL3VwZGF0ZS1hdXRvcmVzaXplIG9wL2FwcGx5LW9wc10K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
