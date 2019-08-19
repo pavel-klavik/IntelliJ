@@ -481,7 +481,7 @@
         <mark key="^" line="15" column="47" />
         <mark key="." line="15" column="47" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1566249221216">
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1566250527868">
         <mark key="[" line="150" column="2" />
         <mark key="]" line="155" column="13" />
         <mark key="." line="155" column="13" />
@@ -559,11 +559,12 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/util/styles.clj" timestamp="1566249184734">
-        <mark key="[" line="90" column="15" />
-        <mark key="]" line="89" column="95" />
-        <mark key="." line="89" column="95" />
-        <mark key="^" line="89" column="95" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/util/styles.clj" timestamp="1566250470862">
+        <mark key="'" line="153" column="3" />
+        <mark key="[" line="231" column="4" />
+        <mark key="]" line="231" column="76" />
+        <mark key="^" line="231" column="76" />
+        <mark key="." line="231" column="76" />
       </file>
       <file name="/Dummy.txt" timestamp="1565641779337">
         <mark key="[" line="0" column="0" />
@@ -678,6 +679,7 @@
       <jump line="99" column="8" filename="C:/Shared/orgpad/less/_style_box.less" />
       <jump line="182" column="22" filename="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" />
       <jump line="57" column="70" filename="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" />
+      <jump line="154" column="3" filename="C:/Shared/orgpad/src/orgpad/server/util/styles.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -687,7 +689,7 @@
         <text>titl</text>
       </register>
       <register name="/" type="4">
-        <text>:draggable</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgOm9uLW1vdXNlLWRvd24gIyguc3RvcFByb3BhZ2F0aW9uICUpCg==</text>
@@ -720,15 +722,15 @@
         <text encoding="base64">ICBbY2xlYW4vZWZmZWN0cyBhdXRvcmVzaXplL3VwZGF0ZS1hdXRvcmVzaXplIG9wL2FwcGx5LW9wc10K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>:draggable</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>:draggable</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">ICAgICAgICA=</last-substitute>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -742,6 +744,7 @@
         <entry>:count</entry>
         <entry encoding="base64">ICAgICAgICA=</entry>
         <entry>:draggable</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>wva</entry>
@@ -756,8 +759,10 @@
         <entry>wa;</entry>
         <entry>wv</entry>
         <entry>Awa</entry>
-        <entry>wa</entry>
+        <entry encoding="base64">JzwsJz4hc29ydA==</entry>
+        <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
