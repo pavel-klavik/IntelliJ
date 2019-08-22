@@ -93,11 +93,6 @@
         <mark key="^" line="29" column="49" />
         <mark key="." line="29" column="49" />
       </file>
-      <file name="C:/Shared/orgpad/less/_links.less" timestamp="1566407150212">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/permissions.clj" timestamp="1565179716679">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="3" column="55" />
@@ -122,16 +117,6 @@
         <mark key="]" line="24" column="5" />
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
-      </file>
-      <file name="C:/Shared/orgpad/less/_dialog.less" timestamp="1565203345054">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/selection.cljs" timestamp="1565640774481">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
       </file>
       <file name="C:/Shared/orgpad/less/_login.less" timestamp="1565202397831">
         <mark key="[" line="0" column="0" />
@@ -301,11 +286,11 @@
         <mark key="." line="184" column="31" />
         <mark key="^" line="184" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/less/_autoresize.less" timestamp="1566495465310">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="6" column="0" />
+      <file name="C:/Shared/orgpad/less/_autoresize.less" timestamp="1566500101690">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/common.cljs" timestamp="1559867118150">
         <mark key="[" line="43" column="35" />
@@ -590,7 +575,7 @@
         <mark key="." line="203" column="15" />
         <mark key="^" line="203" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566496212795">
+      <file name="/Dummy.txt" timestamp="1566500291923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/link_editor.cljs" timestamp="1565624654187">
@@ -599,10 +584,11 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="C:/Shared/orgpad/less/_root.less" timestamp="1566494851674">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="C:/Shared/orgpad/less/_root.less" timestamp="1566500277874">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1565641571528">
         <mark key="[" line="4" column="0" />
@@ -755,7 +741,7 @@
         <text encoding="base64">ICAgIGJvcmRlci13aWR0aDogMXB4IDFweCAwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -795,8 +781,8 @@
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>make</entry>
         <entry>wma</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
