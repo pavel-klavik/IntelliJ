@@ -494,17 +494,23 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1566759150307">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="16" column="51" />
-        <mark key="^" line="16" column="51" />
-        <mark key="." line="16" column="51" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1566915657341">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="29" column="24" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/permission.clj" timestamp="1565179729246">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="105" />
         <mark key="^" line="37" column="105" />
         <mark key="." line="37" column="105" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/unit_editor.cljs" timestamp="1566915547741">
+        <mark key="[" line="84" column="78" />
+        <mark key="]" line="84" column="86" />
+        <mark key="^" line="84" column="86" />
+        <mark key="." line="84" column="86" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage.cljs" timestamp="1565533581028">
         <mark key="[" line="56" column="4" />
@@ -823,7 +829,7 @@
         <text encoding="base64">ICBtYXgtd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -867,8 +873,8 @@
         <entry encoding="base64">JzwsJz5zL14gIC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w:w</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
