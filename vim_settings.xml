@@ -450,6 +450,12 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/tinymce_wrapper.cljs" timestamp="1566900330408">
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="32" column="47" />
+        <mark key="^" line="32" column="47" />
+        <mark key="." line="32" column="47" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" timestamp="1560009064820">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="79" />
@@ -818,7 +824,7 @@
         <text encoding="base64">ICAgIHRvcDogMTAxcHg7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -862,8 +868,8 @@
         <entry encoding="base64">JzwsJz5zL14gIC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w:w</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
