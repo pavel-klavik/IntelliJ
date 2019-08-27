@@ -450,11 +450,10 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/tinymce_wrapper.cljs" timestamp="1566900330408">
-        <mark key="[" line="31" column="46" />
-        <mark key="]" line="32" column="47" />
-        <mark key="^" line="32" column="47" />
-        <mark key="." line="32" column="47" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/tinymce_wrapper.cljs" timestamp="1566903150139">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" timestamp="1560009064820">
         <mark key="[" line="13" column="22" />
@@ -785,7 +784,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDppbWFnZV9kaW1lbnNpb25zICAgICAgICB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -797,34 +796,34 @@
         <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDppbWFnZV9kaW1lbnNpb25zICAgICAgICB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGVmdDogNjVweDsKICAgICAgdG9wOiA2NXB4OwogICAgICB3aWR0aDogMTVweDsKICAgICAgaGVpZ2h0OiAxNXB4Owo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5zZXJ2ZXItc3RhdHVzIHsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB6LWluZGV4OiA1OwogICAgICBsZWZ0OiA2NXB4OwogICAgICB0b3A6IDY1cHg7CiAgICAgIHdpZHRoOiAxNXB4OwogICAgICBoZWlnaHQ6IDE1cHg7CiAgICAgIGJvcmRlci1yYWRpdXM6IDcuNXB4OwogICAgICB0cmFuc2l0aW9uOiAwLjE1cyBlYXNlOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgbGVmdDogNjVweDsKICAgICAgdG9wOiA2NXB4OwogICAgICB3aWR0aDogMTVweDsKICAgICAgaGVpZ2h0OiAxNXB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwCg==</text>
+        <text encoding="base64">ICAgIC5zZXJ2ZXItc3RhdHVzIHsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB6LWluZGV4OiA1OwogICAgICBsZWZ0OiA2NXB4OwogICAgICB0b3A6IDY1cHg7CiAgICAgIHdpZHRoOiAxNXB4OwogICAgICBoZWlnaHQ6IDE1cHg7CiAgICAgIGJvcmRlci1yYWRpdXM6IDcuNXB4OwogICAgICB0cmFuc2l0aW9uOiAwLjE1cyBlYXNlOwogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246IDAuMTVzIGVhc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHRyYW5zaXRpb246IDAuMTVzIGVhc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0cmFuc2l0aW9uOiAwLjE1cyBlYXNlOwo=</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246IDAuMTVzIGVhc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYXgtd2lkdGg6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICB0cmFuc2l0aW9uOiAwLjE1cyBlYXNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvcDogMTAxcHg7Cg==</text>
+        <text encoding="base64">ICBtYXgtd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -868,8 +867,8 @@
         <entry encoding="base64">JzwsJz5zL14gIC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w:w</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
