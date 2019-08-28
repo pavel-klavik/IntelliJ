@@ -249,6 +249,12 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/dashboard.cljs" timestamp="1559480462603">
         <mark key="[" line="6" column="63" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/canvas.cljs" timestamp="1566979388379">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="16" column="74" />
+        <mark key="^" line="16" column="74" />
+        <mark key="." line="16" column="74" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/maps.cljc" timestamp="1566057105997">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -444,7 +450,7 @@
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBzZXJ2ZXItY29udGVudCBjbGllbnQtY29udGVudCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -469,9 +475,9 @@
         <entry>waa</entry>
         <entry>:va</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry>;w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
