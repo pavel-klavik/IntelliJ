@@ -168,6 +168,12 @@
         <mark key="^" line="18" column="76" />
         <mark key="." line="18" column="76" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/permission.clj" timestamp="1566952766732">
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="9" />
+        <mark key="^" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+      </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1563922084076">
         <mark key="[" line="34" column="47" />
       </file>
@@ -438,7 +444,7 @@
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBzZXJ2ZXItY29udGVudCBjbGllbnQtY29udGVudCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -463,9 +469,9 @@
         <entry>waa</entry>
         <entry>:va</entry>
         <entry>:w</entry>
-        <entry>wa</entry>
         <entry>w</entry>
         <entry>;w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
