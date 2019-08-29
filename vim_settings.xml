@@ -544,11 +544,11 @@
         <mark key="^" line="45" column="43" />
         <mark key="." line="45" column="43" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1566740146448">
-        <mark key="[" line="255" column="71" />
-        <mark key="]" line="261" column="36" />
-        <mark key="^" line="261" column="36" />
-        <mark key="." line="261" column="36" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1567082510971">
+        <mark key="[" line="133" column="6" />
+        <mark key="]" line="133" column="109" />
+        <mark key="^" line="133" column="109" />
+        <mark key="." line="133" column="109" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/profile.cljs" timestamp="1566749163413">
         <mark key="[" line="204" column="67" />
@@ -677,7 +677,7 @@
         <mark key="." line="242" column="85" />
         <mark key="^" line="242" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566990789282">
+      <file name="/Dummy.txt" timestamp="1567082515728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -824,8 +824,8 @@
       <jump line="22" column="2" filename="C:/Shared/orgpad/less/_loading.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>missing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>missing</text>
@@ -840,31 +840,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJpc2EtdGVzdCIgKGlzYT8gOnVuaXQvdGl0bGUgOnVuaXQvYWxsKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luOiAwcHg7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICYgcCB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbWFyZ2luOiAwcHg7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICYgcCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmdpbjogMHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAmIHAgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1bml0LW1hcCAodW5pdC1zaXplIHVuaXQtbWFwKSBoaWRkZW4tY29udGVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcmdpbjogMHB4Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -908,8 +908,8 @@
         <entry encoding="base64">JzwsJz5zL14gIC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w:w</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
