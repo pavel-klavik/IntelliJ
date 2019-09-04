@@ -379,11 +379,11 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/event.cljs" timestamp="1567599700912">
-        <mark key="[" line="38" column="77" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
-        <mark key="^" line="36" column="18" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/event.cljs" timestamp="1567604511199">
+        <mark key="[" line="80" column="76" />
+        <mark key="]" line="81" column="81" />
+        <mark key="." line="81" column="81" />
+        <mark key="^" line="81" column="81" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/common.cljs" timestamp="1559867118150">
         <mark key="[" line="43" column="35" />
@@ -879,7 +879,7 @@
         <text encoding="base64">KHJmL3JlZy1ldmVudC1meAogIDpwYW5lbC91cGRhdGUtcmVzaXplCiAgW2NsZWFuL2VmZmVjdHNdCiAgKGZuIFtlZmZlY3RzIF9dCiAgICAobGV0IFt7OnBhbmVsL2tleXMgW3Jlc2l6ZS10ZXN0XX0gKGRiLWdldC9wYW5lbCBlZmZlY3RzKV0KICAgICAgKGpzL2NvbnNvbGUubG9nICI6cGFuZWwvdXBkYXRlLXJlc2l6ZSIgcmVzaXplLXRlc3QpCiAgICAgICh0aW1lL2FwcGVuZCBlZmZlY3RzIDp0aW1lb3V0ICM6dGltZXs6b3AgICAgIDp0aW1lL2FkZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmlkICAgICAicGFuZWwvdXBkYXRlLXJlc2l6ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpldmVudCAgWzpwYW5lbC9pbmNyZWFzZS1yZXNpemVdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bGVuZ3RoIDI1MH0pKSkpCgoocmYvcmVnLWV2ZW50LWRiCiAgOnBhbmVsL2luY3JlYXNlLXJlc2l6ZQogIChmbiBbZGIgX10KICAgIChsZXQgW3s6cGFuZWwva2V5cyBbcmVzaXplLXRlc3RdfSAoZGItZ2V0L3BhbmVsIGRiKQogICAgICAgICAgbmV3LXJlc2l6ZS10ZXN0IChtaW4gKCsgcmVzaXplLXRlc3QgMjUpIDMwMCldCiAgICAgIChqcy9jb25zb2xlLmxvZyAiOnBhbmVsL2luY3JlYXNlLXJlc2l6ZSIgbmV3LXJlc2l6ZS10ZXN0KQogICAgICAoZGItdXBkYXRlL3BhbmVsIGRiIGFzc29jIDpwYW5lbC9yZXNpemUtdGVzdCBuZXctcmVzaXplLXRlc3QpKSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -928,8 +928,8 @@
         <entry encoding="base64">JzwsJz5zL14gIC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w:w</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
