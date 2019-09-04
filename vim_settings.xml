@@ -108,6 +108,12 @@
         <mark key="." line="27" column="37" />
         <mark key="^" line="27" column="37" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/autoresize.cljs" timestamp="1567550751132">
+        <mark key="[" line="22" column="68" />
+        <mark key="]" line="22" column="64" />
+        <mark key="^" line="22" column="64" />
+        <mark key="." line="22" column="64" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1563926859840">
         <mark key="[" line="29" column="53" />
         <mark key="]" line="29" column="100" />
@@ -467,7 +473,7 @@
         <text encoding="base64">ICAgICAgIChtYXAgYWRkLWF0dHJpYnV0ZXMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -493,8 +499,8 @@
         <entry>:va</entry>
         <entry>:w</entry>
         <entry>;w</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
