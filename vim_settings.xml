@@ -356,6 +356,12 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/link_explorer.cljs" timestamp="1559480510091">
         <mark key="[" line="7" column="69" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1567812663925">
+        <mark key="[" line="117" column="32" />
+        <mark key="]" line="117" column="32" />
+        <mark key="^" line="117" column="32" />
+        <mark key="." line="117" column="32" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/editor_change.cljs" timestamp="1566425421125">
         <mark key="[" line="34" column="38" />
         <mark key="]" line="30" column="62" />
@@ -433,11 +439,11 @@
       <jump line="42" column="43" filename="C:/Shared/orgpad/src/orgpad/server/db/orgpage.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1bml0LW1hcCBAKHJmL3N1YnNjcmliZSBbOmF1dG9yZXNpemUvdW5pdC1tYXAgdW5pdC1pZF0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>string-tags-to-keywords</text>
