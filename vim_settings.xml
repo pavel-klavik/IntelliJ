@@ -153,6 +153,12 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/event.cljs" timestamp="1568041831433">
+        <mark key="[" line="15" column="78" />
+        <mark key="]" line="17" column="92" />
+        <mark key="^" line="17" column="92" />
+        <mark key="." line="17" column="92" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/units/util.cljs" timestamp="1567705674973">
         <mark key="[" line="106" column="25" />
         <mark key="]" line="106" column="5" />
@@ -622,6 +628,12 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" timestamp="1568041928266">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/unit.clj" timestamp="1566409374183">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="47" />
@@ -652,7 +664,7 @@
         <mark key="^" line="72" column="49" />
         <mark key="." line="72" column="49" />
       </file>
-      <file name="/REPL.clj" timestamp="1567872807891">
+      <file name="/REPL.clj" timestamp="1568040653811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="40" />
@@ -936,7 +948,6 @@
         <entry>Undo</entry>
       </history-search>
       <history-cmd>
-        <entry>mw</entry>
         <entry>vw</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zLyAgICAgICAgLy8=</entry>
@@ -953,8 +964,9 @@
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w:w</entry>
         <entry>wva</entry>
-        <entry>w</entry>
         <entry>mwa</entry>
+        <entry>w</entry>
+        <entry>va</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
