@@ -173,6 +173,9 @@
         <mark key="." line="2" column="65" />
         <mark key="^" line="2" column="65" />
       </file>
+      <file name="$USER_HOME$/.m2/repository/bidi/bidi/2.1.5/bidi-2.1.5.jar!/bidi/bidi.cljc" timestamp="1568291162922">
+        <mark key="'" line="309" column="64" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/vectors.cljc" timestamp="1559867428747">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="12" />
@@ -467,6 +470,11 @@
       <jump line="68" column="40" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
       <jump line="3" column="27" filename="C:/Shared/orgpad/src/orgpad/server/db/orgpage.clj" />
       <jump line="42" column="43" filename="C:/Shared/orgpad/src/orgpad/server/db/orgpage.clj" />
+      <jump line="199" column="4" filename="$USER_HOME$/.m2/repository/bidi/bidi/2.1.5/bidi-2.1.5.jar!/bidi/bidi.cljc" />
+      <jump line="318" column="80" filename="$USER_HOME$/.m2/repository/bidi/bidi/2.1.5/bidi-2.1.5.jar!/bidi/bidi.cljc" />
+      <jump line="485" column="64" filename="$USER_HOME$/.m2/repository/bidi/bidi/2.1.5/bidi-2.1.5.jar!/bidi/bidi.cljc" />
+      <jump line="24" column="7" filename="$USER_HOME$/.m2/repository/bidi/bidi/2.1.5/bidi-2.1.5.jar!/bidi/bidi.cljc" />
+      <jump line="309" column="64" filename="$USER_HOME$/.m2/repository/bidi/bidi/2.1.5/bidi-2.1.5.jar!/bidi/bidi.cljc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -476,7 +484,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>string-tags-to-keywords</text>
+        <text>case</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZiBeOnByaXZhdGUgdGFnLT5hZGRlZC1hdHRyaWJ1dGVzCiAgIk1hcCBmcm9tIHRhZyBuYW1lcyB0byBzZXF1ZW5jZXMgb2YgYWRkZWQgYXR0cmlidXRlcyBhbmQgdGhlaXIgZGVmYXVsdCB2YWx1ZXMgYXMgcGFpcnMuIgogIHs6aW1nIHs6ZHJhZ2dhYmxlICAgICBmYWxzZQogICAgICAgICA6b24tbW91c2UtZG93biAjKC5wcmV2ZW50RGVmYXVsdCAlKX0KICAgOmEgICB7OnRhcmdldCAgICAgICAgIl9ibGFuayIKICAgICAgICAgOm9uLW1vdXNlLWRvd24gIyguc3RvcFByb3BhZ2F0aW9uICUpfX0pCgooZGVmbi0gYWRkLWF0dHJpYnV0ZXMtdG8tdGFnCiAgIkFkZHMgYXR0cmlidXRlcyB3aXRoIGRlZmF1bHQgdmFsdWVzIHRvIGEgZ2l2ZW4gdGFnLiBEb2VzIG5vdCBvdmVyd3JpdGUgZGVmYXVsdCB2YWx1ZXMuIgogIFtbdGFnIGF0dHJpYnV0ZXMgJiByZXN0XSBhZGRlZC1hdHRyaWJ1dGVzXQogIChpbnRvIFt0YWcgKG1lcmdlIGFkZGVkLWF0dHJpYnV0ZXMgYXR0cmlidXRlcyldIHJlc3QpKQoKKGRlZm4tIGFkZC1hdHRyaWJ1dGVzCiAgIkFkZHMgYXR0cmlidXRlcyB3aXRoIGdpdmVuIGRlZmF1bHQgdmFsdWVzIHRvIGFsbCB0YWdzLiBEb2VzIG5vdCBvdmVyd3JpdGUgZGVmYXVsdCB2YWx1ZXMuIgogIFtoaWNjdXBdCiAgKHJlZHVjZQogICAgKGZuIFtoaWNjdXAgW3RhZyBhZGRlZC1hdHRyaWJ1dGVzXV0KICAgICAgKHVwZGF0ZS1oaWNjdXAgaGljY3VwICModGFnPyAlIHRhZykgYWRkLWF0dHJpYnV0ZXMtdG8tdGFnIGFkZGVkLWF0dHJpYnV0ZXMpKQogICAgaGljY3VwIHRhZy0+YWRkZWQtYXR0cmlidXRlcykpCgo=</text>
@@ -513,9 +521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>string-tags-to-keywords</last-search>
+      <last-search>case</last-search>
       <last-offset />
-      <last-pattern>string-tags-to-keywords</last-pattern>
+      <last-pattern>case</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -524,6 +532,7 @@
         <entry>remove</entry>
         <entry>html2hiccup</entry>
         <entry>string-tags-to-keywords</entry>
+        <entry>case</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
