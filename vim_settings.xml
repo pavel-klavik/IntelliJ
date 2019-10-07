@@ -518,10 +518,10 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1570471864458">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="28" column="11" />
-        <mark key="." line="28" column="11" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1570471925449">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="11" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/links/util.cljs" timestamp="1570468800490">
@@ -776,7 +776,7 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569944747378">
+      <file name="/Dummy.txt" timestamp="1570472017500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/example-client/shadow-cljs.edn" timestamp="1569100590164">
@@ -949,7 +949,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnZpc2libGUtaW50ZXJ2YWwgKGdlb20tbGluay9jb21wdXRlLXZpc2libGUtbGluay1pbnRlcnZhbCBzaXplIG5pbCkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rLW1hcCBzaXplIHN0YXJ0LXRpbWUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>attractive-forces]</text>
@@ -961,31 +961,31 @@
         <text encoding="base64">ICA6PC0gWzplZGl0LW1vZGUvdW5pdC1lZGl0b3JdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnZpc2libGUtaW50ZXJ2YWwgKGdlb20tbGluay9jb21wdXRlLXZpc2libGUtbGluay1pbnRlcnZhbCBzaXplIG5pbCkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rLW1hcCBzaXplIHN0YXJ0LXRpbWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1bml0LW1hcCBpZCBzZWNvbmQtdW5pdC1tYXApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnZpc2libGUtaW50ZXJ2YWwgKGdlb20tbGluay9jb21wdXRlLXZpc2libGUtbGluay1pbnRlcnZhbCBzaXplIG5pbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1bml0LWVkaXRvciBpZCB1bml0LWlkIGFjdGl2ZS1wYWdlLWlkIHVuaXQtbWFwKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1bml0LW1hcCBpZCBzZWNvbmQtdW5pdC1tYXApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA6PC0gWzplZGl0LW1vZGUvdW5pdC1lZGl0b3JdCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1bml0LWVkaXRvciBpZCB1bml0LWlkIGFjdGl2ZS1wYWdlLWlkIHVuaXQtbWFwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rIHN0YXJ0LXRpbWUgZW5kLXRpbWUgKQo=</text>
+        <text encoding="base64">ICA6PC0gWzplZGl0LW1vZGUvdW5pdC1lZGl0b3JdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBzdGFydC12aXNpYmxlLXRpbWUgZW5kLXZpc2libGUtdGltZSkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rIHN0YXJ0LXRpbWUgZW5kLXRpbWUgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1cGRhdGVkLWxpbmsgdmlzaWJsZS1pbnRlcnZhbCkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBzdGFydC12aXNpYmxlLXRpbWUgZW5kLXZpc2libGUtdGltZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiZXppZXItbWFwIChnZXQtYmV6aWVyLW1hcCBsaW5rIHVuaXRzIGxpbmtzIGlucHV0IFtmcm9tLXBvcyB0by1wb3NdKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1cGRhdGVkLWxpbmsgdmlzaWJsZS1pbnRlcnZhbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBlbmRwb2ludC1pZHMgZnJvbS1zaXplIHRvLXNpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICBiZXppZXItbWFwIChnZXQtYmV6aWVyLW1hcCBsaW5rIHVuaXRzIGxpbmtzIGlucHV0IFtmcm9tLXBvcyB0by1wb3NdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
