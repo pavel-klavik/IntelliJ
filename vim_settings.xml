@@ -162,6 +162,12 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/event.cljs" timestamp="1570438800533">
+        <mark key="[" line="13" column="68" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+      </file>
       <file name="C:/Shared/example-client/src/example_client/views.cljs" timestamp="1569100538805">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="8" column="56" />
@@ -475,9 +481,9 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/profile.cljs" timestamp="1570114174980">
         <mark key="[" line="104" column="10" />
-        <mark key="]" line="105" column="24" />
-        <mark key="^" line="105" column="24" />
-        <mark key="." line="105" column="24" />
+        <mark key="]" line="104" column="24" />
+        <mark key="^" line="104" column="24" />
+        <mark key="." line="104" column="24" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/images.sql" timestamp="1565444959991">
         <mark key="[" line="34" column="26" />
@@ -976,7 +982,7 @@
         <text encoding="base64">V2FpdCBhIGJpdCwgdGhlbiBicm93c2UgdG8gW2h0dHA6Ly9sb2NhbGhvc3Q6ODI4MF0oaHR0cDovL2xvY2FsaG9zdDo4MjgwKS4K</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1026,8 +1032,8 @@
         <entry>va</entry>
         <entry>wm</entry>
         <entry>wa'</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
