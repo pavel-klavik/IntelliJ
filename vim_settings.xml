@@ -75,11 +75,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1570745486621">
-        <mark key="[" line="124" column="33" />
-        <mark key="]" line="124" column="33" />
-        <mark key="^" line="124" column="33" />
-        <mark key="." line="124" column="33" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1570745621834">
+        <mark key="[" line="108" column="33" />
+        <mark key="]" line="108" column="33" />
+        <mark key="^" line="75" column="33" />
+        <mark key="." line="108" column="33" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/dashboard.clj" timestamp="1565349938943">
         <mark key="[" line="11" column="85" />
@@ -794,7 +794,7 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570435206461">
+      <file name="/Dummy.txt" timestamp="1570745504570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/example-client/shadow-cljs.edn" timestamp="1569100590164">
@@ -966,11 +966,11 @@
       <jump line="31" column="0" filename="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0LWZyb20tQSAoZGlzdC1mcm9tLWVuZHBvaW50IHNlZ0NEIEEgOnNlY29uZC10aW1lIDApCiAgICAgICAgZGlzdC1mcm9tLUIgKGRpc3QtZnJvbS1lbmRwb2ludCBzZWdDRCBCIDpzZWNvbmQtdGltZSAxKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>attractive-forces]</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Undo</text>
