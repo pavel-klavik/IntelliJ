@@ -81,6 +81,12 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1570747920644">
+        <mark key="[" line="166" column="69" />
+        <mark key="]" line="168" column="18" />
+        <mark key="^" line="168" column="18" />
+        <mark key="." line="168" column="18" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/dashboard.clj" timestamp="1565349938943">
         <mark key="[" line="11" column="85" />
         <mark key="]" line="11" column="89" />
@@ -558,8 +564,8 @@
         <mark key="^" line="13" column="53" />
         <mark key="." line="13" column="53" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" timestamp="1570747095808">
-        <mark key="[" line="288" column="10" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" timestamp="1570747716486">
+        <mark key="[" line="90" column="13" />
         <mark key="]" line="286" column="1" />
         <mark key="^" line="286" column="1" />
         <mark key="." line="286" column="1" />
@@ -973,7 +979,7 @@
         <text encoding="base64">ICAgICAgICBiZXppZXItbWFwIChnZXQtYmV6aWVyLW1hcCBsaW5rIHVuaXRzIGxpbmtzIGlucHV0IFtmcm9tLXBvcyB0by1wb3NdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1023,8 +1029,8 @@
         <entry>wm</entry>
         <entry>va</entry>
         <entry>wa'</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
