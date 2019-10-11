@@ -81,11 +81,12 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1570791093992">
-        <mark key="[" line="186" column="96" />
-        <mark key="]" line="186" column="101" />
-        <mark key="." line="186" column="101" />
-        <mark key="^" line="186" column="101" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1570791905925">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="196" column="95" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/dashboard.clj" timestamp="1565349938943">
         <mark key="[" line="11" column="85" />
@@ -777,7 +778,7 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570746442281">
+      <file name="/Dummy.txt" timestamp="1570792624117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/example-client/shadow-cljs.edn" timestamp="1569100590164">
@@ -941,55 +942,56 @@
       <jump line="157" column="65" filename="C:/Shared/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
       <jump line="21" column="5" filename="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" />
       <jump line="31" column="0" filename="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" />
+      <jump line="143" column="0" filename="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKHByaW50bG4gZW5kcG9pbnQtZGlzdGFuY2VzKQo=</text>
+        <text encoding="base64">ICAocHJpbnRsbiBzZWcgImludGVyc2VjdHMtc2VnIiAoYmV6aWVyLWludGVyc2VjdHMtc2VnbWVudC10aW1lICg6YmV6aWVyL2Jlemllci1qcyBiZXppZXItbWFwKSBzZWcpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>attractive-forces]</text>
       </register>
       <register name="/" type="4">
-        <text>Undo</text>
+        <text>println</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgKHByaW50bG4gZW5kcG9pbnQtZGlzdGFuY2VzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA7OyBUT0RPIGRlYWwgd2l0aCB0aGUgY2FzZSB3aGVuIHRoZSBzZWdtZW50IGFuZCBiZXppZXIgaW50ZXJzZWN0IGZpcnN0Cg==</text>
+        <text encoding="base64">ICAocHJpbnRsbiBzZWcgImludGVyc2VjdHMtc2VnIiAoYmV6aWVyLWludGVyc2VjdHMtc2VnbWVudC10aW1lICg6YmV6aWVyL2Jlemllci1qcyBiZXppZXItbWFwKSBzZWcpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rLW1hcCBzaXplIHN0YXJ0LXRpbWUpCg==</text>
+        <text encoding="base64">ICAgIChwcmludGxuICJiZXppZXItaW50ZXJzZWN0cy1zZWdtZW50LXRpbWUiIHNlZyB0aW1lcyBwb2ludHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnZpc2libGUtaW50ZXJ2YWwgKGdlb20tbGluay9jb21wdXRlLXZpc2libGUtbGluay1pbnRlcnZhbCBzaXplIG5pbCkK</text>
+        <text encoding="base64">ICAgICAgKHByaW50bG4gc2VnKQogICAgICAocHJpbnRsbiBBJyBCJyBYJyBZJykKICAgICAgKHByaW50bG4gZW5kcG9pbnQtZGlzdGFuY2VzKQogICAgICAocHJpbnRsbiBjYW5kaWRhdGUtZGlzdGFuY2VzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1bml0LW1hcCBpZCBzZWNvbmQtdW5pdC1tYXApCg==</text>
+        <text encoding="base64">ICA7OyBUT0RPIGRlYWwgd2l0aCB0aGUgY2FzZSB3aGVuIHRoZSBzZWdtZW50IGFuZCBiZXppZXIgaW50ZXJzZWN0IGZpcnN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1bml0LWVkaXRvciBpZCB1bml0LWlkIGFjdGl2ZS1wYWdlLWlkIHVuaXQtbWFwKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rLW1hcCBzaXplIHN0YXJ0LXRpbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA6PC0gWzplZGl0LW1vZGUvdW5pdC1lZGl0b3JdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnZpc2libGUtaW50ZXJ2YWwgKGdlb20tbGluay9jb21wdXRlLXZpc2libGUtbGluay1pbnRlcnZhbCBzaXplIG5pbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rIHN0YXJ0LXRpbWUgZW5kLXRpbWUgKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1bml0LW1hcCBpZCBzZWNvbmQtdW5pdC1tYXApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBzdGFydC12aXNpYmxlLXRpbWUgZW5kLXZpc2libGUtdGltZSkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1bml0LWVkaXRvciBpZCB1bml0LWlkIGFjdGl2ZS1wYWdlLWlkIHVuaXQtbWFwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1cGRhdGVkLWxpbmsgdmlzaWJsZS1pbnRlcnZhbCkK</text>
+        <text encoding="base64">ICA6PC0gWzplZGl0LW1vZGUvdW5pdC1lZGl0b3JdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>Undo</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern>Undo</last-pattern>
+      <last-pattern>println</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
@@ -1013,6 +1015,7 @@
         <entry>app</entry>
         <entry>subscribe</entry>
         <entry>Undo</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -1033,8 +1036,8 @@
         <entry>wm</entry>
         <entry>va</entry>
         <entry>wa'</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
