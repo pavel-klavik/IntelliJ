@@ -81,11 +81,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1570789508677">
-        <mark key="[" line="177" column="23" />
-        <mark key="]" line="180" column="108" />
-        <mark key="." line="180" column="108" />
-        <mark key="^" line="180" column="108" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1570791093992">
+        <mark key="[" line="186" column="96" />
+        <mark key="]" line="186" column="101" />
+        <mark key="." line="186" column="101" />
+        <mark key="^" line="186" column="101" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/dashboard.clj" timestamp="1565349938943">
         <mark key="[" line="11" column="85" />
@@ -944,7 +944,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA7OyBUT0RPIGRlYWwgd2l0aCB0aGUgY2FzZSB3aGVuIHRoZSBzZWdtZW50IGFuZCBiZXppZXIgaW50ZXJzZWN0IGZpcnN0Cg==</text>
+        <text encoding="base64">ICAgICAgKHByaW50bG4gZW5kcG9pbnQtZGlzdGFuY2VzKQo=</text>
       </register>
       <register name="-" type="4">
         <text>attractive-forces]</text>
@@ -953,7 +953,7 @@
         <text>Undo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm4gaW50ZXJzZWN0cy1zZWdtZW50PwogICJSZXR1cm5zIHRydWUgaWYgYSBnaXZlbiBsaW5rIGludGVyc2VjdHMgYSBnaXZlbiBzZWdtZW50LiIKICBbezpsaW5rL2tleXMgW3gxIHgyIHkxIHkyIGJlemllciBwcm9wc119IHNlZ10KICAoaWYgYmV6aWVyCiAgICAobGV0IFt7OmJlemllci9rZXlzIFtiZXppZXItanNdfSBiZXppZXIKICAgICAgICAgIHRpbWVzIChiZXppZXItaW50ZXJzZWN0cy1saW5lIGJlemllci1qcyBzZWcpCiAgICAgICAgICBwb2ludHMgKG1hcCAjKGJlemllci1wb2ludCBiZXppZXItanMgJSkgdGltZXMpXQogICAgICAoc29tZSAjKDwgKDpkaXN0YW5jZSAoZ2VvbS9kaXN0LWZyb20tc2VnbWVudCBzZWcgJSkpCiAgICAgICAgICAgICAgICAoOnByb3BzL3dpZHRoIHByb3BzKSkgcG9pbnRzKSkKICAgIChnZW9tL3NlZ21lbnRzLWludGVyc2VjdD8gW1t4MSB5MV0gW3gyIHkyXV0gc2VnKSkpCgooZGVmbiBpbnRlcnNlY3RzLXJlY3RhbmdsZT8KICAiUmV0dXJucyB0cnVlIGlmIGEgZ2l2ZW4gbGluayBpbnRlcnNlY3RzIGEgZ2l2ZW4gcmVjdGFuZ2xlLiIKICBbezpsaW5rL2tleXMgW3gxIHgyIHkxIHkyXSA6YXMgbGluay1tYXB9IHJlY3QtcG9zIHJlY3Qtc2l6ZV0KICAob3IgKGdlb20vaW4tcmVjdGFuZ2xlPyByZWN0LXBvcyByZWN0LXNpemUgW3gxIHkxXSkKICAgICAgKGdlb20vaW4tcmVjdGFuZ2xlPyByZWN0LXBvcyByZWN0LXNpemUgW3gyIHkyXSkKICAgICAgKHNvbWUgIyhpbnRlcnNlY3RzLXNlZ21lbnQ/IGxpbmstbWFwICUpIChnZW9tL3JlY3RhbmdsZS1zaWRlcyByZWN0LXBvcyByZWN0LXNpemUpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgKHByaW50bG4gZW5kcG9pbnQtZGlzdGFuY2VzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA7OyBUT0RPIGRlYWwgd2l0aCB0aGUgY2FzZSB3aGVuIHRoZSBzZWdtZW50IGFuZCBiZXppZXIgaW50ZXJzZWN0IGZpcnN0Cg==</text>
@@ -983,7 +983,7 @@
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1cGRhdGVkLWxpbmsgdmlzaWJsZS1pbnRlcnZhbCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1033,8 +1033,8 @@
         <entry>wm</entry>
         <entry>va</entry>
         <entry>wa'</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
