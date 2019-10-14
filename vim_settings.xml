@@ -181,11 +181,11 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/event.cljs" timestamp="1570908941520">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="12" column="79" />
-        <mark key="^" line="12" column="79" />
-        <mark key="." line="12" column="79" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/event.cljs" timestamp="1571044128806">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="8" />
+        <mark key="^" line="54" column="8" />
+        <mark key="." line="54" column="8" />
       </file>
       <file name="C:/Shared/example-client/src/example_client/views.cljs" timestamp="1569100538805">
         <mark key="[" line="7" column="54" />
@@ -984,7 +984,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rLW1hcCkK</text>
+        <text encoding="base64">ICAgICAgICBtb3ZlZC12ZXJ0aWNlcyAoZmlsdGVyIChnZXQtaW4gJSBbOnZlcnRleC9mb3JjZXMgOmZvcmNlcy90b3RhbC1mb3JjZV0pICh2YWxzIHZlcnRpY2VzKSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGVyeV0gdG90YWwtZWRnZS1yZXB1bHNpdmUtZm9yY2U=</text>
@@ -993,7 +993,7 @@
         <text>println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIF57OmtleSA6Zm9yY2VzL3RvdGFsLXJlcHVsc2l2ZS1mb3JjZX0KICAgICAgIFtyZW5kZXItZm9yY2UgdW5pdC1tYXAgdG90YWwtcmVwdWxzaXZlLWZvcmNlIDpmb3JjZXMvdG90YWwtcmVwdWxzaXZlLWZvcmNlXQo=</text>
+        <text encoding="base64">ICAgICAgICBtb3ZlZC12ZXJ0aWNlcyAoZmlsdGVyIChnZXQtaW4gJSBbOnZlcnRleC9mb3JjZXMgOmZvcmNlcy90b3RhbC1mb3JjZV0pICh2YWxzIHZlcnRpY2VzKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rLW1hcCkK</text>
