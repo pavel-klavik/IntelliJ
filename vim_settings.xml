@@ -181,11 +181,11 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/event.cljs" timestamp="1571059543617">
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/event.cljs" timestamp="1571073577363">
         <mark key="[" line="44" column="4" />
-        <mark key="]" line="66" column="55" />
-        <mark key="^" line="66" column="55" />
-        <mark key="." line="66" column="55" />
+        <mark key="]" line="15" column="56" />
+        <mark key="^" line="15" column="56" />
+        <mark key="." line="15" column="56" />
       </file>
       <file name="C:/Shared/example-client/src/example_client/views.cljs" timestamp="1569100538805">
         <mark key="[" line="7" column="54" />
@@ -460,10 +460,11 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/forces.cljs" timestamp="1570981447650">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/forces.cljs" timestamp="1571073535147">
+        <mark key="[" line="100" column="66" />
+        <mark key="]" line="100" column="66" />
+        <mark key="." line="100" column="66" />
+        <mark key="^" line="100" column="66" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1567867830438">
         <mark key="[" line="85" column="29" />
@@ -714,11 +715,11 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" timestamp="1571071851371">
-        <mark key="[" line="150" column="84" />
-        <mark key="]" line="150" column="106" />
-        <mark key="." line="150" column="106" />
-        <mark key="^" line="150" column="106" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" timestamp="1571073688869">
+        <mark key="[" line="133" column="3" />
+        <mark key="]" line="133" column="76" />
+        <mark key="." line="133" column="76" />
+        <mark key="^" line="133" column="76" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/unit.clj" timestamp="1566409374183">
         <mark key="[" line="4" column="12" />
@@ -984,7 +985,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZiBeOnByaXZhdGUgc3RyYWlnaHRlbmluZy1kaXN0YW5jZSA1KQo=</text>
+        <text encoding="base64">ICAgICAgIF57OmtleSA6Zm9yY2VzL3RvdGFsLXJlcHVsc2l2ZS1mb3JjZX0KICAgICAgIFtyZW5kZXItbGluay1mb3JjZSBsaW5rLW1hcCB0b3RhbC1yZXB1bHNpdmUtZm9yY2UgOmZvcmNlcy90b3RhbC1yZXB1bHNpdmUtZm9yY2VdCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGVyeV0gdG90YWwtZWRnZS1yZXB1bHNpdmUtZm9yY2U=</text>
@@ -993,7 +994,7 @@
         <text>println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZlZC12ZXJ0aWNlcyAoZmlsdGVyIChnZXQtaW4gJSBbOnZlcnRleC9mb3JjZXMgOmZvcmNlcy90b3RhbC1mb3JjZV0pICh2YWxzIHZlcnRpY2VzKSkK</text>
+        <text encoding="base64">ICAgICAgIF57OmtleSA6Zm9yY2VzL3RvdGFsLXJlcHVsc2l2ZS1mb3JjZX0KICAgICAgIFtyZW5kZXItbGluay1mb3JjZSBsaW5rLW1hcCB0b3RhbC1yZXB1bHNpdmUtZm9yY2UgOmZvcmNlcy90b3RhbC1yZXB1bHNpdmUtZm9yY2VdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KGRlZiBeOnByaXZhdGUgc3RyYWlnaHRlbmluZy1kaXN0YW5jZSA1KQo=</text>
