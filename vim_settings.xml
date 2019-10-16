@@ -592,11 +592,11 @@
         <mark key="^" line="13" column="53" />
         <mark key="." line="13" column="53" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" timestamp="1571238734237">
-        <mark key="[" line="325" column="5" />
-        <mark key="]" line="350" column="11" />
-        <mark key="." line="350" column="11" />
-        <mark key="^" line="350" column="11" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" timestamp="1571240396949">
+        <mark key="[" line="154" column="4" />
+        <mark key="]" line="154" column="100" />
+        <mark key="." line="154" column="100" />
+        <mark key="^" line="154" column="100" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/create/unit.cljs" timestamp="1559951168007">
         <mark key="[" line="55" column="69" />
@@ -1039,7 +1039,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgezpncmFwaC9rZXlzIFt2ZXJ0aWNlc119IChkYi1nZXQvZ3JhcGggZWZmZWN0cykKICAgICAgICAgICAgICAgICAgZnJvbS1wb3MgKDp2ZXJ0ZXgvcG9zICh2ZXJ0aWNlcyBmcm9tKSkKICAgICAgICAgICAgICAgICAgdG8tcG9zICg6dmVydGV4L3BvcyAodmVydGljZXMgdG8pKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1090,8 +1090,8 @@
         <entry>va</entry>
         <entry>wa'</entry>
         <entry>wm</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
