@@ -102,10 +102,10 @@
         <mark key="." line="28" column="20" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/links/core.cljs" timestamp="1571331324412">
-        <mark key="[" line="37" column="11" />
-        <mark key="]" line="37" column="11" />
-        <mark key="^" line="37" column="11" />
-        <mark key="." line="37" column="11" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="11" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="36" column="11" />
       </file>
       <file name="C:/Shared/orgpad/less/_orgpage.less" timestamp="1566741589941">
         <mark key="[" line="33" column="0" />
@@ -536,12 +536,6 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/graph.cljs" timestamp="1569860597715">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="42" />
-        <mark key="^" line="16" column="42" />
-        <mark key="." line="16" column="42" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" timestamp="1560009064820">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="79" />
@@ -696,11 +690,11 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" timestamp="1571416724101">
-        <mark key="[" line="191" column="58" />
-        <mark key="]" line="191" column="59" />
-        <mark key="^" line="191" column="59" />
-        <mark key="." line="191" column="59" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" timestamp="1571436377672">
+        <mark key="[" line="187" column="12" />
+        <mark key="]" line="187" column="53" />
+        <mark key="^" line="187" column="53" />
+        <mark key="." line="187" column="53" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/unit.clj" timestamp="1566409374183">
         <mark key="[" line="4" column="12" />
@@ -1025,7 +1019,7 @@
         <text encoding="base64">KGRlZiBeOnByaXZhdGUgbWluLWF0dHJhY3RpdmUtZGlzdGFuY2UgMjAwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1075,9 +1069,9 @@
         <entry>va</entry>
         <entry>wm</entry>
         <entry>wa'</entry>
-        <entry>w</entry>
         <entry>:w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
