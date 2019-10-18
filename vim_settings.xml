@@ -723,11 +723,11 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" timestamp="1571423199426">
-        <mark key="[" line="79" column="50" />
-        <mark key="]" line="79" column="50" />
-        <mark key="." line="79" column="50" />
-        <mark key="^" line="79" column="50" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/forces.cljs" timestamp="1571424832931">
+        <mark key="[" line="163" column="80" />
+        <mark key="]" line="164" column="97" />
+        <mark key="." line="164" column="97" />
+        <mark key="^" line="164" column="97" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/unit.clj" timestamp="1566409374183">
         <mark key="[" line="4" column="12" />
@@ -1035,7 +1035,7 @@
         <text encoding="base64">ICAgICAgICB7OmdyYXBoL2tleXMgW3ZlcnRpY2VzXX0gKGRiLWdldC9ncmFwaCBlZmZlY3RzKQogICAgICAgIG5ldy1mcm9tLXBvcyAoOnZlcnRleC9wb3MgKHZlcnRpY2VzIGZyb20pKQogICAgICAgIG5ldy10by1wb3MgKDp2ZXJ0ZXgvcG9zICh2ZXJ0aWNlcyB0bykpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1086,8 +1086,8 @@
         <entry>va</entry>
         <entry>wa'</entry>
         <entry>wm</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
