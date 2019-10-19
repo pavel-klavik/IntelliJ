@@ -81,13 +81,6 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1571239138036">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="240" column="66" />
-        <mark key="]" line="259" column="53" />
-        <mark key="^" line="259" column="53" />
-        <mark key="." line="259" column="53" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/dashboard.clj" timestamp="1565349938943">
         <mark key="[" line="11" column="85" />
         <mark key="]" line="11" column="89" />
@@ -366,6 +359,12 @@
         <mark key="]" line="39" column="53" />
         <mark key="^" line="39" column="53" />
         <mark key="." line="39" column="53" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/handle.cljs" timestamp="1571509476893">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="C:/Shared/orgpad/less/_style-box.less" timestamp="1566752150448">
         <mark key="[" line="112" column="4" />
@@ -728,9 +727,9 @@
         <mark key="^" line="74" column="87" />
         <mark key="." line="74" column="87" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/core.cljs" timestamp="1559481809548">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="19" column="39" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/core.cljs" timestamp="1571509273814">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="20" column="29" />
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
@@ -1007,7 +1006,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlZm11bHRpIGhhbmRsZQogICAgICAgICAgIlRoZSBpbnB1dCBjb25zaXN0cyBvZjoKICAgICAgICAgIC0gZWZmZWN0cyBtYXAsCiAgICAgICAgICAtIGV2ZW50IHR5cGUgKG9uZSBvZiA6bW91c2UvY2xpY2ssIDptb3VzZS9kYmwtY2xpY2ssIDptb3VzZS9kcmFnKSwKICAgICAgICAgIC0gbW91c2UtZG93biBtYXAsCiAgICAgICAgICAtIHRoZSBtb2RlLCBhbmQKICAgICAgICAgIC0gdGhlIG1vZGlmaWVyIChzdWNoIGFzIHNoaWZ0IG9yIGN0cmwpLgoKICAgICAgICAgIFRoZSBvdXRwdXQgaXMgYSBtYXAgaGF2aW5nIHRoZSBmb2xsb3dpbmcga2V5czoKICAgICAgICAgIC0gOmVmZmVjdCBmb3IgdGhlIHVwZGF0ZWQgZWZmZWN0LgogICAgICAgICAgLSA6Y29uc3VtZS1jbGljayB3aGljaCBpcyB0cnVlIGlmIHRoaXMgY2xpY2sgaXMgY29uc3VtZWQgYW5kIHNob3VsZCBub3QKICAgICAgICAgICAgYmUgdXNlZCBmb3IgcG90ZW50aWFsIGRvdWJsZSBjbGljay4iCiAgICAgICAgICAoZm4gKFtfIGV2ZW50IHs6bW91c2UtZG93bi9rZXlzIFtlbGVtZW50IG1vZGlmaWVyXX0gbW9kZV0gW2V2ZW50IGVsZW1lbnQgbW9kZSBtb2RpZmllcl0pKSkKCihkZWZtZXRob2QgaGFuZGxlIDpkZWZhdWx0IFtlZmZlY3RzIF8gXyBfXQogIHs6dXBkYXRlZC1lZmZlY3RzIGVmZmVjdHN9KQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1016,7 +1015,7 @@
         <text>println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInN0b3Atd2ViLXdvcmtlcnMiKQo=</text>
+        <text encoding="base64">KGRlZm11bHRpIGhhbmRsZQogICAgICAgICAgIlRoZSBpbnB1dCBjb25zaXN0cyBvZjoKICAgICAgICAgIC0gZWZmZWN0cyBtYXAsCiAgICAgICAgICAtIGV2ZW50IHR5cGUgKG9uZSBvZiA6bW91c2UvY2xpY2ssIDptb3VzZS9kYmwtY2xpY2ssIDptb3VzZS9kcmFnKSwKICAgICAgICAgIC0gbW91c2UtZG93biBtYXAsCiAgICAgICAgICAtIHRoZSBtb2RlLCBhbmQKICAgICAgICAgIC0gdGhlIG1vZGlmaWVyIChzdWNoIGFzIHNoaWZ0IG9yIGN0cmwpLgoKICAgICAgICAgIFRoZSBvdXRwdXQgaXMgYSBtYXAgaGF2aW5nIHRoZSBmb2xsb3dpbmcga2V5czoKICAgICAgICAgIC0gOmVmZmVjdCBmb3IgdGhlIHVwZGF0ZWQgZWZmZWN0LgogICAgICAgICAgLSA6Y29uc3VtZS1jbGljayB3aGljaCBpcyB0cnVlIGlmIHRoaXMgY2xpY2sgaXMgY29uc3VtZWQgYW5kIHNob3VsZCBub3QKICAgICAgICAgICAgYmUgdXNlZCBmb3IgcG90ZW50aWFsIGRvdWJsZSBjbGljay4iCiAgICAgICAgICAoZm4gKFtfIGV2ZW50IHs6bW91c2UtZG93bi9rZXlzIFtlbGVtZW50IG1vZGlmaWVyXX0gbW9kZV0gW2V2ZW50IGVsZW1lbnQgbW9kZSBtb2RpZmllcl0pKSkKCihkZWZtZXRob2QgaGFuZGxlIDpkZWZhdWx0IFtlZmZlY3RzIF8gXyBfXQogIHs6dXBkYXRlZC1lZmZlY3RzIGVmZmVjdHN9KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
