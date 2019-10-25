@@ -515,11 +515,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/layout.cljs" timestamp="1572028829939">
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/layout.cljs" timestamp="1572028976193">
         <mark key="[" line="3" column="22" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="57" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/common.cljs" timestamp="1559867118150">
         <mark key="[" line="43" column="35" />
@@ -835,9 +835,6 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="/REPL.clj" timestamp="1571501495563">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/highlighting.cljs" timestamp="1567432876732">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="1" column="22" />
@@ -1112,7 +1109,7 @@
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgaWQgZm9yY2VzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1164,8 +1161,8 @@
         <entry>va</entry>
         <entry>wm</entry>
         <entry>wa'</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
