@@ -192,7 +192,7 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/event.cljs" timestamp="1572010275602">
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/event.cljs" timestamp="1572013568532">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="157" column="29" />
@@ -714,11 +714,11 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/op.cljs" timestamp="1572012847909">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="53" column="7" />
-        <mark key="." line="53" column="7" />
-        <mark key="^" line="53" column="7" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/op.cljs" timestamp="1572013775164">
+        <mark key="[" line="99" column="27" />
+        <mark key="]" line="79" column="11" />
+        <mark key="." line="79" column="11" />
+        <mark key="^" line="79" column="11" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/layout.cljs" timestamp="1570912212734">
         <mark key="[" line="38" column="11" />
@@ -1073,11 +1073,11 @@
       <jump line="5" column="15" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/forces.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgKGRiLWdldC9tZXJnZWQtdW5pdC1tYXAgZWZmZWN0cyBpZCkKICAgICAgICBuZXcteCAoKyB4IGZ4KQogICAgICAgIG5ldy15ICgrIHkgZnkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>minimum-force-length</text>
