@@ -504,11 +504,11 @@
         <mark key="." line="71" column="7" />
         <mark key="^" line="71" column="7" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1572203030586">
-        <mark key="[" line="100" column="36" />
-        <mark key="]" line="101" column="23" />
-        <mark key="." line="101" column="23" />
-        <mark key="^" line="101" column="23" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1572205745650">
+        <mark key="[" line="99" column="46" />
+        <mark key="]" line="99" column="55" />
+        <mark key="." line="99" column="55" />
+        <mark key="^" line="99" column="55" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/event.cljs" timestamp="1568408644986">
         <mark key="[" line="123" column="0" />
@@ -636,11 +636,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1572201877949">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="45" />
-        <mark key="^" line="14" column="45" />
-        <mark key="." line="14" column="45" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1572205166040">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="13" column="32" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1572090426483">
         <mark key="[" line="30" column="71" />
@@ -1129,11 +1129,11 @@
       <jump line="20" column="3" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/op.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ci9yZWFjdGlmeS1jb21wb25lbnQKci9jcmVhdGUtZWxlbWVudAoK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>js\/console.log</text>
@@ -1208,7 +1208,6 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zLyAgICAgICAgLy8=</entry>
         <entry>wa;</entry>
-        <entry>wv</entry>
         <entry>Awa</entry>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
@@ -1223,6 +1222,7 @@
         <entry>wa'</entry>
         <entry>wva</entry>
         <entry>wma</entry>
+        <entry>wv</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
