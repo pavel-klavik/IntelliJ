@@ -190,6 +190,12 @@
         <mark key="." line="13" column="9" />
         <mark key="^" line="13" column="9" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1572202358037">
+        <mark key="[" line="79" column="31" />
+        <mark key="]" line="80" column="22" />
+        <mark key="^" line="80" column="22" />
+        <mark key="." line="80" column="22" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/upload.clj" timestamp="1572045307563">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="28" column="32" />
@@ -630,11 +636,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1572200908836">
-        <mark key="[" line="14" column="63" />
-        <mark key="]" line="14" column="65" />
-        <mark key="^" line="14" column="65" />
-        <mark key="." line="14" column="65" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1572201877949">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1572090426483">
         <mark key="[" line="30" column="71" />
@@ -1163,7 +1169,7 @@
         <text encoding="base64">ICA2KSBDb3B5IDp1bml0L3BvcyBpbnRvIDp1bml0L3BhY2tlZC1wb3MgZm9yIGFsbCB1bml0cy4iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1217,8 +1223,8 @@
         <entry>wa'</entry>
         <entry>wva</entry>
         <entry>wma</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
