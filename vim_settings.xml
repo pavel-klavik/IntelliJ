@@ -636,11 +636,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1572218831950">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="17" column="12" />
-        <mark key="." line="17" column="12" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1572221229514">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="15" column="99" />
+        <mark key="^" line="15" column="99" />
+        <mark key="." line="15" column="99" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1572090426483">
         <mark key="[" line="30" column="71" />
@@ -1169,7 +1169,7 @@
         <text encoding="base64">ICAgICAgICB7Om9yZ3BhZ2Uva2V5cyBbdW5pdC1lZGl0b3ItaWRdfSBvcmdwYWdlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1223,8 +1223,8 @@
         <entry>wva</entry>
         <entry>wma</entry>
         <entry>wv</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
