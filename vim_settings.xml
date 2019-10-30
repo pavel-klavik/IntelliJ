@@ -610,12 +610,12 @@
         <mark key="^" line="16" column="81" />
         <mark key="." line="16" column="81" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1572454040186">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="121" column="19" />
-        <mark key="]" line="132" column="71" />
-        <mark key="." line="132" column="71" />
-        <mark key="^" line="132" column="71" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1572459655458">
+        <mark key="'" line="217" column="28" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="48" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/dashboard.clj" timestamp="1565349938943">
         <mark key="[" line="11" column="85" />
@@ -629,11 +629,11 @@
         <mark key="^" line="36" column="12" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/links/core.cljs" timestamp="1572454198139">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="22" column="9" />
-        <mark key="^" line="22" column="9" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/links/core.cljs" timestamp="1572459138664">
+        <mark key="[" line="52" column="38" />
+        <mark key="]" line="50" column="27" />
+        <mark key="." line="50" column="27" />
+        <mark key="^" line="50" column="27" />
       </file>
       <file name="C:/Shared/orgpad/less/_orgpage.less" timestamp="1566741589941">
         <mark key="[" line="33" column="0" />
@@ -1167,6 +1167,7 @@
       <jump line="24" column="0" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/op.cljs" />
       <jump line="148" column="78" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/op.cljs" />
       <jump line="20" column="3" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/op.cljs" />
+      <jump line="217" column="28" filename="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1176,7 +1177,7 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>js\/console.log</text>
+        <text>link-mid-point</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA7YmV6aWVyLW1hcCAKICAgICAgICAjXyh3aGVuIChvciAobm90PSBvZmZzZXQtbm9ybWFsIDApCiAgICAgICAgICAgICAgICAgICAgYmV6aWVyKQogICAgICAgICAgICAoZ2VvbS1saW5rL2Jlemllci1tYXAgW1tmcm9tLXggZnJvbS15XSBbdG8teCB0by15XV0gW21pZC14IG1pZC15XSB0aW1lKSkK</text>
@@ -1213,9 +1214,9 @@
       </register>
     </registers>
     <search>
-      <last-search>js\/console.log</last-search>
+      <last-search>link-mid-point</last-search>
       <last-offset />
-      <last-pattern>js\/console.log</last-pattern>
+      <last-pattern>link-mid-point</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
@@ -1223,7 +1224,6 @@
     </search>
     <history>
       <history-search>
-        <entry>orgpagel</entry>
         <entry>orgpage</entry>
         <entry>orgpage\/</entry>
         <entry>user\/</entry>
@@ -1243,6 +1243,7 @@
         <entry>x</entry>
         <entry>js</entry>
         <entry>js\/console.log</entry>
+        <entry>link-mid-point</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
