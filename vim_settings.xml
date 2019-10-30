@@ -629,11 +629,11 @@
         <mark key="^" line="36" column="12" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/links/core.cljs" timestamp="1572443869974">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="21" column="52" />
-        <mark key="." line="21" column="52" />
-        <mark key="^" line="21" column="52" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/links/core.cljs" timestamp="1572445021284">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="51" column="27" />
+        <mark key="." line="51" column="27" />
+        <mark key="^" line="51" column="27" />
       </file>
       <file name="C:/Shared/orgpad/less/_orgpage.less" timestamp="1566741589941">
         <mark key="[" line="33" column="0" />
@@ -1170,7 +1170,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBtb3Rpb24tcHJvcHMgaWQgbGluay1zdHlsZSBpbnB1dCAoanMtPmNsaiBpbnB1dCA6a2V5d29yZGl6ZS1rZXlzIHRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICA7YmV6aWVyLW1hcCAKICAgICAgICAjXyh3aGVuIChvciAobm90PSBvZmZzZXQtbm9ybWFsIDApCiAgICAgICAgICAgICAgICAgICAgYmV6aWVyKQogICAgICAgICAgICAoZ2VvbS1saW5rL2Jlemllci1tYXAgW1tmcm9tLXggZnJvbS15XSBbdG8teCB0by15XV0gW21pZC14IG1pZC15XSB0aW1lKSkK</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -1179,7 +1179,7 @@
         <text>js\/console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyJyZWFjdC1zcHJpbmciIDphcyByc3ByaW5nXQo=</text>
+        <text encoding="base64">ICAgICAgICA7YmV6aWVyLW1hcCAKICAgICAgICAjXyh3aGVuIChvciAobm90PSBvZmZzZXQtbm9ybWFsIDApCiAgICAgICAgICAgICAgICAgICAgYmV6aWVyKQogICAgICAgICAgICAoZ2VvbS1saW5rL2Jlemllci1tYXAgW1tmcm9tLXggZnJvbS15XSBbdG8teCB0by15XV0gW21pZC14IG1pZC15XSB0aW1lKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBtb3Rpb24tcHJvcHMgaWQgbGluay1zdHlsZSBpbnB1dCAoanMtPmNsaiBpbnB1dCA6a2V5d29yZGl6ZS1rZXlzIHRydWUpKQo=</text>
