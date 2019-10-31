@@ -204,11 +204,11 @@
         <mark key="^" line="39" column="53" />
         <mark key="." line="39" column="53" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1565638193405">
-        <mark key="[" line="42" column="64" />
-        <mark key="]" line="42" column="69" />
-        <mark key="^" line="42" column="69" />
-        <mark key="." line="42" column="69" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1572516019266">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="29" />
+        <mark key="^" line="45" column="29" />
+        <mark key="." line="45" column="29" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/ws/effect.cljs" timestamp="1566514031653">
         <mark key="[" line="15" column="11" />
@@ -373,6 +373,13 @@
         <mark key="]" line="45" column="37" />
         <mark key="^" line="45" column="37" />
         <mark key="." line="45" column="37" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" timestamp="1572516150683">
+        <mark key="'" line="4" column="42" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/create/unit.cljs" timestamp="1572090243716">
         <mark key="[" line="19" column="40" />
@@ -564,6 +571,13 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_unit.cljs" timestamp="1572046139325">
+        <mark key="'" line="36" column="17" />
+        <mark key="[" line="103" column="16" />
+        <mark key="]" line="108" column="38" />
+        <mark key="." line="108" column="38" />
+        <mark key="^" line="108" column="38" />
+      </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1567795629555">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="28" column="39" />
@@ -582,7 +596,8 @@
         <mark key="^" line="43" column="51" />
         <mark key="." line="43" column="51" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/forces.cljs" timestamp="1571927865150">
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/forces.cljs" timestamp="1572516129523">
+        <mark key="'" line="100" column="50" />
         <mark key="[" line="122" column="6" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
@@ -1149,6 +1164,15 @@
       <jump line="148" column="78" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/op.cljs" />
       <jump line="20" column="3" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/op.cljs" />
       <jump line="217" column="28" filename="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/forces.cljs" />
+      <jump line="101" column="50" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/forces.cljs" />
+      <jump line="100" column="50" filename="C:/Shared/orgpad/src/orgpad/client/layout/webworker/forces.cljs" />
+      <jump line="32" column="15" filename="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" />
+      <jump line="89" column="5" filename="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" />
+      <jump line="14" column="45" filename="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" />
+      <jump line="21" column="45" filename="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" />
+      <jump line="31" column="5" filename="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" />
+      <jump line="4" column="42" filename="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1158,7 +1182,7 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>link-mid-point</text>
+        <text>:deg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA7YmV6aWVyLW1hcCAKICAgICAgICAjXyh3aGVuIChvciAobm90PSBvZmZzZXQtbm9ybWFsIDApCiAgICAgICAgICAgICAgICAgICAgYmV6aWVyKQogICAgICAgICAgICAoZ2VvbS1saW5rL2Jlemllci1tYXAgW1tmcm9tLXggZnJvbS15XSBbdG8teCB0by15XV0gW21pZC14IG1pZC15XSB0aW1lKSkK</text>
@@ -1195,9 +1219,9 @@
       </register>
     </registers>
     <search>
-      <last-search>link-mid-point</last-search>
+      <last-search>:deg</last-search>
       <last-offset />
-      <last-pattern>link-mid-point</last-pattern>
+      <last-pattern>:deg</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
@@ -1205,8 +1229,6 @@
     </search>
     <history>
       <history-search>
-        <entry>orgpage</entry>
-        <entry>orgpage\/</entry>
         <entry>user\/</entry>
         <entry>:count</entry>
         <entry encoding="base64">ICAgICAgICA=</entry>
@@ -1225,6 +1247,8 @@
         <entry>js</entry>
         <entry>js\/console.log</entry>
         <entry>link-mid-point</entry>
+        <entry>:rad</entry>
+        <entry>:deg</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
