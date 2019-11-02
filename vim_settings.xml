@@ -168,11 +168,11 @@
         <mark key="." line="76" column="7" />
         <mark key="^" line="76" column="7" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1572706539969">
-        <mark key="[" line="82" column="70" />
-        <mark key="]" line="78" column="62" />
-        <mark key="^" line="78" column="62" />
-        <mark key="." line="78" column="62" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1572717550637">
+        <mark key="[" line="80" column="84" />
+        <mark key="]" line="80" column="85" />
+        <mark key="^" line="80" column="85" />
+        <mark key="." line="80" column="85" />
       </file>
       <file name="C:/Shared/orgpad/less/_unit-editor.less" timestamp="1566493649536">
         <mark key="[" line="22" column="0" />
@@ -334,8 +334,8 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1572705932288">
-        <mark key="[" line="79" column="9" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1572716402242">
+        <mark key="[" line="61" column="0" />
         <mark key="]" line="99" column="4" />
         <mark key="." line="99" column="4" />
         <mark key="^" line="99" column="4" />
@@ -516,7 +516,7 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572715369290">
+      <file name="/Dummy.txt" timestamp="1572716231844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/example-client/shadow-cljs.edn" timestamp="1569100590164">
@@ -525,11 +525,11 @@
         <mark key="^" line="13" column="72" />
         <mark key="." line="13" column="72" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1572700601914">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="45" />
-        <mark key="^" line="33" column="45" />
-        <mark key="." line="33" column="45" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1572717567315">
+        <mark key="[" line="79" column="48" />
+        <mark key="]" line="79" column="45" />
+        <mark key="^" line="79" column="45" />
+        <mark key="." line="79" column="45" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/link_editor.cljs" timestamp="1565624654187">
         <mark key="[" line="22" column="48" />
@@ -1214,7 +1214,7 @@
         <text encoding="base64">ICAudW5pdC1oaWdobGlnaHQgewogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgei1pbmRleDogNDsKICAgIGJhY2tncm91bmQtY29sb3I6IEBob3Zlci15ZWxsb3c7CiAgICBwb2ludGVyLWV2ZW50czogbm9uZTsKICAgIG9wYWNpdHk6IDAuNzU7CiAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1268,8 +1268,8 @@
         <entry>va</entry>
         <entry>wva</entry>
         <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
