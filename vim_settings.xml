@@ -334,11 +334,11 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1572716402242">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1572737104264">
         <mark key="[" line="61" column="0" />
-        <mark key="]" line="99" column="4" />
-        <mark key="." line="99" column="4" />
-        <mark key="^" line="99" column="4" />
+        <mark key="]" line="86" column="50" />
+        <mark key="." line="86" column="50" />
+        <mark key="^" line="86" column="50" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/links/util.cljs" timestamp="1572636102905">
         <mark key="[" line="25" column="20" />
@@ -525,11 +525,11 @@
         <mark key="^" line="13" column="72" />
         <mark key="." line="13" column="72" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1572724218256">
-        <mark key="[" line="82" column="63" />
-        <mark key="]" line="82" column="77" />
-        <mark key="^" line="82" column="77" />
-        <mark key="." line="82" column="77" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1572736995881">
+        <mark key="[" line="77" column="60" />
+        <mark key="]" line="77" column="83" />
+        <mark key="^" line="77" column="83" />
+        <mark key="." line="77" column="83" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/link_editor.cljs" timestamp="1565624654187">
         <mark key="[" line="22" column="48" />
@@ -1214,7 +1214,7 @@
         <text encoding="base64">ICAudW5pdC1oaWdobGlnaHQgewogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgei1pbmRleDogNDsKICAgIGJhY2tncm91bmQtY29sb3I6IEBob3Zlci15ZWxsb3c7CiAgICBwb2ludGVyLWV2ZW50czogbm9uZTsKICAgIG9wYWNpdHk6IDAuNzU7CiAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1268,8 +1268,8 @@
         <entry>va</entry>
         <entry>wva</entry>
         <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
