@@ -244,11 +244,11 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" timestamp="1573140242717">
-        <mark key="[" line="120" column="59" />
-        <mark key="]" line="121" column="56" />
-        <mark key="^" line="121" column="56" />
-        <mark key="." line="121" column="56" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" timestamp="1573226370713">
+        <mark key="[" line="44" column="63" />
+        <mark key="]" line="45" column="56" />
+        <mark key="^" line="45" column="56" />
+        <mark key="." line="45" column="56" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/drag_start.cljs" timestamp="1560008790010">
         <mark key="[" line="17" column="0" />
@@ -471,11 +471,11 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" timestamp="1568635109735">
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="27" column="34" />
-        <mark key="^" line="27" column="34" />
-        <mark key="." line="27" column="34" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" timestamp="1573226566885">
+        <mark key="[" line="16" column="90" />
+        <mark key="]" line="16" column="98" />
+        <mark key="^" line="16" column="98" />
+        <mark key="." line="16" column="98" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1568409142507">
         <mark key="]" line="90" column="32" />
@@ -547,6 +547,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" timestamp="1573227102956">
+        <mark key="[" line="184" column="8" />
+        <mark key="]" line="184" column="67" />
+        <mark key="^" line="184" column="7" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1567867429702">
         <mark key="[" line="103" column="64" />
@@ -982,7 +988,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkIEBib3JkZXItY29sb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHs6dW5pdC9rZXlzIFtzaXplIHRpdGxlLXNpemUgY29udGVudF19ICh1bml0cyBwYWdlLXVuaXQtaWQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -991,7 +997,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIDpyZXB1bHNpdmUtZm9yY2UxIChnZW9tL3JvdCBbMSAwXSB7OmRlZyAoLSBhbmdsZTEgOTApfSkKICAgICAgIDpyZXB1bHNpdmUtZm9yY2UyIChnZW9tL3JvdCBbMSAwXSB7OmRlZyAoKyBhbmdsZTIgOTApfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHs6dW5pdC9rZXlzIFtzaXplIHRpdGxlLXNpemUgY29udGVudF19ICh1bml0cyBwYWdlLXVuaXQtaWQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkIEBib3JkZXItY29sb3I7Cg==</text>
