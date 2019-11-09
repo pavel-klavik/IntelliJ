@@ -403,11 +403,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage.cljs" timestamp="1573302497419">
-        <mark key="[" line="42" column="44" />
-        <mark key="]" line="42" column="57" />
-        <mark key="." line="42" column="57" />
-        <mark key="^" line="42" column="57" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage.cljs" timestamp="1573303541157">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="53" />
+        <mark key="." line="42" column="53" />
+        <mark key="^" line="42" column="53" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1569877337847">
         <mark key="[" line="72" column="56" />
@@ -1014,7 +1014,7 @@
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB0aXRsZS1oZWlnaHQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1064,9 +1064,9 @@
         <entry>:w</entry>
         <entry>waa</entry>
         <entry>:wa</entry>
-        <entry>w</entry>
         <entry>:va</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
