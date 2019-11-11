@@ -495,11 +495,11 @@
         <mark key="^" line="16" column="59" />
         <mark key="." line="16" column="59" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/clean.cljs" timestamp="1566990643500">
-        <mark key="[" line="11" column="65" />
-        <mark key="]" line="11" column="63" />
-        <mark key="^" line="11" column="63" />
-        <mark key="." line="11" column="63" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/clean.cljs" timestamp="1573463742634">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="67" />
+        <mark key="^" line="11" column="67" />
+        <mark key="." line="11" column="67" />
       </file>
       <file name="C:/Shared/react-spring/src/cljs/react_spring/views.cljs" timestamp="1572305239811">
         <mark key="[" line="29" column="33" />
@@ -1209,7 +1209,7 @@
         <text encoding="base64">ICAgICAgICByZW5kZXJlZC1saW5rIChyZW5kZXIvbGluayAoaWYgbGluay1zdHlsZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG1hcHMvZGVlcC1tZXJnZSBkcmF3LWluZm8gKHV0aWwvaGlnaGxpZ2h0LXN0eWxlIGRyYXctaW5mbyBsaW5rLXN0eWxlKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRyYXctaW5mbykpCiAgICAgICAgezpsYXlvdXQva2V5cyBbc2hvdy1mb3JjZXNdfSBAKHJmL3N1YnNjcmliZSBbOmxheW91dC9sYXlvdXRdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1263,8 +1263,8 @@
         <entry>wv</entry>
         <entry>va</entry>
         <entry>wva</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
