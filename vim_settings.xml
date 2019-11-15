@@ -246,11 +246,11 @@
         <mark key="^" line="46" column="37" />
         <mark key="." line="46" column="37" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/view.cljs" timestamp="1567788646631">
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/view.cljs" timestamp="1573824903860">
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="31" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="43" column="31" />
       </file>
       <file name="C:/Shared/react-spring/src/cljs/react_spring/events.cljs" timestamp="1572254389641">
         <mark key="[" line="11" column="11" />
@@ -969,7 +969,7 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573477005755">
+      <file name="/Dummy.txt" timestamp="1573755132427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/example-client/shadow-cljs.edn" timestamp="1569100590164">
@@ -1204,7 +1204,7 @@
         <text encoding="base64">ICAgICAgICByZW5kZXJlZC1saW5rIChyZW5kZXIvbGluayAoaWYgbGluay1zdHlsZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG1hcHMvZGVlcC1tZXJnZSBkcmF3LWluZm8gKHV0aWwvaGlnaGxpZ2h0LXN0eWxlIGRyYXctaW5mbyBsaW5rLXN0eWxlKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRyYXctaW5mbykpCiAgICAgICAgezpsYXlvdXQva2V5cyBbc2hvdy1mb3JjZXNdfSBAKHJmL3N1YnNjcmliZSBbOmxheW91dC9sYXlvdXRdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1258,8 +1258,8 @@
         <entry>wv</entry>
         <entry>va</entry>
         <entry>wva</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
