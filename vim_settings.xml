@@ -557,11 +557,11 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/db.cljs" timestamp="1574649108231">
-        <mark key="[" line="104" column="4" />
-        <mark key="]" line="104" column="6" />
-        <mark key="^" line="104" column="6" />
-        <mark key="." line="104" column="6" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/db.cljs" timestamp="1574677598371">
+        <mark key="[" line="154" column="4" />
+        <mark key="]" line="153" column="19" />
+        <mark key="^" line="153" column="19" />
+        <mark key="." line="153" column="19" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_unit.cljs" timestamp="1574006185841">
         <mark key="[" line="69" column="35" />
@@ -1178,7 +1178,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZm4gZ2V0LW9yZ3BhZ2UKICAoW2RiXSAoZ2V0LWluIGRiIG9yZ3BhZ2UpKQogIChbXSAoZ2V0LW9yZ3BhZ2UgQGRiKSkpCg==</text>
+        <text encoding="base64">OzsgVGhlc2UgZnVuY3Rpb25zIGFyZSBhdmFpbGFibGUgaW4gdHdvIGFyaXRpZXMsIGVpdGhlciBhY2NlcHRpbmcgZGIgb3IganVzdCB1c2luZyBkYiBhdG9tIGluc3RlYWQuCg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -1187,7 +1187,7 @@
         <text>1.10</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm4gZ2V0LW9yZ3BhZ2UKICAoW2RiXSAoZ2V0LWluIGRiIG9yZ3BhZ2UpKQogIChbXSAoZ2V0LW9yZ3BhZ2UgQGRiKSkpCg==</text>
+        <text encoding="base64">OzsgVGhlc2UgZnVuY3Rpb25zIGFyZSBhdmFpbGFibGUgaW4gdHdvIGFyaXRpZXMsIGVpdGhlciBhY2NlcHRpbmcgZGIgb3IganVzdCB1c2luZyBkYiBhdG9tIGluc3RlYWQuCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAicmVzaXplLWZuIiBzdG9yZSB1bml0LWlkIHN0b3JlZC1zaXplIHJlc2l6ZS1pZCkK</text>
