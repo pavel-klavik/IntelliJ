@@ -149,17 +149,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/attachments.cljs" timestamp="1586894110333">
-        <mark key="[" line="118" column="15" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/linked_accounts.cljs" timestamp="1586888667695">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="4" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/import.cljs" timestamp="1586889041480">
-        <mark key="[" line="15" column="71" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/import.cljs" timestamp="1586895225525">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="29" />
       </file>
       <file name="/" timestamp="1586890059162">
         <mark key="[" line="0" column="0" />
@@ -167,28 +167,30 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/views/init.cljs" timestamp="1586888231214">
         <mark key="[" line="3" column="12" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/uuid.cljc" timestamp="1586893305916">
-        <mark key="[" line="48" column="74" />
-        <mark key="]" line="56" column="44" />
-        <mark key="^" line="56" column="44" />
-        <mark key="." line="56" column="43" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/attachments.cljs" timestamp="1586888125327">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/account.cljs" timestamp="1586888484695">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="47" column="60" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/public_profile.cljs" timestamp="1586895040241">
+        <mark key="[" line="35" column="57" />
+        <mark key="]" line="35" column="56" />
+        <mark key="^" line="35" column="56" />
+        <mark key="." line="35" column="55" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/profile.cljs" timestamp="1586895194581">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="39" column="34" />
+        <mark key="^" line="39" column="34" />
+        <mark key="." line="39" column="33" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1586893810876" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/icon.cljs" timestamp="1586895000676" />
       <file name="/REPL.clj" timestamp="1586892933320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586889329819">
+      <file name="/Dummy.txt" timestamp="1586894775839">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
