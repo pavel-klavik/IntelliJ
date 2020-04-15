@@ -149,6 +149,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/table.cljs" timestamp="1586982305494">
+        <mark key="[" line="70" column="95" />
+        <mark key="]" line="72" column="106" />
+        <mark key="^" line="72" column="106" />
+        <mark key="." line="72" column="105" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/orgpages.cljs" timestamp="1586982453365">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="89" column="44" />
+        <mark key="^" line="89" column="44" />
+        <mark key="." line="89" column="43" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_panel.less" timestamp="1586978520027">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1586950056010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -163,10 +181,11 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1586910268073">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1586982221381">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="54" column="44" />
+        <mark key="^" line="54" column="44" />
+        <mark key="." line="54" column="43" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/common.cljs" timestamp="1586950051529">
         <mark key="[" line="19" column="30" />
@@ -174,17 +193,11 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration.cljs" timestamp="1586980591995">
-        <mark key="[" line="72" column="23" />
-        <mark key="]" line="72" column="23" />
-        <mark key="^" line="72" column="23" />
-        <mark key="." line="72" column="22" />
-      </file>
-      <file name="C:/Shared/orgpad/less/_panel.less" timestamp="1586978520027">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="27" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration.cljs" timestamp="1586982499807">
+        <mark key="[" line="115" column="75" />
+        <mark key="]" line="117" column="92" />
+        <mark key="^" line="117" column="92" />
+        <mark key="." line="117" column="91" />
       </file>
     </filemarks>
     <jumps>
@@ -293,7 +306,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOmFsaWduIDpjb2x1bW4vcmlnaHQK</text>
       </register>
       <register name="-" type="4">
         <text>b</text>
@@ -302,7 +315,7 @@
         <text>fixed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlIEAocmYvc3Vic2NyaWJlIFs6YXBwLXN0YXRlL21vZGVdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOmFsaWduIDpjb2x1bW4vcmlnaHQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
