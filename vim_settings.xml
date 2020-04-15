@@ -149,17 +149,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/less/_side-panel.less" timestamp="1586986445770">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/presentation.cljs" timestamp="1586984415326">
         <mark key="[" line="83" column="43" />
         <mark key="]" line="84" column="48" />
         <mark key="^" line="84" column="48" />
         <mark key="." line="84" column="47" />
-      </file>
-      <file name="C:/Shared/orgpad/less/_mui-button.less" timestamp="1586825430646">
-        <mark key="[" line="240" column="25" />
-        <mark key="]" line="240" column="36" />
-        <mark key="^" line="240" column="36" />
-        <mark key="." line="240" column="35" />
       </file>
       <file name="C:/Shared/orgpad/less/_orgpage.less" timestamp="1586984591004">
         <mark key="[" line="98" column="14" />
@@ -192,6 +192,12 @@
       </file>
       <file name="/REPL.txt" timestamp="1586884219999">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/attachments.cljs" timestamp="1586986406841">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="42" />
       </file>
       <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1586946359554">
         <mark key="[" line="27" column="68" />
