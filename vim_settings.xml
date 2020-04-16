@@ -149,6 +149,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/core.cljs" timestamp="1587052204085">
+        <mark key="[" line="43" column="76" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="13" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1587049251005">
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="0" />
@@ -214,12 +220,6 @@
         <mark key="." line="169" column="4" />
         <mark key="^" line="169" column="5" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1586993108713">
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="22" />
-        <mark key="^" line="43" column="22" />
-        <mark key="." line="43" column="21" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/user.clj" timestamp="1587048140216">
         <mark key="[" line="67" column="1" />
         <mark key="]" line="75" column="48" />
@@ -256,7 +256,7 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/elevation_shadow.cljs" timestamp="1587050787354" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/elevation_shadow.cljs" timestamp="1587052095515" />
     </filemarks>
     <jumps>
       <jump line="1146" column="1" filename="C:/Shared/orgpad/resources/public/orgpad-landing-page.webflow.css" />
