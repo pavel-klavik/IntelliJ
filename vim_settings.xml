@@ -149,30 +149,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/less/_side-panel.less" timestamp="1586986445770">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/presentation.cljs" timestamp="1586984415326">
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="84" column="48" />
-        <mark key="^" line="84" column="48" />
-        <mark key="." line="84" column="47" />
-      </file>
-      <file name="C:/Shared/orgpad/less/_button.less" timestamp="1587115319471">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="62" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1587123991755">
         <mark key="[" line="10" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/popper.cljs" timestamp="1587070223174">
-        <mark key="[" line="30" column="35" />
-        <mark key="]" line="11" column="50" />
-        <mark key="." line="11" column="49" />
-        <mark key="^" line="11" column="50" />
       </file>
       <file name="C:/Shared/orgpad/less/_orgpage.less" timestamp="1586990464741">
         <mark key="[" line="167" column="12" />
@@ -185,6 +163,40 @@
         <mark key="]" line="274" column="54" />
         <mark key="." line="274" column="53" />
         <mark key="^" line="274" column="54" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/core.clj" timestamp="1587146550244">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="15" />
+      </file>
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1587146268631">
+        <mark key="[" line="75" column="51" />
+        <mark key="]" line="75" column="40" />
+        <mark key="^" line="75" column="40" />
+        <mark key="." line="75" column="39" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_side-panel.less" timestamp="1586986445770">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/abc.clj" timestamp="1587146525256">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_button.less" timestamp="1587115319471">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="62" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/popper.cljs" timestamp="1587070223174">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="50" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/click_away_listener.cljs" timestamp="1586998920338">
         <mark key="[" line="8" column="41" />
@@ -221,20 +233,11 @@
         <mark key="^" line="26" column="43" />
         <mark key="." line="26" column="42" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/core.clj" timestamp="1587143764921">
-        <mark key="[" line="0" column="19" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/dialog.cljs" timestamp="1586990577460">
         <mark key="[" line="29" column="113" />
         <mark key="]" line="30" column="53" />
         <mark key="^" line="30" column="53" />
         <mark key="." line="30" column="52" />
-      </file>
-      <file name="C:/Shared/orgpad/project.clj" timestamp="1587143831466">
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="40" column="32" />
-        <mark key="^" line="40" column="32" />
-        <mark key="." line="40" column="31" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/elevation_shadow.cljs" timestamp="1587119727156">
         <mark key="[" line="97" column="0" />
@@ -348,7 +351,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OzsgQ2hhbmdlIGRlZnN0eWxlc2hlZXQgdG8gZGVmc3R5bGVzLgo=</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -360,31 +363,31 @@
         <text encoding="base64">ICB0cmFuc2l0aW9uOiAuMTVzIGVhc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OzsgQ2hhbmdlIGRlZnN0eWxlc2hlZXQgdG8gZGVmc3R5bGVzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpwYW5lbC90b2dnbGUtbGluay1zdHlsZS1ib3gKICAoZm4gW2RiIF9dCiAgICAodG9nZ2xlLXBhbmVsLWFjdGl2ZSBkYiA6cGFuZWwvbGluay1zdHlsZS1ib3gpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IGZhZGUoQG9yYW5nZS1jb2xvciwgMjAlKTsK</text>
+        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpwYW5lbC90b2dnbGUtbGluay1zdHlsZS1ib3gKICAoZm4gW2RiIF9dCiAgICAodG9nZ2xlLXBhbmVsLWFjdGl2ZSBkYiA6cGFuZWwvbGluay1zdHlsZS1ib3gpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZS1zdHlsZSAodGl0bGUtY3NzIHRpdGxlIG5pbCkK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IGZhZGUoQG9yYW5nZS1jb2xvciwgMjAlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgLypmYWRlKEBvcmFuZ2UtY29sb3IsIDUwJSk7Ki8K</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZS1zdHlsZSAodGl0bGUtY3NzIHRpdGxlIG5pbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGRlZm4tIHJnYmEKICAiUmV0dXJucyBSR0JBIHN0cmluZyBmb3IgZ2l2ZW4gY29sb3IgYW5kIGFscGhhLiIKICBbW3JlZCBncmVlbiBibHVlXSBhbHBoYV0KICAoc3RyICJyZ2JhKCIgcmVkICIsIiBncmVlbiAiLCIgYmx1ZSAiLCIgYWxwaGEgIikiKSkKCg==</text>
+        <text encoding="base64">ICAgLypmYWRlKEBvcmFuZ2UtY29sb3IsIDUwJSk7Ki8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICY6aG92ZXIgewogICAgICBvcGFjaXR5OiAxOwogICAgfQo=</text>
+        <text encoding="base64">KGRlZm4tIHJnYmEKICAiUmV0dXJucyBSR0JBIHN0cmluZyBmb3IgZ2l2ZW4gY29sb3IgYW5kIGFscGhhLiIKICBbW3JlZCBncmVlbiBibHVlXSBhbHBoYV0KICAoc3RyICJyZ2JhKCIgcmVkICIsIiBncmVlbiAiLCIgYmx1ZSAiLCIgYWxwaGEgIikiKSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvaW50ZXItZXZlbnRzOiBub25lOwo=</text>
+        <text encoding="base64">ICAgICY6aG92ZXIgewogICAgICBvcGFjaXR5OiAxOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IDM7Cg==</text>
+        <text encoding="base64">ICAgIHBvaW50ZXItZXZlbnRzOiBub25lOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
