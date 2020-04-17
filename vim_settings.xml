@@ -45,8 +45,8 @@
         <entry>:wa</entry>
         <entry>;wa</entry>
         <entry>waa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -182,11 +182,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/abc.clj" timestamp="1587146525256">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="31" />
+      <file name="C:/Shared/orgpad/src/orgpad/css/abc.clj" timestamp="1587146661607">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="C:/Shared/orgpad/less/_button.less" timestamp="1587115319471">
         <mark key="[" line="74" column="0" />
@@ -210,7 +210,7 @@
         <mark key="^" line="82" column="55" />
         <mark key="." line="82" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587143685307">
+      <file name="/Dummy.txt" timestamp="1587146695141">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -390,7 +390,7 @@
         <text encoding="base64">ICAgIHBvaW50ZXItZXZlbnRzOiBub25lOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
