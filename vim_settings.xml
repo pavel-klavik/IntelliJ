@@ -220,11 +220,11 @@
         <mark key="^" line="59" column="18" />
         <mark key="." line="59" column="17" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/button.clj" timestamp="1587203062688">
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="54" column="31" />
-        <mark key="^" line="54" column="31" />
-        <mark key="." line="54" column="30" />
+      <file name="C:/Shared/orgpad/src/orgpad/css/button.clj" timestamp="1587203571617">
+        <mark key="[" line="69" column="9" />
+        <mark key="]" line="69" column="20" />
+        <mark key="." line="69" column="19" />
+        <mark key="^" line="69" column="20" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/common.clj" timestamp="1587202781412">
         <mark key="[" line="8" column="0" />
@@ -344,7 +344,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAmLk11aS1kaXNhYmxlZCB7CiAgICBjb2xvcjogZmFkZShibGFjaywgMjYlKSAhaW1wb3J0YW50OwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOmJvcmRlciAgICAgICAgICAgKGNvbW1vbi9pbXBvcnRhbnQgKGNvbW1vbi9zb2xpZC1ib3JkZXIgKGNvbG9ycy9jb2xvcnMgY29sb3IpKSkK</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -356,31 +356,31 @@
         <text encoding="base64">ICAmLk11aS1kaXNhYmxlZCB7CiAgICBjb2xvcjogZmFkZShibGFjaywgMjYlKSAhaW1wb3J0YW50OwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOmJvcmRlciAgICAgICAgICAgKGNvbW1vbi9pbXBvcnRhbnQgKGNvbW1vbi9zb2xpZC1ib3JkZXIgKGNvbG9ycy9jb2xvcnMgY29sb3IpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LndoaXRlLWJ1dHRvbiB7CiAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7CiAgYm9yZGVyLXJhZGl1czogNTAlOwp9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">OzsgQ2hhbmdlIGRlZnN0eWxlc2hlZXQgdG8gZGVmc3R5bGVzLgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LndoaXRlLWJ1dHRvbiB7CiAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7CiAgYm9yZGVyLXJhZGl1czogNTAlOwp9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">OzsgQ2hhbmdlIGRlZnN0eWxlc2hlZXQgdG8gZGVmc3R5bGVzLgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpwYW5lbC90b2dnbGUtbGluay1zdHlsZS1ib3gKICAoZm4gW2RiIF9dCiAgICAodG9nZ2xlLXBhbmVsLWFjdGl2ZSBkYiA6cGFuZWwvbGluay1zdHlsZS1ib3gpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IGZhZGUoQG9yYW5nZS1jb2xvciwgMjAlKTsK</text>
+        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpwYW5lbC90b2dnbGUtbGluay1zdHlsZS1ib3gKICAoZm4gW2RiIF9dCiAgICAodG9nZ2xlLXBhbmVsLWFjdGl2ZSBkYiA6cGFuZWwvbGluay1zdHlsZS1ib3gpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZS1zdHlsZSAodGl0bGUtY3NzIHRpdGxlIG5pbCkK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IGZhZGUoQG9yYW5nZS1jb2xvciwgMjAlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgLypmYWRlKEBvcmFuZ2UtY29sb3IsIDUwJSk7Ki8K</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZS1zdHlsZSAodGl0bGUtY3NzIHRpdGxlIG5pbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZm4tIHJnYmEKICAiUmV0dXJucyBSR0JBIHN0cmluZyBmb3IgZ2l2ZW4gY29sb3IgYW5kIGFscGhhLiIKICBbW3JlZCBncmVlbiBibHVlXSBhbHBoYV0KICAoc3RyICJyZ2JhKCIgcmVkICIsIiBncmVlbiAiLCIgYmx1ZSAiLCIgYWxwaGEgIikiKSkKCg==</text>
+        <text encoding="base64">ICAgLypmYWRlKEBvcmFuZ2UtY29sb3IsIDUwJSk7Ki8K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
