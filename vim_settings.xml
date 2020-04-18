@@ -149,12 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/image_list.clj" timestamp="1587212790954">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="2" column="45" />
-        <mark key="^" line="2" column="45" />
-        <mark key="." line="2" column="44" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/core.clj" timestamp="1587218380939">
         <mark key="[" line="3" column="45" />
         <mark key="]" line="2" column="49" />
@@ -166,6 +160,12 @@
         <mark key="]" line="7" column="58" />
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="58" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/side_panel.clj" timestamp="1587221909533">
+        <mark key="[" line="49" column="48" />
+        <mark key="]" line="49" column="77" />
+        <mark key="^" line="49" column="77" />
+        <mark key="." line="49" column="76" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/profile.clj" timestamp="1587216431230">
         <mark key="[" line="10" column="19" />
@@ -179,17 +179,23 @@
         <mark key="^" line="33" column="43" />
         <mark key="." line="33" column="42" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/core.clj" timestamp="1587216366685">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="42" />
-        <mark key="^" line="5" column="43" />
+      <file name="C:/Shared/orgpad/src/orgpad/css/core.clj" timestamp="1587221705928">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="6" column="49" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="49" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/autoresize.clj" timestamp="1587217681748">
         <mark key="[" line="19" column="70" />
         <mark key="]" line="19" column="90" />
         <mark key="^" line="19" column="90" />
         <mark key="." line="19" column="89" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_side-panel.less" timestamp="1587221644648">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="67" column="1" />
+        <mark key="^" line="67" column="1" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/widgets/tabs.clj" timestamp="1587213122963">
         <mark key="[" line="6" column="96" />
@@ -239,12 +245,6 @@
         <mark key="^" line="79" column="13" />
         <mark key="." line="79" column="12" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/text_field.clj" timestamp="1587212970178">
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="8" column="108" />
-        <mark key="^" line="8" column="108" />
-        <mark key="." line="8" column="107" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/widgets/loading.clj" timestamp="1587213895483">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="8" column="43" />
@@ -263,11 +263,11 @@
         <mark key="^" line="39" column="35" />
         <mark key="." line="39" column="34" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/styles.clj" timestamp="1587219717281">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="34" />
-        <mark key="." line="65" column="33" />
-        <mark key="^" line="65" column="34" />
+      <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/styles.clj" timestamp="1587221340697">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -376,7 +376,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmJvcmRlci1yYWRpdXMgICAocHggNCkK</text>
+        <text encoding="base64">ICAgIFtnYXJkZW4udW5pdHMgOnJlZmVyIFtwZXJjZW50IHB4IHNdXQogICAgICAgICAgICBbZ2FyZGVuLnNlbGVjdG9ycyA6cmVmZXIgWyYgaG92ZXJdXQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -385,7 +385,7 @@
         <text>(percent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jc3Mud2lkZ2V0cy5wcm9maWxlLWltYWdlIDphcyBwcm9maWxlLWltYWdlXQo=</text>
+        <text encoding="base64">ICAgIFtnYXJkZW4udW5pdHMgOnJlZmVyIFtwZXJjZW50IHB4IHNdXQogICAgICAgICAgICBbZ2FyZGVuLnNlbGVjdG9ycyA6cmVmZXIgWyYgaG92ZXJdXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmJvcmRlci1yYWRpdXMgICAocHggNCkK</text>
