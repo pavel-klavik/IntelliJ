@@ -182,9 +182,9 @@
         <mark key="]" line="8" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1587309408645">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="58" column="51" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1587310510550">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="96" column="51" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/about.clj" timestamp="1587202155538" />
       <file name="/Dummy.txt" timestamp="1587255053223">
@@ -223,11 +223,8 @@
         <mark key="^" line="54" column="53" />
         <mark key="." line="54" column="52" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/styles.cljc" timestamp="1587309557645">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="5" column="4" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/styles.cljc" timestamp="1587310980061">
+        <mark key="[" line="63" column="2" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/orgpage.clj" timestamp="1587247369249">
         <mark key="'" line="73" column="59" />
@@ -338,17 +335,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>(let [unit-colors '(&quot;07-Orange&quot; &quot;#A96C11&quot; &quot;#FFDDA9&quot;)])</text>
+      <register name="&quot;" type="4">
+        <text>&quot;06-Gray&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>&quot;06-Gray&quot;</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgWyIwMS1XaGl0ZSIgIiM4Qzk0OUIiICIjRkZGRkZGIl0KICAgWyIwMi1SZWQiICIjQjM2MjU3IiAiI0ZGQ0ZDOSJdCiAgICcoIjAzLUxpbWUiICIjNjc3RjA1IiAiI0U2RjhBMCIpCiAgICcoIjA0LVRlYWwiICIjMDI4MDY5IiAiI0FFRjBFNCIpCiAgICcoIjA1LVB1cnBsZSIgIiM3NjU0QUQiICIjREFDNEZEIikKICAgJygiMDYtTGlnaHRHcmF5IiAiIzg2OEE4RSIgIiNFQ0VERUYiKQogICAnKCIwNy1PcmFuZ2UiICIjQTk2QzExIiAiI0ZGRERBOSIpCiAgICcoIjA4LUdyZWVuIiAiIzNDOEIwQSIgIiNDQkZCQUQiKQogICAnKCIwOS1UdXJxdW9pc2UiICIjMkY3Q0E3IiAiI0I2RTVGRiIpCiAgICcoIjEwLU1hZ2VudGEiICIjN0Q1RDg5IiAiI0YzRDJGRiIpCiAgICcoIjExLUdyYXkiICIjNzQ3RDg4IiAiI0RGRTJFNCIpCiAgICcoIjEyLVllbGxvdyIgIiM5NTg2MDQiICIjRkVGNUE2IikKICAgJygiMTMtTWludCIgIiMyQTg5NEEiICIjQzRGQUQ2IikKICAgJygiMTQtQmx1ZWJlcnJ5IiAiIzU0NURBOCIgIiNEMEQ1RkUiKQogICAnKCIxNS1QaW5rIiAiI0I1NTA4NiIgIiNGQ0M0RTIiKQo=</text>
+        <text encoding="base64">ICAoYWRkLWxpbmstc3R5bGVzISAiMDEtTGlnaHRHcmF5IiAiI0EzQUZCRiIgIiNFQ0VERUYiKQogIChhZGQtbGluay1zdHlsZXMhICIwMi1SZWQiICIjRkY2MzRFIiAiI0ZGQ0ZDOSIpCiAgKGFkZC1saW5rLXN0eWxlcyEgIjAzLUxpbWUiICIjQTRDQjA0IiAiI0U2RjhBMCIpCiAgKGFkZC1saW5rLXN0eWxlcyEgIjA0LVRlYWwiICIjMDBEMkFEIiAiI0FFRjBFNCIpCiAgKGFkZC1saW5rLXN0eWxlcyEgIjA1LVB1cnBsZSIgIiNBNDZCRkYiICIjREFDNEZEIikKICAoYWRkLWxpbmstc3R5bGVzISAiMDYtR3JheSIgIiM3OThDQTkiICIjREZFMkU0IikKICAoYWRkLWxpbmstc3R5bGVzISAiMDctT3JhbmdlIiAiI0U5OTYxOSIgIiNGRkREQTkiKQogIChhZGQtbGluay1zdHlsZXMhICIwOC1HcmVlbiIgIiM1MkQ1MDAiICIjQ0JGQkFEIikKICAoYWRkLWxpbmstc3R5bGVzISAiMDktVHVycXVvaXNlIiAiIzM5OUJEMyIgIiNCNkU1RkYiKQogIChhZGQtbGluay1zdHlsZXMhICIxMC1NYWdlbnRhIiAiI0M4NkZFOSIgIiNGM0QyRkYiKQogIChhZGQtbGluay1zdHlsZXMhICIxMS1CbGFjayIgIiMwMDAwMDAiICIjRkZGRkZGIikKICAoYWRkLWxpbmstc3R5bGVzISAiMTItWWVsbG93IiAiI0RFQzkwOCIgIiNGRUY1QTYiKQogIChhZGQtbGluay1zdHlsZXMhICIxMy1NaW50IiAiIzI1QkE1OCIgIiNDNEZBRDYiKQogIChhZGQtbGluay1zdHlsZXMhICIxNC1CbHVlYmVycnkiICIjNzg4NkY0IiAiI0QwRDVGRSIpCiAgKGFkZC1saW5rLXN0eWxlcyEgIjE1LVBpbmsiICIjRTIzNDkyIiAiI0ZDQzRFMiIpKQo=</text>
       </register>
       <register name="1" type="2">
         <text>(let [unit-colors '(&quot;07-Orange&quot; &quot;#A96C11&quot; &quot;#FFDDA9&quot;)])</text>
