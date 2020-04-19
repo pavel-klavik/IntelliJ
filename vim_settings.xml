@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>public-per</entry>
         <entry>public-warning</entry>
         <entry>title</entry>
         <entry>full-title</entry>
@@ -25,6 +24,7 @@
         <entry>error</entry>
         <entry>get-curr</entry>
         <entry>#zoom-info</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry>mode/view</entry>
@@ -149,6 +149,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/css/dashboard.clj" timestamp="1587255043819">
+        <mark key="'" line="92" column="44" />
+        <mark key="[" line="138" column="39" />
+        <mark key="]" line="138" column="53" />
+        <mark key="^" line="138" column="53" />
+        <mark key="." line="138" column="52" />
+      </file>
       <file name="C:/Shared/orgpad/less/_administration.less" timestamp="1587244334546" />
       <file name="C:/Shared/orgpad/src/orgpad/css/widgets/dialog.clj" timestamp="1587167931663">
         <mark key="[" line="2" column="34" />
@@ -156,11 +163,11 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1587244761217">
-        <mark key="[" line="2241" column="50" />
-        <mark key="]" line="2241" column="46" />
-        <mark key="^" line="2241" column="46" />
-        <mark key="." line="2241" column="45" />
+      <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1587254958593">
+        <mark key="[" line="2183" column="104" />
+        <mark key="]" line="2184" column="11" />
+        <mark key="^" line="2184" column="11" />
+        <mark key="." line="2184" column="10" />
       </file>
       <file name="/REPL.txt" timestamp="1587168116196">
         <mark key="[" line="0" column="0" />
@@ -176,19 +183,13 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/abc.clj" timestamp="1587146661607">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="32" />
-      </file>
       <file name="C:/Shared/orgpad/less/_button.less" timestamp="1587205036531">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="3" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/about.clj" timestamp="1587202155538" />
-      <file name="/Dummy.txt" timestamp="1587247434656">
+      <file name="/Dummy.txt" timestamp="1587255053223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -229,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="11" filename="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" />
       <jump line="8" column="60" filename="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" />
       <jump line="53" column="45" filename="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" />
       <jump line="152" column="18" filename="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" />
@@ -329,6 +329,7 @@
       <jump line="87" column="21" filename="C:/Shared/orgpad/src/orgpad/client/events/share_orgpage.cljs" />
       <jump line="269" column="15" filename="C:/Shared/orgpad/src/orgpad/client/events/usergroups.cljs" />
       <jump line="73" column="59" filename="C:/Shared/orgpad/src/orgpad/css/orgpage/orgpage.clj" />
+      <jump line="92" column="44" filename="C:/Shared/orgpad/src/orgpad/css/dashboard.clj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -340,7 +341,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>#zoom-info</text>
+        <text>search</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAmLk11aS1kaXNhYmxlZCB7CiAgICBjb2xvcjogZmFkZShibGFjaywgMjYlKSAhaW1wb3J0YW50OwogIH0K</text>
@@ -379,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>#zoom-info</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern>#zoom-info</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
