@@ -149,8 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/styles.clj" timestamp="1587342244031">
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/styles.clj" timestamp="1587346407243">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+        <mark key="." line="1" column="40" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/dashboard.clj" timestamp="1587255043819">
         <mark key="'" line="92" column="44" />
@@ -190,9 +193,7 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="96" column="51" />
       </file>
-      <file name="/REPL.clj" timestamp="1587346160833">
-        <mark key="[" line="0" column="92" />
-      </file>
+      <file name="/REPL.clj" timestamp="1587346361372" />
       <file name="/Dummy.txt" timestamp="1587321174945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
