@@ -149,11 +149,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/styles.clj" timestamp="1587346407243">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="41" />
-        <mark key="^" line="1" column="41" />
-        <mark key="." line="1" column="40" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/styles.clj" timestamp="1587374076805">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="16" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/image_list.cljs" timestamp="1587374374214">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="43" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/dashboard.clj" timestamp="1587255043819">
         <mark key="'" line="92" column="44" />
@@ -172,29 +178,20 @@
       <file name="/REPL.txt" timestamp="1587342295556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/colors.clj" timestamp="1587321109214">
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="25" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/core.clj" timestamp="1587204456306">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="31" />
-      </file>
-      <file name="C:/Shared/orgpad/less/_button.less" timestamp="1587205036531">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1587310510550">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="96" column="51" />
       </file>
-      <file name="/REPL.clj" timestamp="1587346361372" />
-      <file name="/Dummy.txt" timestamp="1587321174945">
+      <file name="/REPL.clj" timestamp="1587373819551">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/panel.clj" timestamp="1587375072270">
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="43" column="8" />
+        <mark key="." line="43" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587376674436">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -205,19 +202,18 @@
         <mark key="^" line="102" column="78" />
         <mark key="." line="102" column="77" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/button.clj" timestamp="1587204425953">
-        <mark key="[" line="99" column="60" />
-        <mark key="]" line="100" column="51" />
-        <mark key="." line="100" column="50" />
-        <mark key="^" line="100" column="51" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_image.cljs" timestamp="1587374619731">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/attachments.cljs" timestamp="1587376650999">
+        <mark key="[" line="20" column="61" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.less" timestamp="1587244873912" />
-      <file name="C:/Shared/orgpad/src/orgpad/css/common.clj" timestamp="1587205038461">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="49" />
-        <mark key="^" line="2" column="49" />
-        <mark key="." line="2" column="48" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/administration.clj" timestamp="1587244529405">
         <mark key="[" line="46" column="10" />
         <mark key="]" line="2" column="39" />
@@ -225,10 +221,9 @@
         <mark key="." line="2" column="38" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/styles.clj" timestamp="1587253921148">
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="54" column="53" />
-        <mark key="^" line="54" column="53" />
-        <mark key="." line="54" column="52" />
+        <mark key="]" line="1" column="53" />
+        <mark key="^" line="1" column="53" />
+        <mark key="." line="1" column="52" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/styles.cljc" timestamp="1587346176559">
         <mark key="'" line="60" column="30" />
@@ -237,8 +232,12 @@
         <mark key="^" line="70" column="5" />
         <mark key="." line="70" column="4" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/orgpage.clj" timestamp="1587247369249">
-        <mark key="'" line="73" column="59" />
+      <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/orgpage.clj" timestamp="1587376357022">
+        <mark key="'" line="70" column="59" />
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="60" column="65" />
+        <mark key="." line="60" column="64" />
+        <mark key="^" line="60" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -346,8 +345,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOmJvcmRlci1yYWRpdXMgICAgKHB4IDQpCiAgICAgICAgICAgICAgICAgICAgIDpwYWRkaW5nICAgICAgICAgIFtbKHB4IDMpIChweCA4KV1dCiAgICAgICAgICAgICAgICAgICAgIDptYXJnaW4tYm90dG9tICAgIChweCAzKQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -356,34 +355,35 @@
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoYWRkLWxpbmstc3R5bGVzISAiMDEtTGlnaHRHcmF5IiAiI0EzQUZCRiIgIiNFQ0VERUYiKQogIChhZGQtbGluay1zdHlsZXMhICIwMi1SZWQiICIjRkY2MzRFIiAiI0ZGQ0ZDOSIpCiAgKGFkZC1saW5rLXN0eWxlcyEgIjAzLUxpbWUiICIjQTRDQjA0IiAiI0U2RjhBMCIpCiAgKGFkZC1saW5rLXN0eWxlcyEgIjA0LVRlYWwiICIjMDBEMkFEIiAiI0FFRjBFNCIpCiAgKGFkZC1saW5rLXN0eWxlcyEgIjA1LVB1cnBsZSIgIiNBNDZCRkYiICIjREFDNEZEIikKICAoYWRkLWxpbmstc3R5bGVzISAiMDYtR3JheSIgIiM3OThDQTkiICIjREZFMkU0IikKICAoYWRkLWxpbmstc3R5bGVzISAiMDctT3JhbmdlIiAiI0U5OTYxOSIgIiNGRkREQTkiKQogIChhZGQtbGluay1zdHlsZXMhICIwOC1HcmVlbiIgIiM1MkQ1MDAiICIjQ0JGQkFEIikKICAoYWRkLWxpbmstc3R5bGVzISAiMDktVHVycXVvaXNlIiAiIzM5OUJEMyIgIiNCNkU1RkYiKQogIChhZGQtbGluay1zdHlsZXMhICIxMC1NYWdlbnRhIiAiI0M4NkZFOSIgIiNGM0QyRkYiKQogIChhZGQtbGluay1zdHlsZXMhICIxMS1CbGFjayIgIiMwMDAwMDAiICIjRkZGRkZGIikKICAoYWRkLWxpbmstc3R5bGVzISAiMTItWWVsbG93IiAiI0RFQzkwOCIgIiNGRUY1QTYiKQogIChhZGQtbGluay1zdHlsZXMhICIxMy1NaW50IiAiIzI1QkE1OCIgIiNDNEZBRDYiKQogIChhZGQtbGluay1zdHlsZXMhICIxNC1CbHVlYmVycnkiICIjNzg4NkY0IiAiI0QwRDVGRSIpCiAgKGFkZC1saW5rLXN0eWxlcyEgIjE1LVBpbmsiICIjRTIzNDkyIiAiI0ZDQzRFMiIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA6Ym9yZGVyLXJhZGl1cyAgICAocHggNCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICA6d2hpdGUgICAgICAgICAgICAgICIjOEM5NDlCIgogICAgICAgICAgOndoaXRlLWJnICAgICAgICAgICAiI0ZGRkZGRiIKICAgICAgICAgIDpyZWQgICAgICAgICAgICAgICAgIiNCMzYyNTciCiAgICAgICAgICA6cmVkLWJnICAgICAgICAgICAgICIjRkZDRkM5IgogICAgICAgICAgOmxpbWUgICAgICAgICAgICAgICAiIzY3N0YwNSIKICAgICAgICAgIDpsaW1lLWJnICAgICAgICAgICAgIiNFNkY4QTAiCiAgICAgICAgICA6dGVhbCAgICAgICAgICAgICAgICIjMDI4MDY5IgogICAgICAgICAgOnRlYWwtYmcgICAgICAgICAgICAiI0FFRjBFNCIKICAgICAgICAgIDpwdXJwbGUgICAgICAgICAgICAgIiM3NjU0QUQiCiAgICAgICAgICA6cHVycGxlLWJnICAgICAgICAgICIjREFDNEZEIgogICAgICAgICAgOmxpZ2h0LWdyYXkgICAgICAgICAiIzg2OEE4RSIKICAgICAgICAgIDpsaWdodC1ncmF5LWJnICAgICAgIiNFQ0VERUYiCiAgICAgICAgICA6b3JhbmdlICAgICAgICAgICAgICIjQTk2QzExIgogICAgICAgICAgOm9yYW5nZS1iZyAgICAgICAgICAiI0ZGRERBOSIKICAgICAgICAgIDpncmVlbiAgICAgICAgICAgICAgIiMzQzhCMEEiCiAgICAgICAgICA6Z3JlZW4tYmcgICAgICAgICAgICIjQ0JGQkFEIgogICAgICAgICAgOnR1cnF1b2lzZSAgICAgICAgICAiIzJGN0NBNyIKICAgICAgICAgIDp0dXJxdW9pc2UtYmcgICAgICAgIiNCNkU1RkYiCiAgICAgICAgICA6bWFnZW50YSAgICAgICAgICAgICIjN0Q1RDg5IgogICAgICAgICAgOm1hZ2VudGEtYmcgICAgICAgICAiI0YzRDJGRiIKICAgICAgICAgIDpncmF5ICAgICAgICAgICAgICAgIiM3NDdEODgiCiAgICAgICAgICA6Z3JheS1iZyAgICAgICAgICAgICIjREZFMkU0IgogICAgICAgICAgOnllbGxvdyAgICAgICAgICAgICAiIzk1ODYwNCIKICAgICAgICAgIDp5ZWxsb3ctYmcgICAgICAgICAgIiNGRUY1QTYiCiAgICAgICAgICA6bWludCAgICAgICAgICAgICAgICIjMkE4OTRBIgogICAgICAgICAgOm1pbnQtYmcgICAgICAgICAgICAiI0M0RkFENiIKICAgICAgICAgIDpibHVlYmVycnkgICAgICAgICAgIiM1NDVEQTgiCiAgICAgICAgICA6Ymx1ZWJlcnJ5LWJnICAgICAgICIjRDBENUZFIgogICAgICAgICAgOnBpbmsgICAgICAgICAgICAgICAiI0I1NTA4NiIKICAgICAgICAgIDpwaW5rLWJnICAgICAgICAgICAgIiNGQ0M0RTIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOmJvcmRlci1yYWRpdXMgICAgKHB4IDQpCiAgICAgICAgICAgICAgICAgICAgIDpwYWRkaW5nICAgICAgICAgIFtbKHB4IDMpIChweCA4KV1dCiAgICAgICAgICAgICAgICAgICAgIDptYXJnaW4tYm90dG9tICAgIChweCAzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text>(let [unit-colors '(&quot;07-Orange&quot; &quot;#A96C11&quot; &quot;#FFDDA9&quot;)])</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA6cGFkZGluZyAgICAgICAgICBbWyhweCAzKSAocHggOCldXQogICAgICAgICAgICAgICAgICAgICAgIDptYXJnaW4tYm90dG9tICAgIChweCAzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZm4tIGFkZC1kZWZhdWx0LXVuaXQtc3R5bGVzISBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmJvcmRlci1yYWRpdXMgICAgKHB4IDQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwYWRkaW5nICAgICAgICAgIFtbKHB4IDMpIChweCA4KV1dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptYXJnaW4tYm90dG9tICAgIChweCAzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAoYWRkLXVuaXQtc3R5bGVzISAiMDEtV2hpdGUiICIjOEM5NDlCIiAiI0ZGRkZGRiIpCiAgICAgKGFkZC11bml0LXN0eWxlcyEgIjAyLVJlZCIgIiNCMzYyNTciICIjRkZDRkM5IikKICAgICAoYWRkLXVuaXQtc3R5bGVzISAiMDMtTGltZSIgIiM2NzdGMDUiICIjRTZGOEEwIikKICAgICAoYWRkLXVuaXQtc3R5bGVzISAiMDQtVGVhbCIgIiMwMjgwNjkiICIjQUVGMEU0IikKICAgICAoYWRkLXVuaXQtc3R5bGVzISAiMDUtUHVycGxlIiAiIzc2NTRBRCIgIiNEQUM0RkQiKQogICAgIChhZGQtdW5pdC1zdHlsZXMhICIwNi1MaWdodEdyYXkiICIjODY4QThFIiAiI0VDRURFRiIpCiAgICAgKGFkZC11bml0LXN0eWxlcyEgIjA3LU9yYW5nZSIgIiNBOTZDMTEiICIjRkZEREE5IikKICAgICAoYWRkLXVuaXQtc3R5bGVzISAiMDgtR3JlZW4iICIjM0M4QjBBIiAiI0NCRkJBRCIpCiAgICAgKGFkZC11bml0LXN0eWxlcyEgIjA5LVR1cnF1b2lzZSIgIiMyRjdDQTciICIjQjZFNUZGIikKICAgICAoYWRkLXVuaXQtc3R5bGVzISAiMTAtTWFnZW50YSIgIiM3RDVEODkiICIjRjNEMkZGIikKICAgICAoYWRkLXVuaXQtc3R5bGVzISAiMTEtR3JheSIgIiM3NDdEODgiICIjREZFMkU0IikKICAgICAoYWRkLXVuaXQtc3R5bGVzISAiMTItWWVsbG93IiAiIzk1ODYwNCIgIiNGRUY1QTYiKQogICAgIChhZGQtdW5pdC1zdHlsZXMhICIxMy1NaW50IiAiIzJBODk0QSIgIiNDNEZBRDYiKQogICAgIChhZGQtdW5pdC1zdHlsZXMhICIxNC1CbHVlYmVycnkiICIjNTQ1REE4IiAiI0QwRDVGRSIpCiAgICAgKGFkZC11bml0LXN0eWxlcyEgIjE1LVBpbmsiICIjQjU1MDg2IiAiI0ZDQzRFMiIpCg==</text>
+        <text encoding="base64">ICAgOmJhY2tncm91bmQtY29sb3IgKGNvbG9ycy9jb2xvcnMgOmNvbG9yL3R1cnF1b2lzZS1iZykKICAgOmNvbG9yICAgICAgICAgICAgKGNvbG9ycy9jb2xvcnMgOmNvbG9yL3R1cnF1b2lzZSkKICAgOmJvcmRlciAgICAgICAgICAgKGNvbW1vbi9zb2xpZC1ib3JkZXIgOmNvbG9yL3R1cnF1b2lzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpib3JkZXItcmFkaXVzIChweCA0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmltZy1wcm9wcyB7fQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpib3JkZXIgICAgICAgIChjb21tb24vc29saWQtYm9yZGVyIChjb2xvcnMvd2l0aC1hbHBoYSA6Y29sb3IvYnV0dG9uLWJsdWUgMC41KSkK</text>
+      <register name="6" type="4">
+        <text>#:props{:color      color-key
+                :title-size (keyword (str &quot;props/&quot; (name size)))}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnN0eWxlcyB7CiAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsKICAgICAgICAgYm9yZGVyOiAgIDFweCBzb2xpZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOwogICAgICAgICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4ICAgICAgICAgICAgICAgICAgICAgICA7CiAgICAgICAgICAgICAgICAgICBvdmVyZmxvdzogaGlkZGVuICAgICAgICAgICAgICAgICAgICAgICAgIDsKICAgICAgICAgICAgICAgICAgIGN1cnNvcjogcG9pbnRlciAgICAgICAgICAgICAgICAgICAgICAgICAgOwoKICAgICAgICAgICAgICAgICAgICYgLnN0eWxlcy1vdmVybGF5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGUgICAgOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlZnQ6ICAgICAwICAgICAgICAgICA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmlnaHQ6ICAgIDAgICAgICAgICAgIDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3A6ICAgICAgMCAgICAgICAgICAgOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJvdHRvbTogICAwICAgICAgICAgICA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3BhY2l0eTogIDAgICAgICAgICAgIDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb2ludGVyLWV2ZW50czogbm9uZSA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgJjpob3ZlciAgIC5zdHlsZXMtb3ZlcmxheSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wYWNpdHk6IDEgICAgICAgICAgICAgIDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICB9</text>
+        <text encoding="base64">CiAgICAgICAgICA6d2hpdGUgICAgICAgICAgICAgICIjOEM5NDlCIgogICAgICAgICAgOndoaXRlLWJnICAgICAgICAgICAiI0ZGRkZGRiIKICAgICAgICAgIDpyZWQgICAgICAgICAgICAgICAgIiNCMzYyNTciCiAgICAgICAgICA6cmVkLWJnICAgICAgICAgICAgICIjRkZDRkM5IgogICAgICAgICAgOmxpbWUgICAgICAgICAgICAgICAiIzY3N0YwNSIKICAgICAgICAgIDpsaW1lLWJnICAgICAgICAgICAgIiNFNkY4QTAiCiAgICAgICAgICA6dGVhbCAgICAgICAgICAgICAgICIjMDI4MDY5IgogICAgICAgICAgOnRlYWwtYmcgICAgICAgICAgICAiI0FFRjBFNCIKICAgICAgICAgIDpwdXJwbGUgICAgICAgICAgICAgIiM3NjU0QUQiCiAgICAgICAgICA6cHVycGxlLWJnICAgICAgICAgICIjREFDNEZEIgogICAgICAgICAgOmxpZ2h0LWdyYXkgICAgICAgICAiIzg2OEE4RSIKICAgICAgICAgIDpsaWdodC1ncmF5LWJnICAgICAgIiNFQ0VERUYiCiAgICAgICAgICA6b3JhbmdlICAgICAgICAgICAgICIjQTk2QzExIgogICAgICAgICAgOm9yYW5nZS1iZyAgICAgICAgICAiI0ZGRERBOSIKICAgICAgICAgIDpncmVlbiAgICAgICAgICAgICAgIiMzQzhCMEEiCiAgICAgICAgICA6Z3JlZW4tYmcgICAgICAgICAgICIjQ0JGQkFEIgogICAgICAgICAgOnR1cnF1b2lzZSAgICAgICAgICAiIzJGN0NBNyIKICAgICAgICAgIDp0dXJxdW9pc2UtYmcgICAgICAgIiNCNkU1RkYiCiAgICAgICAgICA6bWFnZW50YSAgICAgICAgICAgICIjN0Q1RDg5IgogICAgICAgICAgOm1hZ2VudGEtYmcgICAgICAgICAiI0YzRDJGRiIKICAgICAgICAgIDpncmF5ICAgICAgICAgICAgICAgIiM3NDdEODgiCiAgICAgICAgICA6Z3JheS1iZyAgICAgICAgICAgICIjREZFMkU0IgogICAgICAgICAgOnllbGxvdyAgICAgICAgICAgICAiIzk1ODYwNCIKICAgICAgICAgIDp5ZWxsb3ctYmcgICAgICAgICAgIiNGRUY1QTYiCiAgICAgICAgICA6bWludCAgICAgICAgICAgICAgICIjMkE4OTRBIgogICAgICAgICAgOm1pbnQtYmcgICAgICAgICAgICAiI0M0RkFENiIKICAgICAgICAgIDpibHVlYmVycnkgICAgICAgICAgIiM1NDVEQTgiCiAgICAgICAgICA6Ymx1ZWJlcnJ5LWJnICAgICAgICIjRDBENUZFIgogICAgICAgICAgOnBpbmsgICAgICAgICAgICAgICAiI0I1NTA4NiIKICAgICAgICAgIDpwaW5rLWJnICAgICAgICAgICAgIiNGQ0M0RTIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjUwbXMgY3ViaWMtYmV6aWVyKDAuNCwgMCwgMC4yLCAxKSAwbXM7Cg==</text>
+        <text>(let [unit-colors '(&quot;07-Orange&quot; &quot;#A96C11&quot; &quot;#FFDDA9&quot;)])</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAocHJpbnRsbiBjb2xvciAoLT4gKG9yIChjb2xvcnMgY29sb3IpIGNvbG9yKSBjb2xvci9oZXgtPnJnYiAoYXNzb2MgOmFscGhhIGFscGhhKSkpCg==</text>
+        <text encoding="base64">ICAgIGRlZm4tIGFkZC1kZWZhdWx0LXVuaXQtc3R5bGVzISBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
