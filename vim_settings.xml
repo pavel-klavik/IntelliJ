@@ -149,10 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user_resource_data.clj" timestamp="1587585266601">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user_resource_data.clj" timestamp="1587586072280">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1587566361478">
         <mark key="[" line="30" column="63" />
@@ -188,12 +189,6 @@
         <mark key="]" line="49" column="76" />
         <mark key="^" line="49" column="76" />
         <mark key="." line="49" column="75" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/links/bezier.cljs" timestamp="1587479046235">
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="42" column="50" />
-        <mark key="^" line="42" column="50" />
-        <mark key="." line="42" column="49" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/event.cljs" timestamp="1587566418507">
         <mark key="[" line="162" column="0" />
@@ -246,6 +241,12 @@
         <mark key="]" line="48" column="14" />
         <mark key="." line="48" column="13" />
         <mark key="^" line="48" column="14" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1587586108725">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="28" column="67" />
+        <mark key="^" line="28" column="67" />
+        <mark key="." line="28" column="66" />
       </file>
     </filemarks>
     <jumps>
