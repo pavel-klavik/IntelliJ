@@ -149,34 +149,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user_resource_data.clj" timestamp="1587587682035">
-        <mark key="[" line="13" column="50" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="13" column="42" />
-        <mark key="^" line="13" column="43" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1587566361478">
-        <mark key="[" line="30" column="63" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1587586882929">
         <mark key="[" line="13" column="40" />
         <mark key="]" line="14" column="41" />
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="/REPL.txt" timestamp="1587580995355">
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/styles.clj" timestamp="1587587409148">
+        <mark key="[" line="60" column="50" />
+        <mark key="]" line="61" column="50" />
+        <mark key="." line="61" column="49" />
+        <mark key="^" line="61" column="50" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587587476987">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/post_ops.cljs" timestamp="1587566341137">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/view.cljs" timestamp="1587567503429">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="83" column="56" />
-        <mark key="." line="70" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user_resource_data.clj" timestamp="1587587682035">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1587580178037">
         <mark key="[" line="135" column="58" />
@@ -190,42 +184,37 @@
         <mark key="." line="119" column="35" />
         <mark key="^" line="119" column="36" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1587580467562">
-        <mark key="[" line="139" column="50" />
-        <mark key="]" line="139" column="51" />
-        <mark key="^" line="139" column="51" />
-        <mark key="." line="139" column="50" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/book.cljs" timestamp="1587566403212">
         <mark key="[" line="49" column="40" />
         <mark key="]" line="49" column="76" />
         <mark key="^" line="49" column="76" />
         <mark key="." line="49" column="75" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1587598947025">
-        <mark key="[" line="26" column="2" />
-        <mark key="]" line="30" column="58" />
-        <mark key="^" line="30" column="58" />
-        <mark key="." line="30" column="57" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/event.cljs" timestamp="1587566418507">
-        <mark key="[" line="162" column="0" />
-        <mark key="." line="162" column="81" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/styles.clj" timestamp="1587587409148">
-        <mark key="[" line="60" column="50" />
-        <mark key="]" line="61" column="50" />
-        <mark key="." line="61" column="49" />
-        <mark key="^" line="61" column="50" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/common.cljs" timestamp="1587599236790">
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="45" />
-        <mark key="^" line="25" column="45" />
-        <mark key="." line="25" column="44" />
+      <file name="/REPL.txt" timestamp="1587580995355">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1587580359135">
         <mark key="[" line="148" column="47" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/post_ops.cljs" timestamp="1587566341137">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/view.cljs" timestamp="1587567503429">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="83" column="56" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1587566361478">
+        <mark key="[" line="30" column="63" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1587599755239">
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="65" column="57" />
+        <mark key="^" line="65" column="57" />
+        <mark key="." line="65" column="56" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/initial.cljs" timestamp="1587580134825">
         <mark key="[" line="16" column="0" />
@@ -233,23 +222,36 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1587587267096">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="67" />
+        <mark key="^" line="27" column="67" />
+        <mark key="." line="27" column="66" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/common.cljs" timestamp="1587599802828">
+        <mark key="[" line="31" column="44" />
+        <mark key="]" line="21" column="45" />
+        <mark key="^" line="21" column="45" />
+        <mark key="." line="21" column="44" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/event.cljs" timestamp="1587599726749">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="56" />
+        <mark key="." line="35" column="55" />
+        <mark key="^" line="35" column="56" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1587580467562">
+        <mark key="[" line="139" column="50" />
+        <mark key="]" line="139" column="51" />
+        <mark key="^" line="139" column="51" />
+        <mark key="." line="139" column="50" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1587580421420">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="140" column="48" />
         <mark key="]" line="140" column="48" />
         <mark key="^" line="140" column="48" />
         <mark key="." line="140" column="47" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587587476987">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1587587267096">
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="27" column="67" />
-        <mark key="^" line="27" column="67" />
-        <mark key="." line="27" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -358,10 +360,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>link-cre</text>
