@@ -27,7 +27,6 @@
         <entry>link-cre</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL14vPHA+L2c=</entry>
         <entry>cookie-attrs</entry>
         <entry>w'</entry>
         <entry>wma</entry>
@@ -45,8 +44,9 @@
         <entry>waa</entry>
         <entry>:wa</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
-        <entry>wa</entry>
+        <entry>a</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -185,9 +185,6 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="/REPL.clj" timestamp="1587601681618">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/edit_mode.cljs" timestamp="1587601839569">
         <mark key="[" line="152" column="4" />
         <mark key="]" line="152" column="39" />
@@ -224,8 +221,14 @@
         <mark key="^" line="88" column="25" />
         <mark key="." line="88" column="24" />
       </file>
-      <file name="/REPL.txt" timestamp="1587601681621">
+      <file name="/REPL.txt" timestamp="1587657667234">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/orgpage.cljs" timestamp="1587658966880">
+        <mark key="[" line="220" column="74" />
+        <mark key="]" line="220" column="87" />
+        <mark key="^" line="220" column="87" />
+        <mark key="." line="220" column="86" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1587599755239">
         <mark key="[" line="65" column="26" />
@@ -250,6 +253,12 @@
         <mark key="]" line="35" column="56" />
         <mark key="." line="35" column="55" />
         <mark key="^" line="35" column="56" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/styles.clj" timestamp="1587659034420">
+        <mark key="[" line="58" column="59" />
+        <mark key="]" line="59" column="53" />
+        <mark key="^" line="59" column="53" />
+        <mark key="." line="59" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -398,7 +407,7 @@
         <text encoding="base64">ICAgICAgICAgIGN1cnJlbnQtcHJvcHMgCiAgICAgICAgICBjdXJyZW50LXVuaXQtc3R5bGUtaWQgKG9yICg6dXNlci1kYXRhL2N1cnJlbnQtdW5pdC1zdHlsZS1pZCB1c2VyLWRhdGEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgtPj4gKHN0eWxlLXV0aWwvc3R5bGVzLW9mLXR5cGUgc3R5bGVzIDpzdHlsZS91bml0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChzb3J0LWJ5IDpzdHlsZS90aXRsZSkgZmlyc3QgOnN0eWxlL2lkKSkKICAgICAgICAgIGN1cnJlbnQtbGluay1zdHlsZS1pZCAob3IgKDp1c2VyLWRhdGEvY3VycmVudC1saW5rLXN0eWxlLWlkIHVzZXItZGF0YSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKC0+PiAoc3R5bGUtdXRpbC9zdHlsZXMtb2YtdHlwZSBzdHlsZXMgOnN0eWxlL2xpbmspCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHNvcnQtYnkgOnN0eWxlL3RpdGxlKSBmaXJzdCA6c3R5bGUvaWQpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
