@@ -45,8 +45,8 @@
         <entry>waa</entry>
         <entry>:wa</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -213,7 +213,7 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587602702037">
+      <file name="/Dummy.txt" timestamp="1587645459192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -227,11 +227,11 @@
       <file name="/REPL.txt" timestamp="1587601681621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/orgpage.cljs" timestamp="1587645285081">
-        <mark key="[" line="194" column="48" />
-        <mark key="]" line="198" column="42" />
-        <mark key="^" line="198" column="42" />
-        <mark key="." line="198" column="41" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/orgpage.cljs" timestamp="1587645325167">
+        <mark key="[" line="87" column="79" />
+        <mark key="]" line="91" column="79" />
+        <mark key="^" line="91" column="79" />
+        <mark key="." line="91" column="78" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1587599755239">
         <mark key="[" line="65" column="26" />
@@ -257,11 +257,11 @@
         <mark key="." line="35" column="55" />
         <mark key="^" line="35" column="56" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/styles.clj" timestamp="1587644115696">
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="41" column="50" />
-        <mark key="." line="41" column="49" />
-        <mark key="^" line="41" column="50" />
+      <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/styles.clj" timestamp="1587645335497">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="36" />
+        <mark key="^" line="45" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -410,7 +410,7 @@
         <text encoding="base64">ICAgICAgICAgIGN1cnJlbnQtcHJvcHMgCiAgICAgICAgICBjdXJyZW50LXVuaXQtc3R5bGUtaWQgKG9yICg6dXNlci1kYXRhL2N1cnJlbnQtdW5pdC1zdHlsZS1pZCB1c2VyLWRhdGEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgtPj4gKHN0eWxlLXV0aWwvc3R5bGVzLW9mLXR5cGUgc3R5bGVzIDpzdHlsZS91bml0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChzb3J0LWJ5IDpzdHlsZS90aXRsZSkgZmlyc3QgOnN0eWxlL2lkKSkKICAgICAgICAgIGN1cnJlbnQtbGluay1zdHlsZS1pZCAob3IgKDp1c2VyLWRhdGEvY3VycmVudC1saW5rLXN0eWxlLWlkIHVzZXItZGF0YSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKC0+PiAoc3R5bGUtdXRpbC9zdHlsZXMtb2YtdHlwZSBzdHlsZXMgOnN0eWxlL2xpbmspCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHNvcnQtYnkgOnN0eWxlL3RpdGxlKSBmaXJzdCA6c3R5bGUvaWQpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
