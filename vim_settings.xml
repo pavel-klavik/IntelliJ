@@ -200,13 +200,13 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="44" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/style_select.cljs" timestamp="1588107179436">
-        <mark key="[" line="51" column="40" />
-        <mark key="]" line="51" column="41" />
-        <mark key="^" line="51" column="41" />
-        <mark key="." line="51" column="40" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/style_select.cljs" timestamp="1588110329345">
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="50" column="46" />
+        <mark key="." line="50" column="45" />
+        <mark key="^" line="50" column="46" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1588107589721">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1588109800748">
         <mark key="[" line="28" column="0" />
       </file>
       <file name="/REPL.txt" timestamp="1588008547403">
@@ -235,11 +235,11 @@
         <mark key="^" line="42" column="37" />
         <mark key="." line="42" column="36" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/styles_select.clj" timestamp="1588006880807">
-        <mark key="[" line="62" column="52" />
-        <mark key="]" line="60" column="50" />
-        <mark key="." line="60" column="49" />
-        <mark key="^" line="60" column="50" />
+      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/styles_select.clj" timestamp="1588109948518">
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="32" />
+        <mark key="^" line="46" column="33" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/spinner.cljs" timestamp="1588004806908">
         <mark key="[" line="12" column="6" />
@@ -360,7 +360,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDpwcm9wcy9oMSAyNQogICAgOnByb3BzL2gyIDIyCiAgICA6cHJvcHMvaDMgMTgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmb250LXdlaWdodCAgICAgICJib2xkIgo=</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -372,31 +372,31 @@
         <text encoding="base64">ICAgICAgICB0eXBlIEAocmYvc3Vic2NyaWJlIFs6ZWRpdC1tb2RlL3N0eWxlLXNlbGVjdC10eXBlXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwcm9wcy9oMSAyNQogICAgOnByb3BzL2gyIDIyCiAgICA6cHJvcHMvaDMgMTgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmb250LXdlaWdodCAgICAgICJib2xkIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7OnByb3BzL2tleXMgW3RpdGxlLXNpemUgc2hvdy1saW5rXSA6YXMgcHJvcHN9IEAocmYvc3Vic2NyaWJlIFs6ZWRpdC1tb2RlL3NlbGVjdGlvbi1wcm9wc10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptYXJnaW4gICAgICAgICAgIDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiaGlkZS1zdHlsZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29sb3IgICAgICAgICAgICB0aXRsZS1jb2xvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAic2hvdy1zdHlsZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6b3BhY2l0eSAgICAgICAgICBvcGFjaXR5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInN0b3JlLWVsZW1lbnQiIChyLWRvbS9kb20tbm9kZSB0aGlzKSkK</text>
+        <text encoding="base64">ICAgIDpwcm9wcy9oMSAyNQogICAgOnByb3BzL2gyIDIyCiAgICA6cHJvcHMvaDMgMTgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBzdHlsZXMtZWxlbWVudCkK</text>
+        <text encoding="base64">ICAgICAgICB7OnByb3BzL2tleXMgW3RpdGxlLXNpemUgc2hvdy1saW5rXSA6YXMgcHJvcHN9IEAocmYvc3Vic2NyaWJlIFs6ZWRpdC1tb2RlL3NlbGVjdGlvbi1wcm9wc10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInN0b3JlLWVsZW1lbnQiKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiaGlkZS1zdHlsZXMiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyB1c2VyLWlkIHJlc291cmNlLWlkIG5ldy12YWwgZGlzc29jLXBhdGhzIHZhbCB1cGRhdGVkLXZhbCkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAic2hvdy1zdHlsZXMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnVzZXJncm91cHMvYWxsLXVzZXJzIikK</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInN0b3JlLWVsZW1lbnQiIChyLWRvbS9kb20tbm9kZSB0aGlzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
