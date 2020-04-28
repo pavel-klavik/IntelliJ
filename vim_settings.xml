@@ -186,11 +186,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/style_select.cljs" timestamp="1588092496514">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="141" column="2" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/style_select.cljs" timestamp="1588093990014">
+        <mark key="[" line="193" column="28" />
+        <mark key="]" line="194" column="23" />
+        <mark key="." line="194" column="22" />
+        <mark key="^" line="194" column="23" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1588091590085">
         <mark key="[" line="81" column="33" />
@@ -219,8 +219,9 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/selection.cljs" timestamp="1588081730163">
-        <mark key="[" line="67" column="33" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/selection.cljs" timestamp="1588093385073">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="33" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/editor_change.cljs" timestamp="1587928124529">
         <mark key="[" line="6" column="35" />
@@ -348,7 +349,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdHlsZS1zZWxlY3QvYWxsLXByb3BzLgogIDpzdHlsZS1zZWxlY3Qvb24tY2xvc2UgLSBBIGtleXdvcmQgb3IgYSB2ZWN0b3Igb2YgdGhlIFJlLWZyYW1lIGV2ZW50IGNhbGxlZCB3aGVuIHRoZSBzdHlsZSBzZWxlY3QgaXMgY2xvc2VkLgogIDpzdHlsZS1zZWxlY3Qvb24tY2hhbmdlIC0gQSBrZXl3b3JkIG9yIGEgdmVjdG9yIG9mIHRoZSBSZS1mcmFtZSBldmVudCBjYWxsZWQgd2hlbiBhIHByb3BlcnR5IGlzIGNoYW5nZWQsIHRvZ2V0aGVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aXRoIHRoZSBwcm9wZXJ0eSBuYW1lIGFuZCBuZXcgdmFsdWUuCiAgOnN0eWxlLXNlbGVjdC9hbmNob3IgLSBBbiBlbGVtZW50IHRvIHdoaWNoIHN0eWxlLWxpc3QgaXMgYW5jaG9yZWQuCiAgOnN0eWxlLXNlbGVjdC9wcm9wcyAtIEEgcHJvcHMgbWFwIG9mIHRoZSBjdXJyZW50IHZhbHVlcy4K</text>
+        <text encoding="base64">KGRlZm4tIHN0b3JlLXN0eWxlcy1lbGVtZW50CiAgW3RoaXNdCiAgKHJmL2Rpc3BhdGNoIFs6c2VsZWN0aW9uL3N0b3JlLXN0eWxlcy1lbGVtZW50IChyLWRvbS9kb20tbm9kZSB0aGlzKV0pKQoKKGRlZm4tIHJlbmRlci1kdW1teS1zdHlsZXMKICAiUmVuZGVycyB0aGUgZHVtbXkgc3R5bGVzIHRvIHdoaWNoIHN0eWxlcyBhcmUgYW5jaG9yZWQuIgogIFtdCiAgKGxldCBbezpzZWxlY3Rpb24va2V5cyBbdW5pdC1pZHMgbGluay1pZHNdfSBAKHJmL3N1YnNjcmliZSBbOmVkaXQtbW9kZS9zZWxlY3Rpb25dKV0KICAgIFs6ZGl2LnN0eWxlcy5ib3JkZXJlZC1zdHlsZXMuc2VsZWN0aW9uLWR1bW15LXN0eWxlcyB7OnN0eWxlIHs6d2lkdGggKGlmIChhbmQgdW5pdC1pZHMgbGluay1pZHMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTI2CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNjYpfX1dKSkKCihkZWZuLSBkdW1teS1zdHlsZXMKICAiVGhlIGNvbXBvbmVudCBkaXNwbGF5aW5nIHRoZSBkdW1teSBzdHlsZSBidXR0b24gdG8gd2hpY2ggc3R5bGVzIGFyZSBhbmNob3JlZC4iCiAgW10KICAoci9jcmVhdGUtY2xhc3MKICAgIHs6Y29tcG9uZW50LWRpZC1tb3VudCAgc3RvcmUtc3R5bGVzLWVsZW1lbnQKICAgICA6Y29tcG9uZW50LWRpZC11cGRhdGUgc3RvcmUtc3R5bGVzLWVsZW1lbnQKICAgICA6ZGlzcGxheS1uYW1lICAgICAgICAgInN0eWxlcy1idXR0b24iCiAgICAgOnJlYWdlbnQtcmVuZGVyICAgICAgIHJlbmRlci1kdW1teS1zdHlsZXN9KSkKCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -356,8 +357,8 @@
       <register name="/" type="4">
         <text>style</text>
       </register>
-      <register name="0" type="4">
-        <text>s</text>
+      <register name="0" type="2">
+        <text encoding="base64">KGRlZm4tIHN0b3JlLXN0eWxlcy1lbGVtZW50CiAgW3RoaXNdCiAgKHJmL2Rpc3BhdGNoIFs6c2VsZWN0aW9uL3N0b3JlLXN0eWxlcy1lbGVtZW50IChyLWRvbS9kb20tbm9kZSB0aGlzKV0pKQoKKGRlZm4tIHJlbmRlci1kdW1teS1zdHlsZXMKICAiUmVuZGVycyB0aGUgZHVtbXkgc3R5bGVzIHRvIHdoaWNoIHN0eWxlcyBhcmUgYW5jaG9yZWQuIgogIFtdCiAgKGxldCBbezpzZWxlY3Rpb24va2V5cyBbdW5pdC1pZHMgbGluay1pZHNdfSBAKHJmL3N1YnNjcmliZSBbOmVkaXQtbW9kZS9zZWxlY3Rpb25dKV0KICAgIFs6ZGl2LnN0eWxlcy5ib3JkZXJlZC1zdHlsZXMuc2VsZWN0aW9uLWR1bW15LXN0eWxlcyB7OnN0eWxlIHs6d2lkdGggKGlmIChhbmQgdW5pdC1pZHMgbGluay1pZHMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTI2CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNjYpfX1dKSkKCihkZWZuLSBkdW1teS1zdHlsZXMKICAiVGhlIGNvbXBvbmVudCBkaXNwbGF5aW5nIHRoZSBkdW1teSBzdHlsZSBidXR0b24gdG8gd2hpY2ggc3R5bGVzIGFyZSBhbmNob3JlZC4iCiAgW10KICAoci9jcmVhdGUtY2xhc3MKICAgIHs6Y29tcG9uZW50LWRpZC1tb3VudCAgc3RvcmUtc3R5bGVzLWVsZW1lbnQKICAgICA6Y29tcG9uZW50LWRpZC11cGRhdGUgc3RvcmUtc3R5bGVzLWVsZW1lbnQKICAgICA6ZGlzcGxheS1uYW1lICAgICAgICAgInN0eWxlcy1idXR0b24iCiAgICAgOnJlYWdlbnQtcmVuZGVyICAgICAgIHJlbmRlci1kdW1teS1zdHlsZXN9KSkKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBzdHlsZS1zZWxlY3QvYWxsLXByb3BzLgogIDpzdHlsZS1zZWxlY3Qvb24tY2xvc2UgLSBBIGtleXdvcmQgb3IgYSB2ZWN0b3Igb2YgdGhlIFJlLWZyYW1lIGV2ZW50IGNhbGxlZCB3aGVuIHRoZSBzdHlsZSBzZWxlY3QgaXMgY2xvc2VkLgogIDpzdHlsZS1zZWxlY3Qvb24tY2hhbmdlIC0gQSBrZXl3b3JkIG9yIGEgdmVjdG9yIG9mIHRoZSBSZS1mcmFtZSBldmVudCBjYWxsZWQgd2hlbiBhIHByb3BlcnR5IGlzIGNoYW5nZWQsIHRvZ2V0aGVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aXRoIHRoZSBwcm9wZXJ0eSBuYW1lIGFuZCBuZXcgdmFsdWUuCiAgOnN0eWxlLXNlbGVjdC9hbmNob3IgLSBBbiBlbGVtZW50IHRvIHdoaWNoIHN0eWxlLWxpc3QgaXMgYW5jaG9yZWQuCiAgOnN0eWxlLXNlbGVjdC9wcm9wcyAtIEEgcHJvcHMgbWFwIG9mIHRoZSBjdXJyZW50IHZhbHVlcy4K</text>
