@@ -149,11 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/klavik/project.clj" timestamp="1588183406503">
+      <file name="C:/Shared/klavik/project.clj" timestamp="1588190689085">
         <mark key="[" line="4" column="32" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="19" />
+        <mark key="]" line="25" column="50" />
+        <mark key="^" line="25" column="50" />
+        <mark key="." line="25" column="49" />
       </file>
       <file name="C:/Shared/klavik/.gitignore" timestamp="1588183043101">
         <mark key="[" line="5" column="6" />
@@ -161,11 +161,17 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/index.cljc" timestamp="1588181801261">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="15" />
+      <file name="C:/Shared/klavik/src/klavik/site/sites.cljc" timestamp="1588190662792">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/index.cljc" timestamp="1588190293844">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="31" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1588183807011">
         <mark key="[" line="46" column="13" />
@@ -188,20 +194,17 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="/" timestamp="1588177404234">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Shared/klavik/src/klavik/dev.cljs" timestamp="1588190652737">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="25" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/styles_select.clj" timestamp="1588176756812">
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="39" column="82" />
-        <mark key="^" line="39" column="82" />
-        <mark key="." line="39" column="81" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/dev.cljs" timestamp="1588184844885">
-        <mark key="[" line="32" column="30" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="28" />
+      <file name="C:/Shared/klavik/src/klavik/site/index.cljc" timestamp="1588190669439">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/routes.cljc" timestamp="1588184591904">
         <mark key="[" line="3" column="8" />
@@ -209,31 +212,14 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/css.clj" timestamp="1588181809693">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-        <mark key="." line="3" column="25" />
-      </file>
-      <file name="C:/Shared/klavik/package.json" timestamp="1588179900033">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="25" />
-      </file>
-      <file name="C:/Shared/klavik/resources/app.html" timestamp="1588179767524">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/REPL.clj" timestamp="1588181947268">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/contact.cljc" timestamp="1588180808253">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="8" column="69" />
-        <mark key="^" line="8" column="69" />
-        <mark key="." line="8" column="68" />
+      <file name="C:/Shared/klavik/src/klavik/css/core.clj" timestamp="1588190578799">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1588184906065">
         <mark key="[" line="0" column="0" />
@@ -244,12 +230,24 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="36" column="53" />
       </file>
+      <file name="C:/Shared/klavik/src/klavik/site/contact.cljc" timestamp="1588190675006">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/about.clj" timestamp="1588183878206" />
-      <file name="C:/Shared/klavik/src/klavik/build.clj" timestamp="1588184499156">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="21" column="43" />
-        <mark key="." line="28" column="0" />
+      <file name="C:/Shared/klavik/src/klavik/build.clj" timestamp="1588190644806">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/site/routes.cljc" timestamp="1588190620054">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="15" />
       </file>
     </filemarks>
     <jumps>
