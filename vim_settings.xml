@@ -161,7 +161,7 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588269503466">
+      <file name="/Dummy.txt" timestamp="1588285149003">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -176,16 +176,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="66" />
       </file>
-      <file name="C:/Shared/klavik/project.clj" timestamp="1588263817668">
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/hiccup/tags.cljc" timestamp="1588266880353">
         <mark key="[" line="44" column="0" />
         <mark key="." line="44" column="20" />
       </file>
-      <file name="/REPL.txt" timestamp="1588268989356">
+      <file name="/REPL.txt" timestamp="1588283669535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/volcano/LICENSE" timestamp="1588279156316">
@@ -194,19 +189,13 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="C:/Shared/klavik/shadow-cljs.edn" timestamp="1588253284892">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="45" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="45" />
-      </file>
       <file name="C:/Shared/klavik/src/volcano/build.clj" timestamp="1588267160258">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="18" column="100" />
         <mark key="." line="18" column="99" />
         <mark key="^" line="18" column="100" />
       </file>
-      <file name="/" timestamp="1588282477149">
+      <file name="/" timestamp="1588283267988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/build.clj" timestamp="1588263878003">
@@ -227,10 +216,6 @@
         <mark key="^" line="20" column="61" />
         <mark key="." line="20" column="60" />
       </file>
-      <file name="/REPL.clj" timestamp="1588268989355">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Shared/volcano/project.clj" timestamp="1588279205891">
         <mark key="]" line="13" column="24" />
         <mark key="." line="13" column="23" />
@@ -242,11 +227,11 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/site/index.cljc" timestamp="1588268353789">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="9" column="23" />
+      <file name="C:/Shared/klavik/src/klavik/site/index.cljc" timestamp="1588285141326">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/test.txt" timestamp="1588268813331">
         <mark key="[" line="0" column="93" />
@@ -254,6 +239,10 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="64" />
       </file>
+      <file name="/Dummy.regexp" timestamp="1588283279187">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/klavik/build/index.html" timestamp="1588284112275" />
     </filemarks>
     <jumps>
       <jump line="10" column="44" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
