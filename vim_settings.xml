@@ -172,13 +172,11 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="C:/Shared/klavik/resources/index.html" timestamp="1588265347473">
+      <file name="C:/Shared/klavik/project.clj" timestamp="1588289754025">
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="66" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/hiccup/tags.cljc" timestamp="1588266880353">
-        <mark key="[" line="44" column="0" />
-        <mark key="." line="44" column="20" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="47" />
       </file>
       <file name="/REPL.txt" timestamp="1588283669535">
         <mark key="[" line="0" column="0" />
@@ -189,13 +187,19 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="12" />
       </file>
+      <file name="C:/Shared/klavik/shadow-cljs.edn" timestamp="1588289758697">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="5" column="45" />
+      </file>
       <file name="C:/Shared/klavik/src/volcano/build.clj" timestamp="1588267160258">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="18" column="100" />
         <mark key="." line="18" column="99" />
         <mark key="^" line="18" column="100" />
       </file>
-      <file name="/" timestamp="1588283267988">
+      <file name="/" timestamp="1588289692648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/klavik/src/volcano/hiccup.cljs" timestamp="1588266950505">
@@ -234,7 +238,7 @@
         <mark key="." line="0" column="64" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/core.clj" timestamp="1588287808032">
-        <mark key="[" line="5" column="6" />
+        <mark key="[" line="3" column="6" />
       </file>
       <file name="/Dummy.regexp" timestamp="1588283279187">
         <mark key="[" line="0" column="0" />
@@ -347,7 +351,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA6Z2FyZGVuIHs6YnVpbGRzIFt7OmlkICAgICAgICAgICAia2xhdmlrIgogICAgICAgICAgICAgICAgICAgICA6c291cmNlLXBhdGhzIFsic3JjIl0KICAgICAgICAgICAgICAgICAgICAgOnN0eWxlc2hlZXQgICBrbGF2aWsuY3NzLmNvcmUvc3R5bGVzCiAgICAgICAgICAgICAgICAgICAgIDpjb21waWxlciAgICAgezpvdXRwdXQtdG8gICAgICJyZXNvdXJjZXMvY3NzL2tsYXZpay5jc3MiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwcmV0dHktcHJpbnQ/IHRydWV9fV19Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbb3JncGFkL3Z1bGNhbm8gIjAuMS4wLVNOQVBTSE9UIl0K</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -356,34 +360,34 @@
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IGhpY2N1cCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbb3JncGFkL3Z1bGNhbm8gIjAuMS4wLVNOQVBTSE9UIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA6Z2FyZGVuIHs6YnVpbGRzIFt7OmlkICAgICAgICAgICAia2xhdmlrIgogICAgICAgICAgICAgICAgICAgICA6c291cmNlLXBhdGhzIFsic3JjIl0KICAgICAgICAgICAgICAgICAgICAgOnN0eWxlc2hlZXQgICBrbGF2aWsuY3NzLmNvcmUvc3R5bGVzCiAgICAgICAgICAgICAgICAgICAgIDpjb21waWxlciAgICAgezpvdXRwdXQtdG8gICAgICJyZXNvdXJjZXMvY3NzL2tsYXZpay5jc3MiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwcmV0dHktcHJpbnQ/IHRydWV9fV19Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbaGljY3VwICIxLjAuNSJdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbbWUucmF5bmVzL2ZzICIxLjQuNiJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA6Y2xlYW4tdGFyZ2V0cyBeezpwcm90ZWN0IGZhbHNlfSBbInJlc291cmNlcy9qcyIgInJlc291cmNlcy9jc3MiICJ0YXJnZXQiXQo=</text>
+        <text encoding="base64">ICA6Z2FyZGVuIHs6YnVpbGRzIFt7OmlkICAgICAgICAgICAia2xhdmlrIgogICAgICAgICAgICAgICAgICAgICA6c291cmNlLXBhdGhzIFsic3JjIl0KICAgICAgICAgICAgICAgICAgICAgOnN0eWxlc2hlZXQgICBrbGF2aWsuY3NzLmNvcmUvc3R5bGVzCiAgICAgICAgICAgICAgICAgICAgIDpjb21waWxlciAgICAgezpvdXRwdXQtdG8gICAgICJyZXNvdXJjZXMvY3NzL2tsYXZpay5jc3MiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwcmV0dHktcHJpbnQ/IHRydWV9fV19Cgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbYmluYXJ5YWdlL2RldnRvb2xzICIwLjkuMTAiXQo=</text>
+        <text encoding="base64">ICA6Y2xlYW4tdGFyZ2V0cyBeezpwcm90ZWN0IGZhbHNlfSBbInJlc291cmNlcy9qcyIgInJlc291cmNlcy9jc3MiICJ0YXJnZXQiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbZ2FyZGVuICIxLjMuOSJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbdGhoZWxsZXIvc2hhZG93LWNsanMgIjIuOC4xMDYiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbYmluYXJ5YWdlL2RldnRvb2xzICIwLjkuMTAiXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA7IENsb2p1cmVTY3JpcHQgZGVwZW5kZW5jaWVzLCBzaG91bGQgZHVwbGljYXRlIGRlcGVuZGVuY2llcyBmcm9tIHNoYWRvdy1jbGpzLmVkbiBmb3IgQ3Vyc2l2ZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbZ2FyZGVuICIxLjMuOSJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IHJlc291cmNlcykKICAoY2xvanVyZS5wcHJpbnQvcHByaW50IGhpY2N1cCkKICAoY2xvanVyZS5wcHJpbnQvcHByaW50IChmaXJzdCAoZXhwYW5kLXJlc291cmNlcy1pbm5lciByZXNvdXJjZXMgaGljY3VwKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbdGhoZWxsZXIvc2hhZG93LWNsanMgIjIuOC4xMDYiXQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
