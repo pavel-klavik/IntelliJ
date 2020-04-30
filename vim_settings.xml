@@ -150,11 +150,11 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Shared/orgpad/src/orgpad/common/hiccup/attributes.cljc" timestamp="1588191036895" />
-      <file name="C:/Shared/klavik/project.clj" timestamp="1588248809876">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="15" />
-        <mark key="^" line="15" column="15" />
-        <mark key="." line="15" column="14" />
+      <file name="C:/Shared/klavik/project.clj" timestamp="1588253294378">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="16" column="15" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/Shared/klavik/src/volcano/build.clj" timestamp="1588248897838">
         <mark key="[" line="2" column="20" />
@@ -174,32 +174,31 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/index.cljc" timestamp="1588190293844">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="31" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/sites.cljc" timestamp="1588248907971">
+      <file name="C:/Shared/klavik/src/klavik/sites.cljc" timestamp="1588251826314">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/.m2/repository/venantius/accountant/0.2.5/accountant-0.2.5.jar!/accountant/core.cljs" timestamp="1588253261657" />
       <file name="/REPL.txt" timestamp="1588191769332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/klavik/shadow-cljs.edn" timestamp="1588248825996">
-        <mark key="[" line="11" column="60" />
-        <mark key="]" line="11" column="61" />
-        <mark key="." line="11" column="60" />
-        <mark key="^" line="11" column="61" />
+      <file name="C:/Shared/klavik/shadow-cljs.edn" timestamp="1588253284892">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="45" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/dev.cljs" timestamp="1588190652737">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="25" />
+      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1588253281625">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="45" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/dev.cljs" timestamp="1588252613545">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/site/index.cljc" timestamp="1588249778240">
         <mark key="[" line="2" column="25" />
@@ -207,22 +206,22 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/routes.cljc" timestamp="1588248902140">
+      <file name="C:/Shared/klavik/src/klavik/routes.cljc" timestamp="1588252001396">
         <mark key="[" line="0" column="15" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="9" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/config.cljc" timestamp="1588253209275">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="/REPL.clj" timestamp="1588191769330">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/css/core.clj" timestamp="1588190578799">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588192232244">
+      <file name="/Dummy.txt" timestamp="1588250807154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -239,17 +238,11 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="13" />
       </file>
-      <file name="C:/Shared/klavik/src/volcano/dev.cljs" timestamp="1588248889491">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="20" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/site/routes.cljc" timestamp="1588190620054">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="15" />
+      <file name="C:/Shared/klavik/src/volcano/dev.cljs" timestamp="1588253373732">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -358,43 +351,56 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAibmV3LXJvdXRlIiBuZXctcm91dGUpCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBjb25maWcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm4gbW91bnQtcm9vdAogICJSZW5kZXJpbmcgb2YgYXBwIEhUTUwgaW5zaWRlIDpkaXYjYXBwIGVsZW1lbnQuIgogIFtdCiAgKGxheW91dC9zdGFydC13ZWItd29ya2VycyEpCiAgKHJmL2NsZWFyLXN1YnNjcmlwdGlvbi1jYWNoZSEpCiAgKHJmL2Rpc3BhdGNoIFs6bGF5b3V0L2luaXRdKQogIChyLWRvbS9yZW5kZXIgW3Jvb3Qvcm9vdF0KICAgICAgICAgICAgICAgIDtbcm9vdC90aGVtZS1wcm92aWRlcl0KICAgICAgICAgICAgICAgICguZ2V0RWxlbWVudEJ5SWQganMvZG9jdW1lbnQgImFwcCIpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtiaW5hcnlhZ2UvZGV2dG9vbHMgIjAuOS4xMCJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAibmV3LXJvdXRlIiBuZXctcm91dGUpCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBjb25maWcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgIm5ldy1yb3V0ZSIgcGF0aCkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBjb25maWcgcGF0aCAoYi9tYXRjaC1yb3V0ZSByb3V0ZXMgcGF0aCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIChwcmludGxuIGNvbnRlbnQpCg==</text>
+        <text>(defn mount-root
+  &quot;Rendering of app HTML inside :div#app element.&quot;
+  []
+  (r-dom/render [root]
+                (.getElementById js/document &quot;app&quot;)))
+
+(defn init
+  &quot;Init function of the client.&quot;
+  []
+  (accountant/configure-navigation!
+    {:nav-handler       update-route
+     :path-exists?      #(:handler (b/match-route routes/routes %))
+     :reload-same-path? true})
+  (mount-root))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChwcmludGxuIHBhdGgpCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAibmV3LXJvdXRlIiBuZXctcm91dGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAocHJuIHNpdGUgaGljY3VwIChiL3BhdGgtZm9yIHJvdXRlcy9yb3V0ZXMgc2l0ZSkpCg==</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgIm5ldy1yb3V0ZSIgcGF0aCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGRlZm4gLW1haW4gWyYgYXJnc10KICAoc3RhcnQtYXBwIGFyZ3MpKQ==</text>
+        <text encoding="base64">ICAgIChwcmludGxuIGNvbnRlbnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChwcmludGxuIHBhdGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA6cmVzb3VyY2UtcGF0aHMgWyJyZXNvdXJjZXMiXQo=</text>
+        <text encoding="base64">ICAocHJuIHNpdGUgaGljY3VwIChiL3BhdGgtZm9yIHJvdXRlcy9yb3V0ZXMgc2l0ZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L3Jlc291cmNlcy9qcy8K</text>
+        <text encoding="base64">KGRlZm4gLW1haW4gWyYgYXJnc10KICAoc3RhcnQtYXBwIGFyZ3MpKQ==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
