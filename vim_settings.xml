@@ -43,10 +43,10 @@
         <entry>:wa</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>waa</entry>
-        <entry>w</entry>
         <entry>w'</entry>
         <entry>a</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -155,10 +155,6 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/hiccup/tags.cljc" timestamp="1588266880353">
-        <mark key="[" line="44" column="0" />
-        <mark key="." line="44" column="20" />
-      </file>
       <file name="C:/Shared/volcano/LICENSE" timestamp="1588279156316">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="13" />
@@ -183,6 +179,7 @@
         <mark key="^" line="13" column="24" />
       </file>
       <file name="C:/Program Files/Jdk-11.0.2/lib/src.zip!/java.base/java/io/File.java" timestamp="1588296101959" />
+      <file name="C:/Shared/volcano/package.json" timestamp="1588356826657" />
       <file name="C:/Shared/klavik/src/volcano/hiccup.cljc" timestamp="1588268208245">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="36" />
@@ -219,11 +216,11 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="C:/Shared/volcano/README.md" timestamp="1588348741251">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
-        <mark key="^" line="219" column="0" />
+      <file name="C:/Shared/volcano/README.md" timestamp="1588356900376">
+        <mark key="[" line="135" column="5" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+        <mark key="^" line="241" column="0" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/test.txt" timestamp="1588268813331">
         <mark key="[" line="0" column="93" />
@@ -231,7 +228,7 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588337802192">
+      <file name="/Dummy.txt" timestamp="1588356908219">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -388,7 +385,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICBbZ2FyZGVuICIxLjMuOSJdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
