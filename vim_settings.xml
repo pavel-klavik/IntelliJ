@@ -45,8 +45,8 @@
         <entry>wva</entry>
         <entry>Wa</entry>
         <entry>v</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,11 +149,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/klavik/src/klavik/config.cljc" timestamp="1588269463283">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="17" column="37" />
+      <file name="C:/Shared/volcano/README.md" timestamp="1588341463740">
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="C:/Shared/klavik/project.clj" timestamp="1588289754025">
         <mark key="[" line="5" column="0" />
@@ -172,25 +171,25 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="C:/Shared/volcano/src/volcano/hiccup.cljc" timestamp="1588339174503">
+      <file name="C:/Shared/volcano/src/volcano/hiccup.cljc" timestamp="1588340823715">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="28" column="27" />
         <mark key="." line="28" column="26" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="/REPL.clj" timestamp="1588339827331">
-        <mark key="[" line="0" column="0" />
+      <file name="/REPL.clj" timestamp="1588340505787">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="C:/Shared/volcano/src/volcano/dev.cljs" timestamp="1588340843812">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="73" />
+        <mark key="^" line="20" column="73" />
+        <mark key="." line="20" column="72" />
       </file>
       <file name="C:/Shared/volcano/project.clj" timestamp="1588279205891">
         <mark key="]" line="13" column="24" />
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="24" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/test.txt" timestamp="1588268813331">
-        <mark key="[" line="0" column="93" />
-        <mark key="]" line="0" column="65" />
-        <mark key="^" line="0" column="65" />
-        <mark key="." line="0" column="64" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/core.clj" timestamp="1588287808032">
         <mark key="[" line="3" column="6" />
@@ -198,7 +197,7 @@
       <file name="/Dummy.regexp" timestamp="1588283279187">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588339456943">
+      <file name="/Dummy.txt" timestamp="1588340850108">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -379,7 +378,7 @@
         <text encoding="base64">ICA6Y2xlYW4tdGFyZ2V0cyBeezpwcm90ZWN0IGZhbHNlfSBbInJlc291cmNlcy9qcyIgInJlc291cmNlcy9jc3MiICJ0YXJnZXQiXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
