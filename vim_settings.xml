@@ -149,23 +149,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/klavik/src/klavik/pages/kontakt/praha.cljc" timestamp="1588460908814">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="42" />
+        <mark key="^" line="3" column="43" />
+      </file>
       <file name="C:/Shared/klavik/src/klavik/pages/o_nas.cljc" timestamp="1588459324235">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="19" />
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/config.cljc" timestamp="1588456685336">
-        <mark key="[" line="34" column="91" />
-        <mark key="]" line="36" column="43" />
-        <mark key="^" line="36" column="43" />
-        <mark key="." line="36" column="42" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/css/footer.clj" timestamp="1588452486014">
-        <mark key="[" line="62" column="33" />
-        <mark key="]" line="63" column="40" />
-        <mark key="^" line="63" column="40" />
-        <mark key="." line="63" column="39" />
+      <file name="C:/Shared/klavik/src/klavik/css/footer.clj" timestamp="1588461209261">
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="35" column="39" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="35" column="38" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/pages/dane_a_ucetnictvi.cljc" timestamp="1588458648830">
         <mark key="[" line="1" column="39" />
@@ -173,70 +173,76 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="C:/Shared/klavik/project.clj" timestamp="1588450949806">
-        <mark key="[" line="27" column="55" />
-        <mark key="]" line="27" column="56" />
-        <mark key="^" line="27" column="56" />
-        <mark key="." line="27" column="55" />
+      <file name="C:/Shared/klavik/src/klavik/pages/ceny.cljc" timestamp="1588460550619">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="3" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/ceny.cljc" timestamp="1588459345896">
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="40" />
+      <file name="C:/Shared/klavik/src/klavik/pages/button.cljc" timestamp="1588462505614">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="36" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/image.cljc" timestamp="1588459385225">
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="13" />
-        <mark key="^" line="41" column="14" />
+      <file name="C:/Shared/klavik/src/klavik/pages/image.cljc" timestamp="1588462699093">
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="12" />
+        <mark key="." line="65" column="11" />
+        <mark key="^" line="65" column="12" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/css/colors.clj" timestamp="1588456031179">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="46" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="11" column="46" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/css/core.clj" timestamp="1588453577355">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="39" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/footer.cljc" timestamp="1588450771631">
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="46" column="32" />
-        <mark key="^" line="46" column="32" />
-        <mark key="." line="46" column="31" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/index.cljc" timestamp="1588457332305">
-        <mark key="[" line="7" column="0" />
+      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/obcanske_pravo.cljc" timestamp="1588461697643">
+        <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="19" />
         <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="3" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588451317643">
+      <file name="C:/Shared/klavik/src/klavik/css/colors.clj" timestamp="1588462285003">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/css/core.clj" timestamp="1588462301634">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="15" column="54" />
+        <mark key="." line="15" column="53" />
+        <mark key="^" line="15" column="54" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/pages/kontakt/address.cljc" timestamp="1588461190067">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="16" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/pages/kontakt/chrudim.cljc" timestamp="1588460888590">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/pages/footer.cljc" timestamp="1588462877626">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="43" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/index.cljc" timestamp="1588462903107">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="66" />
+        <mark key="." line="19" column="65" />
+        <mark key="^" line="19" column="66" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588462954678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/index.cljc" timestamp="1588457256523">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="3" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/danove_pravo.cljc" timestamp="1588450568497">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="24" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/css/button.clj" timestamp="1588451234974">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/danove_pravo.cljc" timestamp="1588461717058">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="42" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/pages/menu.cljc" timestamp="1588458617929">
         <mark key="[" line="0" column="11" />
@@ -244,29 +250,23 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/css/menu.clj" timestamp="1588451288007">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="47" />
-        <mark key="^" line="2" column="47" />
-        <mark key="." line="2" column="46" />
+      <file name="C:/Shared/klavik/src/klavik/css/menu.clj" timestamp="1588462084997">
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="26" column="67" />
+        <mark key="^" line="26" column="67" />
+        <mark key="." line="26" column="66" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/css/image.clj" timestamp="1588459095361">
-        <mark key="[" line="29" column="33" />
-        <mark key="]" line="29" column="33" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="33" />
+      <file name="C:/Shared/klavik/src/klavik/css/image.clj" timestamp="1588462210748">
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="39" column="35" />
+        <mark key="." line="39" column="34" />
+        <mark key="^" line="39" column="35" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/dev.cljs" timestamp="1588450718766">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="24" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/gdpr.cljc" timestamp="1588450453150">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="24" />
+      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/obchodni_pravo.cljc" timestamp="1588461704940">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -375,7 +375,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChpbWFnZS9vLW5hcykKICAgIChmb290ZXIva29udGFrdHVqdGUtbmFzKQogICAgKGZvb3Rlci9mb290ZXIpCg==</text>
+        <text encoding="base64">ICAgICBbOmRpdiBbOmEgezpocmVmIChiL3BhdGgtZm9yIHJvdXRlcy9yb3V0ZXMgKX0gXV0KICAgICBbOmRpdiBbOmEgezpocmVmIChiL3BhdGgtZm9yIHJvdXRlcy9yb3V0ZXMgOnBhZ2Uvb2JjYW5za2UtcHJhdm8pfSBdXQogICAgIFs6ZGl2IFs6YSB7OmhyZWYgKGIvcGF0aC1mb3Igcm91dGVzL3JvdXRlcyA6cGFnZS9vYmNob2RuaS1wcmF2byl9IF1dCg==</text>
       </register>
       <register name="-" type="4">
         <text>#e0a15d</text>
@@ -384,34 +384,34 @@
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIChpbWFnZS9vLW5hcykKICAgIChmb290ZXIva29udGFrdHVqdGUtbmFzKQogICAgKGZvb3Rlci9mb290ZXIpCg==</text>
+        <text encoding="base64">ICAgIChpbWFnZS9hZHZva2F0bmktc2x1emJ5KQogICAgKGZvb3Rlci9rb250YWt0dWp0ZS1uYXMpCiAgICAoZm9vdGVyL2Zvb3RlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOmhlaWdodCAgICAgKHBlcmNlbnQgMTAwKQo=</text>
+        <text encoding="base64">ICAgICBbOmRpdiBbOmEgezpocmVmIChiL3BhdGgtZm9yIHJvdXRlcy9yb3V0ZXMgKX0gXV0KICAgICBbOmRpdiBbOmEgezpocmVmIChiL3BhdGgtZm9yIHJvdXRlcy9yb3V0ZXMgOnBhZ2Uvb2JjYW5za2UtcHJhdm8pfSBdXQogICAgIFs6ZGl2IFs6YSB7OmhyZWYgKGIvcGF0aC1mb3Igcm91dGVzL3JvdXRlcyA6cGFnZS9vYmNob2RuaS1wcmF2byl9IF1dCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChtZW51L21lbnUgOnBhZ2UvYWR2b2thdG5pLXNsdXpieSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2tsYXZpay5wYWdlcy5rb250YWt0LnByYWhhIDphcyBwcmFoYV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFs6ZGl2IHs6c3R5bGUgezpoZWlnaHQgMzAwfX1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2tsYXZpay5wYWdlcy5rb250YWt0LmNocnVkaW0gOmFzIGNocnVkaW1dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJBZHZva2FjaWUsIGRhbmUgYSB1Y2V0bmljdHZpIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDsiQWR2b2vhdG7tLCBkYfJvduEgYSD66GV0bu0ga2FuY2Vs4fgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgOmJhY2tncm91bmQtY29sb3IgImJsYWNrIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOmJhY2tncm91bmQtY29sb3IgImJsYWNrIgogICAgICAgICAgICAgICAgICA6Y29sb3IgICAgICAgICAgICAid2hpdGUiCiAgICAgICAgICAgICAgICAgIDpmb250LXNpemUgICAgICAgIChlbSAyKQo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgOmhlaWdodAo=</text>
+        <text encoding="base64">KGRlZm4gYWRkcmVzcyBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgWzoubG9nb10K</text>
+        <text encoding="base64">ICAgIChmb290ZXIva29udGFrdHVqdGUtbmFzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
