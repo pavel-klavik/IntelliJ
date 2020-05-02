@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dispatch</entry>
         <entry>rf</entry>
         <entry>size</entry>
         <entry>class</entry>
@@ -25,6 +24,7 @@
         <entry>unit-buttons</entry>
         <entry>style</entry>
         <entry>mkdir</entry>
+        <entry>site</entry>
       </history-search>
       <history-cmd>
         <entry>cookie-attrs</entry>
@@ -149,11 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/klavik/src/klavik/site/advokatni_sluzby/obchodni_pravo.cljc" timestamp="1588364499218">
-        <mark key="[" line="0" column="47" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="17" />
+      <file name="C:/Shared/volcano/src/volcano/build.clj" timestamp="1588424587902">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="55" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/site/kontakt/chrudim.cljc" timestamp="1588366642662">
         <mark key="[" line="8" column="37" />
@@ -167,8 +167,20 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="C:/Shared/volcano/src/volcano/dev.cljs" timestamp="1588424616431">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="86" />
+        <mark key="^" line="21" column="86" />
+        <mark key="." line="21" column="85" />
+      </file>
       <file name="/REPL.txt" timestamp="1588375864012">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/klavik/shadow-cljs.edn" timestamp="1588423699123">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="45" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/widgets/styles_select.clj" timestamp="1588371013751">
         <mark key="[" line="28" column="56" />
@@ -206,23 +218,18 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="C:/Shared/volcano/README.md" timestamp="1588385126542">
-        <mark key="[" line="135" column="27" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="135" column="0" />
+      <file name="C:/Shared/volcano/README.md" timestamp="1588424977780">
+        <mark key="'" line="35" column="61" />
+        <mark key="[" line="211" column="56" />
+        <mark key="]" line="211" column="60" />
+        <mark key="." line="211" column="59" />
+        <mark key="^" line="211" column="60" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/site/kontakt/kontakt_chrudim.cljc" timestamp="1588366410226">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/site/advokatni_sluzby/obcanske_pravo.cljc" timestamp="1588364490611">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="17" />
+      <file name="C:/Shared/volcano/src/volcano/hiccup.cljc" timestamp="1588424245539">
+        <mark key="[" line="8" column="73" />
+        <mark key="]" line="9" column="95" />
+        <mark key="^" line="9" column="95" />
+        <mark key="." line="9" column="94" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/site/kontakt/people.cljc" timestamp="1588366833823">
         <mark key="[" line="3" column="3" />
@@ -239,16 +246,10 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588385170496">
+      <file name="/Dummy.txt" timestamp="1588385243495">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/site/advokatni_sluzby/danove_pravo.cljc" timestamp="1588364481306">
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="17" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/build.clj" timestamp="1588384285679">
         <mark key="[" line="5" column="20" />
@@ -264,23 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="44" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="17" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="29" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="7" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="9" column="44" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="16" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="28" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="123" column="11" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="57" column="40" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="83" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="88" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="93" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="98" column="52" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="101" column="24" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="102" column="24" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="118" column="62" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="129" column="49" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="136" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="3" column="31" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_image.cljs" />
@@ -364,6 +348,23 @@
       <jump line="107" column="48" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="108" column="21" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="0" column="0" filename="/REPL.clj" />
+      <jump line="213" column="107" filename="C:/Shared/volcano/README.md" />
+      <jump line="219" column="47" filename="C:/Shared/volcano/README.md" />
+      <jump line="220" column="117" filename="C:/Shared/volcano/README.md" />
+      <jump line="225" column="6" filename="C:/Shared/volcano/README.md" />
+      <jump line="47" column="16" filename="C:/Shared/volcano/README.md" />
+      <jump line="83" column="40" filename="C:/Shared/volcano/README.md" />
+      <jump line="91" column="67" filename="C:/Shared/volcano/README.md" />
+      <jump line="105" column="31" filename="C:/Shared/volcano/README.md" />
+      <jump line="171" column="82" filename="C:/Shared/volcano/README.md" />
+      <jump line="172" column="92" filename="C:/Shared/volcano/README.md" />
+      <jump line="173" column="10" filename="C:/Shared/volcano/README.md" />
+      <jump line="192" column="89" filename="C:/Shared/volcano/README.md" />
+      <jump line="202" column="86" filename="C:/Shared/volcano/README.md" />
+      <jump line="206" column="105" filename="C:/Shared/volcano/README.md" />
+      <jump line="210" column="70" filename="C:/Shared/volcano/README.md" />
+      <jump line="211" column="59" filename="C:/Shared/volcano/README.md" />
+      <jump line="35" column="61" filename="C:/Shared/volcano/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -375,7 +376,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text>site</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgOm9wZW4tZGF5cyAgIlBvbmTsbO0gLSBQ4XRlayIKICAgICAgICAgICAgOm9wZW4taG91cnMgIjk6MDAgLSAxNzowMCIK</text>
@@ -414,9 +415,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>style</last-search>
+      <last-search>site</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern>site</last-pattern>
       <last-replace />
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
