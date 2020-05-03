@@ -5,46 +5,46 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>rf</entry>
-        <entry>size</entry>
-        <entry>class</entry>
-        <entry>orgpage</entry>
-        <entry>delete</entry>
-        <entry>edit</entry>
-        <entry>suggestion</entry>
-        <entry>sugg</entry>
-        <entry>error</entry>
-        <entry>get-curr</entry>
-        <entry>#zoom-info</entry>
-        <entry>search</entry>
-        <entry>,</entry>
-        <entry>styles</entry>
-        <entry>link-creati</entry>
-        <entry>link-cre</entry>
-        <entry>unit-buttons</entry>
-        <entry>style</entry>
-        <entry>mkdir</entry>
-        <entry>site</entry>
+        <entry>load-usergroups</entry>
+        <entry>all-users</entry>
+        <entry>(#......)</entry>
+        <entry>(\#......)</entry>
+        <entry>@</entry>
+        <entry>\(#......\)</entry>
+        <entry>-color</entry>
+        <entry>:</entry>
+        <entry>;</entry>
+        <entry>%</entry>
+        <entry>rem</entry>
+        <entry>em</entry>
+        <entry>(em</entry>
+        <entry>(px</entry>
+        <entry>(percent</entry>
+        <entry>677</entry>
+        <entry>958</entry>
+        <entry>028</entry>
+        <entry>fixed</entry>
+        <entry>copy</entry>
       </history-search>
       <history-cmd>
-        <entry>cookie-attrs</entry>
-        <entry>wma</entry>
-        <entry encoding="base64">JzwsJz5zL2JsdWUvZ3JlZW4vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2dyZWVuL3JlZC9n</entry>
-        <entry>wwa</entry>
-        <entry>orgpage/title</entry>
-        <entry>orgpage\/title</entry>
-        <entry encoding="base64">JzwsJz5zL14vICAv</entry>
-        <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
-        <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
-        <entry>ww</entry>
-        <entry>:w</entry>
-        <entry>;wa</entry>
-        <entry>:wa</entry>
-        <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
-        <entry>waa</entry>
-        <entry>w'</entry>
+        <entry>va</entry>
+        <entry>wv</entry>
         <entry>a</entry>
+        <entry encoding="base64">JzwsJz5zLygjLi4uLi4uKS8iXDEiL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyhcIy4uLi4uLikvIlwxIi9n</entry>
+        <entry encoding="base64">JzwsJz5zL0AvOi9n</entry>
+        <entry encoding="base64">JzwsJz5zL1woIy4uLi4uLlwpLyJcMSIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLy1jb2xvci8vZw==</entry>
+        <entry>wna</entry>
+        <entry encoding="base64">JzwsJz4hc29ydA==</entry>
+        <entry>wma</entry>
+        <entry encoding="base64">JzwsJz5zLzovL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
+        <entry>wva</entry>
+        <entry>Wa</entry>
+        <entry>v</entry>
+        <entry>wa'</entry>
+        <entry>wa\</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
@@ -149,122 +149,136 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/klavik/project.clj" timestamp="1588464897995">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="51" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="30" column="51" />
-      </file>
-      <file name="C:/Shared/volcano/src/volcano/build.clj" timestamp="1588424587902">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="10" column="55" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/site/kontakt/chrudim.cljc" timestamp="1588366642662">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="37" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/css/colors.clj" timestamp="1588371080792">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="18" />
-      </file>
-      <file name="C:/Shared/volcano/src/volcano/dev.cljs" timestamp="1588424616431">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="86" />
-        <mark key="^" line="21" column="86" />
-        <mark key="." line="21" column="85" />
-      </file>
-      <file name="/REPL.txt" timestamp="1588375864012">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/klavik/shadow-cljs.edn" timestamp="1588423699123">
-        <mark key="[" line="15" column="59" />
-        <mark key="]" line="4" column="45" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="45" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/styles_select.clj" timestamp="1588371013751">
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="39" column="82" />
-        <mark key="." line="39" column="81" />
-        <mark key="^" line="39" column="82" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/dev.cljs" timestamp="1588385239680">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="25" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/site/index.cljc" timestamp="1588376987979">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/site/footer.cljc" timestamp="1588384336584">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="11" column="3" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/config.cljc" timestamp="1588384279475">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="14" column="4" />
-      </file>
-      <file name="C:/Shared/volcano/README.md" timestamp="1588424977780">
-        <mark key="'" line="35" column="61" />
-        <mark key="[" line="211" column="56" />
-        <mark key="]" line="211" column="60" />
-        <mark key="." line="211" column="59" />
-        <mark key="^" line="211" column="60" />
-      </file>
-      <file name="C:/Shared/volcano/src/volcano/hiccup.cljc" timestamp="1588424245539">
-        <mark key="[" line="8" column="73" />
-        <mark key="]" line="9" column="95" />
-        <mark key="^" line="9" column="95" />
-        <mark key="." line="9" column="94" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/site/kontakt/people.cljc" timestamp="1588366833823">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="11" column="51" />
-        <mark key="^" line="11" column="51" />
-        <mark key="." line="11" column="50" />
-      </file>
-      <file name="/REPL.clj" timestamp="1588375864008">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/css/core.clj" timestamp="1588381448125">
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="40" column="24" />
-        <mark key="." line="40" column="23" />
-        <mark key="^" line="40" column="24" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588465035662">
+      <file name="/Dummy.txt" timestamp="1588449907856">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/build.clj" timestamp="1588384285679">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="18" />
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/project.clj" timestamp="1588449286828">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="40" />
+        <mark key="^" line="22" column="41" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/site/gdpr.cljc" timestamp="1588369199049">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="17" />
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/css/core.clj" timestamp="1588447660156">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/default.less" timestamp="1588447693613">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/routes.cljc" timestamp="1588443996998">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/Shared/volcano-template/README.md" timestamp="1588449516054">
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="C:/Shared/volcano-template/CHANGELOG.md" timestamp="1588445665129">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/pages/contact.cljc" timestamp="1588444943290">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="7" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/pages/index.cljc" timestamp="1588444936394">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="7" />
+      </file>
+      <file name="C:/Shared/volcano-template/src/leiningen/new/volcano.clj" timestamp="1588448193252">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="18" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/.gitignore" timestamp="1588448061355">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="10" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/shadow-cljs.edn" timestamp="1588444119274">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="15" column="19" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/config.cljc" timestamp="1588444365256">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="28" />
+      </file>
+      <file name="C:/Shared/volcano-template/.gitignore" timestamp="1588449975689">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/dev.cljs" timestamp="1588442862212">
+        <mark key="[" line="0" column="4" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/build.clj" timestamp="1588442897535">
+        <mark key="[" line="0" column="4" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/resources/index.html" timestamp="1588447966373">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="50" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/README.md" timestamp="1588447596308">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="14" />
+        <mark key="^" line="34" column="15" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/package.json" timestamp="1588443818734">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="56" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/default.css" timestamp="1588447696900">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
+      <jump line="10" column="44" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
+      <jump line="17" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
+      <jump line="29" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
+      <jump line="7" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
+      <jump line="9" column="44" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
+      <jump line="16" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
+      <jump line="28" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
+      <jump line="123" column="11" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
+      <jump line="57" column="40" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
+      <jump line="83" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
+      <jump line="88" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
+      <jump line="93" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
+      <jump line="98" column="52" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
+      <jump line="101" column="24" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
+      <jump line="102" column="24" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
+      <jump line="118" column="62" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
+      <jump line="129" column="49" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="136" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="3" column="31" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_image.cljs" />
@@ -348,65 +362,48 @@
       <jump line="107" column="48" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="108" column="21" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="0" column="0" filename="/REPL.clj" />
-      <jump line="213" column="107" filename="C:/Shared/volcano/README.md" />
-      <jump line="219" column="47" filename="C:/Shared/volcano/README.md" />
-      <jump line="220" column="117" filename="C:/Shared/volcano/README.md" />
-      <jump line="225" column="6" filename="C:/Shared/volcano/README.md" />
-      <jump line="47" column="16" filename="C:/Shared/volcano/README.md" />
-      <jump line="83" column="40" filename="C:/Shared/volcano/README.md" />
-      <jump line="91" column="67" filename="C:/Shared/volcano/README.md" />
-      <jump line="105" column="31" filename="C:/Shared/volcano/README.md" />
-      <jump line="171" column="82" filename="C:/Shared/volcano/README.md" />
-      <jump line="172" column="92" filename="C:/Shared/volcano/README.md" />
-      <jump line="173" column="10" filename="C:/Shared/volcano/README.md" />
-      <jump line="192" column="89" filename="C:/Shared/volcano/README.md" />
-      <jump line="202" column="86" filename="C:/Shared/volcano/README.md" />
-      <jump line="206" column="105" filename="C:/Shared/volcano/README.md" />
-      <jump line="210" column="70" filename="C:/Shared/volcano/README.md" />
-      <jump line="211" column="59" filename="C:/Shared/volcano/README.md" />
-      <jump line="35" column="61" filename="C:/Shared/volcano/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwK</text>
+        <text encoding="base64">L3Jlc291cmNlcy9qcwo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>site</text>
+        <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOm9wZW4tZGF5cyAgIlBvbmTsbO0gLSBQ4XRlayIKICAgICAgICAgICAgOm9wZW4taG91cnMgIjk6MDAgLSAxNzowMCIK</text>
+        <text encoding="base64">L3Jlc291cmNlcy9qcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICh3aGVuICg9IGNzcyA6Z2FyZGVuKQogICAgICAgICAgICAgICApCiAgICAgICAgICAgICAod2hlbiAoPSBjc3MgOmxlc3MpCiAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICh3aGVuICg9IGNzcyA6bm9uZSkKICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA6bGVzcyB7OnNvdXJjZS1wYXRocyBbImxlc3MiXQogICAgICAgICA6dGFyZ2V0LXBhdGggICJyZXNvdXJjZXMvcHVibGljL2NzcyJ9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmBgYGpzb24KewogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAic2hhZG93LWNsanMiOiAiMi44LjEwOSIKICB9LAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAiY3JlYXRlLXJlYWN0LWNsYXNzIjogIl4xNS42LjMiLAogICAgInJlYWN0IjogIl4xNi4xMy4xIiwKICAgICJyZWFjdC1kb20iOiAiXjE2LjEzLjEiCiAgfQp9CmBgYAoKVGhlbiBydW4gdGhlIGZvbGxvd2luZzoK</text>
+        <text encoding="base64">ICA6Z2FyZGVuIHs6YnVpbGRzIFt7OmlkICAgICAgICAgICAic2NyZWVuIgogICAgICAgICAgICAgICAgICAgICA6c291cmNlLXBhdGhzIFsic3JjL2NsaiJdCiAgICAgICAgICAgICAgICAgICAgIDpzdHlsZXNoZWV0ICAge3tuYW1lfX0uY3NzL3NjcmVlbgogICAgICAgICAgICAgICAgICAgICA6Y29tcGlsZXIgICAgIHs6b3V0cHV0LXRvICAgICAicmVzb3VyY2VzL3B1YmxpYy9jc3Mvc2NyZWVuLmNzcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnByZXR0eS1wcmludD8gdHJ1ZX19XX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFs6ZGl2ICJURVNUIl0K</text>
+        <text encoding="base64">L3BvbS54bWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgY29uZmlnL2NvbmZpZykK</text>
+        <text encoding="base64">L3RhcmdldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDJweCAxcHggLTFweCByZ2JhICgwLCAwLCAwLCAwLjIpLCAwcHggMXB4IDFweCAwcHggcmdiYSAoMCwgMCwgMCwgMC4xNCksIDBweCAxcHggM3B4IDBweCByZ2JhICgwLCAwLCAwLCAwLjEyKQo=</text>
+        <text encoding="base64">L3Jlc291cmNlcy9jc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgOnJlc291cmNlcyAgICAgICAgezpyZXNvdXJjZS90ZXN0IFsjPyg6Y2xqICAoc2x1cnAgKGlvL3Jlc291cmNlICJrbGF2aWsvdGVzdC50eHQiKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y2xqcyAocmVzb3VyY2UvaW5saW5lICJrbGF2aWsvdGVzdC50eHQiKSldfQo=</text>
+        <text encoding="base64">IyMjIEFkZGVkCi0gRmlsZXMgZnJvbSB0aGUgbmV3IHRlbXBsYXRlLgotIFdpZGdldCBtYWtlciBwdWJsaWMgQVBJIC0gYG1ha2Utd2lkZ2V0LXN5bmNgLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIz8oOmNsanMgW3NoYWRvdy5yZXNvdXJjZSA6YXMgcmVzb3VyY2VdKQogICAgICAgICAgICAjPyg6Y2xqIFtjbG9qdXJlLmphdmEuaW8gOmFzIGlvXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2tsYXZpay5zaXRlLm8tbmFzIDphcyBvLW5hc10KICAgICAgICAgICAgW2tsYXZpay5zaXRlLm8tbmFzIDphcyBvLW5hc10KICAgICAgICAgICAgW2tsYXZpay5zaXRlLm8tbmFzIDphcyBvLW5hc10K</text>
+        <text encoding="base64">IyMgW1VucmVsZWFzZWRdCiMjIyBDaGFuZ2VkCi0gQWRkIGEgbmV3IGFyaXR5IHRvIGBtYWtlLXdpZGdldC1hc3luY2AgdG8gcHJvdmlkZSBhIGRpZmZlcmVudCB3aWRnZXQgc2hhcGUuCgojIyBbMC4xLjFdIC0gMjAyMC0wNS0wMgojIyMgQ2hhbmdlZAotIERvY3VtZW50YXRpb24gb24gaG93IHRvIG1ha2UgdGhlIHdpZGdldHMuCgojIyMgUmVtb3ZlZAotIGBtYWtlLXdpZGdldC1zeW5jYCAtIHdlJ3JlIGFsbCBhc3luYywgYWxsIHRoZSB0aW1lLgoKIyMjIEZpeGVkCi0gRml4ZWQgd2lkZ2V0IG1ha2VyIHRvIGtlZXAgd29ya2luZyB3aGVuIGRheWxpZ2h0IHNhdmluZ3Mgc3dpdGNoZXMgb3Zlci4K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -415,9 +412,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>site</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>site</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace />
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
