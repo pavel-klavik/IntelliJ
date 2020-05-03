@@ -5,46 +5,46 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>load-usergroups</entry>
-        <entry>all-users</entry>
-        <entry>(#......)</entry>
-        <entry>(\#......)</entry>
-        <entry>@</entry>
-        <entry>\(#......\)</entry>
-        <entry>-color</entry>
-        <entry>:</entry>
-        <entry>;</entry>
-        <entry>%</entry>
-        <entry>rem</entry>
-        <entry>em</entry>
-        <entry>(em</entry>
-        <entry>(px</entry>
-        <entry>(percent</entry>
-        <entry>677</entry>
-        <entry>958</entry>
-        <entry>028</entry>
-        <entry>fixed</entry>
-        <entry>copy</entry>
+        <entry>rf</entry>
+        <entry>size</entry>
+        <entry>class</entry>
+        <entry>orgpage</entry>
+        <entry>delete</entry>
+        <entry>edit</entry>
+        <entry>suggestion</entry>
+        <entry>sugg</entry>
+        <entry>error</entry>
+        <entry>get-curr</entry>
+        <entry>#zoom-info</entry>
+        <entry>search</entry>
+        <entry>,</entry>
+        <entry>styles</entry>
+        <entry>link-creati</entry>
+        <entry>link-cre</entry>
+        <entry>unit-buttons</entry>
+        <entry>style</entry>
+        <entry>mkdir</entry>
+        <entry>site</entry>
       </history-search>
       <history-cmd>
-        <entry>va</entry>
-        <entry>wv</entry>
-        <entry>a</entry>
-        <entry encoding="base64">JzwsJz5zLygjLi4uLi4uKS8iXDEiL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLyhcIy4uLi4uLikvIlwxIi9n</entry>
-        <entry encoding="base64">JzwsJz5zL0AvOi9n</entry>
-        <entry encoding="base64">JzwsJz5zL1woIy4uLi4uLlwpLyJcMSIvZw==</entry>
-        <entry encoding="base64">JzwsJz5zLy1jb2xvci8vZw==</entry>
-        <entry>wna</entry>
-        <entry encoding="base64">JzwsJz4hc29ydA==</entry>
+        <entry>cookie-attrs</entry>
         <entry>wma</entry>
-        <entry encoding="base64">JzwsJz5zLzovL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
-        <entry>wva</entry>
-        <entry>Wa</entry>
-        <entry>v</entry>
-        <entry>wa'</entry>
-        <entry>wa\</entry>
+        <entry encoding="base64">JzwsJz5zL2JsdWUvZ3JlZW4vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2dyZWVuL3JlZC9n</entry>
+        <entry>wwa</entry>
+        <entry>orgpage/title</entry>
+        <entry>orgpage\/title</entry>
+        <entry encoding="base64">JzwsJz5zL14vICAv</entry>
+        <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
+        <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
+        <entry>ww</entry>
+        <entry>:w</entry>
+        <entry>;wa</entry>
+        <entry>:wa</entry>
+        <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
+        <entry>waa</entry>
+        <entry>w'</entry>
+        <entry>a</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
@@ -149,22 +149,46 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588449907856">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/shadow-cljs.edn" timestamp="1588444119274">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="15" column="19" />
       </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/project.clj" timestamp="1588449286828">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="41" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="41" />
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/package.json" timestamp="1588443818734">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="56" />
       </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/css/core.clj" timestamp="1588447660156">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="10" />
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/routes.cljc" timestamp="1588443996998">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/pages/index.cljc" timestamp="1588444936394">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="7" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/resources/index.html" timestamp="1588447966373">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="50" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/.gitignore" timestamp="1588448061355">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="10" />
+      </file>
+      <file name="C:/Shared/klavik/project.clj" timestamp="1588476279988">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="51" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="30" column="51" />
       </file>
       <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/default.less" timestamp="1588447693613">
         <mark key="[" line="0" column="0" />
@@ -172,15 +196,60 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/routes.cljc" timestamp="1588443996998">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="C:/Shared/volcano-template/README.md" timestamp="1588449516054">
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
+      </file>
+      <file name="C:/Shared/volcano-template/.gitignore" timestamp="1588449975689">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/css/core.clj" timestamp="1588447660156">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/config.cljc" timestamp="1588444365256">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="28" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/project.clj" timestamp="1588476573711">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="33" column="24" />
+        <mark key="." line="33" column="23" />
+        <mark key="^" line="33" column="24" />
+      </file>
+      <file name="C:/Shared/volcano-template/src/leiningen/new/volcano.clj" timestamp="1588448193252">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="18" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/build.clj" timestamp="1588442897535">
+        <mark key="[" line="0" column="4" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/README.md" timestamp="1588447596308">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="14" />
+        <mark key="^" line="34" column="15" />
+      </file>
+      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/default.css" timestamp="1588447696900">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588449907856">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Shared/volcano-template/CHANGELOG.md" timestamp="1588445665129">
         <mark key="[" line="8" column="28" />
@@ -193,72 +262,6 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="7" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/pages/index.cljc" timestamp="1588444936394">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="6" />
-        <mark key="^" line="8" column="7" />
-      </file>
-      <file name="C:/Shared/volcano-template/src/leiningen/new/volcano.clj" timestamp="1588448193252">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="25" column="18" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/.gitignore" timestamp="1588448061355">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="10" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/shadow-cljs.edn" timestamp="1588444119274">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="19" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/config.cljc" timestamp="1588444365256">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="28" />
-      </file>
-      <file name="C:/Shared/volcano-template/.gitignore" timestamp="1588449975689">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="9" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/dev.cljs" timestamp="1588442862212">
-        <mark key="[" line="0" column="4" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/build.clj" timestamp="1588442897535">
-        <mark key="[" line="0" column="4" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/resources/index.html" timestamp="1588447966373">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="5" column="50" />
-        <mark key="." line="5" column="49" />
-        <mark key="^" line="5" column="50" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/README.md" timestamp="1588447596308">
-        <mark key="[" line="38" column="12" />
-        <mark key="]" line="34" column="15" />
-        <mark key="." line="34" column="14" />
-        <mark key="^" line="34" column="15" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/package.json" timestamp="1588443818734">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="57" />
-        <mark key="^" line="5" column="57" />
-        <mark key="." line="5" column="56" />
-      </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/default.css" timestamp="1588447696900">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
