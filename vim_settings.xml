@@ -43,8 +43,8 @@
         <entry>wa\</entry>
         <entry>wv</entry>
         <entry>wta</entry>
-        <entry>w</entry>
         <entry>wva</entry>
+        <entry>w</entry>
         <entry>wa'</entry>
         <entry>wa</entry>
       </history-cmd>
@@ -149,11 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/klavik/src/klavik/pages/o_nas.cljc" timestamp="1588546730030">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="11" column="51" />
-        <mark key="^" line="11" column="51" />
-        <mark key="." line="11" column="50" />
+      <file name="C:/Shared/klavik/src/klavik/pages/o_nas.cljc" timestamp="1588549665135">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="24" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/footer.clj" timestamp="1588545493351">
         <mark key="[" line="36" column="0" />
@@ -161,17 +161,29 @@
         <mark key="^" line="36" column="60" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="C:/Shared/volcano-template/resources/leiningen/new/volcano/project.clj" timestamp="1588521374521">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="27" />
+      <file name="C:/Shared/klavik/src/klavik/pages/dane_a_ucetnictvi.cljc" timestamp="1588552460506">
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="42" column="72" />
+        <mark key="^" line="42" column="72" />
+        <mark key="." line="42" column="71" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/css/paper.clj" timestamp="1588545497305">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="50" />
+      <file name="C:/Shared/klavik/src/klavik/pages/ceny.cljc" timestamp="1588553387764">
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="26" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/css/paper.clj" timestamp="1588553612009">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="58" />
+        <mark key="." line="23" column="57" />
+        <mark key="^" line="23" column="58" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/pages/kontakt/people.cljc" timestamp="1588553923737">
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="36" column="13" />
+        <mark key="^" line="36" column="13" />
+        <mark key="." line="36" column="12" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/pages/image.cljc" timestamp="1588545121405">
         <mark key="[" line="10" column="19" />
@@ -179,21 +191,20 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/css/index.clj" timestamp="1588546427206">
-        <mark key="[" line="7" column="4" />
-        <mark key="^" line="31" column="50" />
+      <file name="C:/Shared/klavik/src/klavik/css/index.clj" timestamp="1588547821312">
+        <mark key="[" line="26" column="4" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/css/colors.clj" timestamp="1588541699444">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="31" />
+      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/obcanske_pravo.cljc" timestamp="1588551093241">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="26" column="14" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/css/core.clj" timestamp="1588546619747">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="10" column="43" />
+      <file name="C:/Shared/klavik/src/klavik/css/core.clj" timestamp="1588553705046">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/pages/footer.cljc" timestamp="1588545527871">
         <mark key="[" line="34" column="12" />
@@ -201,45 +212,35 @@
         <mark key="." line="34" column="19" />
         <mark key="^" line="34" column="20" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/index.cljc" timestamp="1588462903107">
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="19" column="66" />
-        <mark key="." line="19" column="65" />
-        <mark key="^" line="19" column="66" />
+      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/index.cljc" timestamp="1588552174020">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="58" column="41" />
+        <mark key="^" line="58" column="41" />
+        <mark key="." line="58" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588521855915">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/Shared/klavik/src/klavik/pages/index.cljc" timestamp="1588549870104">
+        <mark key="[" line="55" column="7" />
+        <mark key="]" line="55" column="15" />
+        <mark key="." line="55" column="14" />
+        <mark key="^" line="55" column="15" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/index.cljc" timestamp="1588546556795">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/Shared/klavik/src/klavik/widgets/paper.cljc" timestamp="1588551623568">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="42" />
       </file>
-      <file name="C:/Shared/volcano-template/project.clj" timestamp="1588521706657">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="7" column="66" />
-        <mark key="^" line="7" column="66" />
-        <mark key="." line="7" column="65" />
+      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/danove_pravo.cljc" timestamp="1588550827052">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="58" />
+        <mark key="^" line="19" column="58" />
+        <mark key="." line="19" column="57" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/pages/message.cljc" timestamp="1588546570535">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="8" />
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="7" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/menu.cljc" timestamp="1588539676510">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="33" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/css/menu.clj" timestamp="1588541953077">
-        <mark key="[" line="28" column="61" />
-        <mark key="]" line="28" column="63" />
-        <mark key="^" line="28" column="63" />
-        <mark key="." line="28" column="62" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/message.clj" timestamp="1588546440695">
         <mark key="[" line="0" column="0" />
@@ -253,11 +254,17 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/gdpr.cljc" timestamp="1588539345605">
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="40" />
+      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/obchodni_pravo.cljc" timestamp="1588551239738">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/pages/gdpr.cljc" timestamp="1588554693850">
+        <mark key="[" line="53" column="203" />
+        <mark key="]" line="56" column="6" />
+        <mark key="." line="56" column="5" />
+        <mark key="^" line="56" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -365,44 +372,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZm4tIG1lc3NhZ2UgW10KICApCgo=</text>
+      <register name="&quot;" type="4">
+        <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIFs6LnNlcGFyYXRvciB7Om1hcmdpbiAgICAgICAgICAgW1socHggMTApIDAgKHB4IDIwKSAwXV19XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDpvZmZpY2UgOm9mZmljZS9jaHJ1ZGltCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGRlZm4tIG1lc3NhZ2UgW10KICApCgo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBvZmZpY2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChtZXNzYWdlKQo=</text>
+        <text encoding="base64">ICAgWzpkaXYudGl0bGUgIk1pbW9zbWx1dm7tIG9kbexuYSJdCiAgIFs6ZGl2LnNlcGFyYXRvcl0KICAgWzpkaXYgIk1pbW9zbWx1dm7tIG9kbexuYSBqZSBzdGFub3ZlbmEgcG9kbGUgYWR2b2vhdG7taG8gdGFyaWZ1ICh2eWhs4ZpreSDoLiAxNzcvMTk5NiBTYi4sIG8gb2Rt7G7hY2ggYWR2b2vhdPkgYSBu4WhyYWThY2ggYWR2b2vhdPkgemEgcG9za3l0b3bhbu0gcHLhdm7tY2ggc2x1nmViKS4gTWltb3NtbHV2bu0gb2Rt7G5hIHNlIHBvdZ5pamUgdiBw+O1wYWTsLCCeZSBtZXppIGFkdm9r4XRlbSBhIGtsaWVudGVtIG5lbu0gdWplZG7hbmEgc21sdXZu7SBvZG3sbmEuIl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICBbOi5zZXBhcmF0b3IgezptYXJnaW4gICAgICAgICAgIFtbKHB4IDIwKSAwXV19XQo=</text>
+        <text encoding="base64">ICAgICBbOmRpdi5oZWFkaW5nICIiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIFs6LnVuZGVybGluZSBdCg==</text>
+        <text encoding="base64">ICAgICBbOmRpdiAiRGxvdWhvZG9i7CBzZSBzcGVjaWFsaXp1amVtZSBuYSBvYuhhbnNr6SBwcuF2by4gViBvYuhhbnNr6W0gcHLhdnUgc2kgbW9ob3Uga2xpZW50aSB1amVkbmF0IHBy4XZhIGEgcG92aW5ub3N0aSBvZGNoeWxu7CBvZCB64WtvbmEsIHByb3RvnmUgamUgcG9zdGF2ZW5vIG5hIHByaW5jaXB1ICIKICAgICAgWzpiICJzbWx1dm7tIHN2b2JvZHkuIl0gIiBaIHRvaG90byBk+XZvZHUgbeEgdmVsa/0gdv16bmFtIG9i6GFuc2tvcHLhdm7tIHBvcmFkZW5zdHbtLCBhYnkga2xpZW50IHD4ZWRlmmVsIHboYXMgcHJvYmzpbfltIGEgbmV1emF2+GVsIG5ldv1ob2Rub3Ugc21sb3V2dS4iXQogICAgIFs6ZGl2ICJWIHLhbWNpIG9i6GFuc2tvcHLhdm7taG8gcG9yYWRlbnN0du0gcG9zdXp1amVtZSBu4XZyaHkgc21sdXYgbmVibyBzZXBpc3VqZW1lIHNtbG91dnkgZGxlIHBvnmFkYXZr+SBrbGllbnRhLiBLbGFkZW1lIGT5cmF6IG5hIHV6YXbtcuFu7SAiCiAgICAgIFs6YiAicO1zZW1u/WNoIHNtbHV2LCJdICIgcHJvdG+eZSB1IPpzdG7sIHV6YXb4ZW79Y2ggc21sdXYgamUgdiBw+O1wYWTsIHNwb3J1IHByb2Js6W0gcHJva+F6YXQsIG5hIOhlbSBzZSBzbWx1dm7tIHN0cmFueSBkb2hvZGx5LiBU7W0gcG9t4WjhbWUgcPhlZGNo4XpldCB6Ynl0Zehu/W0gYSBu4WtsYWRu/W0gc291ZG7tbSBzcG9y+W0uIFD4aSBzZXBz4W7tIHNtbHV2IHNlIHNuYZ7tbWUgcPhlZHbtZGF0IHL5em7pIHNpdHVhY2UsIGt0ZXLpIG1vaG91IHD4aSBqZWppY2ggc3Bsbuxu7SBuYXN0YXQuIFNlcGlzdWplbWUgc21sb3V2eSwga3RlcukgdnljaOF6ZWrtIHogYuyebulobyCeaXZvdGEuIEplZG7hIHNlIHplam3pbmEgbyBzbWxvdXZ5IGt1cG7tLCBkYXJvdmFj7SwgbuFqZW1u7SwgcGFjaHRvdm7tLCBw+O1rYXpu7SBuZWJvIG8gZO1sby4iXQogICAgIFs6ZGl2ICJLbGllbnR5IHphc3R1cHVqZW1lIHYgIiBbOmIgIvjtemVu7SBw+GVkIHNvdWR5Il0KICAgICAgIiBuZWJvIHYgcm96aG9k6O1tIPjtemVu7S4gWnByYXZpZGxhIHNlIGplZG7hIG8g+O16ZW7tIG8gemFwbGFjZW7tIHBvaGxlZOF2a3ksIG8gdnlk4W7tIHbsY2kgbmVibyBzcGxu7G7tIGppbukgbmVwZW7snml06SBwb3Zpbm5vc3RpLiBN+Z5lIHNlIHRha+kgamVkbmF0IG8g+O16ZW7tIG8gdXLoZW7tIHZsYXN0bmlja+lobyBuZWJvIGppbulobyBwcuF2YS4gUG9rdWQgcG92aW5u4SBvc29iYSBuZXNwbG7tIHN2b2ppIHBvdmlubm9zdCBzdGFub3Zlbm91IHNvdWRlbSBuZWJvIGppbv1tIG9yZ+FuZW0gdmX4ZWpu6SBtb2NpLCB6YXN0dXB1amVtZSBrbGllbnR5IHTpniB2ZSB2eWtvbuF2YWPtbSAoZXhla3Xobu1tKSD47Xplbu0uIl0KICAgICBbOmRpdiAiUG9za3l0dWplbWUga29tcGxleG7tIHBy4XZu7SBzbHWeYnkgcPhpIGtvdXBpLCBwcm9kZWppIG5lYm8gZGFyb3bhbu0gIiBbOmIgIm5lbW92aXT9Y2ggduxj7S4iXQogICAgICAiIE5hIHD44W7tIGtsaWVudGEgcHJvduFk7W1lIHRha+kgYWR2b2vhdG7tIPpzY2hvdnUgcGVu7J5u7WNoIHByb3N0+GVka/kuIFpwcmF2aWRsYSB0dXRvIHNsdZ5idSBwb3NreXR1amVtZSB2IHNvdXZpc2xvc3RpIHMgdXphdvhlbu1tIGt1cG7tIHNtbG91dnkgbyBw+GV2b2R1IHZsYXN0bmlja+lobyBwcuF2YSBrIG5lbW92aXT9bSB27GNlbSwga2R5IGpzb3UgcGVu7J5u7SBwcm9zdPhlZGt5IHByb2ThdmFq7WPtbXUgdXZvbG7sbnkgYZ4gcG8geuFwaXN1ICh2a2xhZHUpIHZsYXN0bmlja+lobyBwcuF2YSBrdXB1au1j7WhvIGRvIGthdGFzdHJ1IG5lbW92aXRvc3TtLiJdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOm1hcmdpbiAgICAgICAgICAgW1socHggMjApIDBdXQo=</text>
+        <text encoding="base64">ICAgICBbOmRpdiAiRGxvdWhvZG9i7CBzZSBzcGVjaWFsaXp1amVtZSBuYSBkYfJvdukgcHLhdm8uIEtyb23sIGRh8m926WhvIHBvcmFkZW5zdHbtIGEgb3B0aW1hbGl6YWNlIGRhbu0gemFzdHVwdWplbWUga2xpZW50eSB2IGNlbOltIGRh8m926W0g+O16ZW7tLCB6ZWpt6W5hIHYgcuFtY2kgZGHyb3bpIGtvbnRyb2x5IGEgcPhpIG9kdm9s4W7tIHByb3RpIHJvemhvZG51dO1tIGZpbmFu6G7tY2gg+vhhZPkgbyBkb23s+GVu7SBkYW7sLiJdCiAgICAgWzpkaXYgIkNlbOEg+GFkYSBrbGllbnT5IG5ldu0sIJ5lIHD4aSB6YW3tdG51dO0gb2R2b2zhbu0gcHJvdGkgcm96aG9kbnV07SBmaW5hbuhu7WhvIPr4YWR1IHNlIG1vaG91IGRvdm9sYXQgc3bpaG8gcHLhdmEgcG9k4W7tbSCeYWxvYnkgdmUgc3By4XZu7W0gc291ZG5pY3R27S4gUm96aG9kbnV07SBvZHZvbGFj7WhvIG9yZ+FudSB0b3RpniB2IHBvdehlbu0gdXbhZO0sIJ5lIHByb3RpIHJvemhvZG51dO0gb2R2b2xhY+1obyBvcmfhbnUgc2UgbmVsemUgZOFsZSBvZHZvbGF0LiBQ+GVzdG8gbHplIHRha2926SByb3pob2RudXTtIPpzcOyabuwgbmFwYWRub3V0IHNwcuF2bu0gnmFsb2JvdSBrIHD47XNsdZpu6W11IGtyYWpza+ltdSBzb3VkdS4iXQogICAgIFs6ZGl2ICJMaPl0YSBwcm8gcG9k4W7tIJ5hbG9ieSBwcm90aSB2eW3s+GVu7SBkYW7sIOhpbu0gZHZhIG3sc+1jZSBvZCBkb3J16GVu7SByb3pob2RudXTtIG9kdm9sYWPtaG8gb3Jn4W51LiBQcm90aSB6YW3tdG51dO0gc3By4XZu7SCeYWxvYnkgbHplIHBvZGF0IHZlIGxo+XTsIGR2b3UgdP1kbvkga2FzYehu7SBzdO2ebm9zdCBrIE5lanZ5mprtbXUgc3By4XZu7W11IHNvdWR1IHYgQnJu7C4gVnpobGVkZW0gayBkbG91aG9kb2LpIHByYXhpIHYgb2JsYXN0aSBkYfJvdulobyBwcuF2YSBt4W1lICIKICAgICAgWzpiICJ2eXNva291IPpzcOyabm9zdCJdICIgdiB6YXN0b3VwZW7tIGtsaWVudPkgdiBkYfJvdultIPjtemVu7SBhIHYgc291ZG7tbSD47Xplbu0gcPhpIGRvbez4ZW7tIGRhbuwuIl0KICAgICBbOmRpdiAiViBy4W1jaSBkYfJvdulobyBwcuF2YSBzZSB6YWL9duFtZSBkYfJvdm91IG9wdGltYWxpemFj7SBhIHBs4W5vduFu7W0gdGFrLCBhYnkgbmGaaSBrbGllbnRpIHD4ZWRjaOF6ZWxpIGRh8m92/W0gc3BvcvltLiBEbG91aG9kb2LsIHphc3R1cHVqZW1lIGtsaWVudHkgcPhpIGplZG7hbu0gcyBmaW5hbuhu7W1pIPr4YWR5IHYgcuFtY2kgY2Vs6WhvIGRh8m926SD47Xplbu0gbmVibyBuYSB64WtsYWTsIGRvaG9keSBw+Gkgbe1zdG7tbSCaZXT4ZW7tIGEgZGHyb3bpIGtvbnRyb2xlLiJdCiAgICAgWzpkaXYgIlBvc2t5dHVqZW1lIGRh8m926SBwb3JhZGVuc3R27SB1IGRhbuwgeiBw+O1qbfkgZnl6aWNr/WNoIGEgcHLhdm5pY2v9Y2ggb3NvYiwgdSBkYW7sIHogcPhpZGFu6SBob2Rub3R5LCBtYWpldGtvdv1jaCBkYW7tIGEgc2lsbmnobu0gZGFu7C4gWnByYWNvduF24W1lIGRh8m926SBw+Gl6buFu7SB1IGRhbu0geiBw+O1qbfkgZnl6aWNr/WNoIGEgcHLhdm5pY2v9Y2ggb3NvYiAiCiAgICAgIFs6YiAidiBwcm9kbG91nmVu6SBsaPl07CCaZXN0aSBt7HPtY/ksIl0gIiBuZWJvnSBhZHZva+F0IG3hIHN0ZWpu6SBwb3N0YXZlbu0gamFrbyBkYfJvdv0gcG9yYWRjZS4iXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgWzpkaXYgIlD4ZXN0b55lIGplIHYgcG916GVu7SByb3pob2RudXTtIE9kdm9sYWPtaG8gZmluYW7obu1obyD4ZWRpdGVsc3R27SB1dmVkZW5vLCCeZSBzZSBwcm90aSB0b211dG8gcm96aG9kbnV07SBuZWx6ZSBvZHZvbGF0LCBsemUgcHJvdGkgbuxtdSB2IGR2b3Vt7HPt6G7tIGxo+XTsIHBvZGF0IHNwcuF2bu0gnmFsb2J1IGtlIGtyYWpza+ltdSBzb3VkdS4gUHJvdGkgemFt7XRudXTtIHNwcuF2bu0gnmFsb2J5IGplIGThbGUgbW+ebukgdmUgbGj5dOwgZHZvdSB0/WRu+SBwb2RhdCBrYXNh6G7tIHN07Z5ub3N0IGsgTmVqdnmamu1tdSBzcHLhdm7tbXUgc291ZHUuIl0KICAgWzpkaXYgIlZ6aGxlZGVtIGsgZGxvdWhvZG9i6SBwcmF4aSB2IG9ibGFzdGkgZGHyb3bpaG8gcHLhdmEgbeFtZSB2eXNva291IPpzcOyabm9zdFxudiB6YXN0b3VwZW7tIGtsaWVudPkgdiBkYfJvdultIPjtemVu7SBhIHYgbmF2YXp1au1j7W0gc291ZG7tbSD47Xplbu0gc3By4XZu7W0uIEThbGUgc2Ugc3BlY2lhbGl6dWplbWUgbmEgdHJlc3Ru7SBwcuF2byBkYfJvduksIGtkZSBqZSBuYZrtIHZlbGtvdSB2/WhvZG91IHBvZHJvYm7hIHpuYWxvc3QgZGHyb3bpIHByb2JsZW1hdGlreS4iXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDpncmlkLXRlbXBsYXRlLWNvbHVtbnMgW1siMWZyIiAiMWZyIiAiMWZyIl1dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgWzpkaXYgIlphc3R1cHVqZW1lIGtsaWVudHkgcPhlZCBzb3VkeSBuYXD47WtsYWQgdiD47Xplbu0gbyB6YXBsYWNlbu0gcG9obGVk4XZreSBuZWJvIG8gc3Bsbuxu7SBqaW7pIHBvdmlubm9zdGkuIFYgcuFtY2kgcm9kaW5u6WhvIHBy4XZhIHphc3R1cHVqZW1lIGtsaWVudHkgcPhpIHJvenZvZG926W0g+O16ZW7tLCB2IPjtemVu7SBvIHDp6GkgbyBk7HRpIGEgc3Rhbm92ZW7tIHb9nml2buloby4gS2xpZW50eSB6YXN0dXB1amVtZSByb3Zu7J4gdmUgdnlrb27hdmFj7W0gKGV4ZWt16G7tbSkg+O16ZW7tLiJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2JpZGkuYmlkaSA6YXMgYl0KICAgICAgICAgICAgW2tsYXZpay5yb3V0ZXMgOmFzIHJvdXRlc10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgWzpkaXYgIlBvc2t5dHVqZW1lIHBy4XZu7SBwb3JhZGVuc3R27S4gU2VwaXN1amVtZSBrdXBu7SwgZGFyb3ZhY+0sIG7hamVtbu0gYSBqaW7pIHNtbG91dnkuIFYgcuFtY2kgdXphdu1y4W7tIGt1cG7tY2ggc21sdXYgayBuZW1vdml0/W0gduxjZW0gcHJvduFk7W1lIHRha+kgYWR2b2vhdG7tIPpzY2hvdnUgcGVu7J5u7WNoIHByb3N0+GVka/kuIFUgb2JjaG9kbu1jaCBzcG9sZehub3N07SBhIGRydZ5zdGV2IHphammanXVqZW1lIGplamljaCB6YWxvnmVu7SBhIHpt7G55LiBQcm924WTtbWUgdGFr6SBqZWppY2ggcPhlbexueSBuZWJvIGxpa3ZpZGFjaS4iXQo=</text>
+        <text encoding="base64">KGRlZm4tIG1lc3NhZ2UgW10KICApCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgWzpkaXYgIlYgcuFtY2kgc291a3JvbelobyBwcuF2YSBzZSBzcGVjaWFsaXp1amVtZSB6ZWpt6W5hIG5hIG9i6GFuc2vpLCBvYmNob2Ru7SwgcHJhY292bu0gYSByb2Rpbm7pIHBy4XZvLiBWIG9ibGFzdGkgdmX4ZWpu6WhvIHBy4XZhIHNlIHphbez4dWplbWUgemVqbeluYSBuYSBkYfJvduksIGluc29sdmVu6G7tLCBzdGF2ZWJu7SwgcPhlc3R1cGtvdukgYSB0cmVzdG7tIHBy4XZvLiJdCg==</text>
+        <text encoding="base64">ICAgIChtZXNzYWdlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
