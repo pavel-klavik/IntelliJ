@@ -149,12 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/klavik/src/klavik/pages/kontakt/praha.cljc" timestamp="1588556354357">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="27" />
-      </file>
       <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/obcanske_pravo.cljc" timestamp="1588561390848">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="16" />
@@ -229,6 +223,12 @@
         <mark key="]" line="55" column="29" />
         <mark key="^" line="55" column="29" />
         <mark key="." line="55" column="28" />
+      </file>
+      <file name="C:/Shared/klavik/shadow-cljs.edn" timestamp="1588937029007">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="38" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/message.clj" timestamp="1588560965514">
         <mark key="[" line="4" column="22" />
