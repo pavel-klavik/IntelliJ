@@ -149,12 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/klavik/src/klavik/pages/kontakt/praha.cljc" timestamp="1589054249920">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="27" />
-      </file>
       <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/obcanske_pravo.cljc" timestamp="1589054300735">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="5" column="28" />
@@ -172,9 +166,6 @@
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="41" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/kontakt/index.cljc" timestamp="1589054261830">
-        <mark key="[" line="21" column="28" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/image.clj" timestamp="1589139358472">
         <mark key="[" line="2" column="46" />
@@ -206,6 +197,12 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="19" />
       </file>
+      <file name="C:/Shared/klavik/src/klavik/css/footer.clj" timestamp="1589161925632">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="19" column="44" />
+      </file>
       <file name="C:/Shared/klavik/src/klavik/css/paper.clj" timestamp="1589143525286">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="33" column="44" />
@@ -217,6 +214,12 @@
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="24" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/pages/index.cljc" timestamp="1589161852334">
+        <mark key="[" line="71" column="19" />
+        <mark key="]" line="72" column="21" />
+        <mark key="^" line="72" column="21" />
+        <mark key="." line="72" column="20" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/menu.clj" timestamp="1589140108269">
         <mark key="'" line="16" column="39" />
@@ -231,11 +234,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/widgets/footer.cljc" timestamp="1589160744796">
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="51" column="4" />
-        <mark key="^" line="51" column="4" />
-        <mark key="." line="51" column="3" />
+      <file name="C:/Shared/klavik/src/klavik/widgets/footer.cljc" timestamp="1589161589089">
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="54" column="24" />
+        <mark key="^" line="54" column="24" />
+        <mark key="." line="54" column="23" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/form.clj" timestamp="1589146156511">
         <mark key="[" line="51" column="62" />
@@ -260,11 +263,11 @@
         <mark key="^" line="28" column="20" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/widgets/form.cljc" timestamp="1589145262141">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="40" column="25" />
-        <mark key="^" line="40" column="25" />
-        <mark key="." line="40" column="24" />
+      <file name="C:/Shared/klavik/src/klavik/widgets/form.cljc" timestamp="1589161975799">
+        <mark key="[" line="43" column="73" />
+        <mark key="]" line="43" column="71" />
+        <mark key="^" line="43" column="71" />
+        <mark key="." line="43" column="70" />
       </file>
     </filemarks>
     <jumps>
