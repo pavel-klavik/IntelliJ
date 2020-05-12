@@ -155,12 +155,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/obcanske_pravo.cljc" timestamp="1589207421606">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="27" />
-      </file>
       <file name="C:/Shared/klavik/src/klavik/pages/kontakt/chrudim.cljc" timestamp="1589207557066">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -172,12 +166,6 @@
         <mark key="]" line="15" column="11" />
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="10" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/advokatni_sluzby/obchodni_pravo.cljc" timestamp="1589207427999">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/config.cljc" timestamp="1589249453458">
         <mark key="[" line="59" column="56" />
@@ -191,7 +179,7 @@
         <mark key="^" line="1" column="51" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/scripts/common.js" timestamp="1589249403089">
+      <file name="C:/Shared/klavik/src/klavik/scripts/common.js" timestamp="1589251134762">
         <mark key="[" line="0" column="80" />
         <mark key="]" line="0" column="79" />
         <mark key="^" line="0" column="79" />
@@ -209,6 +197,12 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="48" />
       </file>
+      <file name="C:/Shared/klavik/src/klavik/scripts/send-contact-form.js" timestamp="1589251587369">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="C:/Shared/klavik/src/klavik/widgets/footer.cljc" timestamp="1589210368107">
         <mark key="[" line="60" column="52" />
         <mark key="]" line="60" column="68" />
@@ -220,6 +214,12 @@
         <mark key="]" line="15" column="59" />
         <mark key="^" line="15" column="59" />
         <mark key="." line="15" column="58" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/css/form.clj" timestamp="1589251393608">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="49" column="15" />
+        <mark key="." line="49" column="14" />
+        <mark key="^" line="49" column="15" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/kontakt.clj" timestamp="1589209652900">
         <mark key="[" line="16" column="60" />
@@ -244,11 +244,11 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="21" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/widgets/form.cljc" timestamp="1589249656554">
-        <mark key="[" line="22" column="44" />
-        <mark key="]" line="23" column="51" />
-        <mark key="^" line="23" column="51" />
-        <mark key="." line="23" column="50" />
+      <file name="C:/Shared/klavik/src/klavik/widgets/form.cljc" timestamp="1589251563173">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/pages/gdpr.cljc" timestamp="1589210124668">
         <mark key="[" line="67" column="19" />
@@ -360,7 +360,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBbOnNjcmlwdCA6c2NyaXB0L3NlbmQtY29udGFjdC1mb3JtXQo=</text>
+        <text encoding="base64">ICAgICAgICAkKCIjZm9ybSIpLmhpZGUoKTsKICAgICAgICAkKCIjbWFpbC1zZW50Iikuc2hvdygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
@@ -368,35 +368,35 @@
       <register name="/" type="4">
         <text>style</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBbOnNjcmlwdCA6c2NyaXB0L3NlbmQtY29udGFjdC1mb3JtXQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm5hbWUiKS52YWx1ZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOndpZHRoICAgICAgICAgICAiMTAwJSIKICAgICAgICAgICAgICAgICAgOmhlaWdodCAgICAgICAgICAiNDAwIgo=</text>
+        <text encoding="base64">ICAgICAgICAkKCIjZm9ybSIpLmhpZGUoKTsKICAgICAgICAkKCIjbWFpbC1zZW50Iikuc2hvdygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOndpZHRoICAgICAgICAgICAiMTAwJSIKICAgICAgICAgICAgICAgICAgOmhlaWdodCAgICAgICAgICAiNDAwIgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLCAiICIsCiAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImNvbnRhY3QiKS52YWx1ZSwgIiAiLAogICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJtZXNzYWdlIikudmFsdWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6c3R5bGUgICAgICAgICAgIHs6Ym9yZGVyIDB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOmlkICAgICAgICAgICJuYW1lIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6c3R5bGUgezpib3JkZXIgMH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOmlkICAgICAgICAgICJjb250YWN0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDp0ZXh0LWRlY29yYXRpb24gOm5vbmUKICAgICAgICAgICAgIDpjb2xvciAgICAgICAgICAgKGNvbG9ycy9jb2xvcnMgOmNvbG9yL2xpZ2h0LWdyYXkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm5hbWUgICAgICAgICJtZXNzYWdlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOmdyaWQtdGVtcGxhdGUtY29sdW1ucyBbWyIxZnIiICIxZnIiXV0KICAgICAgICAgICAgICAgICAgICAgICAgOmdyaWQtdGVtcGxhdGUtYXJlYXMgICAoY29tbW9uL2dyaWQtYXJlYXMgW1s6Y29weXJpZ2h0LWluZm8gOmxpbmtzXV0pCg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOmdyaWQtdGVtcGxhdGUtY29sdW1ucyBbWyIxZnIiICIxZnIiICIxZnIiXV0KICAgICAgICAgICAgICAgICAgICAgICAgOmdyaWQtdGVtcGxhdGUtYXJlYXMgICAoY29tbW9uL2dyaWQtYXJlYXMgW1s6Zm9vdGVyLWluZm8gOmNocnVkaW0gOnByYWhhXV0pCg==</text>
+        <text encoding="base64">ICAgICAgID09PSAiIikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6cG9zaXRpb24gICAgICAgICA6cmVsYXRpdmUK</text>
+        <text encoding="base64">ICAgICQoIiNzZW5kLWRpc2FibGVkIikuaGlkZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6ZmxleC1kaXJlY3Rpb24gICA6Y29sdW1uCg==</text>
+        <text encoding="base64">ICAgICQoIiNzZW5kIikuc2hvdygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
