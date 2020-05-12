@@ -43,9 +43,9 @@
         <entry>waa</entry>
         <entry>a</entry>
         <entry>:wa</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w'</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -186,11 +186,11 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/scripts/common.js" timestamp="1589251134762">
-        <mark key="[" line="0" column="80" />
-        <mark key="]" line="0" column="79" />
-        <mark key="^" line="0" column="79" />
-        <mark key="." line="0" column="78" />
+      <file name="C:/Shared/klavik/src/klavik/pages/ceny.cljc" timestamp="1589324983260">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="4" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/css/paper.clj" timestamp="1589324605027">
         <mark key="[" line="39" column="46" />
@@ -214,17 +214,17 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="5" />
       </file>
+      <file name="C:/Shared/klavik/src/klavik/widgets/footer.cljc" timestamp="1589325993402">
+        <mark key="[" line="48" column="31" />
+        <mark key="]" line="48" column="31" />
+        <mark key="^" line="48" column="31" />
+        <mark key="." line="48" column="30" />
+      </file>
       <file name="C:/Shared/klavik/src/klavik/routes.cljc" timestamp="1589281638893">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="10" column="41" />
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="40" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/css/form.clj" timestamp="1589251393608">
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="49" column="15" />
-        <mark key="." line="49" column="14" />
-        <mark key="^" line="49" column="15" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/pages/reseni_sporu.cljc" timestamp="1589281839678">
         <mark key="[" line="15" column="21" />
@@ -232,7 +232,7 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589308191508">
+      <file name="/Dummy.txt" timestamp="1589324790042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -361,8 +361,9 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICBlbHNlIHsKICAgICAgY29uc29sZS5sb2coIkVycm9yIHdoaWxlIHNlbmRpbmcgbWVzc2FnZS4iKQogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>(message/message &quot;Odměna je s klientem vždy sjednána předem&quot;
+                     &quot;Zpravidla činí 1 000 Kč za hodinu&quot;)</text>
       </register>
       <register name="-" type="4">
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
@@ -373,32 +374,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVhZGVyKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICBlbHNlIHsKICAgICAgY29uc29sZS5sb2coIkVycm9yIHdoaWxlIHNlbmRpbmcgbWVzc2FnZS4iKQogICAgfQo=</text>
+      <register name="1" type="4">
+        <text>(message/message &quot;Odměna je s klientem vždy sjednána předem&quot;
+                     &quot;Zpravidla činí 1 000 Kč za hodinu&quot;)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHhoci5yZXNwb25zZVRleHQsICIgIiwgeGhyLnJlYWR5U3RhdGUsICIgIiwgeGhyLnN0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICAgICBlbHNlIHsKICAgICAgY29uc29sZS5sb2coIkVycm9yIHdoaWxlIHNlbmRpbmcgbWVzc2FnZS4iKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy41LjAubWluLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni14TnpOMmE0bHRrQjQ0TWMvSnozcFQ0aVUxY21lUjBGa1hzNHBydS9KeGFRPSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHhoci5yZXNwb25zZVRleHQsICIgIiwgeGhyLnJlYWR5U3RhdGUsICIgIiwgeGhyLnN0YXR1cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy41LjAubWluLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni14TnpOMmE0bHRrQjQ0TWMvSnozcFQ0aVUxY21lUjBGa1hzNHBydS9KeGFRPSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGRkCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGRkCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGllKGpzb25fZW5jb2RlKCRpbnB1dCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobygkaW5wdXQtPm5hbWUpOwo=</text>
+        <text encoding="base64">ZGllKGpzb25fZW5jb2RlKCRpbnB1dCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZWNobygkaW5wdXQtPm5hbWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
