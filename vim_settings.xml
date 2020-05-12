@@ -209,11 +209,12 @@
         <mark key="." line="42" column="30" />
         <mark key="^" line="42" column="31" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/scripts/send-contact-form.js" timestamp="1589251587369">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/Shared/klavik/src/klavik/scripts/send-contact-form.js" timestamp="1589298969065">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="1" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/widgets/footer.cljc" timestamp="1589210368107">
         <mark key="[" line="59" column="52" />
@@ -366,7 +367,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZiBmdWxsLXdpZHRoIChzdHIgImNhbGMoMTAwJSAtICIgMTI4ICJweCkiKSkK</text>
+        <text encoding="base64">CiAgJC5hamF4KHsKICAgIHVybDogImNvbnRhY3QucGhwIiwKICAgIHR5cGU6ICJQT1NUIiwKICAgIGRhdGFUeXBlOidqc29uJywKICAgIGRhdGE6IHsKICAgICAgIm5hbWUiOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLAogICAgICAiY29udGFjdCI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjb250YWN0IikudmFsdWUsCiAgICAgICJtZXNzYWdlIjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lc3NhZ2UiKS52YWx1ZSwKICAgICAgInJlY2FwdGNoYSI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyZWNhcHRjaGEiKS52YWx1ZQogICAgfSwKICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHJlc3BvbnNlKXsKICAgICAgaWYgKHJlc3BvbnNlLnR5cGUgPT0gIm1lc3NhZ2UiKSB7CiAgICAgICAgaGlkZSgiZm9ybSIpOwogICAgICAgIHNob3coIm1haWwtc2VudCIpOwogICAgICB9IGVsc2UgewogICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICAgICAgfQogICAgfSwKICAgIGVycm9yOiBmdW5jdGlvbigpe30KICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
@@ -375,34 +376,34 @@
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZiBmdWxsLXdpZHRoIChzdHIgImNhbGMoMTAwJSAtICIgMTI4ICJweCkiKSkK</text>
+        <text encoding="base64">ICAgICAgIm5hbWUiOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLAogICAgICAiY29udGFjdCI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjb250YWN0IikudmFsdWUsCiAgICAgICJtZXNzYWdlIjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lc3NhZ2UiKS52YWx1ZSwKICAgICAgInJlY2FwdGNoYSI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyZWNhcHRjaGEiKS52YWx1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjZm9ybSIpLmhpZGUoKTsKICAgICAgICAkKCIjbWFpbC1zZW50Iikuc2hvdygpOwo=</text>
+        <text encoding="base64">CiAgJC5hamF4KHsKICAgIHVybDogImNvbnRhY3QucGhwIiwKICAgIHR5cGU6ICJQT1NUIiwKICAgIGRhdGFUeXBlOidqc29uJywKICAgIGRhdGE6IHsKICAgICAgIm5hbWUiOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLAogICAgICAiY29udGFjdCI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjb250YWN0IikudmFsdWUsCiAgICAgICJtZXNzYWdlIjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lc3NhZ2UiKS52YWx1ZSwKICAgICAgInJlY2FwdGNoYSI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyZWNhcHRjaGEiKS52YWx1ZQogICAgfSwKICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHJlc3BvbnNlKXsKICAgICAgaWYgKHJlc3BvbnNlLnR5cGUgPT0gIm1lc3NhZ2UiKSB7CiAgICAgICAgaGlkZSgiZm9ybSIpOwogICAgICAgIHNob3coIm1haWwtc2VudCIpOwogICAgICB9IGVsc2UgewogICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICAgICAgfQogICAgfSwKICAgIGVycm9yOiBmdW5jdGlvbigpe30KICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLCAiICIsCiAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImNvbnRhY3QiKS52YWx1ZSwgIiAiLAogICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJtZXNzYWdlIikudmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvbi5lbWFpbCArICIsICIgKyBqc29uLnBhc3N3b3JkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOmlkICAgICAgICAgICJuYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICAkKCIjZm9ybSIpLmhpZGUoKTsKICAgICAgICAkKCIjbWFpbC1zZW50Iikuc2hvdygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOmlkICAgICAgICAgICJjb250YWN0Igo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLCAiICIsCiAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImNvbnRhY3QiKS52YWx1ZSwgIiAiLAogICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJtZXNzYWdlIikudmFsdWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm5hbWUgICAgICAgICJtZXNzYWdlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOmlkICAgICAgICAgICJuYW1lIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOmlkICAgICAgICAgICJjb250YWN0Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgID09PSAiIikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm5hbWUgICAgICAgICJtZXNzYWdlIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICQoIiNzZW5kLWRpc2FibGVkIikuaGlkZSgpOwo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICQoIiNzZW5kIikuc2hvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgID09PSAiIikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
