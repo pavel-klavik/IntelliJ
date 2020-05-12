@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>rf</entry>
         <entry>size</entry>
         <entry>class</entry>
         <entry>orgpage</entry>
@@ -25,6 +24,7 @@
         <entry>style</entry>
         <entry>mkdir</entry>
         <entry>site</entry>
+        <entry encoding="base64">XiAg</entry>
       </history-search>
       <history-cmd>
         <entry>cookie-attrs</entry>
@@ -36,7 +36,6 @@
         <entry>orgpage\/title</entry>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
         <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
-        <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>ww</entry>
         <entry>:w</entry>
         <entry>;wa</entry>
@@ -46,6 +45,7 @@
         <entry>a</entry>
         <entry>:wa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -155,14 +155,27 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="62" />
       </file>
+      <file name="C:/Shared/klavik/resources/index.html" timestamp="1589302333358">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="41" />
+      </file>
       <file name="C:/Shared/klavik/src/klavik/css/image.clj" timestamp="1589291376145">
         <mark key="[" line="32" column="41" />
         <mark key="]" line="32" column="41" />
         <mark key="." line="32" column="40" />
         <mark key="^" line="32" column="41" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/config.cljc" timestamp="1589281812267">
-        <mark key="[" line="13" column="63" />
+      <file name="C:/Shared/klavik/resources/contact.php" timestamp="1589301897248">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="2" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/config.cljc" timestamp="1589302327807">
+        <mark key="[" line="83" column="23" />
         <mark key="]" line="14" column="53" />
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="53" />
@@ -209,12 +222,12 @@
         <mark key="." line="42" column="30" />
         <mark key="^" line="42" column="31" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/scripts/send-contact-form.js" timestamp="1589298969065">
+      <file name="C:/Shared/klavik/src/klavik/scripts/send-contact-form.js" timestamp="1589302384897">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="1" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/widgets/footer.cljc" timestamp="1589210368107">
         <mark key="[" line="59" column="52" />
@@ -240,7 +253,7 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589299136267">
+      <file name="/Dummy.txt" timestamp="1589301901504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -257,12 +270,8 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="C:/Shared/klavik/src/klavik/pages/gdpr.cljc" timestamp="1589210124668">
-        <mark key="[" line="67" column="19" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="29" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="7" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="9" column="44" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
@@ -362,48 +371,49 @@
       <jump line="108" column="21" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="0" column="0" filename="/REPL.clj" />
       <jump line="16" column="39" filename="C:/Shared/klavik/src/klavik/css/menu.clj" />
+      <jump line="1" column="2" filename="C:/Shared/klavik/resources/contact.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgJC5hamF4KHsKICAgIHVybDogImNvbnRhY3QucGhwIiwKICAgIHR5cGU6ICJQT1NUIiwKICAgIGRhdGFUeXBlOidqc29uJywKICAgIGRhdGE6IHsKICAgICAgIm5hbWUiOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLAogICAgICAiY29udGFjdCI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjb250YWN0IikudmFsdWUsCiAgICAgICJtZXNzYWdlIjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lc3NhZ2UiKS52YWx1ZSwKICAgICAgInJlY2FwdGNoYSI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyZWNhcHRjaGEiKS52YWx1ZQogICAgfSwKICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHJlc3BvbnNlKXsKICAgICAgaWYgKHJlc3BvbnNlLnR5cGUgPT0gIm1lc3NhZ2UiKSB7CiAgICAgICAgaGlkZSgiZm9ybSIpOwogICAgICAgIHNob3coIm1haWwtc2VudCIpOwogICAgICB9IGVsc2UgewogICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICAgICAgfQogICAgfSwKICAgIGVycm9yOiBmdW5jdGlvbigpe30KICB9KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHhoci5yZXNwb25zZVRleHQsICIgIiwgeGhyLnJlYWR5U3RhdGUsICIgIiwgeGhyLnN0YXR1cyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text encoding="base64">XiAg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLAogICAgICAiY29udGFjdCI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjb250YWN0IikudmFsdWUsCiAgICAgICJtZXNzYWdlIjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lc3NhZ2UiKS52YWx1ZSwKICAgICAgInJlY2FwdGNoYSI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyZWNhcHRjaGEiKS52YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgaGVhZGVyKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgJC5hamF4KHsKICAgIHVybDogImNvbnRhY3QucGhwIiwKICAgIHR5cGU6ICJQT1NUIiwKICAgIGRhdGFUeXBlOidqc29uJywKICAgIGRhdGE6IHsKICAgICAgIm5hbWUiOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLAogICAgICAiY29udGFjdCI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjb250YWN0IikudmFsdWUsCiAgICAgICJtZXNzYWdlIjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lc3NhZ2UiKS52YWx1ZSwKICAgICAgInJlY2FwdGNoYSI6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyZWNhcHRjaGEiKS52YWx1ZQogICAgfSwKICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHJlc3BvbnNlKXsKICAgICAgaWYgKHJlc3BvbnNlLnR5cGUgPT0gIm1lc3NhZ2UiKSB7CiAgICAgICAgaGlkZSgiZm9ybSIpOwogICAgICAgIHNob3coIm1haWwtc2VudCIpOwogICAgICB9IGVsc2UgewogICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICAgICAgfQogICAgfSwKICAgIGVycm9yOiBmdW5jdGlvbigpe30KICB9KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHhoci5yZXNwb25zZVRleHQsICIgIiwgeGhyLnJlYWR5U3RhdGUsICIgIiwgeGhyLnN0YXR1cyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvbi5lbWFpbCArICIsICIgKyBqc29uLnBhc3N3b3JkKTsK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy41LjAubWluLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni14TnpOMmE0bHRrQjQ0TWMvSnozcFQ0aVUxY21lUjBGa1hzNHBydS9KeGFRPSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjZm9ybSIpLmhpZGUoKTsKICAgICAgICAkKCIjbWFpbC1zZW50Iikuc2hvdygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlLCAiICIsCiAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImNvbnRhY3QiKS52YWx1ZSwgIiAiLAogICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJtZXNzYWdlIikudmFsdWUpOwo=</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOmlkICAgICAgICAgICJuYW1lIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOmlkICAgICAgICAgICJjb250YWN0Igo=</text>
+        <text encoding="base64">ZGllKGpzb25fZW5jb2RlKCRpbnB1dCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm5hbWUgICAgICAgICJtZXNzYWdlIgo=</text>
+        <text encoding="base64">ZWNobygkaW5wdXQtPm5hbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgID09PSAiIikgewo=</text>
+        <text encoding="base64">aWYoJF9QT1NUKQp7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -412,11 +422,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>style</last-search>
+      <last-search encoding="base64">XiAg</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern encoding="base64">XiAg</last-pattern>
       <last-replace />
-      <last-substitute>,</last-substitute>
+      <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
