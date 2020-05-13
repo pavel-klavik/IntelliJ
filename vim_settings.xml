@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>size</entry>
         <entry>class</entry>
         <entry>orgpage</entry>
         <entry>delete</entry>
@@ -25,6 +24,7 @@
         <entry>mkdir</entry>
         <entry>site</entry>
         <entry encoding="base64">XiAg</entry>
+        <entry>:google</entry>
       </history-search>
       <history-cmd>
         <entry>cookie-attrs</entry>
@@ -204,6 +204,13 @@
         <mark key="^" line="44" column="18" />
         <mark key="." line="44" column="17" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1589387683595">
+        <mark key="'" line="913" column="17" />
+        <mark key="[" line="2182" column="29" />
+        <mark key="]" line="2184" column="10" />
+        <mark key="^" line="2184" column="10" />
+        <mark key="." line="2184" column="9" />
+      </file>
       <file name="C:/Shared/klavik/src/klavik/css/menu.clj" timestamp="1589291880332">
         <mark key="'" line="15" column="39" />
       </file>
@@ -219,12 +226,6 @@
         <mark key="]" line="48" column="31" />
         <mark key="^" line="48" column="31" />
         <mark key="." line="48" column="30" />
-      </file>
-      <file name="C:/Shared/klavik/src/klavik/routes.cljc" timestamp="1589281638893">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="10" column="41" />
-        <mark key="." line="10" column="40" />
       </file>
       <file name="C:/Shared/klavik/src/klavik/pages/reseni_sporu.cljc" timestamp="1589281839678">
         <mark key="[" line="15" column="21" />
@@ -257,8 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="7" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="9" column="44" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="16" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="28" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
@@ -357,6 +356,8 @@
       <jump line="0" column="0" filename="/REPL.clj" />
       <jump line="16" column="39" filename="C:/Shared/klavik/src/klavik/css/menu.clj" />
       <jump line="1" column="2" filename="C:/Shared/klavik/resources/contact.php" />
+      <jump line="23" column="59" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
+      <jump line="913" column="17" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -369,7 +370,7 @@
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XiAg</text>
+        <text>:google</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVhZGVyKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKTsK</text>
@@ -409,9 +410,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XiAg</last-search>
+      <last-search>:google</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XiAg</last-pattern>
+      <last-pattern>:google</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
