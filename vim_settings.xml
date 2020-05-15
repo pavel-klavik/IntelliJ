@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>edit</entry>
-        <entry>suggestion</entry>
-        <entry>sugg</entry>
         <entry>error</entry>
         <entry>get-curr</entry>
         <entry>#zoom-info</entry>
@@ -25,6 +22,9 @@
         <entry>cellpadding</entry>
         <entry>Margin</entry>
         <entry>:dding</entry>
+        <entry>pending</entry>
+        <entry>dialogs</entry>
+        <entry>dialog</entry>
       </history-search>
       <history-cmd>
         <entry>cookie-attrs</entry>
@@ -149,9 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589565325852">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/email/config.cljc" timestamp="1589559026382">
         <mark key="[" line="29" column="29" />
         <mark key="]" line="42" column="16" />
@@ -170,14 +167,6 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="/REPL.txt" timestamp="1589564927412">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/resources/sql/common.sql" timestamp="1589565042854">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/resources/sql/images.sql" timestamp="1589565174049">
         <mark key="[" line="43" column="48" />
       </file>
@@ -188,17 +177,47 @@
         <mark key="^" line="149" column="31" />
         <mark key="." line="149" column="30" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/invitation.cljc" timestamp="1589561362397">
-        <mark key="[" line="12" column="82" />
-        <mark key="]" line="12" column="90" />
-        <mark key="." line="12" column="89" />
-        <mark key="^" line="12" column="90" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/core.cljc" timestamp="1589556157521">
         <mark key="[" line="10" column="57" />
         <mark key="]" line="10" column="57" />
         <mark key="^" line="10" column="57" />
         <mark key="." line="10" column="56" />
+      </file>
+      <file name="/REPL.clj" timestamp="1589564927409">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/common/hiccup/parse.cljc" timestamp="1589549486859">
+        <mark key="[" line="58" column="6" />
+        <mark key="]" line="58" column="5" />
+        <mark key="^" line="58" column="5" />
+        <mark key="." line="58" column="4" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1589567882937" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1589567445653">
+        <mark key="'" line="169" column="32" />
+      </file>
+      <file name="C:/Shared/orgpad/.gitignore" timestamp="1589564305736">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589565325852">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/REPL.txt" timestamp="1589564927412">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/sql/common.sql" timestamp="1589565042854">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/invitation.cljc" timestamp="1589561362397">
+        <mark key="[" line="12" column="82" />
+        <mark key="]" line="12" column="90" />
+        <mark key="." line="12" column="89" />
+        <mark key="^" line="12" column="90" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/common.cljc" timestamp="1589558527246">
         <mark key="[" line="131" column="44" />
@@ -210,20 +229,6 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/resources/emails/invitation.html" timestamp="1589547492968">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="/REPL.clj" timestamp="1589564927409">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/hiccup/parse.cljc" timestamp="1589549486859">
-        <mark key="[" line="58" column="6" />
-        <mark key="]" line="58" column="5" />
-        <mark key="^" line="58" column="5" />
-        <mark key="." line="58" column="4" />
       </file>
       <file name="C:/Shared/orgpad/emails/index.html" timestamp="1589551828279">
         <mark key="[" line="7" column="4" />
@@ -237,21 +242,8 @@
         <mark key="^" line="62" column="59" />
         <mark key="." line="62" column="58" />
       </file>
-      <file name="C:/Shared/orgpad/.gitignore" timestamp="1589564305736">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="16" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/email/email.css" timestamp="1589546058725">
-        <mark key="'" line="80" column="4" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="28" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="123" column="11" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="57" column="40" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
@@ -330,7 +322,6 @@
       <jump line="91" column="0" filename="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" />
       <jump line="98" column="13" filename="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" />
       <jump line="99" column="31" filename="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
       <jump line="10" column="0" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" />
       <jump line="51" column="43" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" />
       <jump line="52" column="43" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" />
@@ -351,6 +342,8 @@
       <jump line="23" column="59" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
       <jump line="913" column="17" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
       <jump line="21" column="46" filename="C:/Shared/orgpad/src/orgpad/css/dashboard.clj" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="169" column="32" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -362,7 +355,7 @@
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
       </register>
       <register name="/" type="4">
-        <text>:dding</text>
+        <text>dialog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVhZGVyKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKTsK</text>
@@ -401,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>:dding</last-search>
+      <last-search>dialog</last-search>
       <last-offset />
-      <last-pattern>:dding</last-pattern>
+      <last-pattern>dialog</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
