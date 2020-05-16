@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>orgpage</entry>
-        <entry>delete</entry>
         <entry>edit</entry>
         <entry>suggestion</entry>
         <entry>sugg</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XiAg</entry>
         <entry>:google</entry>
         <entry>:site\/about</entry>
+        <entry>ws</entry>
+        <entry>ws\/</entry>
       </history-search>
       <history-cmd>
         <entry>cookie-attrs</entry>
@@ -206,11 +206,12 @@
         <mark key="^" line="97" column="12" />
         <mark key="." line="97" column="11" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" timestamp="1589652014472">
-        <mark key="[" line="204" column="73" />
-        <mark key="]" line="212" column="8" />
-        <mark key="^" line="212" column="8" />
-        <mark key="." line="212" column="7" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" timestamp="1589653552626">
+        <mark key="'" line="147" column="65" />
+        <mark key="[" line="146" column="59" />
+        <mark key="]" line="146" column="66" />
+        <mark key="^" line="146" column="66" />
+        <mark key="." line="146" column="65" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1589646472424">
         <mark key="[" line="28" column="7" />
@@ -227,11 +228,11 @@
       <file name="/REPL.txt" timestamp="1589645457010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1589652339989">
-        <mark key="[" line="150" column="24" />
-        <mark key="]" line="152" column="8" />
-        <mark key="^" line="152" column="8" />
-        <mark key="." line="152" column="7" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1589652959982">
+        <mark key="[" line="156" column="79" />
+        <mark key="]" line="156" column="77" />
+        <mark key="^" line="156" column="77" />
+        <mark key="." line="156" column="76" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/user.clj" timestamp="1589652318600">
         <mark key="[" line="79" column="4" />
@@ -265,10 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="123" column="11" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="57" column="40" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="83" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="88" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="93" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="98" column="52" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
@@ -365,6 +362,10 @@
       <jump line="913" column="17" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
       <jump line="62" column="20" filename="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" />
       <jump line="61" column="10" filename="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" />
+      <jump line="7" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" />
+      <jump line="18" column="27" filename="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" />
+      <jump line="64" column="42" filename="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" />
+      <jump line="147" column="65" filename="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -376,7 +377,7 @@
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
       </register>
       <register name="/" type="4">
-        <text>:site\/about</text>
+        <text>ws\/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVhZGVyKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKTsK</text>
@@ -416,9 +417,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>:site\/about</last-search>
+      <last-search>ws\/</last-search>
       <last-offset />
-      <last-pattern>:site\/about</last-pattern>
+      <last-pattern>ws\/</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
