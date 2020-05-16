@@ -173,7 +173,12 @@
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="75" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/verification.cljc" timestamp="1589584611744" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/verification.cljc" timestamp="1589635378238">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="20" />
+      </file>
       <file name="C:/Shared/volcano/src/volcano/hiccup.cljc" timestamp="1589632597011">
         <mark key="[" line="88" column="45" />
         <mark key="]" line="84" column="40" />
@@ -224,12 +229,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/landing/resources/index.html" timestamp="1589413937548">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="17" />
-      </file>
       <file name="/REPL.txt" timestamp="1589631793055">
         <mark key="[" line="0" column="0" />
       </file>
@@ -238,6 +237,18 @@
         <mark key="]" line="3" column="38" />
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="37" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/invitation.cljc" timestamp="1589635296754">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="82" />
+        <mark key="^" line="13" column="82" />
+        <mark key="." line="13" column="81" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/common.cljc" timestamp="1589635247541">
+        <mark key="[" line="99" column="3" />
+        <mark key="]" line="99" column="25" />
+        <mark key="^" line="99" column="25" />
+        <mark key="." line="99" column="24" />
       </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1589572369374">
         <mark key="[" line="84" column="69" />
