@@ -174,6 +174,12 @@
         <mark key="." line="4" column="75" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/verification.cljc" timestamp="1589584611744" />
+      <file name="C:/Shared/volcano/src/volcano/hiccup.cljc" timestamp="1589632597011">
+        <mark key="[" line="88" column="45" />
+        <mark key="]" line="84" column="40" />
+        <mark key="." line="84" column="39" />
+        <mark key="^" line="84" column="40" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/landing/pages/common.cljc" timestamp="1589414365798">
         <mark key="[" line="96" column="13" />
         <mark key="]" line="96" column="14" />
@@ -232,12 +238,6 @@
         <mark key="]" line="3" column="38" />
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="37" />
-      </file>
-      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1589410520013">
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="38" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="15" column="37" />
       </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1589572369374">
         <mark key="[" line="84" column="69" />
@@ -352,7 +352,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgOnNjcmlwdHMgICAgICAgICAgW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAKICAgICAgIChzZXE/IGhpY2N1cCkgKG1hcCBleHBhbmQtc3R5bGVzIGhpY2N1cCkKICAgICAgICAgICAobm90ICh2ZWN0b3I/IGhpY2N1cCkpIGhpY2N1cAo=</text>
       </register>
       <register name="-" type="4">
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
@@ -364,32 +364,32 @@
         <text encoding="base64">ICAgICAgaGVhZGVyKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgOnNjcmlwdHMgICAgICAgICAgW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAKICAgICAgIChzZXE/IGhpY2N1cCkgKG1hcCBleHBhbmQtc3R5bGVzIGhpY2N1cCkKICAgICAgICAgICAobm90ICh2ZWN0b3I/IGhpY2N1cCkpIGhpY2N1cAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgOnNjcmlwdHMgICAgICAgICAgW10K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIFsiL2ludHJvLmh0bWwiIDpzaXRlL2ludHJvXQogICAgICAgWyIvZWR1Lmh0bWwiIDpzaXRlL2VkdV0KICAgICAgIFsiL2J1c2luZXNzLmh0bWwiIDpzaXRlL2J1c2luZXNzXQogICAgICAgWyIvY29udGFjdC5odG1sIiA6c2l0ZS9jb250YWN0XQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(message/message &quot;Odměna je s klientem vždy sjednána předem&quot;
                      &quot;Zpravidla činí 1 000 Kč za hodinu&quot;)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICBlbHNlIHsKICAgICAgY29uc29sZS5sb2coIkVycm9yIHdoaWxlIHNlbmRpbmcgbWVzc2FnZS4iKQogICAgfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHhoci5yZXNwb25zZVRleHQsICIgIiwgeGhyLnJlYWR5U3RhdGUsICIgIiwgeGhyLnN0YXR1cyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy41LjAubWluLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni14TnpOMmE0bHRrQjQ0TWMvSnozcFQ0aVUxY21lUjBGa1hzNHBydS9KeGFRPSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy41LjAubWluLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni14TnpOMmE0bHRrQjQ0TWMvSnozcFQ0aVUxY21lUjBGa1hzNHBydS9KeGFRPSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
