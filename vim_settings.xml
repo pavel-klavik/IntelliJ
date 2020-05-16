@@ -153,6 +153,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1589660021287">
+        <mark key="[" line="210" column="36" />
+        <mark key="]" line="213" column="39" />
+        <mark key="^" line="213" column="39" />
+        <mark key="." line="213" column="38" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/email/config.cljc" timestamp="1589576174278">
         <mark key="]" line="44" column="16" />
         <mark key="^" line="44" column="16" />
@@ -164,17 +170,16 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="C:/Shared/orgpad/resources/sql/images.sql" timestamp="1589565174049">
-        <mark key="[" line="43" column="48" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/dashboard.clj" timestamp="1589565320117">
-        <mark key="'" line="21" column="46" />
-        <mark key="[" line="149" column="28" />
-        <mark key="]" line="149" column="31" />
-        <mark key="^" line="149" column="31" />
-        <mark key="." line="149" column="30" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1589660034868">
+        <mark key="[" line="220" column="51" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/unit.clj" timestamp="1589637415452" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/password_reset.cljs" timestamp="1589660483919">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="10" column="60" />
+        <mark key="^" line="10" column="60" />
+        <mark key="." line="10" column="59" />
+      </file>
       <file name="C:/Shared/orgpad/resources/migrations/20200515233300-add-emails.up.sql" timestamp="1589635965360">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="10" />
@@ -193,9 +198,18 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1589567882937" />
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1589567445653">
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1589660092157">
+        <mark key="[" line="205" column="61" />
+        <mark key="]" line="208" column="52" />
+        <mark key="^" line="208" column="52" />
+        <mark key="." line="208" column="51" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1589660065597">
         <mark key="'" line="169" column="32" />
+        <mark key="[" line="212" column="34" />
+        <mark key="]" line="212" column="49" />
+        <mark key="^" line="212" column="49" />
+        <mark key="." line="212" column="48" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20191019172300-usergroups.up.sql" timestamp="1589635888601">
         <mark key="[" line="10" column="0" />
@@ -204,13 +218,11 @@
       <file name="/Dummy.txt" timestamp="1589644729761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/resources/sql/common.sql" timestamp="1589565042854">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/routing.cljs" timestamp="1589658450175">
-        <mark key="[" line="61" column="31" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/routing.cljs" timestamp="1589660870868">
+        <mark key="[" line="65" column="37" />
+        <mark key="]" line="19" column="67" />
+        <mark key="^" line="19" column="67" />
+        <mark key="." line="19" column="66" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/convert/users.clj" timestamp="1589638753393">
         <mark key="[" line="4" column="17" />
