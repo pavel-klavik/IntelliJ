@@ -161,26 +161,23 @@
         <mark key="^" line="192" column="103" />
         <mark key="." line="192" column="102" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/verification.cljc" timestamp="1589635378238">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="20" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/password_reset.cljs" timestamp="1589667932572">
         <mark key="[" line="28" column="80" />
         <mark key="]" line="28" column="79" />
         <mark key="^" line="28" column="79" />
         <mark key="." line="28" column="78" />
       </file>
-      <file name="/REPL.clj" timestamp="1589645457008">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Shared/volcano-template/src/leiningen/new/volcano.clj" timestamp="1589645582234">
         <mark key="[" line="27" column="48" />
         <mark key="]" line="27" column="48" />
         <mark key="^" line="27" column="48" />
         <mark key="." line="27" column="47" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/common.clj" timestamp="1589668896839">
+        <mark key="[" line="31" column="67" />
+        <mark key="]" line="31" column="94" />
+        <mark key="^" line="31" column="94" />
+        <mark key="." line="31" column="93" />
       </file>
       <file name="C:/Shared/volcano/project.clj" timestamp="1589645505569">
         <mark key="[" line="0" column="42" />
@@ -234,11 +231,11 @@
       <file name="/REPL.txt" timestamp="1589645457010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1589654541926">
-        <mark key="[" line="157" column="75" />
-        <mark key="]" line="157" column="65" />
-        <mark key="^" line="157" column="65" />
-        <mark key="." line="157" column="64" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1589668515331">
+        <mark key="[" line="80" column="11" />
+        <mark key="]" line="80" column="11" />
+        <mark key="^" line="80" column="11" />
+        <mark key="." line="80" column="10" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/common/login.cljs" timestamp="1589666201460">
         <mark key="[" line="9" column="15" />
@@ -257,6 +254,12 @@
         <mark key="]" line="15" column="38" />
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="37" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1589668501797">
+        <mark key="[" line="157" column="56" />
+        <mark key="]" line="157" column="65" />
+        <mark key="^" line="157" column="65" />
+        <mark key="." line="157" column="64" />
       </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1589645705692">
         <mark key="[" line="42" column="48" />
