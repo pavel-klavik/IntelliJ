@@ -149,15 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1589635976856">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/login.cljs" timestamp="1589661973476">
-        <mark key="[" line="162" column="100" />
-        <mark key="]" line="163" column="22" />
-        <mark key="." line="163" column="21" />
-        <mark key="^" line="163" column="22" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/login.cljs" timestamp="1589664814538">
+        <mark key="[" line="200" column="84" />
+        <mark key="]" line="187" column="71" />
+        <mark key="." line="187" column="70" />
+        <mark key="^" line="187" column="71" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1589660021287">
         <mark key="[" line="210" column="36" />
@@ -175,17 +171,11 @@
         <mark key="[" line="220" column="51" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/unit.clj" timestamp="1589637415452" />
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/password_reset.cljs" timestamp="1589660483919">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="10" column="60" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="10" column="59" />
-      </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20200515233300-add-emails.up.sql" timestamp="1589635965360">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="1" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/password_reset.cljs" timestamp="1589664873996">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="17" column="63" />
+        <mark key="^" line="17" column="63" />
+        <mark key="." line="17" column="62" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" timestamp="1589640166633">
         <mark key="[" line="56" column="9" />
@@ -227,6 +217,12 @@
         <mark key="^" line="19" column="67" />
         <mark key="." line="19" column="66" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/common/login.cljs" timestamp="1589664687635">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="21" column="34" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/convert/users.clj" timestamp="1589638753393">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="8" column="37" />
@@ -244,6 +240,10 @@
         <mark key="]" line="71" column="36" />
         <mark key="^" line="71" column="36" />
         <mark key="." line="71" column="35" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/registration.cljs" timestamp="1589664832678">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="91" column="0" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/files.sql" timestamp="1589636772242">
         <mark key="[" line="59" column="0" />
@@ -364,7 +364,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbZ3JpZC9pdGVtICM6Z3JpZHs6a2V5ICJwYXNzd29yZCJ9CiAgICAgICAgIFt0ZXh0LWZpZWxkL3RleHQtZmllbGQgIzp0ZXh0LWZpZWxkezpsYWJlbCAgICAgIlBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dHlwZSAgICAgIDp0ZXh0LWZpZWxkL3Bhc3N3b3JkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp2YWx1ZSAgICAgcGFzc3dvcmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmF1dG9maWxsICAibmV3LXBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6cmVxdWlyZWQgIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSA6cmVnaXN0cmF0aW9uL3VwZGF0ZS1wYXNzd29yZH1dXQogICAgICAgIFtncmlkL2l0ZW0gIzpncmlkezprZXkgInBhc3N3b3JkLWNvbmZpcm0ifQogICAgICAgICBbdGV4dC1maWVsZC90ZXh0LWZpZWxkICM6dGV4dC1maWVsZHs6bGFiZWwgICAgICAgIlBhc3N3b3JkIGFnYWluIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dHlwZSAgICAgICAgOnRleHQtZmllbGQvcGFzc3dvcmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnJlcXVpcmVkICAgIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnZhbHVlICAgICAgIHBhc3N3b3JkLWNvbmZpcm0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmF1dG9maWxsICAgICJuZXctcGFzc3dvcmQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDplcnJvciAgICAgICBwYXNzd29yZC1zYW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoZWxwZXItdGV4dCAoaWYgcGFzc3dvcmQtc2FtZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUGFzc3dvcmRzIGRvIG5vdCBtYXRjaCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRleHQtZmllbGQvdm9pZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAgIDpyZWdpc3RyYXRpb24vdXBkYXRlLXBhc3N3b3JkLWNvbmZpcm19XV0K</text>
+        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpyZWdpc3RyYXRpb24vdXBkYXRlLXBhc3N3b3JkCiAgKGZuIFtkYiBbXyBuZXctcGFzc3dvcmRdXQogICAgKGRiLXVwZGF0ZS9yZWdpc3RyYXRpb24gZGIgYXNzb2MgOnJlZ2lzdHJhdGlvbi9wYXNzd29yZCBuZXctcGFzc3dvcmQpKSkKCihyZi9yZWctZXZlbnQtZGIKICA6cmVnaXN0cmF0aW9uL3VwZGF0ZS1wYXNzd29yZC1jb25maXJtCiAgKGZuIFtkYiBbXyBuZXctcGFzc3dvcmQtY29uZmlybV1dCiAgICAoZGItdXBkYXRlL3JlZ2lzdHJhdGlvbiBkYiBhc3NvYyA6cmVnaXN0cmF0aW9uL3Bhc3N3b3JkLWNvbmZpcm0gbmV3LXBhc3N3b3JkLWNvbmZpcm0pKSkKCg==</text>
       </register>
       <register name="-" type="4">
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
@@ -373,7 +373,7 @@
         <text>dialog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbZ3JpZC9pdGVtICM6Z3JpZHs6a2V5ICJwYXNzd29yZCJ9CiAgICAgICAgIFt0ZXh0LWZpZWxkL3RleHQtZmllbGQgIzp0ZXh0LWZpZWxkezpsYWJlbCAgICAgIlBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dHlwZSAgICAgIDp0ZXh0LWZpZWxkL3Bhc3N3b3JkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp2YWx1ZSAgICAgcGFzc3dvcmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmF1dG9maWxsICAibmV3LXBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6cmVxdWlyZWQgIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSA6cmVnaXN0cmF0aW9uL3VwZGF0ZS1wYXNzd29yZH1dXQogICAgICAgIFtncmlkL2l0ZW0gIzpncmlkezprZXkgInBhc3N3b3JkLWNvbmZpcm0ifQogICAgICAgICBbdGV4dC1maWVsZC90ZXh0LWZpZWxkICM6dGV4dC1maWVsZHs6bGFiZWwgICAgICAgIlBhc3N3b3JkIGFnYWluIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dHlwZSAgICAgICAgOnRleHQtZmllbGQvcGFzc3dvcmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnJlcXVpcmVkICAgIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnZhbHVlICAgICAgIHBhc3N3b3JkLWNvbmZpcm0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmF1dG9maWxsICAgICJuZXctcGFzc3dvcmQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDplcnJvciAgICAgICBwYXNzd29yZC1zYW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoZWxwZXItdGV4dCAoaWYgcGFzc3dvcmQtc2FtZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUGFzc3dvcmRzIGRvIG5vdCBtYXRjaCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRleHQtZmllbGQvdm9pZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAgIDpyZWdpc3RyYXRpb24vdXBkYXRlLXBhc3N3b3JkLWNvbmZpcm19XV0K</text>
+        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpyZWdpc3RyYXRpb24vdXBkYXRlLXBhc3N3b3JkCiAgKGZuIFtkYiBbXyBuZXctcGFzc3dvcmRdXQogICAgKGRiLXVwZGF0ZS9yZWdpc3RyYXRpb24gZGIgYXNzb2MgOnJlZ2lzdHJhdGlvbi9wYXNzd29yZCBuZXctcGFzc3dvcmQpKSkKCihyZi9yZWctZXZlbnQtZGIKICA6cmVnaXN0cmF0aW9uL3VwZGF0ZS1wYXNzd29yZC1jb25maXJtCiAgKGZuIFtkYiBbXyBuZXctcGFzc3dvcmQtY29uZmlybV1dCiAgICAoZGItdXBkYXRlL3JlZ2lzdHJhdGlvbiBkYiBhc3NvYyA6cmVnaXN0cmF0aW9uL3Bhc3N3b3JkLWNvbmZpcm0gbmV3LXBhc3N3b3JkLWNvbmZpcm0pKSkKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">V0hFUkUgZmlsZSA9IDpmaWxlCg==</text>
