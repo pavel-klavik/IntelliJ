@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>class</entry>
         <entry>orgpage</entry>
         <entry>delete</entry>
         <entry>edit</entry>
@@ -25,6 +24,7 @@
         <entry>site</entry>
         <entry encoding="base64">XiAg</entry>
         <entry>:google</entry>
+        <entry>:site\/about</entry>
       </history-search>
       <history-cmd>
         <entry>cookie-attrs</entry>
@@ -149,17 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/klavik/src/klavik/config.cljc" timestamp="1589491174778">
-        <mark key="[" line="113" column="25" />
-        <mark key="]" line="113" column="28" />
-        <mark key="." line="113" column="27" />
-        <mark key="^" line="113" column="28" />
-      </file>
-      <file name="C:/Shared/klavik/project.clj" timestamp="1589499349794">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="39" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="5" column="38" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/login.cljs" timestamp="1589647680896">
+        <mark key="[" line="121" column="62" />
+        <mark key="]" line="122" column="63" />
+        <mark key="^" line="122" column="63" />
+        <mark key="." line="122" column="62" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/email/config.cljc" timestamp="1589585109166">
         <mark key="[" line="3" column="72" />
@@ -212,10 +206,29 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" timestamp="1589646654637">
+        <mark key="'" line="60" column="10" />
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="10" />
+        <mark key="^" line="60" column="10" />
+        <mark key="." line="60" column="9" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589645586246">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/button.clj" timestamp="1589647239097">
+        <mark key="[" line="97" column="18" />
+        <mark key="]" line="97" column="12" />
+        <mark key="^" line="97" column="12" />
+        <mark key="." line="97" column="11" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1589646472424">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="33" column="20" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="20" />
       </file>
       <file name="C:/Shared/volcano-template/project.clj" timestamp="1589645576816">
         <mark key="[" line="0" column="40" />
@@ -225,12 +238,6 @@
       </file>
       <file name="/REPL.txt" timestamp="1589645457010">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/klavik/shadow-cljs.edn" timestamp="1589490167939">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="37" />
       </file>
       <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1589645696293">
         <mark key="[" line="15" column="48" />
@@ -258,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="44" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
-      <jump line="16" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="28" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" />
       <jump line="123" column="11" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="57" column="40" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
@@ -358,6 +363,8 @@
       <jump line="1" column="2" filename="C:/Shared/klavik/resources/contact.php" />
       <jump line="23" column="59" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
       <jump line="913" column="17" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
+      <jump line="62" column="20" filename="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" />
+      <jump line="61" column="10" filename="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -369,7 +376,7 @@
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
       </register>
       <register name="/" type="4">
-        <text>:google</text>
+        <text>:site\/about</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVhZGVyKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKTsK</text>
@@ -409,9 +416,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>:google</last-search>
+      <last-search>:site\/about</last-search>
       <last-offset />
-      <last-pattern>:google</last-pattern>
+      <last-pattern>:site\/about</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
