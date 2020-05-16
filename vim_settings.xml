@@ -149,6 +149,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/common/util/url.cljc" timestamp="1589654273121">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="5" column="58" />
+        <mark key="^" line="5" column="58" />
+        <mark key="." line="5" column="57" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/login.cljs" timestamp="1589650754705">
         <mark key="[" line="136" column="68" />
         <mark key="]" line="136" column="92" />
@@ -160,12 +166,6 @@
         <mark key="]" line="15" column="21" />
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="20" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/password_reset.cljc" timestamp="1589634520142">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="19" />
       </file>
       <file name="/REPL.clj" timestamp="1589645457008">
         <mark key="[" line="0" column="0" />
@@ -195,7 +195,7 @@
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589645586246">
+      <file name="/Dummy.txt" timestamp="1589654713512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -213,11 +213,11 @@
         <mark key="^" line="146" column="66" />
         <mark key="." line="146" column="65" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1589646472424">
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="19" />
-        <mark key="^" line="33" column="20" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1589654340891">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="41" column="69" />
+        <mark key="." line="41" column="68" />
+        <mark key="^" line="41" column="69" />
       </file>
       <file name="C:/Shared/volcano-template/project.clj" timestamp="1589645576816">
         <mark key="[" line="0" column="40" />
@@ -228,11 +228,11 @@
       <file name="/REPL.txt" timestamp="1589645457010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1589652959982">
-        <mark key="[" line="156" column="79" />
-        <mark key="]" line="156" column="77" />
-        <mark key="^" line="156" column="77" />
-        <mark key="." line="156" column="76" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1589654541926">
+        <mark key="[" line="157" column="75" />
+        <mark key="]" line="157" column="65" />
+        <mark key="^" line="157" column="65" />
+        <mark key="." line="157" column="64" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/user.clj" timestamp="1589652318600">
         <mark key="[" line="79" column="4" />
