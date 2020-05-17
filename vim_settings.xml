@@ -172,6 +172,10 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="9" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/share_orgpage.cljs" timestamp="1589755048278">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="112" column="50" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/profile.cljs" timestamp="1589749110710">
         <mark key="[" line="36" column="15" />
         <mark key="]" line="39" column="20" />
@@ -252,17 +256,11 @@
         <mark key="^" line="87" column="79" />
         <mark key="." line="87" column="78" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1589674925836">
-        <mark key="[" line="139" column="52" />
-        <mark key="]" line="139" column="53" />
-        <mark key="^" line="139" column="53" />
-        <mark key="." line="139" column="52" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/emails.cljs" timestamp="1589753782655">
-        <mark key="[" line="13" column="75" />
-        <mark key="]" line="13" column="73" />
-        <mark key="^" line="13" column="73" />
-        <mark key="." line="13" column="72" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/emails.cljs" timestamp="1589756299655">
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="53" />
+        <mark key="^" line="34" column="53" />
+        <mark key="." line="34" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -371,7 +369,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAoanMvY29uc29sZS5sb2cgZW1haWxzLW1hcCkK</text>
+        <text encoding="base64">ICAgICBbZ3JpZC9pdGVtICM6Z3JpZHs6a2V5ICJ1c2Vycy1saXN0In0KICAgICAgW2xpc3QvbWQtbGlzdCAjOmxpc3R7OnN0eWxlIHs6bWF4LWhlaWdodCAzMDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6b3ZlcmZsb3cgICAiYXV0byJ9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIDppdGVtcyBpdGVtc31dXQogICAgIFtncmlkL2l0ZW0gIzpncmlkezprZXkgICAic3VnZ2VzdGlvbnMiCiAgICAgICAgICAgICAgICAgICAgICAgOnN0eWxlIHs6YWxpZ24tc2VsZiAiY2VudGVyIn19CiAgICAgIFtzdWdnZXN0aW9ucy9zdWdnZXN0aW9ucwogICAgICAgIzpzdWdnZXN0aW9uc3s6YW5jaG9yICAgICAgIG5ldy11c2VyLWVsZW1lbnQKICAgICAgICAgICAgICAgICAgICAgOnN0b3JlLWFuY2hvciA6c2hhcmUtb3JncGFnZS9zdG9yZS1uZXctdXNlci1lbGVtZW50CiAgICAgICAgICAgICAgICAgICAgIDp0ZXh0LWZpZWxkICAgIzp0ZXh0LWZpZWxkezp2YWx1ZSAgICAgICBuZXctdXNlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZXJyb3IgICAgICAgZXJyb3IKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmhlbHBlci10ZXh0ICh1c2VyLWVycm9ycyBlcnJvcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmxhYmVsICAgICAgICJOYW1lIG9yIGVtYWlsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWFyZ2luICAgICAgOnRleHQtZmllbGQvbm9ybWFsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDphdXRvZm9jdXMgICB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDplbmQtaGljY3VwICBbYnV0dG9uL2J1dHRvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICM6YnV0dG9uezppZCAgICAgICAgOnNoYXJlLW9yZ3BhZ2UvYWRkLXVzZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6aWNvbiAgICAgICJwbHVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjb2xvciAgICAgOmJ1dHRvbi9ncmVlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpkaXNhYmxlZD8gKHN0ci9ibGFuaz8gbmV3LXVzZXIpfV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAgIDpzaGFyZS1vcmdwYWdlL3VwZGF0ZS1uZXctdXNlcn0KICAgICAgICAgICAgICAgICAgICAgOmxpc3QgICAgICAgICAod2hlbiAoc2VxIHN1Z2dlc3Rpb25zKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHN1Z2dlc3Rpb25zL3VzZXItbGlzdCBzdWdnZXN0aW9ucyA6c2hhcmUtb3JncGFnZS9hZGQtc3VnZ2VzdGlvbikpCiAgICAgICAgICAgICAgICAgICAgIDpsb2FkaW5nLWxpc3QgKGFuZCAob3IgKG5vdCBhbGwtdXNlcnMpIChub3QgYWxsLXVzZXJncm91cHMpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG5vdCAoc3RyL2JsYW5rPyBuZXctdXNlcikpKQogICAgICAgICAgICAgICAgICAgICA6c3R5bGUgICAgICAgIHs6d2lkdGggMzAwfX1dXQo=</text>
       </register>
       <register name="-" type="4">
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
@@ -380,7 +378,7 @@
         <text>ws\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZ2V0LWVtYWlsIDo/IDoxCi0tIDpkb2MgcmV0cmlldmVzIGEgZ2l2ZW4gZW1haWwKU0VMRUNUICogRlJPTSBlbWFpbHMKV0hFUkUgZW1haWwgPSA6ZW1haWwK</text>
+        <text encoding="base64">ICAgICBbZ3JpZC9pdGVtICM6Z3JpZHs6a2V5ICJ1c2Vycy1saXN0In0KICAgICAgW2xpc3QvbWQtbGlzdCAjOmxpc3R7OnN0eWxlIHs6bWF4LWhlaWdodCAzMDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6b3ZlcmZsb3cgICAiYXV0byJ9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIDppdGVtcyBpdGVtc31dXQogICAgIFtncmlkL2l0ZW0gIzpncmlkezprZXkgICAic3VnZ2VzdGlvbnMiCiAgICAgICAgICAgICAgICAgICAgICAgOnN0eWxlIHs6YWxpZ24tc2VsZiAiY2VudGVyIn19CiAgICAgIFtzdWdnZXN0aW9ucy9zdWdnZXN0aW9ucwogICAgICAgIzpzdWdnZXN0aW9uc3s6YW5jaG9yICAgICAgIG5ldy11c2VyLWVsZW1lbnQKICAgICAgICAgICAgICAgICAgICAgOnN0b3JlLWFuY2hvciA6c2hhcmUtb3JncGFnZS9zdG9yZS1uZXctdXNlci1lbGVtZW50CiAgICAgICAgICAgICAgICAgICAgIDp0ZXh0LWZpZWxkICAgIzp0ZXh0LWZpZWxkezp2YWx1ZSAgICAgICBuZXctdXNlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZXJyb3IgICAgICAgZXJyb3IKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmhlbHBlci10ZXh0ICh1c2VyLWVycm9ycyBlcnJvcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmxhYmVsICAgICAgICJOYW1lIG9yIGVtYWlsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWFyZ2luICAgICAgOnRleHQtZmllbGQvbm9ybWFsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDphdXRvZm9jdXMgICB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDplbmQtaGljY3VwICBbYnV0dG9uL2J1dHRvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICM6YnV0dG9uezppZCAgICAgICAgOnNoYXJlLW9yZ3BhZ2UvYWRkLXVzZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6aWNvbiAgICAgICJwbHVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjb2xvciAgICAgOmJ1dHRvbi9ncmVlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpkaXNhYmxlZD8gKHN0ci9ibGFuaz8gbmV3LXVzZXIpfV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAgIDpzaGFyZS1vcmdwYWdlL3VwZGF0ZS1uZXctdXNlcn0KICAgICAgICAgICAgICAgICAgICAgOmxpc3QgICAgICAgICAod2hlbiAoc2VxIHN1Z2dlc3Rpb25zKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHN1Z2dlc3Rpb25zL3VzZXItbGlzdCBzdWdnZXN0aW9ucyA6c2hhcmUtb3JncGFnZS9hZGQtc3VnZ2VzdGlvbikpCiAgICAgICAgICAgICAgICAgICAgIDpsb2FkaW5nLWxpc3QgKGFuZCAob3IgKG5vdCBhbGwtdXNlcnMpIChub3QgYWxsLXVzZXJncm91cHMpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG5vdCAoc3RyL2JsYW5rPyBuZXctdXNlcikpKQogICAgICAgICAgICAgICAgICAgICA6c3R5bGUgICAgICAgIHs6d2lkdGggMzAwfX1dXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAoanMvY29uc29sZS5sb2cgZW1haWxzLW1hcCkK</text>
