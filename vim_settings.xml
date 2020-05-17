@@ -149,6 +149,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/core.cljs" timestamp="1589728883167">
+        <mark key="[" line="48" column="61" />
+        <mark key="]" line="48" column="61" />
+        <mark key="^" line="48" column="61" />
+        <mark key="." line="48" column="60" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/login.cljs" timestamp="1589673046460">
         <mark key="[" line="334" column="18" />
         <mark key="]" line="334" column="22" />
@@ -185,13 +191,6 @@
         <mark key="^" line="31" column="94" />
         <mark key="." line="31" column="93" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" timestamp="1589653552626">
-        <mark key="'" line="147" column="65" />
-        <mark key="[" line="146" column="59" />
-        <mark key="]" line="146" column="66" />
-        <mark key="^" line="146" column="66" />
-        <mark key="." line="146" column="65" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1589654340891">
         <mark key="[" line="27" column="7" />
         <mark key="]" line="41" column="69" />
@@ -227,11 +226,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/util/url.cljc" timestamp="1589654273121">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="5" column="58" />
-        <mark key="^" line="5" column="58" />
-        <mark key="." line="5" column="57" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/notifications.cljs" timestamp="1589728857345">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1589674286579">
         <mark key="[" line="89" column="0" />
