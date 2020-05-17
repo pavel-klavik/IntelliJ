@@ -160,11 +160,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/administration.cljs" timestamp="1589674253326">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/notifications.cljs" timestamp="1589730157601">
         <mark key="[" line="6" column="70" />
         <mark key="]" line="7" column="35" />
@@ -177,22 +172,17 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="9" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/profile.cljs" timestamp="1589731071224">
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="28" />
-        <mark key="^" line="39" column="28" />
-        <mark key="." line="39" column="27" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/profile.cljs" timestamp="1589749110710">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="39" column="20" />
+        <mark key="^" line="39" column="20" />
+        <mark key="." line="39" column="19" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/dialogs.cljs" timestamp="1589731046074">
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="28" />
         <mark key="^" line="170" column="28" />
         <mark key="." line="170" column="27" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/administration.cljs" timestamp="1589674160253">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/notifications.cljs" timestamp="1589728857345">
         <mark key="[" line="0" column="45" />
@@ -205,6 +195,12 @@
         <mark key="]" line="204" column="31" />
         <mark key="^" line="204" column="31" />
         <mark key="." line="204" column="30" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/sql/emails.sql" timestamp="1589748584692">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="20" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1589730573181">
         <mark key="[" line="208" column="33" />
@@ -227,6 +223,12 @@
       <file name="/REPL.clj" timestamp="1589674929041">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/email.clj" timestamp="1589748452865">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="23" column="66" />
+        <mark key="^" line="23" column="66" />
+        <mark key="." line="23" column="65" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1589730639530">
         <mark key="[" line="202" column="53" />
         <mark key="]" line="202" column="44" />
@@ -244,17 +246,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/user.clj" timestamp="1589747607841">
-        <mark key="[" line="82" column="14" />
-        <mark key="]" line="83" column="36" />
-        <mark key="^" line="83" column="36" />
-        <mark key="." line="83" column="35" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/user.clj" timestamp="1589747757149">
+        <mark key="[" line="85" column="50" />
+        <mark key="]" line="87" column="79" />
+        <mark key="^" line="87" column="79" />
+        <mark key="." line="87" column="78" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1589674925836">
         <mark key="[" line="139" column="52" />
         <mark key="]" line="139" column="53" />
         <mark key="^" line="139" column="53" />
         <mark key="." line="139" column="52" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/emails.cljs" timestamp="1589749144488">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="78" />
+        <mark key="^" line="7" column="78" />
+        <mark key="." line="7" column="77" />
       </file>
     </filemarks>
     <jumps>
@@ -363,7 +371,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnByb2ZpbGUvdXBkYXRlLWN1cnJlbnQiIG5ldy1jdXJyZW50KQo=</text>
+        <text encoding="base64">LS0gOm5hbWUgZ2V0LWVtYWlsIDo/IDoxCi0tIDpkb2MgcmV0cmlldmVzIGEgZ2l2ZW4gZW1haWwKU0VMRUNUICogRlJPTSBlbWFpbHMKV0hFUkUgZW1haWwgPSA6ZW1haWwK</text>
       </register>
       <register name="-" type="4">
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
@@ -372,7 +380,7 @@
         <text>ws\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVyKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKTsK</text>
+        <text encoding="base64">LS0gOm5hbWUgZ2V0LWVtYWlsIDo/IDoxCi0tIDpkb2MgcmV0cmlldmVzIGEgZ2l2ZW4gZW1haWwKU0VMRUNUICogRlJPTSBlbWFpbHMKV0hFUkUgZW1haWwgPSA6ZW1haWwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnByb2ZpbGUvdXBkYXRlLWN1cnJlbnQiIG5ldy1jdXJyZW50KQo=</text>
