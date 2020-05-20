@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>suggestion</entry>
         <entry>sugg</entry>
         <entry>error</entry>
         <entry>get-curr</entry>
@@ -25,6 +24,7 @@
         <entry>ws</entry>
         <entry>ws\/</entry>
         <entry>templates</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
         <entry>cookie-attrs</entry>
@@ -34,7 +34,6 @@
         <entry>wwa</entry>
         <entry>orgpage/title</entry>
         <entry>orgpage\/title</entry>
-        <entry encoding="base64">JzwsJz5zL14vICAv</entry>
         <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
         <entry>ww</entry>
         <entry>:w</entry>
@@ -47,6 +46,7 @@
         <entry>:wa</entry>
         <entry>a</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zL14vICAv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -215,7 +215,7 @@
         <mark key="." line="92" column="64" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/landing/common.clj" timestamp="1590007356470">
-        <mark key="[" line="167" column="6" />
+        <mark key="[" line="166" column="6" />
         <mark key="]" line="180" column="46" />
         <mark key="^" line="180" column="46" />
         <mark key="." line="180" column="45" />
@@ -232,11 +232,12 @@
         <mark key="^" line="180" column="32" />
         <mark key="." line="180" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/landing/scripts/send-contact-form.js" timestamp="1590007505158">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="10" column="43" />
+      <file name="C:/Shared/orgpad/src/orgpad/landing/scripts/send-contact-form.js" timestamp="1590007709587">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/app.clj" timestamp="1589991065512" />
       <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1590002231140">
@@ -262,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="52" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="101" column="24" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="102" column="24" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="118" column="62" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
@@ -362,61 +362,62 @@
       <jump line="147" column="65" filename="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" />
       <jump line="0" column="24" filename="C:/Shared/orgpad/src/orgpad/server/email/templates/common.cljc" />
       <jump line="1" column="33" filename="C:/Shared/orgpad/src/orgpad/server/email/templates/common.cljc" />
+      <jump line="15" column="17" filename="C:/Shared/orgpad/src/orgpad/landing/scripts/send-contact-form.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIHVwZGF0ZV9idXR0b24gKCkgewogIGlmIChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlID09PSAiIiB8fAogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiY29udGFjdCIpLnZhbHVlID09PSAiIiB8fAogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibWVzc2FnZSIpLnZhbHVlID09PSAiIikgewogICAgaGlkZSgic2VuZCIpOwogICAgc2hvdygic2VuZC1kaXNhYmxlZCIpOwogIH0gZWxzZSB7CiAgICBzaG93KCJzZW5kIik7CiAgICBoaWRlKCJzZW5kLWRpc2FibGVkIik7CiAgfQp9</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>templates</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDpzaXRlL2J1c2luZXNzIChsYW5kaW5nLXBhZ2UgImJ1c2luZXNzLmh0bWwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIHVwZGF0ZV9idXR0b24gKCkgewogIGlmIChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlID09PSAiIiB8fAogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiY29udGFjdCIpLnZhbHVlID09PSAiIiB8fAogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibWVzc2FnZSIpLnZhbHVlID09PSAiIikgewogICAgaGlkZSgic2VuZCIpOwogICAgc2hvdygic2VuZC1kaXNhYmxlZCIpOwogIH0gZWxzZSB7CiAgICBzaG93KCJzZW5kIik7CiAgICBoaWRlKCJzZW5kLWRpc2FibGVkIik7CiAgfQp9</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjb250YWN0IjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImNvbnRhY3QiKS52YWx1ZSwKICAgICJtZXNzYWdlIjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lc3NhZ2UiKS52YWx1ZSwK</text>
+        <text encoding="base64">CmZ1bmN0aW9uIHVwZGF0ZV9idXR0b24gKCkgewogIGlmIChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnZhbHVlID09PSAiIiB8fAogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiY29udGFjdCIpLnZhbHVlID09PSAiIiB8fAogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibWVzc2FnZSIpLnZhbHVlID09PSAiIikgewogICAgaGlkZSgic2VuZCIpOwogICAgc2hvdygic2VuZC1kaXNhYmxlZCIpOwogIH0gZWxzZSB7CiAgICBzaG93KCJzZW5kIik7CiAgICBoaWRlKCJzZW5kLWRpc2FibGVkIik7CiAgfQp9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaGlkZSgiZm9ybSIpOwogICAgICBzaG93KCJtYWlsLXNlbnQiKTsK</text>
+        <text encoding="base64">ICAgICJjb250YWN0IjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImNvbnRhY3QiKS52YWx1ZSwKICAgICJtZXNzYWdlIjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lc3NhZ2UiKS52YWx1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaGlkZSgiZm9ybSIpOwogICAgICBzaG93KCJtYWlsLXNlbnQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHJlc3BvbnNlID0gSlNPTi5wYXJzZSh4aHIucmVzcG9uc2VUZXh0KTsKICAgICAgaWYgKHJlc3BvbnNlLnR5cGUgPT0gIm1lc3NhZ2UiKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyAicmVxdWVzdDoiIHJlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHJlc3BvbnNlID0gSlNPTi5wYXJzZSh4aHIucmVzcG9uc2VUZXh0KTsKICAgICAgaWYgKHJlc3BvbnNlLnR5cGUgPT0gIm1lc3NhZ2UiKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIChjb21tb24vbGluayAie3tkb21haW59fXt7YmxvY2stdXNlcn19IiAiYmxvY2sgaW52aXRhdGlvbnMgZnJvbSB7e3VzZXJ9fSIpICIgb3IgIgo=</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyAicmVxdWVzdDoiIHJlcXVlc3QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChjb21tb24vcHJlaGVhZGVyIChzdHIgIk9yZ1BhZCBOZXdzbGV0dGVyICIgZGF0ZSkgInt7dXNlcn19IGhhdmUgaW52aXRlZCB5b3UgdG8ge3thY3Rpb259fSB7e3RpdGxlfX0uIFBsZWFzZSBjbGljayB0aGUgYnV0dG9uIGJlbG93IHRvIG9wZW4gaXQuIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIChjb21tb24vbGluayAie3tkb21haW59fXt7YmxvY2stdXNlcn19IiAiYmxvY2sgaW52aXRhdGlvbnMgZnJvbSB7e3VzZXJ9fSIpICIgb3IgIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGxvZy9pbmZvICkK</text>
+        <text encoding="base64">ICAgIChjb21tb24vcHJlaGVhZGVyIChzdHIgIk9yZ1BhZCBOZXdzbGV0dGVyICIgZGF0ZSkgInt7dXNlcn19IGhhdmUgaW52aXRlZCB5b3UgdG8ge3thY3Rpb259fSB7e3RpdGxlfX0uIFBsZWFzZSBjbGljayB0aGUgYnV0dG9uIGJlbG93IHRvIG9wZW4gaXQuIikK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text encoding="base64">JzwsJz5zL14vICAv</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>templates</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>templates</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">XiAg</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">ICA=</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
