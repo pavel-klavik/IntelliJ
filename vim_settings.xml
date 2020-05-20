@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>edit</entry>
         <entry>suggestion</entry>
         <entry>sugg</entry>
         <entry>error</entry>
@@ -25,6 +24,7 @@
         <entry>:site\/about</entry>
         <entry>ws</entry>
         <entry>ws\/</entry>
+        <entry>templates</entry>
       </history-search>
       <history-cmd>
         <entry>cookie-attrs</entry>
@@ -155,29 +155,28 @@
         <mark key="^" line="139" column="115" />
         <mark key="." line="139" column="114" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/email/config.cljc" timestamp="1589977569317">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="4" column="76" />
-        <mark key="^" line="4" column="76" />
-        <mark key="." line="4" column="75" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/email/config.cljc" timestamp="1589983459277">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="32" column="46" />
+        <mark key="^" line="32" column="46" />
+        <mark key="." line="32" column="45" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/newsletter.cljc" timestamp="1589982034464">
-        <mark key="[" line="9" column="139" />
-        <mark key="]" line="10" column="63" />
-        <mark key="." line="10" column="62" />
-        <mark key="^" line="10" column="63" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1589900069191">
-        <mark key="[" line="16" column="54" />
-        <mark key="]" line="34" column="49" />
-        <mark key="^" line="34" column="49" />
-        <mark key="." line="34" column="48" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/newsletter.cljc" timestamp="1589983823296">
+        <mark key="[" line="8" column="72" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/email/core.clj" timestamp="1589944088979">
         <mark key="[" line="52" column="16" />
         <mark key="]" line="52" column="18" />
         <mark key="^" line="52" column="18" />
         <mark key="." line="52" column="17" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/core.cljc" timestamp="1589983892424">
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/permissions.clj" timestamp="1589943148352">
         <mark key="[" line="59" column="0" />
@@ -239,11 +238,12 @@
         <mark key="^" line="84" column="63" />
         <mark key="." line="84" column="62" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/emails.cljs" timestamp="1589900028649">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-        <mark key="." line="6" column="47" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/common.cljc" timestamp="1589983944996">
+        <mark key="'" line="0" column="33" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="39" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" timestamp="1589901540926">
         <mark key="[" line="81" column="31" />
@@ -259,8 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
-      <jump line="93" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="98" column="52" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="101" column="24" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
       <jump line="102" column="24" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/profile_editor.cljs" />
@@ -359,6 +357,8 @@
       <jump line="18" column="27" filename="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" />
       <jump line="64" column="42" filename="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" />
       <jump line="147" column="65" filename="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" />
+      <jump line="0" column="24" filename="C:/Shared/orgpad/src/orgpad/server/email/templates/common.cljc" />
+      <jump line="1" column="33" filename="C:/Shared/orgpad/src/orgpad/server/email/templates/common.cljc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -370,7 +370,7 @@
         <text>uživatel má právo vědět, jaké údaje, za jakým účelem a po jakou dobu o něm zpracováváme, kde údaje o něm získáváme, kdo je mimo nás zpracovává a jaká má další práva související se zpracováním jeho osobních údajů. Pokud si uživatel není jistý, které osobní údaje o něm zpracováváme, může nás požádat o potvrzení. Pokud jsou osobní údaje o něm zpracovávány, má uživatel právo na jejich bezplatnou kopii.</text>
       </register>
       <register name="/" type="4">
-        <text>ws\/</text>
+        <text>templates</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpsb2dpbi9mb3Jnb3R0ZW4tcGFzc3dvcmQtZW1haWwpKQoK</text>
@@ -409,9 +409,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ws\/</last-search>
+      <last-search>templates</last-search>
       <last-offset />
-      <last-pattern>ws\/</last-pattern>
+      <last-pattern>templates</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
