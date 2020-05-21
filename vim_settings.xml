@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sugg</entry>
         <entry>error</entry>
         <entry>get-curr</entry>
         <entry>#zoom-info</entry>
@@ -19,12 +18,13 @@
         <entry>mkdir</entry>
         <entry>site</entry>
         <entry encoding="base64">XiAg</entry>
-        <entry>:google</entry>
-        <entry>:site\/about</entry>
-        <entry>ws</entry>
-        <entry>ws\/</entry>
-        <entry>templates</entry>
-        <entry>^</entry>
+        <entry encoding="base64">XiAgICA=</entry>
+        <entry>cellpadding</entry>
+        <entry>Margin</entry>
+        <entry>:dding</entry>
+        <entry>pending</entry>
+        <entry>dialogs</entry>
+        <entry>dialog</entry>
       </history-search>
       <history-cmd>
         <entry>cookie-attrs</entry>
@@ -34,18 +34,18 @@
         <entry>wwa</entry>
         <entry>orgpage/title</entry>
         <entry>orgpage\/title</entry>
-        <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
+        <entry encoding="base64">JzwsJz5zL14vICAv</entry>
         <entry>ww</entry>
         <entry>:w</entry>
         <entry>;wa</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>waa</entry>
+        <entry>a</entry>
+        <entry>:wa</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w'</entry>
+        <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
         <entry>w</entry>
-        <entry>:wa</entry>
-        <entry>a</entry>
-        <entry encoding="base64">JzwsJz5zL14vICAv</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -168,6 +168,7 @@
         <mark key="." line="71" column="46" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/email/templates/core.cljc" timestamp="1589983892424">
+        <mark key="[" line="9" column="25" />
         <mark key="]" line="7" column="30" />
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="29" />
@@ -184,7 +185,6 @@
         <mark key="." line="45" column="35" />
         <mark key="^" line="45" column="36" />
       </file>
-      <file name="C:/Shared/klavik/resources/index.html" timestamp="1590017654896" />
       <file name="C:/Shared/orgpad/landing/resources/index.html" timestamp="1590017712599">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
@@ -228,7 +228,6 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/app.clj" timestamp="1589991065512" />
       <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1590002231140">
         <mark key="[" line="28" column="28" />
       </file>
