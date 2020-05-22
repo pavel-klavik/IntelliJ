@@ -176,26 +176,24 @@
         <mark key="." line="38" column="107" />
         <mark key="^" line="38" column="108" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1590153052052">
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="36" />
-        <mark key="^" line="12" column="37" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1590157189103">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/REPL.txt" timestamp="1590147263214">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/scheduling.clj" timestamp="1590155807475">
-        <mark key="[" line="7" column="78" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="5" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/scheduling.clj" timestamp="1590157120988">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/project.clj" timestamp="1590151227360">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="48" />
-        <mark key="^" line="42" column="49" />
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1590157195557">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/landing/common.clj" timestamp="1590030286616">
         <mark key="[" line="115" column="9" />
@@ -215,11 +213,11 @@
         <mark key="^" line="155" column="10" />
         <mark key="." line="155" column="9" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1590155187376">
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="71" column="20" />
-        <mark key="." line="71" column="19" />
-        <mark key="^" line="71" column="20" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1590157387355">
+        <mark key="[" line="69" column="32" />
+        <mark key="]" line="69" column="32" />
+        <mark key="." line="69" column="31" />
+        <mark key="^" line="69" column="32" />
       </file>
       <file name="/REPL.clj" timestamp="1590147263213">
         <mark key="[" line="0" column="0" />
@@ -363,7 +361,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2Nsb2p1cmV3ZXJrei5xdWFydHppdGUuc2NoZWR1bGVyIDphcyBxc10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbY2xvanVyZXdlcmt6L3F1YXJ0eml0ZSAiMi4xLjAiXQo=</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -376,28 +374,28 @@
                                    (bound-fn [] (reset! administration/metrics (administration/recompute-metrics)))))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2Nsb2p1cmV3ZXJrei5xdWFydHppdGUuc2NoZWR1bGVyIDphcyBxc10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbY2xvanVyZXdlcmt6L3F1YXJ0eml0ZSAiMi4xLjAiXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5zZXJ2ZXIuc2NoZWR1bGluZyA6YXMgc2NoZWR1bGluZ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5zZXJ2ZXIuc2NoZWR1bGluZ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2Nsb2p1cmV3ZXJrei5xdWFydHppdGUuam9icyA6YXMgcWpdCiAgICAgICAgICAgIFtjbG9qdXJld2Vya3oucXVhcnR6aXRlLnRyaWdnZXJzIDphcyBxdF0KICAgICAgICAgICAgW2Nsb2p1cmV3ZXJrei5xdWFydHppdGUuc2NoZWR1bGUuc2ltcGxlIDphcyBxc3NdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KHFzL3NjaGVkdWxlIHNjaGVkdWxpbmcvc2NoZWR1bGVyIG1ldHJpY3Mtam9iIG1ldHJpY3MtdHJpZ2dlcikK</text>
+        <text encoding="base64">KGRlZiBtZXRyaWNzLWludGVydmFsICgqIDUgMTAwMCkKICA7KCogMTUgNjAgMTAwMCkKICApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBFdmVyeSAxNSBtaW51dGVzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRlZm4gc3RhcnQgW10KICApCgooZGVmbiBzdG9wIFtzXQogIChxcy9zaHV0ZG93biBzKSkKCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">KHFqL2RlZmpvYiByZWNvbXB1dGVtZXRyaWNzCiAgW19dCiAgIyhyZXNldCEgbWV0cmljcyAoY29tcHV0ZS1tZXRyaWNzKSkpCgooZGVmIG1ldHJpY3Mtam9iIChxai9idWlsZAogICAgICAgICAgICAgICAgICAgKHFqL29mLXR5cGUgcmVjb21wdXRlbWV0cmljcykKICAgICAgICAgICAgICAgICAgIChxai93aXRoLWlkZW50aXR5IChxai9rZXkgIm1ldHJpY3MiKSkpKQooZGVmIG1ldHJpY3MtdHJpZ2dlciAocXQvYnVpbGQKICAgICAgICAgICAgICAgICAgICAgICAocXQvd2l0aC1pZGVudGl0eSAocXQva2V5ICJ0cmlnZ2VyLm1ldHJpY3MiKSkKICAgICAgICAgICAgICAgICAgICAgICAocXQvc3RhcnQtbm93KQogICAgICAgICAgICAgICAgICAgICAgIChxdC93aXRoLXNjaGVkdWxlIChxc3Mvc2NoZWR1bGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChxc3Mvd2l0aC1yZXBlYXQtY291bnQgMTApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAocXNzL3dpdGgtaW50ZXJ2YWwtaW4tc2Vjb25kcyA1KSkpKSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRlZm4gc3RvcCBbXQogIChxcy9zaHV0ZG93biBzY2hlZHVsZXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2Nsb2p1cmV3ZXJrei5xdWFydHppdGUuc2NoZWR1bGVyIDphcyBxc10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbamFyb2hlbi9jaGltZSAiMC4zLjIiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5zZXJ2ZXIuc2NoZWR1bGluZyA6YXMgc2NoZWR1bGluZ10K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
