@@ -38,7 +38,6 @@
         <entry>:w</entry>
         <entry>;wa</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
-        <entry>waa</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w'</entry>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
@@ -47,6 +46,7 @@
         <entry>w</entry>
         <entry>ma</entry>
         <entry>wa</entry>
+        <entry>waa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -168,14 +168,20 @@
         <mark key="^" line="73" column="76" />
         <mark key="." line="73" column="75" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" timestamp="1590289648676">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="165" column="51" />
-        <mark key="^" line="165" column="51" />
-        <mark key="." line="165" column="50" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/orgpages.cljs" timestamp="1590366875847">
+        <mark key="[" line="186" column="44" />
+        <mark key="]" line="186" column="47" />
+        <mark key="^" line="186" column="47" />
+        <mark key="." line="186" column="46" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1590329362112">
-        <mark key="'" line="57" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1590366248033">
+        <mark key="[" line="72" column="19" />
+        <mark key="]" line="72" column="35" />
+        <mark key="." line="72" column="34" />
+        <mark key="^" line="72" column="35" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/administration.cljs" timestamp="1590366338906">
+        <mark key="[" line="71" column="103" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/image.clj" timestamp="1590361736042">
         <mark key="[" line="50" column="0" />
@@ -194,18 +200,34 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590364146288">
+      <file name="/Dummy.txt" timestamp="1590364591417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/REPL.txt" timestamp="1590286598091">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/metrics.cljs" timestamp="1590366386695">
+        <mark key="[" line="145" column="30" />
+        <mark key="]" line="145" column="54" />
+        <mark key="." line="145" column="53" />
+        <mark key="^" line="145" column="54" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1590366881853">
+        <mark key="[" line="217" column="39" />
+        <mark key="]" line="217" column="35" />
+        <mark key="^" line="217" column="35" />
+        <mark key="." line="217" column="34" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/data_transfer/insert.cljs" timestamp="1590356999212">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/scheduling.clj" timestamp="1590366262159">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="47" column="54" />
+        <mark key="]" line="47" column="68" />
+        <mark key="^" line="47" column="68" />
+        <mark key="." line="47" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -314,7 +336,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGJzL3RvLWlucHV0LXN0cmVhbSBieXRlLWFycmF5KQo=</text>
+        <text encoding="base64">ICAgICBbZ3JpZC9ncmlkICM6Z3JpZHs6c3BhY2luZyAgICAgMgogICAgICAgICAgICAgICAgICAgICAgIDpkaXJlY3Rpb24gICA6Z3JpZC9jb2x1bW4KICAgICAgICAgICAgICAgICAgICAgICA6anVzdGlmeSAgICAgOmdyaWQvY2VudGVyCiAgICAgICAgICAgICAgICAgICAgICAgOmFsaWduLWl0ZW1zIDpncmlkL2NlbnRlcgogICAgICAgICAgICAgICAgICAgICAgIDpzdHlsZSAgICAgICB7OndpZHRoICIxMDAlIn19Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(db-update/dashboard db update-in [:dashboard/orgpages id] merge orgpage)</text>
@@ -322,8 +344,8 @@
       <register name="/" type="4">
         <text>dashbo</text>
       </register>
-      <register name="0" type="4">
-        <text>n</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICBbZ3JpZC9ncmlkICM6Z3JpZHs6c3BhY2luZyAgICAgMgogICAgICAgICAgICAgICAgICAgICAgIDpkaXJlY3Rpb24gICA6Z3JpZC9jb2x1bW4KICAgICAgICAgICAgICAgICAgICAgICA6anVzdGlmeSAgICAgOmdyaWQvY2VudGVyCiAgICAgICAgICAgICAgICAgICAgICAgOmFsaWduLWl0ZW1zIDpncmlkL2NlbnRlcgogICAgICAgICAgICAgICAgICAgICAgIDpzdHlsZSAgICAgICB7OndpZHRoICIxMDAlIn19Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKGJzL3RvLWlucHV0LXN0cmVhbSBieXRlLWFycmF5KQo=</text>
