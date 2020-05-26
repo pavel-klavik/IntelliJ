@@ -162,6 +162,12 @@
         <mark key="." line="68" column="60" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/oauth2.clj" timestamp="1590362153402" />
+      <file name="C:/Shared/orgpad/src/orgpad/preview/config.cljs" timestamp="1590506486048">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="14" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/data_transfer/parser/common.cljs" timestamp="1590358626401">
         <mark key="[" line="73" column="6" />
         <mark key="]" line="73" column="76" />
@@ -173,6 +179,9 @@
         <mark key="]" line="186" column="47" />
         <mark key="^" line="186" column="47" />
         <mark key="." line="186" column="46" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/preview/core.cljs" timestamp="1590506438298">
+        <mark key="[" line="1" column="29" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1590366248033">
         <mark key="[" line="72" column="19" />
@@ -205,6 +214,12 @@
         <mark key="." line="145" column="53" />
         <mark key="^" line="145" column="54" />
       </file>
+      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1590506167547">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="37" column="56" />
+        <mark key="^" line="37" column="56" />
+        <mark key="." line="37" column="55" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1590366881853">
         <mark key="[" line="217" column="39" />
         <mark key="]" line="217" column="35" />
@@ -228,6 +243,12 @@
         <mark key="]" line="165" column="10" />
         <mark key="^" line="165" column="10" />
         <mark key="." line="165" column="9" />
+      </file>
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1590506152599">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="40" />
+        <mark key="." line="57" column="16" />
+        <mark key="^" line="57" column="17" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/preview.clj" timestamp="1590428345159">
         <mark key="[" line="33" column="33" />
@@ -342,7 +363,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZiBeOnByaXZhdGUgcHJldmlldy13aWR0aCAxMjAwKQooZGVmIF46cHJpdmF0ZSBwcmV2aWV3LWhlaWdodCA2MzApCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbbWFjY2hpYXRvL2NvcmUgIjAuMi4xNyJdCiAgICAgICAgICAgICAgICAgW21hY2NoaWF0by9lbnYgIjAuMC42Il0K</text>
       </register>
       <register name="-" type="4">
         <text>(db-update/dashboard db update-in [:dashboard/orgpages id] merge orgpage)</text>
@@ -351,7 +372,7 @@
         <text>dashbo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICBbZ3JpZC9ncmlkICM6Z3JpZHs6c3BhY2luZyAgICAgMgogICAgICAgICAgICAgICAgICAgICAgIDpkaXJlY3Rpb24gICA6Z3JpZC9jb2x1bW4KICAgICAgICAgICAgICAgICAgICAgICA6anVzdGlmeSAgICAgOmdyaWQvY2VudGVyCiAgICAgICAgICAgICAgICAgICAgICAgOmFsaWduLWl0ZW1zIDpncmlkL2NlbnRlcgogICAgICAgICAgICAgICAgICAgICAgIDpzdHlsZSAgICAgICB7OndpZHRoICIxMDAlIn19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbbWFjY2hpYXRvL2NvcmUgIjAuMi4xNyJdCiAgICAgICAgICAgICAgICAgW21hY2NoaWF0by9lbnYgIjAuMC42Il0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KGRlZiBeOnByaXZhdGUgcHJldmlldy13aWR0aCAxMjAwKQooZGVmIF46cHJpdmF0ZSBwcmV2aWV3LWhlaWdodCA2MzApCgo=</text>
