@@ -149,23 +149,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/screenshot/browser.cljs" timestamp="1590765632609">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="33" column="41" />
-        <mark key="^" line="33" column="41" />
-        <mark key="." line="33" column="40" />
+      <file name="C:/Shared/orgpad/src/orgpad/screenshot/browser.cljs" timestamp="1590791419589">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="50" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/preview/handler.cljs" timestamp="1590650836156">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1590604831738">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="57" column="16" />
-        <mark key="^" line="57" column="16" />
-        <mark key="." line="57" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" timestamp="1590620693690">
         <mark key="[" line="24" column="20" />
@@ -263,6 +256,12 @@
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/preview.clj" timestamp="1590791713950">
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="55" column="19" />
+        <mark key="^" line="55" column="20" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1590620403774">
         <mark key="[" line="149" column="0" />
