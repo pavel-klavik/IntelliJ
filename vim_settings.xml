@@ -206,7 +206,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590620805570">
+      <file name="/Dummy.txt" timestamp="1590712539317">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -253,7 +253,7 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/screenshot/handler.cljs" timestamp="1590710103465">
+      <file name="C:/Shared/orgpad/src/orgpad/screenshot/handler.cljs" timestamp="1590759210561">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="30" />
         <mark key="^" line="5" column="30" />
@@ -378,7 +378,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
+        <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
       </register>
       <register name="-" type="4">
         <text>#(.close page)</text>
@@ -390,31 +390,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICBbbW91bnQgIjAuMS4xNiJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
+        <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I18oZGVmbiBzdGFydC1zMyEKICAgIFt7OmtleXMgW3MzLXVybCBzMy1hY2Nlc3Mta2V5IHMzLXNlY3JldC1rZXldfV0KICAgIChsb2cvaW5mbyAiU3RhcnRpbmcgY29ubmVjdGlvbiB0byBTMy4uLiIpCiAgICAoYXdzL1MzLiAjanMgezphY2Nlc3NLZXlJZCAgICAgIHMzLWFjY2Vzcy1rZXkKICAgICAgICAgICAgICAgICAgOnNlY3JldEtleUlkICAgICAgczMtc2VjcmV0LWtleQogICAgICAgICAgICAgICAgICA6ZW5kcG9pbnQgICAgICAgICBzMy11cmwKICAgICAgICAgICAgICAgICAgOnMzRm9yY2VQYXRoU3R5bGUgdHJ1ZQogICAgICAgICAgICAgICAgICA6c2lnbmF0dXJlVmVyc2lvbiAidjQifSkpCgojXyhtL2RlZnN0YXRlIHMzCiAgICAgICAgICAgICAgOnN0YXJ0IChzdGFydC1zMyEgQGNvbmZpZy9lbnYpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA7KGxvZy9pbmZvICh0eXBlIHMzKSkK</text>
+        <text encoding="base64">I18oZGVmbiBzdGFydC1zMyEKICAgIFt7OmtleXMgW3MzLXVybCBzMy1hY2Nlc3Mta2V5IHMzLXNlY3JldC1rZXldfV0KICAgIChsb2cvaW5mbyAiU3RhcnRpbmcgY29ubmVjdGlvbiB0byBTMy4uLiIpCiAgICAoYXdzL1MzLiAjanMgezphY2Nlc3NLZXlJZCAgICAgIHMzLWFjY2Vzcy1rZXkKICAgICAgICAgICAgICAgICAgOnNlY3JldEtleUlkICAgICAgczMtc2VjcmV0LWtleQogICAgICAgICAgICAgICAgICA6ZW5kcG9pbnQgICAgICAgICBzMy11cmwKICAgICAgICAgICAgICAgICAgOnMzRm9yY2VQYXRoU3R5bGUgdHJ1ZQogICAgICAgICAgICAgICAgICA6c2lnbmF0dXJlVmVyc2lvbiAidjQifSkpCgojXyhtL2RlZnN0YXRlIHMzCiAgICAgICAgICAgICAgOnN0YXJ0IChzdGFydC1zMyEgQGNvbmZpZy9lbnYpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAobG9nL2luZm8gQGJyb3dzZXIvYnJvd3NlcikK</text>
+        <text encoding="base64">ICA7KGxvZy9pbmZvICh0eXBlIHMzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyAodHlwZSAoLT4gdXJsIG1ha2Utc2NyZWVuc2hvdCkpKQo=</text>
+        <text encoding="base64">ICAobG9nL2luZm8gQGJyb3dzZXIvYnJvd3NlcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAobG9nL2luZm8gImNsb3NpbmcgdGhlIHBhZ2UuLi4iKQo=</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyAodHlwZSAoLT4gdXJsIG1ha2Utc2NyZWVuc2hvdCkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAobG9nL2luZm8gInRha2luZyBzY3JlZW5zaG90Li4uIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAobG9nL2luZm8gImNsb3NpbmcgdGhlIHBhZ2UuLi4iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAobG9nL2luZm8gIlN0YXJ0aW5nIHRoZSBzZXJ2ZXIuLi4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAobG9nL2luZm8gInRha2luZyBzY3JlZW5zaG90Li4uIikK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
