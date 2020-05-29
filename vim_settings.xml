@@ -149,18 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/screenshot/browser.cljs" timestamp="1590710029344">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="20" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1590604785916">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="63" column="39" />
-        <mark key="^" line="63" column="39" />
-        <mark key="." line="63" column="38" />
+      <file name="C:/Shared/orgpad/src/orgpad/screenshot/browser.cljs" timestamp="1590765632609">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+        <mark key="." line="33" column="40" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/preview/handler.cljs" timestamp="1590650836156">
         <mark key="[" line="25" column="0" />
@@ -211,17 +204,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/screenshot/screenshot.cljs" timestamp="1590766405311">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="11" column="56" />
+        <mark key="^" line="11" column="56" />
+        <mark key="." line="11" column="55" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/routing.cljs" timestamp="1590605331489">
         <mark key="[" line="72" column="33" />
         <mark key="]" line="64" column="63" />
         <mark key="^" line="64" column="63" />
         <mark key="." line="64" column="62" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/screenshot/s3.cljs" timestamp="1590712505087">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="19" column="43" />
+      <file name="C:/Shared/orgpad/src/orgpad/screenshot/s3.cljs" timestamp="1590766477559">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="33" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/screenshot/core.cljs" timestamp="1590710075831">
         <mark key="[" line="3" column="0" />
@@ -253,11 +252,11 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/screenshot/handler.cljs" timestamp="1590759210561">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="29" />
+      <file name="C:/Shared/orgpad/src/orgpad/screenshot/handler.cljs" timestamp="1590765775761">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+        <mark key="." line="5" column="55" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/screenshot/config.cljs" timestamp="1590710035552">
         <mark key="[" line="0" column="19" />
@@ -378,7 +377,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyBzMy11cmwgczMtYWNjZXNzLWtleSBzMy1zZWNyZWl0LWtleSkK</text>
       </register>
       <register name="-" type="4">
         <text>#(.close page)</text>
@@ -390,31 +389,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICBbbW91bnQgIjAuMS4xNiJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyBzMy11cmwgczMtYWNjZXNzLWtleSBzMy1zZWNyZWl0LWtleSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
+        <text encoding="base64">ICBmbiBbcGFnZV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I18oZGVmbiBzdGFydC1zMyEKICAgIFt7OmtleXMgW3MzLXVybCBzMy1hY2Nlc3Mta2V5IHMzLXNlY3JldC1rZXldfV0KICAgIChsb2cvaW5mbyAiU3RhcnRpbmcgY29ubmVjdGlvbiB0byBTMy4uLiIpCiAgICAoYXdzL1MzLiAjanMgezphY2Nlc3NLZXlJZCAgICAgIHMzLWFjY2Vzcy1rZXkKICAgICAgICAgICAgICAgICAgOnNlY3JldEtleUlkICAgICAgczMtc2VjcmV0LWtleQogICAgICAgICAgICAgICAgICA6ZW5kcG9pbnQgICAgICAgICBzMy11cmwKICAgICAgICAgICAgICAgICAgOnMzRm9yY2VQYXRoU3R5bGUgdHJ1ZQogICAgICAgICAgICAgICAgICA6c2lnbmF0dXJlVmVyc2lvbiAidjQifSkpCgojXyhtL2RlZnN0YXRlIHMzCiAgICAgICAgICAgICAgOnN0YXJ0IChzdGFydC1zMyEgQGNvbmZpZy9lbnYpKQo=</text>
+        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA7KGxvZy9pbmZvICh0eXBlIHMzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAobG9nL2luZm8gQGJyb3dzZXIvYnJvd3NlcikK</text>
+        <text encoding="base64">I18oZGVmbiBzdGFydC1zMyEKICAgIFt7OmtleXMgW3MzLXVybCBzMy1hY2Nlc3Mta2V5IHMzLXNlY3JldC1rZXldfV0KICAgIChsb2cvaW5mbyAiU3RhcnRpbmcgY29ubmVjdGlvbiB0byBTMy4uLiIpCiAgICAoYXdzL1MzLiAjanMgezphY2Nlc3NLZXlJZCAgICAgIHMzLWFjY2Vzcy1rZXkKICAgICAgICAgICAgICAgICAgOnNlY3JldEtleUlkICAgICAgczMtc2VjcmV0LWtleQogICAgICAgICAgICAgICAgICA6ZW5kcG9pbnQgICAgICAgICBzMy11cmwKICAgICAgICAgICAgICAgICAgOnMzRm9yY2VQYXRoU3R5bGUgdHJ1ZQogICAgICAgICAgICAgICAgICA6c2lnbmF0dXJlVmVyc2lvbiAidjQifSkpCgojXyhtL2RlZnN0YXRlIHMzCiAgICAgICAgICAgICAgOnN0YXJ0IChzdGFydC1zMyEgQGNvbmZpZy9lbnYpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyAodHlwZSAoLT4gdXJsIG1ha2Utc2NyZWVuc2hvdCkpKQo=</text>
+        <text encoding="base64">ICA7KGxvZy9pbmZvICh0eXBlIHMzKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAobG9nL2luZm8gImNsb3NpbmcgdGhlIHBhZ2UuLi4iKQo=</text>
+        <text encoding="base64">ICAobG9nL2luZm8gQGJyb3dzZXIvYnJvd3NlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAobG9nL2luZm8gInRha2luZyBzY3JlZW5zaG90Li4uIikK</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyAodHlwZSAoLT4gdXJsIG1ha2Utc2NyZWVuc2hvdCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
