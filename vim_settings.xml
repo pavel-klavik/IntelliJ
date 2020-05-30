@@ -149,22 +149,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/core.cljs" timestamp="1590841571286">
+        <mark key="[" line="115" column="24" />
+        <mark key="]" line="115" column="32" />
+        <mark key="." line="115" column="31" />
+        <mark key="^" line="115" column="32" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/screenshot/browser.cljs" timestamp="1590791419589">
         <mark key="[" line="23" column="26" />
         <mark key="]" line="22" column="51" />
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="50" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/preview/handler.cljs" timestamp="1590650836156">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" timestamp="1590620693690">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="44" column="24" />
-        <mark key="^" line="44" column="24" />
-        <mark key="." line="44" column="23" />
       </file>
       <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1590712522863">
         <mark key="[" line="28" column="0" />
@@ -213,6 +208,12 @@
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/about.clj" timestamp="1590801446176">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="108" column="33" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/paths.cljs" timestamp="1590841470492">
+        <mark key="[" line="65" column="38" />
+        <mark key="]" line="60" column="44" />
+        <mark key="." line="60" column="43" />
+        <mark key="^" line="60" column="44" />
       </file>
       <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1590709898023">
         <mark key="[" line="36" column="52" />
@@ -351,7 +352,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjc3JmLXRva2VuIGFudGktZm9yZ2VyeS8qYW50aS1mb3JnZXJ5LXRva2VuKgo=</text>
+        <text encoding="base64">KGRlZm4gc2V0LWZvY3VzCiAgIlNldHMgdGhlIGZvY3VzIG1vZGUuIgogIFtlZmZlY3RzXQogICgtPiBlZmZlY3RzIChkYi11cGRhdGUvcGF0aHMtbWVudSBhc3NvYyA6cGF0aHMtbWVudS9zZXQtZm9jdXMgdHJ1ZSkKICAgICAgZWRpdG9yLWNoYW5nZS9kZWFjdGl2YXRlLWVkaXRvcikpCgooZGVmbiBjbG9zZS1mb2N1cwogICJDbG9zZXMgdGhlIGZvY3VzIG1vZGUuIgogIFtlZmZlY3RzXQogIChkYi11cGRhdGUvcGF0aHMtbWVudSBlZmZlY3RzIGRpc3NvYyA6cGF0aHMtbWVudS9zZXQtZm9jdXMpKQoK</text>
       </register>
       <register name="-" type="4">
         <text>#(.close page)</text>
@@ -360,7 +361,7 @@
         <text>canvas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFs6bWV0YSB7OmNvbnRlbnQgIndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xIgogICAgICAgICAgICA6bmFtZSAgICAidmlld3BvcnQifV0K</text>
+        <text encoding="base64">KGRlZm4gc2V0LWZvY3VzCiAgIlNldHMgdGhlIGZvY3VzIG1vZGUuIgogIFtlZmZlY3RzXQogICgtPiBlZmZlY3RzIChkYi11cGRhdGUvcGF0aHMtbWVudSBhc3NvYyA6cGF0aHMtbWVudS9zZXQtZm9jdXMgdHJ1ZSkKICAgICAgZWRpdG9yLWNoYW5nZS9kZWFjdGl2YXRlLWVkaXRvcikpCgooZGVmbiBjbG9zZS1mb2N1cwogICJDbG9zZXMgdGhlIGZvY3VzIG1vZGUuIgogIFtlZmZlY3RzXQogIChkYi11cGRhdGUvcGF0aHMtbWVudSBlZmZlY3RzIGRpc3NvYyA6cGF0aHMtbWVudS9zZXQtZm9jdXMpKQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjc3JmLXRva2VuIGFudGktZm9yZ2VyeS8qYW50aS1mb3JnZXJ5LXRva2VuKgo=</text>
