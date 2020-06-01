@@ -181,6 +181,12 @@
         <mark key="^" line="39" column="70" />
         <mark key="." line="39" column="69" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/path.clj" timestamp="1591025115067">
+        <mark key="[" line="46" column="90" />
+        <mark key="]" line="48" column="34" />
+        <mark key="." line="48" column="33" />
+        <mark key="^" line="48" column="34" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/change.cljs" timestamp="1591023503640">
         <mark key="[" line="38" column="2" />
       </file>
@@ -313,8 +319,13 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text>(defn- close-page [steps index page-id]
+  &quot;Adds a page of the given id to be closed at the step of the given index.&quot;
+  (let [{:step/keys [opened-page-ids]} (nth steps index)]
+    (if (contains? opened-page-ids page-id)
+      (update-in steps [index :step/opened-page-ids] disj page-id)
+      (update-in steps [index :step/closed-page-ids] sets/insert [page-id]))))</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -347,31 +358,36 @@
             effects page-ids)))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjc3JmLXRva2VuIGFudGktZm9yZ2VyeS8qYW50aS1mb3JnZXJ5LXRva2VuKgo=</text>
+        <text>(defn- close-page [steps index page-id]
+  &quot;Adds a page of the given id to be closed at the step of the given index.&quot;
+  (let [{:step/keys [opened-page-ids]} (nth steps index)]
+    (if (contains? opened-page-ids page-id)
+      (update-in steps [index :step/opened-page-ids] disj page-id)
+      (update-in steps [index :step/closed-page-ids] sets/insert [page-id]))))</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dGl0bGUgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzY3JlZW5zaG90ICJodHRwczovL29yZ3BhZC5jb20vaW1nL2Fib3V0L2ZhY2Vib29rLXRpdGxlLmpwZyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjc3JmLXRva2VuIGFudGktZm9yZ2VyeS8qYW50aS1mb3JnZXJ5LXRva2VuKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKGh0dHAtcmVzcG9uc2UvZm9yYmlkZGVuICJBY2Nlc3MgZGVuaWVkLiIpCiAgICAgIChzMy9vYmplY3Q/IGZvbGRlciBpZCkgKHJlc3BvbnNlL2NvbnRlbnQtdHlwZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGh0dHAtcmVzcG9uc2UvZm91bmQgKHMzL29iamVjdC11cmwgZm9sZGVyIGlkKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpbWFnZS9wbmciKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dGl0bGUgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzY3JlZW5zaG90ICJodHRwczovL29yZ3BhZC5jb20vaW1nL2Fib3V0L2ZhY2Vib29rLXRpdGxlLmpwZyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyBzMy11cmwgczMtYWNjZXNzLWtleSBzMy1zZWNyZWl0LWtleSkK</text>
+        <text encoding="base64">ICAgICAgKGh0dHAtcmVzcG9uc2UvZm9yYmlkZGVuICJBY2Nlc3MgZGVuaWVkLiIpCiAgICAgIChzMy9vYmplY3Q/IGZvbGRlciBpZCkgKHJlc3BvbnNlL2NvbnRlbnQtdHlwZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGh0dHAtcmVzcG9uc2UvZm91bmQgKHMzL29iamVjdC11cmwgZm9sZGVyIGlkKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpbWFnZS9wbmciKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmbiBbcGFnZV0K</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyBzMy11cmwgczMtYWNjZXNzLWtleSBzMy1zZWNyZWl0LWtleSkK</text>
       </register>
       <register name="6" type="2">
-        <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
+        <text encoding="base64">ICBmbiBbcGFnZV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
+        <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I18oZGVmbiBzdGFydC1zMyEKICAgIFt7OmtleXMgW3MzLXVybCBzMy1hY2Nlc3Mta2V5IHMzLXNlY3JldC1rZXldfV0KICAgIChsb2cvaW5mbyAiU3RhcnRpbmcgY29ubmVjdGlvbiB0byBTMy4uLiIpCiAgICAoYXdzL1MzLiAjanMgezphY2Nlc3NLZXlJZCAgICAgIHMzLWFjY2Vzcy1rZXkKICAgICAgICAgICAgICAgICAgOnNlY3JldEtleUlkICAgICAgczMtc2VjcmV0LWtleQogICAgICAgICAgICAgICAgICA6ZW5kcG9pbnQgICAgICAgICBzMy11cmwKICAgICAgICAgICAgICAgICAgOnMzRm9yY2VQYXRoU3R5bGUgdHJ1ZQogICAgICAgICAgICAgICAgICA6c2lnbmF0dXJlVmVyc2lvbiAidjQifSkpCgojXyhtL2RlZnN0YXRlIHMzCiAgICAgICAgICAgICAgOnN0YXJ0IChzdGFydC1zMyEgQGNvbmZpZy9lbnYpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
