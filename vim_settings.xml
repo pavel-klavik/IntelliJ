@@ -149,51 +149,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.m2/repository/macchiato/core/0.2.17/core-0.2.17.jar!/macchiato/server.cljs" timestamp="1590880123323" />
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/common.clj" timestamp="1590843567853">
-        <mark key="]" line="108" column="61" />
-        <mark key="^" line="108" column="61" />
-        <mark key="." line="108" column="60" />
-      </file>
-      <file name="$USER_HOME$/.m2/repository/macchiato/env/0.0.6/env-0.0.6.jar!/macchiato/env.cljs" timestamp="1590930915552" />
-      <file name="/REPL.txt" timestamp="1590931310088">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1590874434629">
-        <mark key="[" line="38" column="56" />
-        <mark key="]" line="39" column="70" />
-        <mark key="^" line="39" column="70" />
-        <mark key="." line="39" column="69" />
-      </file>
-      <file name="C:/Shared/orgpad/project.clj" timestamp="1590862481183">
-        <mark key="[" line="44" column="50" />
-        <mark key="]" line="44" column="50" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="44" column="50" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/core.cljs" timestamp="1590841571286">
         <mark key="[" line="115" column="24" />
         <mark key="]" line="115" column="32" />
         <mark key="." line="115" column="31" />
         <mark key="^" line="115" column="32" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/create/path.cljs" timestamp="1590845301969" />
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/paths.cljs" timestamp="1590840688687">
-        <mark key="[" line="97" column="49" />
-        <mark key="]" line="97" column="45" />
-        <mark key="^" line="97" column="45" />
-        <mark key="." line="97" column="44" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/uuid.cljc" timestamp="1590932892158">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="20" column="6" />
-        <mark key="^" line="20" column="6" />
-        <mark key="." line="20" column="5" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590932929139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/REPL.txt" timestamp="1590931310088">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/screenshot/core.cljs" timestamp="1590873799472">
         <mark key="[" line="15" column="20" />
@@ -207,7 +175,38 @@
         <mark key="." line="60" column="43" />
         <mark key="^" line="60" column="44" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/change.cljs" timestamp="1590866165528" />
+      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1590874434629">
+        <mark key="[" line="38" column="56" />
+        <mark key="]" line="39" column="70" />
+        <mark key="^" line="39" column="70" />
+        <mark key="." line="39" column="69" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/change.cljs" timestamp="1591023503640">
+        <mark key="[" line="38" column="2" />
+      </file>
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1590862481183">
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="44" column="50" />
+        <mark key="." line="44" column="49" />
+        <mark key="^" line="44" column="50" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/paths.cljs" timestamp="1590840688687">
+        <mark key="[" line="97" column="49" />
+        <mark key="]" line="97" column="45" />
+        <mark key="^" line="97" column="45" />
+        <mark key="." line="97" column="44" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/common.clj" timestamp="1590843567853">
+        <mark key="]" line="108" column="61" />
+        <mark key="^" line="108" column="61" />
+        <mark key="." line="108" column="60" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/common/uuid.cljc" timestamp="1590932892158">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="5" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="8" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/text_field.cljs" />
