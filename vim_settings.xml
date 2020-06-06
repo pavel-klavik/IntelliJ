@@ -158,13 +158,13 @@
         <mark key="^" line="42" column="53" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/paths.cljs" timestamp="1591453053786">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="100" />
-        <mark key="." line="162" column="99" />
-        <mark key="^" line="162" column="100" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/paths.cljs" timestamp="1591453763737">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="19" />
+        <mark key="." line="148" column="18" />
+        <mark key="^" line="148" column="19" />
       </file>
-      <file name="/REPL.txt" timestamp="1590947403490">
+      <file name="/REPL.txt" timestamp="1591453919894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/screenshot/core.cljs" timestamp="1591050123821">
@@ -208,20 +208,17 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="40" />
       </file>
-      <file name="/REPL.clj" timestamp="1590947403488">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/preview.clj" timestamp="1591050605925">
         <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="30" />
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="29" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/edit_mode.cljs" timestamp="1591450624010">
-        <mark key="[" line="84" column="22" />
-        <mark key="]" line="96" column="30" />
-        <mark key="^" line="99" column="94" />
-        <mark key="." line="99" column="93" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/edit_mode.cljs" timestamp="1591453832263">
+        <mark key="[" line="140" column="12" />
+        <mark key="]" line="138" column="75" />
+        <mark key="^" line="138" column="75" />
+        <mark key="." line="138" column="74" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/orgpage.clj" timestamp="1590946431696">
         <mark key="[" line="118" column="38" />
@@ -336,7 +333,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3VuaXRzXQogIDo8LSBbOm9yZ3BhZ2UvcGF0aHNdCg==</text>
+        <text encoding="base64">ICA6PC0gWzpwYXRocy9tZW51XQo=</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -345,7 +342,7 @@
         <text>hover</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA6PC0gWzplZGl0LW1vZGUvc2VsZWN0aW9uLXJlY3RhbmdsZV0KICA6PC0gWzp1bml0L2FjdGl2ZS1wYWdlLW1hcHNdCg==</text>
+        <text encoding="base64">ICA6PC0gWzpwYXRocy9tZW51XQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3VuaXRzXQogIDo8LSBbOm9yZ3BhZ2UvcGF0aHNdCg==</text>
