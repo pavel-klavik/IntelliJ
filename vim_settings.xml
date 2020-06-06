@@ -5,47 +5,47 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>error</entry>
-        <entry>get-curr</entry>
-        <entry>#zoom-info</entry>
-        <entry>search</entry>
-        <entry>,</entry>
-        <entry>styles</entry>
-        <entry>link-creati</entry>
-        <entry>link-cre</entry>
-        <entry>unit-buttons</entry>
         <entry>style</entry>
         <entry>mkdir</entry>
         <entry>site</entry>
         <entry encoding="base64">XiAg</entry>
-        <entry encoding="base64">XiAgICA=</entry>
-        <entry>cellpadding</entry>
-        <entry>Margin</entry>
-        <entry>:dding</entry>
-        <entry>pending</entry>
-        <entry>dialogs</entry>
-        <entry>dialog</entry>
+        <entry>:google</entry>
+        <entry>:site\/about</entry>
+        <entry>ws</entry>
+        <entry>ws\/</entry>
+        <entry>templates</entry>
+        <entry>^</entry>
+        <entry>hover</entry>
+        <entry>dashboard</entry>
+        <entry>md-cl</entry>
+        <entry>md-cla</entry>
+        <entry>dashbo</entry>
+        <entry>js</entry>
+        <entry>js-event</entry>
+        <entry>keyboard</entry>
+        <entry>key</entry>
+        <entry>canvas</entry>
       </history-search>
       <history-cmd>
+        <entry>wma</entry>
+        <entry encoding="base64">JzwsJz5zL2JsdWUvZ3JlZW4vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2dyZWVuL3JlZC9n</entry>
         <entry>wwa</entry>
         <entry>orgpage/title</entry>
         <entry>orgpage\/title</entry>
-        <entry encoding="base64">JzwsJz5zL14vICAv</entry>
+        <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
         <entry>ww</entry>
         <entry>:w</entry>
         <entry>;wa</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
-        <entry>waa</entry>
-        <entry>a</entry>
-        <entry>:wa</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>w'</entry>
-        <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
-        <entry>va</entry>
-        <entry>wva</entry>
+        <entry encoding="base64">JzwsJz5zL14vICAv</entry>
+        <entry>:wa</entry>
+        <entry>a</entry>
+        <entry>ma</entry>
+        <entry>waa</entry>
         <entry>w</entry>
-        <entry>aw</entry>
-        <entry>wa'</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -149,115 +149,78 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591459984949">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/core.cljs" timestamp="1590841571286">
+        <mark key="[" line="115" column="24" />
+        <mark key="]" line="115" column="32" />
+        <mark key="." line="115" column="31" />
+        <mark key="^" line="115" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591048600125">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Shared/klavik/src/klavik/config.cljc" timestamp="1591048371904">
+        <mark key="[" line="87" column="47" />
+        <mark key="]" line="87" column="60" />
+        <mark key="^" line="87" column="60" />
+        <mark key="." line="87" column="59" />
+      </file>
+      <file name="C:/Shared/klavik/project.clj" timestamp="1591047792475">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+        <mark key="." line="7" column="45" />
+      </file>
+      <file name="/REPL.txt" timestamp="1590931310088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/core.cljs" timestamp="1591457891752">
-        <mark key="[" line="105" column="30" />
-        <mark key="]" line="107" column="78" />
-        <mark key="^" line="107" column="78" />
-        <mark key="." line="107" column="77" />
+      <file name="C:/Shared/orgpad/src/orgpad/screenshot/core.cljs" timestamp="1590873799472">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="18" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/screenshot/browser.cljs" timestamp="1591022140076">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="42" column="53" />
-        <mark key="." line="8" column="0" />
+      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1590874434629">
+        <mark key="[" line="38" column="56" />
+        <mark key="]" line="39" column="70" />
+        <mark key="^" line="39" column="70" />
+        <mark key="." line="39" column="69" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/paths.cljs" timestamp="1591457606622">
-        <mark key="[" line="184" column="29" />
-        <mark key="]" line="188" column="34" />
-        <mark key="." line="188" column="33" />
-        <mark key="^" line="188" column="34" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/path.clj" timestamp="1591044134167">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" timestamp="1591459950536">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="60" column="66" />
-        <mark key="^" line="60" column="66" />
-        <mark key="." line="60" column="65" />
+      <file name="C:/Shared/klavik/package.json" timestamp="1591047781463">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
       </file>
-      <file name="/REPL.txt" timestamp="1591456428247">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/change.cljs" timestamp="1591023503640">
+        <mark key="[" line="38" column="2" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/logo.cljs" timestamp="1591473564272">
-        <mark key="[" line="23" column="5" />
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1590862481183">
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="44" column="50" />
+        <mark key="." line="44" column="49" />
+        <mark key="^" line="44" column="50" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/screenshot/core.cljs" timestamp="1591050123821">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="59" />
-        <mark key="." line="11" column="58" />
-        <mark key="^" line="11" column="59" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/common.clj" timestamp="1590843567853">
+        <mark key="]" line="108" column="61" />
+        <mark key="^" line="108" column="61" />
+        <mark key="." line="108" column="60" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/selection.cljs" timestamp="1591449431802">
-        <mark key="[" line="137" column="45" />
-        <mark key="]" line="138" column="39" />
-        <mark key="^" line="138" column="39" />
-        <mark key="." line="138" column="38" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/paths.cljs" timestamp="1591456849951">
-        <mark key="[" line="35" column="102" />
-        <mark key="]" line="36" column="54" />
-        <mark key="^" line="36" column="54" />
-        <mark key="." line="36" column="53" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/update.cljs" timestamp="1591449405972">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="89" column="6" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" timestamp="1590947063608">
-        <mark key="[" line="101" column="48" />
-        <mark key="]" line="101" column="48" />
-        <mark key="^" line="101" column="48" />
-        <mark key="." line="101" column="47" />
-      </file>
-      <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1590965940627">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="40" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/change.cljs" timestamp="1591477774972">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="69" column="67" />
-      </file>
-      <file name="/REPL.clj" timestamp="1591456428245">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/preview.clj" timestamp="1591050605925">
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="30" />
-        <mark key="^" line="47" column="30" />
-        <mark key="." line="47" column="29" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/edit_mode.cljs" timestamp="1591453832263">
-        <mark key="[" line="140" column="12" />
-        <mark key="]" line="138" column="75" />
-        <mark key="^" line="138" column="75" />
-        <mark key="." line="138" column="74" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/render.cljs" timestamp="1591476294345">
-        <mark key="[" line="102" column="27" />
-        <mark key="]" line="102" column="26" />
-        <mark key="^" line="102" column="26" />
-        <mark key="." line="102" column="25" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/panel.clj" timestamp="1591474556080">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="36" />
-        <mark key="^" line="24" column="36" />
-        <mark key="." line="24" column="35" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/uuid.cljc" timestamp="1590932892158">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/suggestions.cljs" />
-      <jump line="9" column="44" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/suggestions.cljs" />
-      <jump line="14" column="3" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/suggestions.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/tabs.cljs" />
-      <jump line="4" column="31" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/tabs.cljs" />
       <jump line="8" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/text_field.cljs" />
       <jump line="45" column="74" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/text_field.cljs" />
       <jump line="15" column="45" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/toggle_buttons.cljs" />
@@ -353,48 +316,58 @@
       <jump line="818" column="4" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
       <jump line="1046" column="20" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
       <jump line="3" column="0" filename="C:/Shared/orgpad/src/orgpad/server/scheduling.clj" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="131" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="68" column="23" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="52" column="6" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBib29rLXVuaXRzIG9wZW5lZC1wYWdlLWlkcyBvcGVuZWQtYm9vay1pZHMgYm9vay1pZHMtdG8tYmUtY2xvc2VkKQo=</text>
+        <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6cGF0aC9vcGVuLXBhZ2UgW29yZ3BhZ2UtaWQgW18gezpwYXRoL2tleXMgW2lkIGluZGV4IHBhZ2UtaWRdfV1dCiAgKHBhdGgvdXBkYXRlLXN0ZXBzISBvcmdwYWdlLWlkIGlkIGFkZC1pZCBpbmRleCBwYWdlLWlkIDpzdGVwL29wZW5lZC1wYWdlLWlkcyA6c3RlcC9jbG9zZWQtcGFnZS1pZHMpKQoKKGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6cGF0aC9jbG9zZS1wYWdlIFtvcmdwYWdlLWlkIFtfIHs6cGF0aC9rZXlzIFtpZCBpbmRleCBwYWdlLWlkXX1dXQogIChwYXRoL3VwZGF0ZS1zdGVwcyEgb3JncGFnZS1pZCBpZCBhZGQtaWQgaW5kZXggcGFnZS1pZCA6c3RlcC9jbG9zZWQtcGFnZS1pZHMgOnN0ZXAvb3BlbmVkLXBhZ2UtaWRzKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>hover</text>
+        <text>canvas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OzsgUmV0dXJucyB0aGUgc2V0IG9mIGFsbCBjdXJyZW50bHkgZm9jdXNlZCBib29rLWlkcy4gV2hlbiByZWN0YW5nbGUgc2VsZWN0aW9uIGlzIHVzZWQsIHRoZSBzZWxlY3RlZAo7OyB1bml0cyBhcmUgcmV0dXJuZWQgaW5zdGVhZC4KKHJmL3JlZy1zdWIKICA6cGF0aHMvdW5pdHMtZm9jdXNlZAogIDo8LSBbOnBhdGhzL21lbnVdCiAgOjwtIFs6b3JncGFnZS91bml0c10KICA6PC0gWzpvcmdwYWdlL3BhdGhzXQogIDo8LSBbOmVkaXQtbW9kZS9zZWxlY3Rpb24tcmVjdGFuZ2xlXQogIDo8LSBbOnVuaXQvYWN0aXZlLXBhZ2UtbWFwc10KICAoZm4gW1t7OnBhdGhzLW1lbnUva2V5cyBbY3VycmVudCBjdXJyZW50LXN0ZXAgc2V0LWZvY3VzXX0gdW5pdHMgcGF0aHMKICAgICAgICB7OnNlbGVjdGlvbi1yZWN0YW5nbGUva2V5cyBbbW9kZV0gOmFzIHNlbGVjdGlvbi1yZWN0YW5nbGV9IGFjdGl2ZS1wYWdlLW1hcHNdIF8gX10KICAgICh3aGVuIHNldC1mb2N1cwogICAgICAobGV0IFt7OnN0ZXAva2V5cyBbZm9jdXNlZC1wYWdlLWlkc119IChnZXQtaW4gcGF0aHMgW2N1cnJlbnQgOnBhdGgvc3RlcHMgY3VycmVudC1zdGVwXSkKICAgICAgICAgICAgZm9jdXNlZC1ib29rLWlkcyAoLT4+IGZvY3VzZWQtcGFnZS1pZHMgKG1hcCAjKDp1bml0L3BhcmVudC1pZCAodW5pdHMgJSkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGludG8gI3t9KSkKICAgICAgICAgICAgc2VsZWN0ZWQtYm9vay11bml0cyAod2hlbiBzZWxlY3Rpb24tcmVjdGFuZ2xlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZWRpdC1tb2RlL2Jvb2tzLWluLXNlbGVjdGlvbi1yZWN0YW5nbGUgYWN0aXZlLXBhZ2UtbWFwcyBzZWxlY3Rpb24tcmVjdGFuZ2xlKSldCiAgICAgICAgKGNvbmQgKD0gbW9kZSA6c2VsZWN0aW9uLXJlY3RhbmdsZS9zZWxlY3RpbmcpIHNlbGVjdGVkLWJvb2stdW5pdHMKICAgICAgICAgICAgICAoPSBtb2RlIDpzZWxlY3Rpb24tcmVjdGFuZ2xlL2FkZGluZykgKHNldHMvaW5zZXJ0IGZvY3VzZWQtYm9vay1pZHMgc2VsZWN0ZWQtYm9vay11bml0cykKICAgICAgICAgICAgICA6ZWxzZSBmb2N1c2VkLWJvb2staWRzKSkpKSkK</text>
+        <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6cGF0aC9vcGVuLXBhZ2UgW29yZ3BhZ2UtaWQgW18gezpwYXRoL2tleXMgW2lkIGluZGV4IHBhZ2UtaWRdfV1dCiAgKHBhdGgvdXBkYXRlLXN0ZXBzISBvcmdwYWdlLWlkIGlkIGFkZC1pZCBpbmRleCBwYWdlLWlkIDpzdGVwL29wZW5lZC1wYWdlLWlkcyA6c3RlcC9jbG9zZWQtcGFnZS1pZHMpKQoKKGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6cGF0aC9jbG9zZS1wYWdlIFtvcmdwYWdlLWlkIFtfIHs6cGF0aC9rZXlzIFtpZCBpbmRleCBwYWdlLWlkXX1dXQogIChwYXRoL3VwZGF0ZS1zdGVwcyEgb3JncGFnZS1pZCBpZCBhZGQtaWQgaW5kZXggcGFnZS1pZCA6c3RlcC9jbG9zZWQtcGFnZS1pZHMgOnN0ZXAvb3BlbmVkLXBhZ2UtaWRzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBib29rLXVuaXRzIG9wZW5lZC1wYWdlLWlkcyBvcGVuZWQtYm9vay1pZHMgYm9vay1pZHMtdG8tYmUtY2xvc2VkKQo=</text>
+        <text>(defn- close-page [steps index page-id]
+  &quot;Adds a page of the given id to be closed at the step of the given index.&quot;
+  (let [{:step/keys [opened-page-ids]} (nth steps index)]
+    (if (contains? opened-page-ids page-id)
+      (update-in steps [index :step/opened-page-ids] disj page-id)
+      (update-in steps [index :step/closed-page-ids] sets/insert [page-id]))))</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuZWQtYm9vay1pZHMgKHBhdGhzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjc3JmLXRva2VuIGFudGktZm9yZ2VyeS8qYW50aS1mb3JnZXJ5LXRva2VuKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9jdXNlZC1ib29rLWlkcyAoLT4+IGZvY3VzZWQtcGFnZS1pZHMgKG1hcCAjKDp1bml0L3BhcmVudC1pZCAodW5pdHMgJSkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGludG8gI3t9KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dGl0bGUgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzY3JlZW5zaG90ICJodHRwczovL29yZ3BhZC5jb20vaW1nL2Fib3V0L2ZhY2Vib29rLXRpdGxlLmpwZyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3BhdGhzXQo=</text>
+        <text encoding="base64">ICAgICAgKGh0dHAtcmVzcG9uc2UvZm9yYmlkZGVuICJBY2Nlc3MgZGVuaWVkLiIpCiAgICAgIChzMy9vYmplY3Q/IGZvbGRlciBpZCkgKHJlc3BvbnNlL2NvbnRlbnQtdHlwZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGh0dHAtcmVzcG9uc2UvZm91bmQgKHMzL29iamVjdC11cmwgZm9sZGVyIGlkKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpbWFnZS9wbmciKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3BhdGhzXQo=</text>
+        <text encoding="base64">ICAgIChsb2cvaW5mbyBzMy11cmwgczMtYWNjZXNzLWtleSBzMy1zZWNyZWl0LWtleSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgezpzdGVwL2tleXMgW2ZvY3VzZWQtcGFnZS1pZHNdfSAoZ2V0LWluIHBhdGhzIFtjdXJyZW50IDpwYXRoL3N0ZXBzIGN1cnJlbnQtc3RlcF0pCg==</text>
+        <text encoding="base64">ICBmbiBbcGFnZV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3VuaXRzXQo=</text>
+        <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3VuaXRzXQogIDo8LSBbOm9yZ3BhZ2UvcGF0aHNdCg==</text>
+        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgezp1bml0L2tleXMgW2FjdGl2ZS1wYWdlIGNoaWxkLXVuaXQtaWRzXX0gKHVuaXRzIGJvb2staWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -403,9 +376,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hover</last-search>
+      <last-search>canvas</last-search>
       <last-offset />
-      <last-pattern>hover</last-pattern>
+      <last-pattern>canvas</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
