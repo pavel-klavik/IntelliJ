@@ -172,6 +172,12 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="45" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1591557035757">
+        <mark key="[" line="2182" column="90" />
+        <mark key="]" line="2184" column="18" />
+        <mark key="^" line="2184" column="18" />
+        <mark key="." line="2184" column="17" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/paths.cljs" timestamp="1591457606622">
         <mark key="[" line="184" column="29" />
         <mark key="]" line="188" column="34" />
@@ -217,12 +223,6 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1590965940627">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="40" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/change.cljs" timestamp="1591023503640">
         <mark key="[" line="38" column="2" />
         <mark key="]" line="76" column="0" />
@@ -232,11 +232,11 @@
       <file name="/REPL.clj" timestamp="1591456428245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/paths.cljs" timestamp="1591554114182">
-        <mark key="[" line="94" column="9" />
-        <mark key="]" line="94" column="90" />
-        <mark key="^" line="94" column="90" />
-        <mark key="." line="94" column="89" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/paths.cljs" timestamp="1591557596250">
+        <mark key="[" line="91" column="61" />
+        <mark key="]" line="91" column="61" />
+        <mark key="." line="91" column="60" />
+        <mark key="^" line="91" column="61" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/preview.clj" timestamp="1591050605925">
         <mark key="[" line="47" column="27" />
@@ -369,7 +369,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6cGF0aC9vcGVuLXBhZ2UgW29yZ3BhZ2UtaWQgW18gezpwYXRoL2tleXMgW2lkIGluZGV4IHBhZ2UtaWRdfV1dCiAgKHBhdGgvdXBkYXRlLXN0ZXBzISBvcmdwYWdlLWlkIGlkIGFkZC1pZCBpbmRleCBwYWdlLWlkIDpzdGVwL29wZW5lZC1wYWdlLWlkcyA6c3RlcC9jbG9zZWQtcGFnZS1pZHMpKQoKKGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6cGF0aC9jbG9zZS1wYWdlIFtvcmdwYWdlLWlkIFtfIHs6cGF0aC9rZXlzIFtpZCBpbmRleCBwYWdlLWlkXX1dXQogIChwYXRoL3VwZGF0ZS1zdGVwcyEgb3JncGFnZS1pZCBpZCBhZGQtaWQgaW5kZXggcGFnZS1pZCA6c3RlcC9jbG9zZWQtcGFnZS1pZHMgOnN0ZXAvb3BlbmVkLXBhZ2UtaWRzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoaWNjdXAgIFs6ZGl2ICJDYW1lcmEiXQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -381,6 +381,9 @@
         <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6cGF0aC9vcGVuLXBhZ2UgW29yZ3BhZ2UtaWQgW18gezpwYXRoL2tleXMgW2lkIGluZGV4IHBhZ2UtaWRdfV1dCiAgKHBhdGgvdXBkYXRlLXN0ZXBzISBvcmdwYWdlLWlkIGlkIGFkZC1pZCBpbmRleCBwYWdlLWlkIDpzdGVwL29wZW5lZC1wYWdlLWlkcyA6c3RlcC9jbG9zZWQtcGFnZS1pZHMpKQoKKGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6cGF0aC9jbG9zZS1wYWdlIFtvcmdwYWdlLWlkIFtfIHs6cGF0aC9rZXlzIFtpZCBpbmRleCBwYWdlLWlkXX1dXQogIChwYXRoL3VwZGF0ZS1zdGVwcyEgb3JncGFnZS1pZCBpZCBhZGQtaWQgaW5kZXggcGFnZS1pZCA6c3RlcC9jbG9zZWQtcGFnZS1pZHMgOnN0ZXAvb3BlbmVkLXBhZ2UtaWRzKSkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoaWNjdXAgIFs6ZGl2ICJDYW1lcmEiXQo=</text>
+      </register>
+      <register name="2" type="2">
         <text>(defn- close-page [steps index page-id]
   &quot;Adds a page of the given id to be closed at the step of the given index.&quot;
   (let [{:step/keys [opened-page-ids]} (nth steps index)]
@@ -388,29 +391,26 @@
       (update-in steps [index :step/opened-page-ids] disj page-id)
       (update-in steps [index :step/closed-page-ids] sets/insert [page-id]))))</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjc3JmLXRva2VuIGFudGktZm9yZ2VyeS8qYW50aS1mb3JnZXJ5LXRva2VuKgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dGl0bGUgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzY3JlZW5zaG90ICJodHRwczovL29yZ3BhZC5jb20vaW1nL2Fib3V0L2ZhY2Vib29rLXRpdGxlLmpwZyIK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgKGh0dHAtcmVzcG9uc2UvZm9yYmlkZGVuICJBY2Nlc3MgZGVuaWVkLiIpCiAgICAgIChzMy9vYmplY3Q/IGZvbGRlciBpZCkgKHJlc3BvbnNlL2NvbnRlbnQtdHlwZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGh0dHAtcmVzcG9uc2UvZm91bmQgKHMzL29iamVjdC11cmwgZm9sZGVyIGlkKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpbWFnZS9wbmciKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIChsb2cvaW5mbyBzMy11cmwgczMtYWNjZXNzLWtleSBzMy1zZWNyZWl0LWtleSkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBmbiBbcGFnZV0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
