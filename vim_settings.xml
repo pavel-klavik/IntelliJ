@@ -171,9 +171,6 @@
         <mark key="." line="181" column="5" />
         <mark key="^" line="181" column="6" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/logo.cljs" timestamp="1591473564272">
-        <mark key="[" line="23" column="5" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/links/core.cljs" timestamp="1591561844984">
         <mark key="[" line="49" column="39" />
         <mark key="]" line="43" column="31" />
@@ -240,6 +237,12 @@
         <mark key="]" line="25" column="43" />
         <mark key="." line="25" column="42" />
         <mark key="^" line="25" column="43" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/path.cljs" timestamp="1591566036970">
+        <mark key="[" line="90" column="8" />
+        <mark key="]" line="97" column="24" />
+        <mark key="^" line="97" column="24" />
+        <mark key="." line="97" column="23" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/styles.cljc" timestamp="1591564379392" />
       <file name="C:/Shared/orgpad/src/orgpad/client/events/keyboard/rules/orgpage.cljs" timestamp="1591562424279">
@@ -355,7 +358,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nIHByZXNzZWQta2V5cyBjdXJyZW50IGN1cnJlbnQtZGlhbG9nIG1hdGNoaW5nLXJ1bGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVkLWVmZmVjdHMgKHJlbW92ZS1maXJzdC1hZnRlci1zdGVwIGVmZmVjdHMgaWQgaW5kZXggOnN0ZXAvc2hvdy1ib29rIGJvb2staWQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -364,7 +367,7 @@
         <text>canvas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgWzpjdXJyZW50L29yZ3BhZ2UgOm1vZGUvYWxsICN7OmtleS9mMn1dICAgKHBhdGhzL3VwZGF0ZS1tb2RlICUgOnBhdGhzLW1lbnUvb3Blbi1hbmQtY2xvc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVkLWVmZmVjdHMgKHJlbW92ZS1maXJzdC1hZnRlci1zdGVwIGVmZmVjdHMgaWQgaW5kZXggOnN0ZXAvc2hvdy1ib29rIGJvb2staWQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nIHByZXNzZWQta2V5cyBjdXJyZW50IGN1cnJlbnQtZGlhbG9nIG1hdGNoaW5nLXJ1bGVzKQo=</text>
