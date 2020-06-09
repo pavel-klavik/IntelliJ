@@ -164,17 +164,21 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
       </file>
+      <file name="C:/Shared/orgpad/resources/sql/units.sql" timestamp="1591698522716">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="39" column="13" />
+      </file>
       <file name="C:/Shared/orgpad/resources/migrations/20200609121500-add-logs.up.sql" timestamp="1591698396303">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="C:/Shared/klavik/project.clj" timestamp="1591047792475">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="46" />
-        <mark key="^" line="7" column="46" />
-        <mark key="." line="7" column="45" />
+      <file name="C:/Shared/orgpad/resources/sql/logs.sql" timestamp="1591699472659">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/paths.cljs" timestamp="1591457606622">
         <mark key="[" line="184" column="29" />
@@ -214,12 +218,6 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
         <mark key="^" line="89" column="6" />
-      </file>
-      <file name="C:/Shared/klavik/package.json" timestamp="1591047781463">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="25" />
       </file>
       <file name="/REPL.clj" timestamp="1591456428245">
         <mark key="[" line="0" column="0" />
@@ -365,7 +363,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgdXNlcnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -374,9 +372,18 @@
         <text>canvas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgdXNlcnM7Cg==</text>
+        <text encoding="base64">LS0gOm5hbWUgY3JlYXRlLXVuaXQhIDohIDpuCi0tIDpkb2MgY3JlYXRlcyBhIG5ldyB1bml0CklOU0VSVCBJTlRPIHVuaXRzCihpZCwgb3JncGFnZSwgb3duZXIsIHZhbCkKVkFMVUVTICg6aWQsIDpvcmdwYWdlLCA6b3duZXIsIDp2YWwpCgotLSA6bmFtZSB1cGRhdGUtdW5pdCEgOiEgOm4KLS0gOmRvYyB1cGRhdGVzIGFuIGV4aXN0aW5nIHVuaXQKVVBEQVRFIHVuaXRzClNFVCB2YWwgPSA6dmFsLCBvd25lciA9IDpvd25lcgpXSEVSRSBpZCA9IDppZAoKLS0gOm5hbWUgZ2V0LXVuaXQgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1bml0IGdpdmVuIHRoZSBpZApTRUxFQ1QgKiBGUk9NIHVuaXRzCldIRVJFIGlkID0gOmlkCgotLSA6bmFtZSBnZXQtdW5pdHMgOj8gOioKLS0gOmRvYyBnZXRzIGFsbCB1bml0cwpTRUxFQ1QgKiBGUk9NIHVuaXRzCgotLSA6bmFtZSBnZXQtb3JncGFnZS11bml0cyA6PyA6KgotLSA6ZG9jIHJldHJpZXZlcyB1bml0cyBhc3NvY2lhdGVkIHRvIGFuIG9yZ3BhZ2Ugb2YgZ2l2ZW4gaWQKU0VMRUNUICogRlJPTSB1bml0cwpXSEVSRSBvcmdwYWdlID0gOm9yZ3BhZ2UKCi0tIDpuYW1lIGNvdW50LW93bmVyLXVuaXRzIDo/IDoxCi0tIDpkb2MgY291bnRzIGFsbCBib29rIHVuaXRzIG9mIGEgZ2l2ZW4gb3duZXIKU0VMRUNUIENPVU5UKCopIEZST00gdW5pdHMKV0hFUkUgb3duZXIgPSA6b3duZXIgQU5EICh2YWwgLT4gJ3VuaXQvdHlwZScpOjp0ZXh0ID0gJyJ1bml0L2Jvb2siJwoKLS0gOm5hbWUgY291bnQtb3JncGFnZS11bml0cyA6PyA6MQotLSA6ZG9jIGNvdW50cyBhbGwgYm9vayB1bml0cyBvZiBhIGdpdmVuIG9yZ3BhZ2UKU0VMRUNUIENPVU5UKCopIEZST00gdW5pdHMKV0hFUkUgb3JncGFnZSA9IDpvcmdwYWdlIEFORCAodmFsIC0+ICd1bml0L3R5cGUnKTo6dGV4dCA9ICcidW5pdC9ib29rIicKCi0tIDpuYW1lIGRlbGV0ZS11bml0ISA6ISA6bgotLSA6ZG9jIGRlbGV0ZXMgYSB1bml0IGdpdmVuIHRoZSBpZApERUxFVEUgRlJPTSB1bml0cwpXSEVSRSBpZCA9IDppZA==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">LS0gOm5hbWUgdXBkYXRlLXVuaXQhIDohIDpuCi0tIDpkb2MgdXBkYXRlcyBhbiBleGlzdGluZyBsb2cKVVBEQVRFIGxvZ3MKU0VUIHZhbCA9IDp2YWwKV0hFUkUgaWQgPSA6aWQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LS0gOm5hbWUgY291bnQtb3duZXItdW5pdHMgOj8gOjEKLS0gOmRvYyBjb3VudHMgYWxsIGJvb2sgdW5pdHMgb2YgYSBnaXZlbiBvd25lcgpTRUxFQ1QgQ09VTlQoKikgRlJPTSB1bml0cwpXSEVSRSBvd25lciA9IDpvd25lciBBTkQgKHZhbCAtPiAndW5pdC90eXBlJyk6OnRleHQgPSAnInVuaXQvYm9vayInCgotLSA6bmFtZSBjb3VudC1vcmdwYWdlLXVuaXRzIDo/IDoxCi0tIDpkb2MgY291bnRzIGFsbCBib29rIHVuaXRzIG9mIGEgZ2l2ZW4gb3JncGFnZQpTRUxFQ1QgQ09VTlQoKikgRlJPTSB1bml0cwpXSEVSRSBvcmdwYWdlID0gOm9yZ3BhZ2UgQU5EICh2YWwgLT4gJ3VuaXQvdHlwZScpOjp0ZXh0ID0gJyJ1bml0L2Jvb2siJwoK</text>
+      </register>
+      <register name="4" type="2">
         <text>(defn- close-page [steps index page-id]
   &quot;Adds a page of the given id to be closed at the step of the given index.&quot;
   (let [{:step/keys [opened-page-ids]} (nth steps index)]
@@ -384,29 +391,20 @@
       (update-in steps [index :step/opened-page-ids] disj page-id)
       (update-in steps [index :step/closed-page-ids] sets/insert [page-id]))))</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjc3JmLXRva2VuIGFudGktZm9yZ2VyeS8qYW50aS1mb3JnZXJ5LXRva2VuKgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dGl0bGUgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzY3JlZW5zaG90ICJodHRwczovL29yZ3BhZC5jb20vaW1nL2Fib3V0L2ZhY2Vib29rLXRpdGxlLmpwZyIK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgKGh0dHAtcmVzcG9uc2UvZm9yYmlkZGVuICJBY2Nlc3MgZGVuaWVkLiIpCiAgICAgIChzMy9vYmplY3Q/IGZvbGRlciBpZCkgKHJlc3BvbnNlL2NvbnRlbnQtdHlwZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGh0dHAtcmVzcG9uc2UvZm91bmQgKHMzL29iamVjdC11cmwgZm9sZGVyIGlkKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpbWFnZS9wbmciKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIChsb2cvaW5mbyBzMy11cmwgczMtYWNjZXNzLWtleSBzMy1zZWNyZWl0LWtleSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmbiBbcGFnZV0K</text>
-      </register>
-      <register name="7" type="2">
-        <text>When screenshot=true appears in Orgpage params, the client is rendered without all panels, buttons, popups.</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IDpzMy11cmwgICAgICAgICAgICJodHRwczovL2ZyYTEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbSIKIDpzMy1yZWdpb24gICAgICAgICJmcmExIgogOnMzLWFjY2Vzcy1rZXkgICAgIlJKTFFZRzQ0REZSS0paUlU1Q1pOIgogOnMzLXNlY3JldC1rZXkgICAgIlFEVzQwMFdSK05XbFRPQkNoV0dJTmRsbGM4T3VQdmxsWGZJd1ZFeVhkL28iCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmbiBbcGFnZV0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
