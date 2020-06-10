@@ -150,12 +150,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Shared/orgpad/resources/sql/access_tokens.sql" timestamp="1591801321137" />
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/core.cljs" timestamp="1591562566513">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="87" column="90" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1591814246578">
         <mark key="'" line="90" column="26" />
         <mark key="[" line="180" column="33" />
@@ -229,6 +223,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1591820844992">
+        <mark key="[" line="90" column="2" />
+        <mark key="]" line="100" column="25" />
+        <mark key="^" line="100" column="25" />
+        <mark key="." line="100" column="24" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/path.cljs" timestamp="1591568359618">
         <mark key="[" line="44" column="7" />
