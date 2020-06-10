@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>error</entry>
-        <entry>get-curr</entry>
-        <entry>#zoom-info</entry>
-        <entry>search</entry>
         <entry>,</entry>
         <entry>styles</entry>
         <entry>link-creati</entry>
@@ -25,6 +21,10 @@
         <entry>pending</entry>
         <entry>dialogs</entry>
         <entry>dialog</entry>
+        <entry>token</entry>
+        <entry>access-token</entry>
+        <entry>current</entry>
+        <entry>route-history</entry>
       </history-search>
       <history-cmd>
         <entry>wwa</entry>
@@ -156,39 +156,19 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="87" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591569443863">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1591814246578">
+        <mark key="'" line="90" column="26" />
+        <mark key="[" line="180" column="33" />
+        <mark key="]" line="180" column="40" />
+        <mark key="^" line="180" column="40" />
+        <mark key="." line="180" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/resources/sql/logs.sql" timestamp="1591801329343">
-        <mark key="[" line="4" column="57" />
-        <mark key="]" line="3" column="58" />
-        <mark key="^" line="3" column="58" />
-        <mark key="." line="3" column="57" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/paths.cljs" timestamp="1591561828887">
-        <mark key="[" line="180" column="10" />
-        <mark key="]" line="181" column="6" />
-        <mark key="." line="181" column="5" />
-        <mark key="^" line="181" column="6" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/book.cljs" timestamp="1591561863366">
-        <mark key="[" line="60" column="27" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/links/core.cljs" timestamp="1591561844984">
-        <mark key="[" line="49" column="39" />
-        <mark key="]" line="43" column="31" />
-        <mark key="^" line="43" column="31" />
-        <mark key="." line="43" column="30" />
-      </file>
-      <file name="/REPL.txt" timestamp="1591801832278">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/paths.cljs" timestamp="1591561911104">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1591814290355">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="172" column="44" />
+        <mark key="]" line="171" column="17" />
+        <mark key="^" line="171" column="17" />
+        <mark key="." line="171" column="16" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/update.cljs" timestamp="1591564614647">
         <mark key="[" line="70" column="70" />
@@ -201,11 +181,6 @@
         <mark key="]" line="28" column="16" />
         <mark key="." line="28" column="15" />
         <mark key="^" line="28" column="16" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/keyboard/events.cljs" timestamp="1591562806129">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
       </file>
       <file name="/REPL.clj" timestamp="1591801832275">
         <mark key="[" line="0" column="0" />
@@ -221,6 +196,36 @@
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="18" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1591814335174">
+        <mark key="'" line="132" column="6" />
+        <mark key="[" line="172" column="51" />
+        <mark key="]" line="172" column="49" />
+        <mark key="^" line="172" column="49" />
+        <mark key="." line="172" column="48" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1591814257362">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="161" column="52" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591569443863">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/sql/logs.sql" timestamp="1591801329343">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="3" column="58" />
+        <mark key="^" line="3" column="58" />
+        <mark key="." line="3" column="57" />
+      </file>
+      <file name="/REPL.txt" timestamp="1591801832278">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/keyboard/events.cljs" timestamp="1591562806129">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/path.cljs" timestamp="1591568359618">
         <mark key="[" line="44" column="7" />
@@ -242,10 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/text_field.cljs" />
-      <jump line="45" column="74" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/text_field.cljs" />
-      <jump line="15" column="45" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/toggle_buttons.cljs" />
-      <jump line="33" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/toggle_buttons.cljs" />
       <jump line="50" column="4" filename="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/map.cljs" />
       <jump line="62" column="74" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/md_button.cljs" />
       <jump line="32" column="32" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/table.cljs" />
@@ -294,7 +295,6 @@
       <jump line="91" column="0" filename="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" />
       <jump line="98" column="13" filename="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" />
       <jump line="99" column="31" filename="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
       <jump line="10" column="0" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" />
       <jump line="51" column="43" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" />
       <jump line="52" column="43" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" />
@@ -342,6 +342,11 @@
       <jump line="68" column="23" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
       <jump line="52" column="6" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="90" column="26" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="51" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="132" column="6" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +358,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>canvas</text>
+        <text>route-history</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cGRhdGVkLWVmZmVjdHMgKHJlbW92ZS1maXJzdC1hZnRlci1zdGVwIGVmZmVjdHMgaWQgaW5kZXggOnN0ZXAvc2hvdy1ib29rIGJvb2staWQpCg==</text>
@@ -397,9 +402,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>canvas</last-search>
+      <last-search>route-history</last-search>
       <last-offset />
-      <last-pattern>canvas</last-pattern>
+      <last-pattern>route-history</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
