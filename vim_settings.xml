@@ -201,11 +201,11 @@
         <mark key="." line="43" column="13" />
         <mark key="^" line="43" column="14" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/ops.clj" timestamp="1591836080027">
-        <mark key="[" line="27" column="54" />
-        <mark key="]" line="27" column="55" />
-        <mark key="^" line="27" column="55" />
-        <mark key="." line="27" column="54" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/ops.clj" timestamp="1591879507364">
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="^" line="30" column="54" />
+        <mark key="." line="30" column="53" />
       </file>
       <file name="/REPL.txt" timestamp="1591727240071">
         <mark key="[" line="0" column="0" />
@@ -223,7 +223,7 @@
         <mark key="^" line="32" column="4" />
         <mark key="." line="32" column="3" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/orgpage.clj" timestamp="1591875715288">
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/orgpage.clj" timestamp="1591878960058">
         <mark key="[" line="28" column="35" />
         <mark key="]" line="28" column="35" />
         <mark key="^" line="28" column="35" />
@@ -235,11 +235,11 @@
         <mark key="." line="74" column="76" />
         <mark key="^" line="74" column="77" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1591838671764">
-        <mark key="[" line="49" column="54" />
-        <mark key="]" line="49" column="53" />
-        <mark key="^" line="49" column="53" />
-        <mark key="." line="49" column="52" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1591878984483">
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="20" />
+        <mark key="^" line="55" column="20" />
+        <mark key="." line="55" column="19" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/logs.clj" timestamp="1591840434227">
         <mark key="[" line="18" column="0" />
@@ -357,11 +357,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgcmVxdWVzdCkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>(orgpage/update-orgpage! id {:orgpage/last-load-time (.toString (time-ldt/now))} nil)</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(orgpage/update-orgpage! id {:orgpage/last-load-time (.toString (time-ldt/now))} nil)</text>
       </register>
       <register name="/" type="4">
         <text>canvas</text>
