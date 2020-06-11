@@ -149,15 +149,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1591698058089">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/core.cljs" timestamp="1591885905886">
+        <mark key="[" line="92" column="53" />
+        <mark key="]" line="93" column="86" />
+        <mark key="^" line="93" column="86" />
+        <mark key="." line="93" column="85" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20200609121500-add-logs.up.sql" timestamp="1591698396303">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="9" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1591885937759">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="26" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1591885958832">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="16" column="43" />
+        <mark key="^" line="16" column="43" />
+        <mark key="." line="16" column="42" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/convert/orgpages.clj" timestamp="1591875818656">
         <mark key="[" line="7" column="86" />
@@ -173,12 +187,6 @@
       </file>
       <file name="/REPL.clj" timestamp="1591727240066">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/keyboard_events.cljs" timestamp="1591622688355">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="3" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1591875834244">
         <mark key="[" line="14" column="40" />
@@ -201,6 +209,12 @@
         <mark key="." line="43" column="13" />
         <mark key="^" line="43" column="14" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/change.cljs" timestamp="1591884939849">
+        <mark key="[" line="28" column="106" />
+        <mark key="]" line="32" column="86" />
+        <mark key="^" line="32" column="86" />
+        <mark key="." line="32" column="85" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/ops.clj" timestamp="1591879507364">
         <mark key="[" line="30" column="54" />
         <mark key="]" line="30" column="54" />
@@ -211,12 +225,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1591875681241" />
-      <file name="C:/Shared/orgpad/resources/migrations/20200609121500-add-logs.down.sql" timestamp="1591698068302">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="25" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1591723353817">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="32" column="4" />
@@ -235,21 +243,17 @@
         <mark key="." line="74" column="76" />
         <mark key="^" line="74" column="77" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1591878984483">
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="20" />
-        <mark key="^" line="55" column="20" />
-        <mark key="." line="55" column="19" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1591885540554">
+        <mark key="[" line="155" column="61" />
+        <mark key="]" line="155" column="61" />
+        <mark key="^" line="155" column="61" />
+        <mark key="." line="155" column="60" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/logs.clj" timestamp="1591840434227">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="58" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1591697742284">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="17" column="4" />
       </file>
     </filemarks>
     <jumps>
