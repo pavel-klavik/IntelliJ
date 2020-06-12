@@ -155,9 +155,6 @@
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1591919346970">
-        <mark key="[" line="153" column="74" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/orgpages.cljs" timestamp="1591967902281">
         <mark key="[" line="91" column="112" />
         <mark key="]" line="92" column="34" />
@@ -176,8 +173,8 @@
         <mark key="^" line="38" column="50" />
         <mark key="." line="38" column="49" />
       </file>
-      <file name="/REPL.clj" timestamp="1591930630558">
-        <mark key="[" line="0" column="0" />
+      <file name="/REPL.clj" timestamp="1591994577966">
+        <mark key="[" line="0" column="28" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/common.clj" timestamp="1591965609480">
         <mark key="[" line="63" column="29" />
@@ -208,6 +205,12 @@
         <mark key="^" line="51" column="88" />
         <mark key="." line="51" column="87" />
       </file>
+      <file name="C:/Shared/orgpad/resources/sql/logs.sql" timestamp="1591994210141">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="16" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="15" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1591967798527">
         <mark key="[" line="2182" column="73" />
         <mark key="]" line="2182" column="79" />
@@ -222,12 +225,6 @@
         <mark key="]" line="80" column="93" />
         <mark key="^" line="80" column="93" />
         <mark key="." line="80" column="92" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/modes.cljs" timestamp="1591919318077">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="16" column="74" />
-        <mark key="^" line="16" column="74" />
-        <mark key="." line="16" column="73" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1591967833696">
         <mark key="[" line="87" column="47" />
@@ -247,14 +244,20 @@
         <mark key="^" line="132" column="80" />
         <mark key="." line="132" column="79" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1591994977577">
+        <mark key="[" line="92" column="4" />
+        <mark key="]" line="92" column="52" />
+        <mark key="^" line="92" column="52" />
+        <mark key="." line="92" column="51" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1591930075765">
         <mark key="[" line="198" column="27" />
         <mark key="]" line="202" column="49" />
         <mark key="^" line="202" column="49" />
         <mark key="." line="202" column="48" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/logs.clj" timestamp="1591992881266">
-        <mark key="[" line="28" column="20" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/logs.clj" timestamp="1591994253768">
+        <mark key="[" line="37" column="13" />
         <mark key="]" line="29" column="45" />
         <mark key="^" line="29" column="45" />
         <mark key="." line="29" column="44" />
@@ -365,11 +368,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>[grid/item #:grid{:key &quot;new-orgpages&quot;}
-       [metric-group #:metric-group{:heading &quot;New Orgpages&quot;
-                                    :values  new-orgpages
-                                    :tooltip &quot;Recently created Orgpages&quot;}]]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXJzLWxvZ3MgOj8gOioKLS0gOmRvYyBnZXRzIGFsbCBsb2dzIG9mIGEgZ2l2ZW4gdXNlcgpTRUxFQ1QgKiBGUk9NIGxvZ3MKV0hFUkUgdXNlcl9pZCA9IDp1c2VyX2lkCg==</text>
       </register>
       <register name="-" type="4">
         <text>(orgpage/update-orgpage! id {:orgpage/last-load-time (.toString (time-ldt/now))} nil)</text>
@@ -378,7 +378,7 @@
         <text>canvas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V0hFUkUgdXNlcl9pZCA9IDp1c2VyX2lkIEFORCBvcmdwYWdlX2lkID0gOm9yZ3BhZ2VfaWQK</text>
+        <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXJzLWxvZ3MgOj8gOioKLS0gOmRvYyBnZXRzIGFsbCBsb2dzIG9mIGEgZ2l2ZW4gdXNlcgpTRUxFQ1QgKiBGUk9NIGxvZ3MKV0hFUkUgdXNlcl9pZCA9IDp1c2VyX2lkCg==</text>
       </register>
       <register name="1" type="4">
         <text>[grid/item #:grid{:key &quot;new-orgpages&quot;}
