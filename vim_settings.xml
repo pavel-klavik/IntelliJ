@@ -149,11 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/resources/migrations/20200609121500-add-logs.up.sql" timestamp="1592005453948">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="8" />
-        <mark key="^" line="14" column="8" />
-        <mark key="." line="14" column="7" />
+      <file name="C:/Shared/orgpad/resources/migrations/20200609121500-add-logs.up.sql" timestamp="1592013820188">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="14" column="10" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/orgpages.cljs" timestamp="1591967902281">
         <mark key="[" line="91" column="112" />
@@ -224,11 +224,11 @@
         <mark key="^" line="73" column="81" />
         <mark key="." line="73" column="80" />
       </file>
-      <file name="C:/Shared/orgpad/resources/sql/devices.sql" timestamp="1592013382423">
-        <mark key="[" line="50" column="6" />
-        <mark key="]" line="49" column="18" />
-        <mark key="^" line="49" column="18" />
-        <mark key="." line="49" column="17" />
+      <file name="C:/Shared/orgpad/resources/sql/devices.sql" timestamp="1592014584844">
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="49" column="56" />
+        <mark key="^" line="49" column="56" />
+        <mark key="." line="49" column="55" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/orgpage.clj" timestamp="1591965696905">
         <mark key="[" line="131" column="77" />
@@ -365,7 +365,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXItZGV2aWNlcyA6PyA6KgotLSA6ZG9jIHJldHJpZXZlcyBhIHNlcXVlbmNlIG9mIGRldmljZXMgZ2l2ZW4gdXNlciBpZApTRUxFQ1QgZGV2aWNlcy5pZCwgZGV2aWNlcy52YWwgRlJPTSB1c2Vyc19kZXZpY2VzCklOTkVSIEpPSU4gZGV2aWNlcyBPTiBkZXZpY2VzLmlkPXVzZXJzX2RldmljZXMuZmlsZQpXSEVSRSB1c2VyX2lkID0gOnVzZXJfaWQK</text>
       </register>
       <register name="-" type="4">
         <text>(orgpage/update-orgpage! id {:orgpage/last-load-time (.toString (time-ldt/now))} nil)</text>
@@ -374,7 +374,7 @@
         <text>canvas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0gOm5hbWUgYXNzb2MtZmlsZSEgOiEgOm4KLS0gOmRvYyBhZGRzIGFuIGZpbGUgb2YgZ2l2ZW4gaWQgdG8gYW4gb3JncGFnZSBvZiBnaXZlbiBpZApJTlNFUlQgSU5UTyBmaWxlc19vcmdwYWdlcwooZmlsZSwgb3JncGFnZSkKVkFMVUVTICg6ZmlsZSwgOm9yZ3BhZ2UpCgotLSA6bmFtZSBkaXNzb2MtZmlsZSEgOiEgOm4KLS0gOmRvYyByZW1vdmVzIGFuIGZpbGUgb2YgZ2l2ZW4gaWQgZnJvbSBhbiBvcmdwYWdlIG9mIGdpdmVuIGlkCkRFTEVURSBGUk9NIGZpbGVzX29yZ3BhZ2VzCldIRVJFIGZpbGUgPSA6ZmlsZSBBTkQgb3JncGFnZSA9IDpvcmdwYWdlCgotLSA6bmFtZSBnZXQtb3JncGFnZS1maWxlcyA6PyA6KgotLSA6ZG9jIHJldHJpZXZlcyBmaWxlIGluZm9ybWF0aW9uIGFzc29jaWF0ZWQgdG8gYW4gb3JncGFnZSBvZiBnaXZlbiBpZApTRUxFQ1QgZmlsZXMuaWQsIGZpbGVzLnZhbCwgZmlsZXMub3duZXIgRlJPTSBmaWxlc19vcmdwYWdlcwpJTk5FUiBKT0lOIGZpbGVzIE9OIGZpbGVzLmlkPWZpbGVzX29yZ3BhZ2VzLmZpbGUKV0hFUkUgb3JncGFnZSA9IDpvcmdwYWdlCgo=</text>
+        <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXItZGV2aWNlcyA6PyA6KgotLSA6ZG9jIHJldHJpZXZlcyBhIHNlcXVlbmNlIG9mIGRldmljZXMgZ2l2ZW4gdXNlciBpZApTRUxFQ1QgZGV2aWNlcy5pZCwgZGV2aWNlcy52YWwgRlJPTSB1c2Vyc19kZXZpY2VzCklOTkVSIEpPSU4gZGV2aWNlcyBPTiBkZXZpY2VzLmlkPXVzZXJzX2RldmljZXMuZmlsZQpXSEVSRSB1c2VyX2lkID0gOnVzZXJfaWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
