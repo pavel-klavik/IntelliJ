@@ -155,11 +155,21 @@
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="39" />
       </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20200609121500-add-logs.up.sql" timestamp="1592005453948">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="14" column="7" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/orgpages.cljs" timestamp="1591967902281">
         <mark key="[" line="91" column="112" />
         <mark key="]" line="92" column="34" />
         <mark key="^" line="92" column="34" />
         <mark key="." line="92" column="33" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20200427010000-remove-styles-and-templates.down.sql" timestamp="1592005334225">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="4" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1591981110199">
         <mark key="[" line="59" column="70" />
@@ -193,18 +203,6 @@
         <mark key="^" line="132" column="51" />
         <mark key="." line="132" column="50" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/event.cljs" timestamp="1591919581891">
-        <mark key="[" line="62" column="31" />
-        <mark key="]" line="63" column="100" />
-        <mark key="^" line="63" column="100" />
-        <mark key="." line="63" column="99" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/change.cljs" timestamp="1591919483731">
-        <mark key="[" line="51" column="85" />
-        <mark key="]" line="51" column="88" />
-        <mark key="^" line="51" column="88" />
-        <mark key="." line="51" column="87" />
-      </file>
       <file name="C:/Shared/orgpad/resources/sql/logs.sql" timestamp="1591994210141">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="16" />
@@ -220,11 +218,11 @@
       <file name="/REPL.txt" timestamp="1591930630563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1591919376175">
-        <mark key="[" line="80" column="55" />
-        <mark key="]" line="80" column="93" />
-        <mark key="^" line="80" column="93" />
-        <mark key="." line="80" column="92" />
+      <file name="C:/Shared/orgpad/resources/migrations/20200609121500-add-logs.down.sql" timestamp="1592006428493">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1591967833696">
         <mark key="[" line="87" column="47" />
@@ -369,7 +367,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXJzLWxvZ3MgOj8gOioKLS0gOmRvYyBnZXRzIGFsbCBsb2dzIG9mIGEgZ2l2ZW4gdXNlcgpTRUxFQ1QgKiBGUk9NIGxvZ3MKV0hFUkUgdXNlcl9pZCA9IDp1c2VyX2lkCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZGV2aWNlcwooaWQgdXVpZCBQUklNQVJZIEtFWSwKIHZhbCBqc29uKTsK</text>
       </register>
       <register name="-" type="4">
         <text>(orgpage/update-orgpage! id {:orgpage/last-load-time (.toString (time-ldt/now))} nil)</text>
@@ -378,37 +376,37 @@
         <text>canvas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXJzLWxvZ3MgOj8gOioKLS0gOmRvYyBnZXRzIGFsbCBsb2dzIG9mIGEgZ2l2ZW4gdXNlcgpTRUxFQ1QgKiBGUk9NIGxvZ3MKV0hFUkUgdXNlcl9pZCA9IDp1c2VyX2lkCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZGV2aWNlcwooaWQgdXVpZCBQUklNQVJZIEtFWSwKIHZhbCBqc29uKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">IAogb3JncGFnZV9pZCB1dWlkLAogYWN0aW9uIFZBUkNIQVIsCiBsb2dfdGltZXN0YW1wIFRJTUVTVEFNUCBOT1QgTlVMTCwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IHVzZXJfaWQgdXVpZCwKIGRldmljZV9pZCB1dWlkIE5PVCBOVUxMLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IHVzZXJfaWQgdXVpZCwKIGRldmljZV9pZCB1dWlkIE5PVCBOVUxMLAo=</text>
+      </register>
+      <register name="4" type="4">
         <text>[grid/item #:grid{:key &quot;new-orgpages&quot;}
        [metric-group #:metric-group{:heading &quot;New Orgpages&quot;
                                     :values  new-orgpages
                                     :tooltip &quot;Recently created Orgpages&quot;}]]</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIChsb2cvaW5mbyAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgcmVxdWVzdCkpKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBsZXQgW2FjY2Vzcy10b2tlbicgKFVVSUQvZnJvbVN0cmluZyBhY2Nlc3MtdG9rZW4pXQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">V0hFUkUgdXNlcl9pZCA9IDp1c2VyX2lkCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">V0hFUkUgdXNlcl9pZCA9IDp1c2VyX2lkCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ciA9IDpvd25lciBBTkQgKHZhbCAtPiAndW5pdC90eXBlJyk6OnRleHQgPSAnInVuaXQvYm9vayInCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0hFUkUgdXNlcl9pZCA9IDp1c2VyX2lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZ2V0LW9yZ3BhZ2UtdW5pdHMgOj8gOioKLS0gOmRvYyByZXRyaWV2ZXMgdW5pdHMgYXNzb2NpYXRlZCB0byBhbiBvcmdwYWdlIG9mIGdpdmVuIGlkClNFTEVDVCAqIEZST00gdW5pdHMKV0hFUkUgb3JncGFnZSA9IDpvcmdwYWdlCg==</text>
+        <text encoding="base64">V0hFUkUgdXNlcl9pZCA9IDp1c2VyX2lkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ciA9IDpvd25lciBBTkQgKHZhbCAtPiAndW5pdC90eXBlJyk6OnRleHQgPSAnInVuaXQvYm9vayInCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
