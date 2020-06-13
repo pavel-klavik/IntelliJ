@@ -27,7 +27,6 @@
         <entry>dialog</entry>
       </history-search>
       <history-cmd>
-        <entry>wwa</entry>
         <entry>orgpage/title</entry>
         <entry>orgpage\/title</entry>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
@@ -46,6 +45,7 @@
         <entry>aw</entry>
         <entry>wa'</entry>
         <entry>w</entry>
+        <entry>w;</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -172,6 +172,12 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="15" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/change.cljs" timestamp="1592080458490">
+        <mark key="[" line="32" column="70" />
+        <mark key="]" line="32" column="74" />
+        <mark key="^" line="32" column="74" />
+        <mark key="." line="32" column="73" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1591967798527">
         <mark key="[" line="2182" column="73" />
         <mark key="]" line="2182" column="79" />
@@ -208,12 +214,6 @@
         <mark key="]" line="60" column="80" />
         <mark key="^" line="60" column="80" />
         <mark key="." line="60" column="79" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor_change.cljs" timestamp="1591929321031">
-        <mark key="[" line="73" column="72" />
-        <mark key="]" line="73" column="81" />
-        <mark key="^" line="73" column="81" />
-        <mark key="." line="73" column="80" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/devices.sql" timestamp="1592014843490">
         <mark key="[" line="13" column="0" />
