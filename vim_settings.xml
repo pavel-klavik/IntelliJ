@@ -43,9 +43,9 @@
         <entry>wva</entry>
         <entry>aw</entry>
         <entry>wa'</entry>
-        <entry>w</entry>
         <entry>w;</entry>
         <entry>:wa</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -223,12 +223,12 @@
         <mark key="." line="72" column="48" />
         <mark key="^" line="72" column="49" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/logs.cljs" timestamp="1592239206092">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/logs.cljs" timestamp="1592248671440">
         <mark key="'" line="33" column="36" />
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="73" column="36" />
-        <mark key="." line="73" column="35" />
-        <mark key="^" line="73" column="36" />
+        <mark key="[" line="101" column="88" />
+        <mark key="]" line="103" column="8" />
+        <mark key="." line="103" column="7" />
+        <mark key="^" line="103" column="8" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/administration.cljs" timestamp="1592238371556">
         <mark key="[" line="95" column="56" />
@@ -236,11 +236,11 @@
         <mark key="^" line="95" column="67" />
         <mark key="." line="95" column="66" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1592237847540">
-        <mark key="[" line="98" column="16" />
-        <mark key="]" line="99" column="17" />
-        <mark key="^" line="99" column="17" />
-        <mark key="." line="99" column="16" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1592248706350">
+        <mark key="[" line="226" column="8" />
+        <mark key="]" line="232" column="19" />
+        <mark key="^" line="232" column="19" />
+        <mark key="." line="232" column="18" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1592185181680">
         <mark key="[" line="116" column="64" />
