@@ -175,7 +175,8 @@
         <mark key="." line="3" column="40" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20191019172300-usergroups.up.sql" timestamp="1592167534160" />
-      <file name="/Dummy.txt" timestamp="1592178428998">
+      <file name="/Dummy.txt" timestamp="1592186631551">
+        <mark key="'" line="0" column="59" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -252,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="46" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/toggle_buttons.cljs" />
       <jump line="50" column="4" filename="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/map.cljs" />
       <jump line="62" column="74" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/md_button.cljs" />
       <jump line="32" column="32" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/table.cljs" />
@@ -352,6 +352,7 @@
       <jump line="2098" column="17" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
       <jump line="2182" column="25" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
       <jump line="797" column="18" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
+      <jump line="0" column="59" filename="/Dummy.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
