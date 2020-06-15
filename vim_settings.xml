@@ -170,11 +170,11 @@
         <mark key="^" line="191" column="38" />
         <mark key="." line="191" column="37" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/administration.cljs" timestamp="1592250962001">
-        <mark key="[" line="245" column="72" />
-        <mark key="]" line="246" column="70" />
-        <mark key="^" line="246" column="70" />
-        <mark key="." line="246" column="69" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/administration.cljs" timestamp="1592252260067">
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="58" column="52" />
+        <mark key="^" line="58" column="52" />
+        <mark key="." line="58" column="51" />
       </file>
       <file name="/REPL.clj" timestamp="1592224481506" />
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/common.cljs" timestamp="1592250363614">
@@ -248,11 +248,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration.cljs" timestamp="1592237799332">
-        <mark key="[" line="234" column="2" />
-        <mark key="]" line="240" column="16" />
-        <mark key="^" line="240" column="16" />
-        <mark key="." line="240" column="15" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration.cljs" timestamp="1592251958637">
+        <mark key="[" line="255" column="23" />
+        <mark key="]" line="258" column="26" />
+        <mark key="^" line="258" column="26" />
+        <mark key="." line="258" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -360,11 +360,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZm1ldGhvZCB1cC9oYW5kbGUgWzptb3VzZS9jbGljayA6YWRtaW5pc3RyYXRpb24vdXNlci1sb2dzIDptb2RlL2FsbCA6bW9kaWZpZXIvYWxsXQogIFtlZmZlY3RzIF8gezptb3VzZS1kb3duL2tleXMgW2RhdGFdfSBfXQogIChsZXQgW3s6dXNlci9rZXlzIFtpZF19IGRhdGFdCiAgICB7OnVwZGF0ZWQtZWZmZWN0cyAoYWRtaW5pc3RyYXRpb24vbG9hZC11c2VyLWxvZ3MgZWZmZWN0cyBpZCkKICAgICA6Y29uc3VtZS1jbGljayAgIHRydWV9KSkKCihkZWZtZXRob2QgdXAvaGFuZGxlIFs6bW91c2UvY2xpY2sgOmFkbWluaXN0cmF0aW9uL2Nsb3NlLXVzZXItbG9ncyA6bW9kZS9hbGwgOm1vZGlmaWVyL2FsbF0KICBbZWZmZWN0cyBfIF8gX10KICB7OnVwZGF0ZWQtZWZmZWN0cyAoYWRtaW5pc3RyYXRpb24vY2xvc2UtdXNlci1sb2dzIGVmZmVjdHMpCiAgIDpjb25zdW1lLWNsaWNrICAgdHJ1ZX0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>(:administration/logs administration)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>firefox</text>
