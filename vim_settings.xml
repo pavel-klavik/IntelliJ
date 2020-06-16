@@ -149,6 +149,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/path.clj" timestamp="1592326044422">
+        <mark key="[" line="4" column="12" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/common.cljs" timestamp="1592323189126">
         <mark key="[" line="23" column="33" />
         <mark key="]" line="24" column="23" />
@@ -156,11 +159,11 @@
         <mark key="." line="24" column="22" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/logs.sql" timestamp="1592273424364" />
-      <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1592324385534">
+      <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1592327520624">
         <mark key="[" line="2183" column="77" />
-        <mark key="]" line="2180" column="29" />
-        <mark key="^" line="2180" column="29" />
-        <mark key="." line="2180" column="28" />
+        <mark key="]" line="2182" column="114" />
+        <mark key="^" line="2182" column="114" />
+        <mark key="." line="2182" column="113" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/device.clj" timestamp="1592323171213">
         <mark key="[" line="17" column="46" />
@@ -186,17 +189,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1592270692838">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="249" column="21" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/devices.cljs" timestamp="1592272213016">
         <mark key="[" line="50" column="55" />
         <mark key="]" line="56" column="89" />
         <mark key="." line="56" column="88" />
         <mark key="^" line="56" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592325440157">
+      <file name="/Dummy.txt" timestamp="1592326079958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/about.clj" timestamp="1592325401180">
