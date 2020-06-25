@@ -213,17 +213,17 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/mouse_down.cljs" timestamp="1593042731865">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="29" column="18" />
-        <mark key="^" line="29" column="18" />
-        <mark key="." line="29" column="17" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/mouse_down.cljs" timestamp="1593043293712">
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="39" column="16" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="39" column="15" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/core.cljs" timestamp="1593042330599">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-        <mark key="." line="5" column="43" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/core.cljs" timestamp="1593043426862">
+        <mark key="[" line="73" column="8" />
+        <mark key="]" line="73" column="18" />
+        <mark key="^" line="73" column="18" />
+        <mark key="." line="73" column="17" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/dashboard.cljs" timestamp="1593032426587">
         <mark key="[" line="45" column="0" />
@@ -353,7 +353,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OzsgUmV0dXJucyBtb3VzZS1kb3duIG9ubHkgd2hlbiBpdCBvY2N1cnMgb24gdGhlIHVuaXQgb2YgZ2l2ZW4gaWQuCihyZi9yZWctc3ViCiAgOm1vdXNlLWRvd24vdW5pdAogIDo8LSBbOm1vdXNlLWRvd24vdW5pdHNdCiAgKGZuIFt7Om1vdXNlLWRvd24va2V5cyBbZGF0YV0gOmFzIG1vdXNlLWRvd259IFtfIHVuaXQtaWRdIF9dCiAgICAobGV0IFt7OnVuaXQva2V5cyBbaWRdfSBkYXRhXQogICAgICAod2hlbiAoPSBpZCB1bml0LWlkKQogICAgICAgIG1vdXNlLWRvd24pKSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -362,7 +362,7 @@
         <text>firefox</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KHJmL3JlZy1zdWIKICA6YXBwLXN0YXRlL21vdXNlLWRvd24KICA6PC0gWzphcHAtc3RhdGUvanMtZXZlbnRzXQogIChmbiBbanMtZXZlbnRzIF8gX10KICAgICg6anMtZXZlbnRzL21vdXNlLWRvd24ganMtZXZlbnRzKSkpCgoocmYvcmVnLXN1YgogIDphcHAtc3RhdGUvdW5pdC1tb3VzZS1kb3duCiAgOjwtIFs6YXBwLXN0YXRlL21vdXNlLWRvd25dCiAgKGZuIFt7Om1vdXNlLWRvd24va2V5cyBbZWxlbWVudF0gOmFzIG1vdXNlLWRvd259IF8gX10KICAgICh3aGVuIChjb250YWlucz8gI3s6dW5pdC90aXRsZSA6dW5pdC9jb250ZW50IDp1bml0L2VkaXRvcn0gZWxlbWVudCkKICAgICAgbW91c2UtZG93bikpKQoKKHJmL3JlZy1zdWIKICA6YXBwLXN0YXRlL2xpbmstbW91c2UtZG93bgogIDo8LSBbOmFwcC1zdGF0ZS9tb3VzZS1kb3duXQogIChmbiBbezptb3VzZS1kb3duL2tleXMgW2VsZW1lbnRdIDphcyBtb3VzZS1kb3dufSBfIF9dCiAgICAod2hlbiAoPSBlbGVtZW50IDpvcmdwYWdlL2xpbmspCiAgICAgIG1vdXNlLWRvd24pKSkK</text>
+        <text encoding="base64">OzsgUmV0dXJucyBtb3VzZS1kb3duIG9ubHkgd2hlbiBpdCBvY2N1cnMgb24gdGhlIHVuaXQgb2YgZ2l2ZW4gaWQuCihyZi9yZWctc3ViCiAgOm1vdXNlLWRvd24vdW5pdAogIDo8LSBbOm1vdXNlLWRvd24vdW5pdHNdCiAgKGZuIFt7Om1vdXNlLWRvd24va2V5cyBbZGF0YV0gOmFzIG1vdXNlLWRvd259IFtfIHVuaXQtaWRdIF9dCiAgICAobGV0IFt7OnVuaXQva2V5cyBbaWRdfSBkYXRhXQogICAgICAod2hlbiAoPSBpZCB1bml0LWlkKQogICAgICAgIG1vdXNlLWRvd24pKSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
