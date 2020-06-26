@@ -205,11 +205,11 @@
         <mark key="^" line="36" column="30" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593209756533">
-        <mark key="[" line="233" column="29" />
-        <mark key="]" line="248" column="5" />
-        <mark key="^" line="248" column="5" />
-        <mark key="." line="248" column="4" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593211707052">
+        <mark key="[" line="239" column="47" />
+        <mark key="]" line="239" column="78" />
+        <mark key="^" line="239" column="78" />
+        <mark key="." line="239" column="77" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/attachments.cljs" timestamp="1593047556902">
         <mark key="[" line="81" column="8" />
@@ -361,11 +361,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAidW5pdC1hbmltLXN0eWxlIiBbeCB5XSkK</text>
+      <register name="&quot;" type="4">
+        <text>(= animation-phase :unit/old-fade-out)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>(= animation-phase :unit/old-fade-out)</text>
       </register>
       <register name="/" type="4">
         <text>firefox</text>
