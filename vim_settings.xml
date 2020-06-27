@@ -202,11 +202,11 @@
         <mark key="^" line="36" column="30" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593230350399">
-        <mark key="[" line="293" column="20" />
-        <mark key="]" line="294" column="11" />
-        <mark key="^" line="294" column="11" />
-        <mark key="." line="294" column="10" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593256349566">
+        <mark key="[" line="294" column="8" />
+        <mark key="]" line="294" column="9" />
+        <mark key="^" line="294" column="9" />
+        <mark key="." line="294" column="8" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/attachments.cljs" timestamp="1593047556902">
         <mark key="[" line="81" column="8" />
@@ -365,13 +365,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>;; Computes the title of the book-unit of the given id.
-(rf/reg-sub
-  :unit/title
-  (fn [[_ id] _]
-    (rf/subscribe [:orgpage/unit id]))
-  (fn [{:unit/keys [title]} _ _]
-    title))</text>
+        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIHRpdGxlIG9mIHRoZSBib29rLXVuaXQgb2YgdGhlIGdpdmVuIGlkLgoocmYvcmVnLXN1YgogIDp1bml0L3RpdGxlCiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKSkKICAoZm4gW3s6dW5pdC9rZXlzIFt0aXRsZV19IF8gX10KICAgIHRpdGxlKSkKCg==</text>
       </register>
       <register name="-" type="4">
         <text>(= animation-phase :unit/old-fade-out)</text>
@@ -380,13 +374,7 @@
         <text>firefox</text>
       </register>
       <register name="0" type="2">
-        <text>;; Computes the title of the book-unit of the given id.
-(rf/reg-sub
-  :unit/title
-  (fn [[_ id] _]
-    (rf/subscribe [:orgpage/unit id]))
-  (fn [{:unit/keys [title]} _ _]
-    title))</text>
+        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIHRpdGxlIG9mIHRoZSBib29rLXVuaXQgb2YgdGhlIGdpdmVuIGlkLgoocmYvcmVnLXN1YgogIDp1bml0L3RpdGxlCiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKSkKICAoZm4gW3s6dW5pdC9rZXlzIFt0aXRsZV19IF8gX10KICAgIHRpdGxlKSkKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGFjdGl2ZS1wYWdlLWlkIChudGggY2hpbGQtdW5pdC1pZHMgYWN0aXZlLXBhZ2UpCg==</text>
