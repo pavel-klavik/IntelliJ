@@ -202,11 +202,11 @@
         <mark key="^" line="36" column="30" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593228184058">
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="286" column="9" />
-        <mark key="^" line="286" column="9" />
-        <mark key="." line="286" column="8" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593230350399">
+        <mark key="[" line="293" column="20" />
+        <mark key="]" line="294" column="11" />
+        <mark key="^" line="294" column="11" />
+        <mark key="." line="294" column="10" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/attachments.cljs" timestamp="1593047556902">
         <mark key="[" line="81" column="8" />
@@ -365,7 +365,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGl2ZS1wYWdlLWlkIChudGggY2hpbGQtdW5pdC1pZHMgYWN0aXZlLXBhZ2UpCg==</text>
+        <text>;; Computes the title of the book-unit of the given id.
+(rf/reg-sub
+  :unit/title
+  (fn [[_ id] _]
+    (rf/subscribe [:orgpage/unit id]))
+  (fn [{:unit/keys [title]} _ _]
+    title))</text>
       </register>
       <register name="-" type="4">
         <text>(= animation-phase :unit/old-fade-out)</text>
@@ -374,7 +380,13 @@
         <text>firefox</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OzsgUmV0dXJucyBtb3VzZS1kb3duIG9ubHkgd2hlbiBpdCBvY2N1cnMgb24gdGhlIHVuaXQgb2YgZ2l2ZW4gaWQuCihyZi9yZWctc3ViCiAgOm1vdXNlLWRvd24vdW5pdAogIDo8LSBbOm1vdXNlLWRvd24vdW5pdHNdCiAgKGZuIFt7Om1vdXNlLWRvd24va2V5cyBbZGF0YV0gOmFzIG1vdXNlLWRvd259IFtfIHVuaXQtaWRdIF9dCiAgICAobGV0IFt7OnVuaXQva2V5cyBbaWRdfSBkYXRhXQogICAgICAod2hlbiAoPSBpZCB1bml0LWlkKQogICAgICAgIG1vdXNlLWRvd24pKSkpCg==</text>
+        <text>;; Computes the title of the book-unit of the given id.
+(rf/reg-sub
+  :unit/title
+  (fn [[_ id] _]
+    (rf/subscribe [:orgpage/unit id]))
+  (fn [{:unit/keys [title]} _ _]
+    title))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGFjdGl2ZS1wYWdlLWlkIChudGggY2hpbGQtdW5pdC1pZHMgYWN0aXZlLXBhZ2UpCg==</text>
