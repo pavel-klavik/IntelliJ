@@ -200,11 +200,11 @@
         <mark key="^" line="36" column="30" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593397680752">
-        <mark key="[" line="342" column="9" />
-        <mark key="]" line="342" column="11" />
-        <mark key="^" line="342" column="11" />
-        <mark key="." line="342" column="10" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593437797663">
+        <mark key="[" line="240" column="36" />
+        <mark key="]" line="240" column="41" />
+        <mark key="^" line="240" column="41" />
+        <mark key="." line="240" column="40" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/attachments.cljs" timestamp="1593047556902">
         <mark key="[" line="81" column="8" />
@@ -366,7 +366,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2hpbGQtdW5pdC1pZAo=</text>
+        <text encoding="base64">OzsgQ29tcHV0ZXMgd2hldGhlciB0aGUgY3VycmVudCBhbmltYXRpb24gcGhhc2UgaXMgOnVuaXQvb2xkLWZhZGUtb3V0IGZvciB0aGUgYm9vay11bml0Cjs7IG9mIHRoZSBnaXZlbiBpZC4KKHJmL3JlZy1zdWIKICA6dW5pdC9vbGQtZmFkZS1vdXQ/CiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKSkKICAoZm4gW3s6dW5pdC9rZXlzIFthbmltYXRpb24tcGhhc2VdfV0KICAgICg9IGFuaW1hdGlvbi1waGFzZSA6dW5pdC9vbGQtZmFkZS1vdXQpKSkK</text>
       </register>
       <register name="-" type="4">
         <text>(= animation-phase :unit/old-fade-out)</text>
@@ -375,7 +375,7 @@
         <text>firefox</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgd2hldGhlciB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZCBpcyBoaWdobGlnaHRlZC4KKHJmL3JlZy1zdWIKICA6dW5pdC9oaWdobGlnaHRlZD8KICA6PC0gWzplZGl0LW1vZGUvaGlnaGxpZ2h0XQogIChmbiBbezpoaWdobGlnaHQva2V5cyBbdW5pdC1pZF19IFtfIGlkXV0KICAgICg9IHVuaXQtaWQgaWQpKSkKCg==</text>
+        <text encoding="base64">OzsgQ29tcHV0ZXMgd2hldGhlciB0aGUgY3VycmVudCBhbmltYXRpb24gcGhhc2UgaXMgOnVuaXQvb2xkLWZhZGUtb3V0IGZvciB0aGUgYm9vay11bml0Cjs7IG9mIHRoZSBnaXZlbiBpZC4KKHJmL3JlZy1zdWIKICA6dW5pdC9vbGQtZmFkZS1vdXQ/CiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKSkKICAoZm4gW3s6dW5pdC9rZXlzIFthbmltYXRpb24tcGhhc2VdfV0KICAgICg9IGFuaW1hdGlvbi1waGFzZSA6dW5pdC9vbGQtZmFkZS1vdXQpKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y2hpbGQtdW5pdC1pZAo=</text>
