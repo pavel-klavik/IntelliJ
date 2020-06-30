@@ -181,11 +181,11 @@
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593472360420">
-        <mark key="[" line="134" column="15" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="10" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593484655948">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="35" column="23" />
+        <mark key="^" line="35" column="23" />
+        <mark key="." line="35" column="22" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593472484692">
         <mark key="[" line="357" column="39" />
@@ -235,7 +235,7 @@
         <mark key="^" line="72" column="40" />
         <mark key="." line="72" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/book.cljs" timestamp="1593446084093">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/book.cljs" timestamp="1593476092468">
         <mark key="[" line="50" column="21" />
         <mark key="]" line="55" column="19" />
         <mark key="." line="55" column="18" />
@@ -366,7 +366,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYm9vay1pbnRlcmlvciIgaWQgdGl0bGUgY29udGVudCBwcm9wcyB0aXRsZUhlaWdodCkK</text>
+        <text encoding="base64">KHJmL3JlZy1zdWIKICA6ZWRpdC1tb2RlL2VkaXRlZC11bml0LWlkCiAgOjwtIFs6ZWRpdC1tb2RlL3VuaXQtZWRpdG9yXQogIChmbiBbezp1bml0LWVkaXRvci9rZXlzIFt1bml0LWlkXX0gXyBfXQogICAgdW5pdC1pZCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>(= animation-phase :unit/old-fade-out)</text>
@@ -375,7 +375,7 @@
         <text>current-pos</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgaW5kZXggb2YgdGhlIGN1cnJlbnRseSBzaG93biBwYWdlIG9mIHRoZSBib29rLXVuaXQgb2YgdGhlIGdpdmVuIGlkLCBmb3IgdGhlIGN1cnJlbnQKOzsgYW5pbWF0aW9uIHBoYXNlLgo=</text>
+        <text encoding="base64">KHJmL3JlZy1zdWIKICA6ZWRpdC1tb2RlL2VkaXRlZC11bml0LWlkCiAgOjwtIFs6ZWRpdC1tb2RlL3VuaXQtZWRpdG9yXQogIChmbiBbezp1bml0LWVkaXRvci9rZXlzIFt1bml0LWlkXX0gXyBfXQogICAgdW5pdC1pZCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYm9vay1pbnRlcmlvciIgaWQgdGl0bGUgY29udGVudCBwcm9wcyB0aXRsZUhlaWdodCkK</text>
