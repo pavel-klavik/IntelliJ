@@ -192,11 +192,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593545881834">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593547328890">
+        <mark key="[" line="163" column="27" />
+        <mark key="]" line="137" column="41" />
         <mark key="^" line="149" column="21" />
-        <mark key="." line="149" column="0" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/paths.cljs" timestamp="1593545088943">
         <mark key="[" line="180" column="30" />
@@ -372,7 +372,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3VuaXRzXQo=</text>
+        <text encoding="base64">ICA6ZWRpdC1tb2RlL3VuaXQtaW4tc2VsZWN0aW9uLXJlY3RhbmdsZT8K</text>
       </register>
       <register name="-" type="4">
         <text>(= animation-phase :unit/old-fade-out)</text>
@@ -381,16 +381,16 @@
         <text>just</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgd2hldGhlciB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZCBpcyBoaWdobGlnaHRlZC4KKHJmL3JlZy1zdWIKICA6dW5pdC90eXBlCiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKSkKICAoZm4gW3s6dW5pdC9rZXlzIFt0eXBlXX0gXyBfXQogICAgdHlwZSkpCg==</text>
+        <text encoding="base64">ICA6ZWRpdC1tb2RlL3VuaXQtaW4tc2VsZWN0aW9uLXJlY3RhbmdsZT8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3VuaXRzXQo=</text>
+        <text encoding="base64">ICA6PC0gWzplZGl0LW1vZGUvc2VsZWN0ZWQtdW5pdHNdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KHJmL3JlZy1zdWIKICA6dW5pdC9hY3RpdmUtcGFnZS1tYXAKICA6PC0gWzpvcmdwYWdlL3VuaXRzXQogIDo8LSBbOm1vdXNlLWRvd24vdW5pdHNdCiAgOjwtIFs6YXBwLXN0YXRlL21vZGVdCiAgOjwtIFs6ZWRpdC1tb2RlL3NlbGVjdGlvbl0KICA6PC0gWzplZGl0LW1vZGUvaGlnaGxpZ2h0XQogIDo8LSBbOmVkaXQtbW9kZS91bml0LWVkaXRvcl0KICA6PC0gWzplZGl0LW1vZGUvbGFzdC11bml0LWVkaXRvcl0KICAoZm4gW1t1bml0cyB1bml0LW1vdXNlLWRvd24gbW9kZSBzZWxlY3Rpb24gaGlnaGxpZ2h0IHVuaXQtZWRpdG9yIGxhc3QtdW5pdC1lZGl0b3JdIFtfIGlkXV0KICAgIChhY3RpdmUtcGFnZS1tYXAgdW5pdHMgaWQgdW5pdC1tb3VzZS1kb3duIG1vZGUgc2VsZWN0aW9uIGhpZ2hsaWdodCB1bml0LWVkaXRvciBsYXN0LXVuaXQtZWRpdG9yKSkpCgoocmYvcmVnLXN1YgogIDp1bml0L2FjdGl2ZS1wYWdlLW1hcHMKICA6PC0gWzpvcmdwYWdlL3VuaXRzXQogIDo8LSBbOm1vdXNlLWRvd24vdW5pdHNdCiAgOjwtIFs6YXBwLXN0YXRlL21vZGVdCiAgOjwtIFs6ZWRpdC1tb2RlL3NlbGVjdGlvbl0KICA6PC0gWzplZGl0LW1vZGUvaGlnaGxpZ2h0XQogIDo8LSBbOmVkaXQtbW9kZS9sYXN0LXVuaXQtZWRpdG9yXQogIChmbiBbW3VuaXRzIHVuaXQtbW91c2UtZG93biBtb2RlIHNlbGVjdGlvbiBoaWdobGlnaHQgdW5pdC1lZGl0b3IgbGFzdC11bml0LWVkaXRvcl0gXyBfXQogICAgKGxldCBbYm9vay11bml0LWlkcyAoLT4+IHVuaXRzIHZhbHMgKGZpbHRlciAjKD0gKDp1bml0L3R5cGUgJSkgOnVuaXQvYm9vaykpIChtYXAgOnVuaXQvaWQpKV0KICAgICAgKG1hcCAjKGFjdGl2ZS1wYWdlLW1hcCB1bml0cyAlIHVuaXQtbW91c2UtZG93biBtb2RlIHNlbGVjdGlvbiBoaWdobGlnaHQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bml0LWVkaXRvciBsYXN0LXVuaXQtZWRpdG9yKSBib29rLXVuaXQtaWRzKSkpKQoK</text>
+        <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3VuaXRzXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA6PC0gWzp1bml0L2FjdGl2ZS1wYWdlLW1hcHNdCg==</text>
+        <text encoding="base64">KHJmL3JlZy1zdWIKICA6dW5pdC9hY3RpdmUtcGFnZS1tYXAKICA6PC0gWzpvcmdwYWdlL3VuaXRzXQogIDo8LSBbOm1vdXNlLWRvd24vdW5pdHNdCiAgOjwtIFs6YXBwLXN0YXRlL21vZGVdCiAgOjwtIFs6ZWRpdC1tb2RlL3NlbGVjdGlvbl0KICA6PC0gWzplZGl0LW1vZGUvaGlnaGxpZ2h0XQogIDo8LSBbOmVkaXQtbW9kZS91bml0LWVkaXRvcl0KICA6PC0gWzplZGl0LW1vZGUvbGFzdC11bml0LWVkaXRvcl0KICAoZm4gW1t1bml0cyB1bml0LW1vdXNlLWRvd24gbW9kZSBzZWxlY3Rpb24gaGlnaGxpZ2h0IHVuaXQtZWRpdG9yIGxhc3QtdW5pdC1lZGl0b3JdIFtfIGlkXV0KICAgIChhY3RpdmUtcGFnZS1tYXAgdW5pdHMgaWQgdW5pdC1tb3VzZS1kb3duIG1vZGUgc2VsZWN0aW9uIGhpZ2hsaWdodCB1bml0LWVkaXRvciBsYXN0LXVuaXQtZWRpdG9yKSkpCgoocmYvcmVnLXN1YgogIDp1bml0L2FjdGl2ZS1wYWdlLW1hcHMKICA6PC0gWzpvcmdwYWdlL3VuaXRzXQogIDo8LSBbOm1vdXNlLWRvd24vdW5pdHNdCiAgOjwtIFs6YXBwLXN0YXRlL21vZGVdCiAgOjwtIFs6ZWRpdC1tb2RlL3NlbGVjdGlvbl0KICA6PC0gWzplZGl0LW1vZGUvaGlnaGxpZ2h0XQogIDo8LSBbOmVkaXQtbW9kZS9sYXN0LXVuaXQtZWRpdG9yXQogIChmbiBbW3VuaXRzIHVuaXQtbW91c2UtZG93biBtb2RlIHNlbGVjdGlvbiBoaWdobGlnaHQgdW5pdC1lZGl0b3IgbGFzdC11bml0LWVkaXRvcl0gXyBfXQogICAgKGxldCBbYm9vay11bml0LWlkcyAoLT4+IHVuaXRzIHZhbHMgKGZpbHRlciAjKD0gKDp1bml0L3R5cGUgJSkgOnVuaXQvYm9vaykpIChtYXAgOnVuaXQvaWQpKV0KICAgICAgKG1hcCAjKGFjdGl2ZS1wYWdlLW1hcCB1bml0cyAlIHVuaXQtbW91c2UtZG93biBtb2RlIHNlbGVjdGlvbiBoaWdobGlnaHQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bml0LWVkaXRvciBsYXN0LXVuaXQtZWRpdG9yKSBib29rLXVuaXQtaWRzKSkpKQoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICA6PC0gWzp1bml0L2FjdGl2ZS1wYWdlLW1hcHNdCg==</text>
@@ -399,16 +399,16 @@
         <text encoding="base64">ICA6PC0gWzp1bml0L2FjdGl2ZS1wYWdlLW1hcHNdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB0aXRsZSBjb250ZW50IHByb3BzKQo=</text>
+        <text encoding="base64">ICA6PC0gWzp1bml0L2FjdGl2ZS1wYWdlLW1hcHNdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBwYXJlbnQtaWQgc2hvdy1jb250ZW50IGNvbnRlbnQgc2l6ZSkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB0aXRsZSBjb250ZW50IHByb3BzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgKGp1c3QtaW1hZ2U/IGNvbnRlbnQpKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBwYXJlbnQtaWQgc2hvdy1jb250ZW50IGNvbnRlbnQgc2l6ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImNvbnRlbnQtY3NzIiBjb250ZW50KQo=</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgKGp1c3QtaW1hZ2U/IGNvbnRlbnQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
