@@ -152,10 +152,11 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_unit.cljs" timestamp="1593446201552">
         <mark key="'" line="12" column="6" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" timestamp="1593035715716">
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="129" column="14" />
-        <mark key="." line="129" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/unit_buttons.cljs" timestamp="1593534505187">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="16" column="74" />
+        <mark key="^" line="16" column="74" />
+        <mark key="." line="16" column="73" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/info.cljs" timestamp="1593306619619">
         <mark key="[" line="11" column="70" />
@@ -188,18 +189,17 @@
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593484655948">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="35" column="23" />
-        <mark key="^" line="35" column="23" />
-        <mark key="." line="35" column="22" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593534685036">
+        <mark key="[" line="59" column="3" />
+        <mark key="]" line="58" column="11" />
+        <mark key="^" line="58" column="11" />
+        <mark key="." line="58" column="10" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593521948106">
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593534644723">
         <mark key="'" line="180" column="23" />
-        <mark key="[" line="236" column="13" />
-        <mark key="]" line="236" column="43" />
-        <mark key="." line="236" column="42" />
-        <mark key="^" line="236" column="43" />
+        <mark key="[" line="472" column="10" />
+        <mark key="]" line="472" column="0" />
+        <mark key="." line="472" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/attachments.cljs" timestamp="1593047556902">
         <mark key="[" line="81" column="8" />
@@ -219,11 +219,11 @@
         <mark key="^" line="59" column="18" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/map.cljs" timestamp="1593533928344">
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="31" column="17" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/map.cljs" timestamp="1593533939381">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="17" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/util.cljs" timestamp="1593522160208">
         <mark key="[" line="75" column="38" />
@@ -368,7 +368,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIHBhcmVudC1pZCBvZiBhIHVuaXQuCihyZi9yZWctc3ViCiAgOnVuaXQvcGFyZW50LWlkCiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKSkKICAoZm4gW3s6dW5pdC9rZXlzIFtwYXJlbnQtaWRdfSBfIF9dCiAgICBwYXJlbnQtaWQpKQo=</text>
+        <text encoding="base64">ZGQ7OyBDb21wdXRlcyB0aGUgb3BhY2l0eSBvZiB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZCBpdHNlbAo=</text>
       </register>
       <register name="-" type="4">
         <text>(= animation-phase :unit/old-fade-out)</text>
@@ -377,21 +377,40 @@
         <text>parent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIHBhcmVudC1pZCBvZiBhIHVuaXQuCihyZi9yZWctc3ViCiAgOnVuaXQvcGFyZW50LWlkCiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKSkKICAoZm4gW3s6dW5pdC9rZXlzIFtwYXJlbnQtaWRdfSBfIF9dCiAgICBwYXJlbnQtaWQpKQo=</text>
+        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIG9wYWNpdHkgb2YgdGhlIGJvb2stdW5pdCBvZiB0aGUgZ2l2ZW4gaWQgaXRzZWxmLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OzsgV2l0aCBhIGhpZ2hlciB2YWx1ZSwgdGhlIHVuaXQgaXMgY2xvc2VyIHRvIHRoZSBjYW1lcmEKOzsgbWFraW5nIGl0IGxhcmdlci4K</text>
+        <text encoding="base64">ZGQ7OyBDb21wdXRlcyB0aGUgb3BhY2l0eSBvZiB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZCBpdHNlbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIHNpemUgb2YgdGhlIGJvb2stdW5pdCBvZiB0aGUgZ2l2ZW4gaWQuIEl0IGNvbnNpZGVycyB0aGUgYW5pbWF0aW9uIHBoYXNlIGFzIHdlbGwuCihyZi9yZWctc3ViCiAgOnVuaXQvc2l6ZQogIChmbiBbW18gaWRdIF9dCiAgICBbKHJmL3N1YnNjcmliZSBbOnVuaXQvc2hvdy1jb250ZW50IGlkXSkKICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC9hY3RpdmUtcGFnZS1tYXAgaWRdKQogICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L2VkaXRlZD8gaWRdKQogICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L3Byb3BzIGlkXSkKICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC90aXRsZSBpZF0pCiAgICAgKHJmL3N1YnNjcmliZSBbOnVuaXQvY29udGVudCBpZF0pXSkKICAoZm4gW1tzaG93LWNvbnRlbnQgYWN0aXZlLXBhZ2UgZWRpdGVkIHs6cHJvcHMva2V5cyBbdGl0bGUtc2l6ZV19IHRpdGxlIGNvbnRlbnRdIF8gX10KICAgIChsZXQgW2FjdGl2ZS1wYWdlJyAoaWYgZWRpdGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAoZ2VvbS11bml0L2VubGFyZ2UtZm9yLWVkaXRvciBhY3RpdmUtcGFnZSkKICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2ZS1wYWdlKQogICAgICAgICAgezpzaXplL2tleXMgW3RpdGxlLWhlaWdodF0gOmFzIHNpemV9IChnZXQgYWN0aXZlLXBhZ2UnIChpZiBzaG93LWNvbnRlbnQgOnVuaXQvc2l6ZSA6dW5pdC90aXRsZS1zaXplKSkKICAgICAgICAgIHRpdGxlLWhlaWdodCcgKGNvbmQgZWRpdGVkIChjc3MvZWRpdG9yLXRpdGxlLWhlaWdodHMgdGl0bGUtc2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGUgdGl0bGUtaGVpZ2h0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQgMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZWxzZSA1MCldCiAgICAgIChhc3NvYyBzaXplIDpzaXplL3RpdGxlLWhlaWdodCB0aXRsZS1oZWlnaHQnKSkpKQoK</text>
+        <text>;; Computes whether the hide-content-visible button is visible.
+(rf/reg-sub
+  :unit/hide-content-visible
+  (fn [[_ id] _]
+    [(rf/subscribe [:edit-mode/unit-button id])
+     (rf/subscribe [:unit/edited? id])
+     (rf/subscribe [:unit/title id])
+     (rf/subscribe [:unit/show-content id])
+     (rf/subscribe [:unit/content id])])
+  (fn [[unit-button edited title show-content content] _ _]
+    (and unit-button (or edited (and title show-content content)))))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYm9vay1pbnRlcmlvciIgaWQgdGl0bGUgY29udGVudCBwcm9wcyB0aXRsZUhlaWdodCkK</text>
+        <text encoding="base64">OzsgdGhlIG9wYWNpdHkgb2YgdGhlIGJvb2stdW5pdCBvZiB0aGUgZ2l2ZW4gaWQgaXRzZWxmLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAidW5pdC9wcm9wcyIgdW5pdC1tYXAgcHJvcHMgIi0+IiAoc3R5bGVzL3VuaXQtcHJvcHMgcHJvcHMpKQo=</text>
+        <text encoding="base64">OzsgV2l0aCBhIGhpZ2hlciB2YWx1ZSwgdGhlIHVuaXQgaXMgY2xvc2VyIHRvIHRoZSBjYW1lcmEKOzsgbWFraW5nIGl0IGxhcmdlci4K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIHNpemUgb2YgdGhlIGJvb2stdW5pdCBvZiB0aGUgZ2l2ZW4gaWQuIEl0IGNvbnNpZGVycyB0aGUgYW5pbWF0aW9uIHBoYXNlIGFzIHdlbGwuCihyZi9yZWctc3ViCiAgOnVuaXQvc2l6ZQogIChmbiBbW18gaWRdIF9dCiAgICBbKHJmL3N1YnNjcmliZSBbOnVuaXQvc2hvdy1jb250ZW50IGlkXSkKICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC9hY3RpdmUtcGFnZS1tYXAgaWRdKQogICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L2VkaXRlZD8gaWRdKQogICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L3Byb3BzIGlkXSkKICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC90aXRsZSBpZF0pCiAgICAgKHJmL3N1YnNjcmliZSBbOnVuaXQvY29udGVudCBpZF0pXSkKICAoZm4gW1tzaG93LWNvbnRlbnQgYWN0aXZlLXBhZ2UgZWRpdGVkIHs6cHJvcHMva2V5cyBbdGl0bGUtc2l6ZV19IHRpdGxlIGNvbnRlbnRdIF8gX10KICAgIChsZXQgW2FjdGl2ZS1wYWdlJyAoaWYgZWRpdGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAoZ2VvbS11bml0L2VubGFyZ2UtZm9yLWVkaXRvciBhY3RpdmUtcGFnZSkKICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2ZS1wYWdlKQogICAgICAgICAgezpzaXplL2tleXMgW3RpdGxlLWhlaWdodF0gOmFzIHNpemV9IChnZXQgYWN0aXZlLXBhZ2UnIChpZiBzaG93LWNvbnRlbnQgOnVuaXQvc2l6ZSA6dW5pdC90aXRsZS1zaXplKSkKICAgICAgICAgIHRpdGxlLWhlaWdodCcgKGNvbmQgZWRpdGVkIChjc3MvZWRpdG9yLXRpdGxlLWhlaWdodHMgdGl0bGUtc2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGUgdGl0bGUtaGVpZ2h0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQgMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZWxzZSA1MCldCiAgICAgIChhc3NvYyBzaXplIDpzaXplL3RpdGxlLWhlaWdodCB0aXRsZS1oZWlnaHQnKSkpKQoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYm9vay1pbnRlcmlvciIgaWQgdGl0bGUgY29udGVudCBwcm9wcyB0aXRsZUhlaWdodCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAidW5pdC9wcm9wcyIgdW5pdC1tYXAgcHJvcHMgIi0+IiAoc3R5bGVzL3VuaXQtcHJvcHMgcHJvcHMpKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text>;; Computes the child-unit-ids of the unit of the given id.
 (rf/reg-sub
   :unit/child-unit-ids
@@ -408,17 +427,8 @@
   (fn [{:unit/keys [child-link-ids]} _ _]
     child-link-ids))</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbYWN0aXZlLXBhZ2UgbnVtLXBhZ2VzXX0gQChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">OzsgYXMgd2VsbC4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgYWN0aXZlLXBhZ2UgaW5kZXggb2YgdGhlIGJvb2stdW5pdCBvZiB0aGUgZ2l2ZW4gaWQsIGNvbnNpZGVyaW5nIHRoZSBhbmltYXRpb24gcGhhc2UK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">OzsgYXMgd2VsbC4K</text>
+        <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbYWN0aXZlLXBhZ2UgbnVtLXBhZ2VzXX0gQChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
