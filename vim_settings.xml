@@ -149,18 +149,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_unit.cljs" timestamp="1593537582867">
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_unit.cljs" timestamp="1593538285741">
         <mark key="'" line="12" column="6" />
-        <mark key="[" line="61" column="46" />
-        <mark key="]" line="61" column="110" />
-        <mark key="^" line="61" column="110" />
-        <mark key="." line="61" column="109" />
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="11" />
+        <mark key="^" line="52" column="11" />
+        <mark key="." line="52" column="10" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/unit_buttons.cljs" timestamp="1593537522582">
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="59" column="63" />
-        <mark key="^" line="59" column="63" />
-        <mark key="." line="59" column="62" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/unit_buttons.cljs" timestamp="1593539337946">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/info.cljs" timestamp="1593306619619">
         <mark key="[" line="11" column="70" />
@@ -193,11 +193,11 @@
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593534685036">
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="58" column="11" />
-        <mark key="^" line="58" column="11" />
-        <mark key="." line="58" column="10" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593538652629">
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="75" column="22" />
+        <mark key="^" line="71" column="4" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593534644723">
         <mark key="'" line="180" column="23" />
@@ -372,7 +372,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQ7OyBDb21wdXRlcyB0aGUgb3BhY2l0eSBvZiB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZCBpdHNlbAo=</text>
+        <text encoding="base64">ICAgIFtyZWFnZW50LmNvcmUgOmFzIHJdCiAgICAgICAgICAgIFtyZWFnZW50LmRvbSA6YXMgci1kb21dCg==</text>
       </register>
       <register name="-" type="4">
         <text>(= animation-phase :unit/old-fade-out)</text>
@@ -384,9 +384,18 @@
         <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIG9wYWNpdHkgb2YgdGhlIGJvb2stdW5pdCBvZiB0aGUgZ2l2ZW4gaWQgaXRzZWxmLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQ7OyBDb21wdXRlcyB0aGUgb3BhY2l0eSBvZiB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZCBpdHNlbAo=</text>
+        <text encoding="base64">ICAgIFtyZWFnZW50LmNvcmUgOmFzIHJdCiAgICAgICAgICAgIFtyZWFnZW50LmRvbSA6YXMgci1kb21dCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQudmlld3Mud2lkZ2V0cy50b29sdGlwIDphcyB0b29sdGlwXQogICAgICAgICAgICBbb3JncGFkLmNsaWVudC52aWV3cy5jc3MgOmFzIGNzc10K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L3BvcyBpZF0pCiAgICAgICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC9zaXplIGlkXSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGQ7OyBDb21wdXRlcyB0aGUgb3BhY2l0eSBvZiB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZCBpdHNlbAo=</text>
+      </register>
+      <register name="5" type="2">
         <text>;; Computes whether the hide-content-visible button is visible.
 (rf/reg-sub
   :unit/hide-content-visible
@@ -399,40 +408,17 @@
   (fn [[unit-button edited title show-content content] _ _]
     (and unit-button (or edited (and title show-content content)))))</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">OzsgdGhlIG9wYWNpdHkgb2YgdGhlIGJvb2stdW5pdCBvZiB0aGUgZ2l2ZW4gaWQgaXRzZWxmLgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">OzsgV2l0aCBhIGhpZ2hlciB2YWx1ZSwgdGhlIHVuaXQgaXMgY2xvc2VyIHRvIHRoZSBjYW1lcmEKOzsgbWFraW5nIGl0IGxhcmdlci4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIHNpemUgb2YgdGhlIGJvb2stdW5pdCBvZiB0aGUgZ2l2ZW4gaWQuIEl0IGNvbnNpZGVycyB0aGUgYW5pbWF0aW9uIHBoYXNlIGFzIHdlbGwuCihyZi9yZWctc3ViCiAgOnVuaXQvc2l6ZQogIChmbiBbW18gaWRdIF9dCiAgICBbKHJmL3N1YnNjcmliZSBbOnVuaXQvc2hvdy1jb250ZW50IGlkXSkKICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC9hY3RpdmUtcGFnZS1tYXAgaWRdKQogICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L2VkaXRlZD8gaWRdKQogICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L3Byb3BzIGlkXSkKICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC90aXRsZSBpZF0pCiAgICAgKHJmL3N1YnNjcmliZSBbOnVuaXQvY29udGVudCBpZF0pXSkKICAoZm4gW1tzaG93LWNvbnRlbnQgYWN0aXZlLXBhZ2UgZWRpdGVkIHs6cHJvcHMva2V5cyBbdGl0bGUtc2l6ZV19IHRpdGxlIGNvbnRlbnRdIF8gX10KICAgIChsZXQgW2FjdGl2ZS1wYWdlJyAoaWYgZWRpdGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAoZ2VvbS11bml0L2VubGFyZ2UtZm9yLWVkaXRvciBhY3RpdmUtcGFnZSkKICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2ZS1wYWdlKQogICAgICAgICAgezpzaXplL2tleXMgW3RpdGxlLWhlaWdodF0gOmFzIHNpemV9IChnZXQgYWN0aXZlLXBhZ2UnIChpZiBzaG93LWNvbnRlbnQgOnVuaXQvc2l6ZSA6dW5pdC90aXRsZS1zaXplKSkKICAgICAgICAgIHRpdGxlLWhlaWdodCcgKGNvbmQgZWRpdGVkIChjc3MvZWRpdG9yLXRpdGxlLWhlaWdodHMgdGl0bGUtc2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGUgdGl0bGUtaGVpZ2h0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQgMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZWxzZSA1MCldCiAgICAgIChhc3NvYyBzaXplIDpzaXplL3RpdGxlLWhlaWdodCB0aXRsZS1oZWlnaHQnKSkpKQoK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYm9vay1pbnRlcmlvciIgaWQgdGl0bGUgY29udGVudCBwcm9wcyB0aXRsZUhlaWdodCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAidW5pdC9wcm9wcyIgdW5pdC1tYXAgcHJvcHMgIi0+IiAoc3R5bGVzL3VuaXQtcHJvcHMgcHJvcHMpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text>;; Computes the child-unit-ids of the unit of the given id.
-(rf/reg-sub
-  :unit/child-unit-ids
-  (fn [[_ id] _]
-    (rf/subscribe [:orgpage/unit id]))
-  (fn [{:unit/keys [child-unit-ids]} _ _]
-    child-unit-ids))
-
-;; Computes the child-link-ids of the unit of the given id.
-(rf/reg-sub
-  :unit/child-link-ids
-  (fn [[_ id] _]
-    (rf/subscribe [:orgpage/unit id]))
-  (fn [{:unit/keys [child-link-ids]} _ _]
-    child-link-ids))</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbYWN0aXZlLXBhZ2UgbnVtLXBhZ2VzXX0gQChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQgaWRdKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYm9vay1pbnRlcmlvciIgaWQgdGl0bGUgY29udGVudCBwcm9wcyB0aXRsZUhlaWdodCkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
