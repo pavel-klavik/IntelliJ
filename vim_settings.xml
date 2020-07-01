@@ -204,11 +204,11 @@
         <mark key="." line="299" column="33" />
         <mark key="^" line="299" column="34" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/link.cljs" timestamp="1593628660464">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="105" column="31" />
-        <mark key="^" line="105" column="31" />
-        <mark key="." line="105" column="30" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/link.cljs" timestamp="1593629162582">
+        <mark key="[" line="150" column="8" />
+        <mark key="]" line="155" column="10" />
+        <mark key="^" line="155" column="10" />
+        <mark key="." line="155" column="9" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/editors/unit_editor.cljs" timestamp="1593558977536">
         <mark key="[" line="51" column="26" />
@@ -361,7 +361,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgd2hldGhlciBjb250ZW50IGlzIHNob3duIGZvciB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZC4gVGhlIGN1cnJlbnQgYW5pbWF0aW9uIHBoYXNlIGlzIGNvbnNpZGVyZWQuCihyZi9yZWctc3ViCiAgOnVuaXQvc2hvdy1jb250ZW50CiAgKGZuIFtbXyBpZF0gX10KICAgIFsocmYvc3Vic2NyaWJlIFs6b3JncGFnZS91bml0IGlkXSkKICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC90aXRsZT8gaWRdKQogICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L29sZC1mYWRlLW91dD8gaWRdKV0pCiAgKGZuIFtbezp1bml0L2tleXMgW3Nob3ctY29udGVudCBvbGQtc2hvdy1jb250ZW50XX0gaGFzLXRpdGxlIG9sZC1mYWRlLW91dD9dIF8gX10KICAgIChvciAobm90IGhhcy10aXRsZSkgKGlmIG9sZC1mYWRlLW91dD8KICAgICAgICAgICAgICAgICAgICAgICAgICBvbGQtc2hvdy1jb250ZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvdy1jb250ZW50KSkpKQoK</text>
+        <text encoding="base64">OzsgQ29tcHV0ZXMgcG9zIG9mIHRoZSBzb3VyY2UgdW5pdCBmb3IgdGhlIGxpbmsgb2YgdGhlIGdpdmVuIGlkLgoocmYvcmVnLXN1YgogIDpsaW5rL2Zyb20tcG9zCiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzpsaW5rL2Zyb20taWQgaWRdKSkKICAoZm4gW2Zyb20taWQgXyBfXQogICAgQChyZi9zdWJzY3JpYmUgWzp1bml0L3BvcyBmcm9tLWlkXSkpKQoKOzsgQ29tcHV0ZXMgc2l6ZSBvZiB0aGUgc291cmNlIHVuaXQgZm9yIHRoZSBsaW5rIG9mIHRoZSBnaXZlbiBpZC4KKHJmL3JlZy1zdWIKICA6bGluay9mcm9tLXNpemUKICAoZm4gW1tfIGlkXSBfXQogICAgKHJmL3N1YnNjcmliZSBbOmxpbmsvZnJvbS1pZCBpZF0pKQogIChmbiBbZnJvbS1pZCBfIF9dCiAgICBAKHJmL3N1YnNjcmliZSBbOnVuaXQvc2l6ZSBmcm9tLWlkXSkpKQoK</text>
       </register>
       <register name="-" type="4">
         <text>[orgpad.client.util.hiccup :as hiccup]</text>
@@ -370,17 +370,7 @@
         <text>just</text>
       </register>
       <register name="0" type="2">
-        <text>;; Computes whether the content should be rendered.
-(rf/reg-sub
-  :unit/render-content?
-  (fn [[_ id] _]
-    [(rf/subscribe [:unit/show-content id])
-     (rf/subscribe [:unit/animation-phase id])
-     (rf/subscribe [:unit/title? id])
-     (rf/subscribe [:unit/content? id])])
-  (fn [[show-content animation-phase has-title has-content] _ _]
-    (and show-content (not= animation-phase :unit/change-size)
-         (or has-title has-content))))</text>
+        <text encoding="base64">OzsgQ29tcHV0ZXMgcG9zIG9mIHRoZSBzb3VyY2UgdW5pdCBmb3IgdGhlIGxpbmsgb2YgdGhlIGdpdmVuIGlkLgoocmYvcmVnLXN1YgogIDpsaW5rL2Zyb20tcG9zCiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzpsaW5rL2Zyb20taWQgaWRdKSkKICAoZm4gW2Zyb20taWQgXyBfXQogICAgQChyZi9zdWJzY3JpYmUgWzp1bml0L3BvcyBmcm9tLWlkXSkpKQoKOzsgQ29tcHV0ZXMgc2l6ZSBvZiB0aGUgc291cmNlIHVuaXQgZm9yIHRoZSBsaW5rIG9mIHRoZSBnaXZlbiBpZC4KKHJmL3JlZy1zdWIKICA6bGluay9mcm9tLXNpemUKICAoZm4gW1tfIGlkXSBfXQogICAgKHJmL3N1YnNjcmliZSBbOmxpbmsvZnJvbS1pZCBpZF0pKQogIChmbiBbZnJvbS1pZCBfIF9dCiAgICBAKHJmL3N1YnNjcmliZSBbOnVuaXQvc2l6ZSBmcm9tLWlkXSkpKQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">OzsgQ29tcHV0ZXMgd2hldGhlciBjb250ZW50IGlzIHNob3duIGZvciB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZC4gVGhlIGN1cnJlbnQgYW5pbWF0aW9uIHBoYXNlIGlzIGNvbnNpZGVyZWQuCihyZi9yZWctc3ViCiAgOnVuaXQvc2hvdy1jb250ZW50CiAgKGZuIFtbXyBpZF0gX10KICAgIFsocmYvc3Vic2NyaWJlIFs6b3JncGFnZS91bml0IGlkXSkKICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC90aXRsZT8gaWRdKQogICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L29sZC1mYWRlLW91dD8gaWRdKV0pCiAgKGZuIFtbezp1bml0L2tleXMgW3Nob3ctY29udGVudCBvbGQtc2hvdy1jb250ZW50XX0gaGFzLXRpdGxlIG9sZC1mYWRlLW91dD9dIF8gX10KICAgIChvciAobm90IGhhcy10aXRsZSkgKGlmIG9sZC1mYWRlLW91dD8KICAgICAgICAgICAgICAgICAgICAgICAgICBvbGQtc2hvdy1jb250ZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvdy1jb250ZW50KSkpKQoK</text>
