@@ -180,11 +180,8 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="16" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/forces.cljs" timestamp="1593533816411">
-        <mark key="[" line="68" column="6" />
-        <mark key="]" line="69" column="74" />
-        <mark key="^" line="69" column="74" />
-        <mark key="." line="69" column="73" />
+      <file name="/REPL.txt" timestamp="1593566057137">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/view.cljs" timestamp="1593542644864">
         <mark key="[" line="55" column="0" />
@@ -207,11 +204,14 @@
         <mark key="[" line="86" column="2" />
       </file>
       <file name="/subs.cljs" timestamp="1593561146401" />
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593561046633">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="10" column="9" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593566142119">
+        <mark key="[" line="247" column="11" />
+        <mark key="]" line="247" column="113" />
+        <mark key="." line="247" column="0" />
+        <mark key="^" line="235" column="19" />
+      </file>
+      <file name="/REPL.clj" timestamp="1593566057135">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/map.cljs" timestamp="1593533939381">
         <mark key="[" line="30" column="18" />
@@ -225,7 +225,7 @@
         <mark key="^" line="83" column="21" />
         <mark key="." line="83" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593561166140">
+      <file name="/Dummy.txt" timestamp="1593561183759">
         <mark key="'" line="0" column="59" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -242,12 +242,6 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
         <mark key="^" line="125" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/book.cljs" timestamp="1593514363847">
-        <mark key="[" line="54" column="61" />
-        <mark key="]" line="54" column="62" />
-        <mark key="." line="54" column="61" />
-        <mark key="^" line="54" column="62" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/editors/unit_editor.cljs" timestamp="1593558977536">
         <mark key="[" line="51" column="26" />
@@ -367,8 +361,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>[orgpad.client.util.hiccup :as hiccup]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIGNvbnRlbnQgb2YgdGhlIHBhZ2UtdW5pdCBvZiB0aGUgZ2l2ZW4gaWQsIG9yIG9mIHRoZSBhY3RpdmUtcGFnZSBvZiB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZC4K</text>
       </register>
       <register name="-" type="4">
         <text>[orgpad.client.util.hiccup :as hiccup]</text>
@@ -377,7 +371,7 @@
         <text>just</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIG51bWJlciBvZiBjaGlsZC11bml0LWlkcyBvZiB0aGUgdW5pdCBvZiB0aGUgZ2l2ZW4gaWQuCihyZi9yZWctc3ViCiAgOnVuaXQvbnVtLWNoaWxkLXVuaXRzCiAgKGZuIFtbXyBpZF0gX10KICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L2NoaWxkLXVuaXQtaWRzIGlkXSkpCiAgKGZuIFtjaGlsZC11bml0LWlkcyBfIF9dCiAgICAoY291bnQgY2hpbGQtdW5pdC1pZHMpKSkK</text>
+        <text encoding="base64">OzsgQ29tcHV0ZXMgdGhlIGNvbnRlbnQgb2YgdGhlIHBhZ2UtdW5pdCBvZiB0aGUgZ2l2ZW4gaWQsIG9yIG9mIHRoZSBhY3RpdmUtcGFnZSBvZiB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZC4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KGRlZm4gYWN0aXZlLXBhZ2UtbWFwIFt1bml0cyBpZCBtb3VzZS1kb3duIG1vZGUgc2VsZWN0aW9uIGhpZ2hsaWdodCB1bml0LWVkaXRvciBsYXN0LXVuaXQtZWRpdG9yXQogIChsZXQgW3s6dW5pdC9rZXlzIFtjaGlsZC11bml0LWlkcyBhY3RpdmUtcGFnZV19ICh1bml0cyBpZCkKICAgICAgICBhY3RpdmUtcGFnZS1pZCAobnRoIGNoaWxkLXVuaXQtaWRzIGFjdGl2ZS1wYWdlKV0KICAgIChnZXQtdW5pdC1tYXAtd2l0aC1wYXJlbnQgYWN0aXZlLXBhZ2UtaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgezp1bml0cyAgICAgICAgICAgIHVuaXRzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bW91c2UtZG93biAgICAgICBtb3VzZS1kb3duCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bW9kZSAgICAgICAgICAgICBtb2RlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2VsZWN0aW9uICAgICAgICBzZWxlY3Rpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoaWdobGlnaHQgICAgICAgIGhpZ2hsaWdodAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnVuaXQtZWRpdG9yICAgICAgdW5pdC1lZGl0b3IKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpsYXN0LXVuaXQtZWRpdG9yIGxhc3QtdW5pdC1lZGl0b3J9KSkpCgoocmYvcmVnLXN1YgogIDp1bml0L2FjdGl2ZS1wYWdlLW1hcAogIDo8LSBbOm9yZ3BhZ2UvdW5pdHNdCiAgOjwtIFs6bW91c2UtZG93bi91bml0c10KICA6PC0gWzphcHAtc3RhdGUvbW9kZV0KICA6PC0gWzplZGl0LW1vZGUvc2VsZWN0aW9uXQogIDo8LSBbOmVkaXQtbW9kZS9oaWdobGlnaHRdCiAgOjwtIFs6ZWRpdC1tb2RlL3VuaXQtZWRpdG9yXQogIDo8LSBbOmVkaXQtbW9kZS9sYXN0LXVuaXQtZWRpdG9yXQogIChmbiBbW3VuaXRzIHVuaXQtbW91c2UtZG93biBtb2RlIHNlbGVjdGlvbiBoaWdobGlnaHQgdW5pdC1lZGl0b3IgbGFzdC11bml0LWVkaXRvcl0gW18gaWRdXQogICAgKGFjdGl2ZS1wYWdlLW1hcCB1bml0cyBpZCB1bml0LW1vdXNlLWRvd24gbW9kZSBzZWxlY3Rpb24gaGlnaGxpZ2h0IHVuaXQtZWRpdG9yIGxhc3QtdW5pdC1lZGl0b3IpKSkKCihyZi9yZWctc3ViCiAgOnVuaXQvYWN0aXZlLXBhZ2UtbWFwcwogIDo8LSBbOm9yZ3BhZ2UvdW5pdHNdCiAgOjwtIFs6bW91c2UtZG93bi91bml0c10KICA6PC0gWzphcHAtc3RhdGUvbW9kZV0KICA6PC0gWzplZGl0LW1vZGUvc2VsZWN0aW9uXQogIDo8LSBbOmVkaXQtbW9kZS9oaWdobGlnaHRdCiAgOjwtIFs6ZWRpdC1tb2RlL2xhc3QtdW5pdC1lZGl0b3JdCiAgKGZuIFtbdW5pdHMgdW5pdC1tb3VzZS1kb3duIG1vZGUgc2VsZWN0aW9uIGhpZ2hsaWdodCB1bml0LWVkaXRvciBsYXN0LXVuaXQtZWRpdG9yXSBfIF9dCiAgICAobGV0IFtib29rLXVuaXQtaWRzICgtPj4gdW5pdHMgdmFscyAoZmlsdGVyICMoPSAoOnVuaXQvdHlwZSAlKSA6dW5pdC9ib29rKSkgKG1hcCA6dW5pdC9pZCkpXQogICAgICAobWFwICMoYWN0aXZlLXBhZ2UtbWFwIHVuaXRzICUgdW5pdC1tb3VzZS1kb3duIG1vZGUgc2VsZWN0aW9uIGhpZ2hsaWdodAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXQtZWRpdG9yIGxhc3QtdW5pdC1lZGl0b3IpIGJvb2stdW5pdC1pZHMpKSkpCgo=</text>
