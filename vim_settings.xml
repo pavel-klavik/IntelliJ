@@ -149,12 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/util.cljs" timestamp="1593559363405">
-        <mark key="[" line="80" column="19" />
-        <mark key="]" line="83" column="21" />
-        <mark key="^" line="83" column="21" />
-        <mark key="." line="83" column="20" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/core.cljs" timestamp="1593559905367">
         <mark key="[" line="86" column="2" />
       </file>
@@ -182,23 +176,29 @@
         <mark key="^" line="72" column="38" />
         <mark key="." line="72" column="37" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/links/core.cljs" timestamp="1593817251207">
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="48" column="21" />
+        <mark key="^" line="48" column="21" />
+        <mark key="." line="48" column="20" />
+      </file>
       <file name="/REPL.txt" timestamp="1593566057137">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593655185037">
-        <mark key="[" line="286" column="2" />
-        <mark key="]" line="286" column="61" />
-        <mark key="." line="286" column="60" />
-        <mark key="^" line="286" column="61" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593818160445">
+        <mark key="]" line="338" column="4" />
+        <mark key="." line="338" column="3" />
+        <mark key="^" line="338" column="4" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/link.cljs" timestamp="1593815598378">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="318" column="19" />
-        <mark key="^" line="318" column="19" />
-        <mark key="." line="318" column="18" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/link.cljs" timestamp="1593818100372">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593738935233">
-        <mark key="[" line="142" column="79" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593818020412">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/mouse_down.cljs" timestamp="1593739184950">
         <mark key="[" line="129" column="0" />
@@ -221,11 +221,14 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/render.cljs" timestamp="1593603735843">
-        <mark key="[" line="49" column="45" />
-        <mark key="]" line="49" column="43" />
-        <mark key="." line="49" column="42" />
-        <mark key="^" line="49" column="43" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/map.cljs" timestamp="1593817485155">
+        <mark key="[" line="69" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/render.cljs" timestamp="1593817505395">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="61" />
+        <mark key="." line="31" column="60" />
+        <mark key="^" line="31" column="61" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1593654333600">
         <mark key="[" line="31" column="2" />
@@ -340,7 +343,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAoZm4gW1tfIGlkXSBfXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuc3Vicy5vcmdwYWdlLnVuaXQgOmFzIHVuaXRdCiAgICAgICAgICAgIFtvcmdwYWQuY29tbW9uLm1hcHMgOmFzIG1hcHNdCg==</text>
       </register>
       <register name="-" type="4">
         <text>[orgpad.client.util.hiccup :as hiccup]</text>
@@ -349,35 +352,43 @@
         <text>just</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoZm4gW1tfIGlkXSBfXQogICAgKHJmL3N1YnNjcmliZSBbOmxpbmsvY29vcmQtYmV6aWVyLWFuZC1wcm9wcyBpZF0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICBeezprZXkgKHN0ciBsaW5rLWlkICItc2VsZWN0ZWQiKX0gW2xpbmtzL3JlbmRlciBsaW5rLWlkIDpsaW5rL3NlbGVjdGlvbl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAoZm4gW1tfIGlkXSBfXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuc3Vicy5vcmdwYWdlLnVuaXQgOmFzIHVuaXRdCiAgICAgICAgICAgIFtvcmdwYWQuY29tbW9uLm1hcHMgOmFzIG1hcHNdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBmcm9tLXBvcyB0by1wb3MgcHJvcHMpCg==</text>
+        <text>(defn- get-bezier-map
+  &quot;Computes a pair of updated bezier map and whether the link is dragged.&quot;
+  [{:link/keys [id bezier endpoint-ids]} units links input seg]
+  (let [[from-id to-id] endpoint-ids
+        is-link-moving (moving? id input)
+        is-endpoint-moving (or (unit/moving? from-id input)
+                               (unit/moving? to-id input))]
+    (cond is-link-moving [(geom-link/update-bezier seg (get-dragged-bezier-map units links input)) true]
+          (and bezier is-endpoint-moving) [(geom-link/update-bezier seg bezier) true]
+          :else [bezier is-endpoint-moving])))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbZnJvbS14IGZyb20teV0gZnJvbS1wb2ludAogICAgICAgIFt0by14IHRvLXldIHRvLXBvaW50Cg==</text>
+        <text encoding="base64">ICA6PC0gWzptb3VzZS1kb3duL21vdXNlLWRvd25dCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>(fn [active-page-id _ _]
-    )</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICA6PC0gWzpvcmdwYWdlL3VuaXRzXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">OzsgQ29tcHV0ZXMgd2hldGhlciBjb250ZW50IGlzIHNob3duIGZvciB0aGUgYm9vay11bml0IG9mIHRoZSBnaXZlbiBpZC4gVGhlIGN1cnJlbnQgYW5pbWF0aW9uIHBoYXNlIGlzIGNvbnNpZGVyZWQuCihyZi9yZWctc3ViCiAgOnVuaXQvc2hvdy1jb250ZW50CiAgKGZuIFtbXyBpZF0gX10KICAgIFsocmYvc3Vic2NyaWJlIFs6b3JncGFnZS91bml0IGlkXSkKICAgICAocmYvc3Vic2NyaWJlIFs6dW5pdC90aXRsZT8gaWRdKQogICAgIChyZi9zdWJzY3JpYmUgWzp1bml0L29sZC1mYWRlLW91dD8gaWRdKV0pCiAgKGZuIFtbezp1bml0L2tleXMgW3Nob3ctY29udGVudCBvbGQtc2hvdy1jb250ZW50XX0gaGFzLXRpdGxlIG9sZC1mYWRlLW91dD9dIF8gX10KICAgIChvciAobm90IGhhcy10aXRsZSkgKGlmIG9sZC1mYWRlLW91dD8KICAgICAgICAgICAgICAgICAgICAgICAgICBvbGQtc2hvdy1jb250ZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvdy1jb250ZW50KSkpKQoK</text>
+        <text encoding="base64">ICA6PC0gWzplZGl0LW1vZGUvaGlnaGxpZ2h0XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93LWNvbnRlbnQgQChyZi9zdWJzY3JpYmUgWzp1bml0L3Nob3ctY29udGVudCBpZF0pCg==</text>
+        <text encoding="base64">ICA6PC0gWzplZGl0LW1vZGUvdW5pdC1lZGl0b3JdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltYXRpb24tcGhhc2UgQChyZi9zdWJzY3JpYmUgWzp1bml0L2FuaW1hdGlvbi1waGFzZSBpZF0pCg==</text>
+        <text encoding="base64">ICAoZm4gW1tfIGlkXSBfXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50IEAocmYvc3Vic2NyaWJlIFs6dW5pdC9jb250ZW50IGlkXSkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBmcm9tLXBvcyB0by1wb3MgcHJvcHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZC11bml0IEAocmYvc3Vic2NyaWJlIFs6ZWRpdC1tb2RlL3NlbGVjdGVkLXVuaXQgaWRdKQogICAgICAgIGZvY3VzZWQtdW5pdCBAKHJmL3N1YnNjcmliZSBbOnBhdGhzL3VuaXQtZm9jdXNlZCBpZF0pCiAgICAgICAgdmlzaWJsZS11bml0IEAocmYvc3Vic2NyaWJlIFs6cGF0aHMvdW5pdC12aXNpYmxlIGlkXSkK</text>
+        <text encoding="base64">ICAgICAgICBbZnJvbS14IGZyb20teV0gZnJvbS1wb2ludAogICAgICAgIFt0by14IHRvLXldIHRvLXBvaW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
