@@ -149,6 +149,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1593861594147">
+        <mark key="[" line="129" column="27" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/unit_buttons.cljs" timestamp="1593862111824">
+        <mark key="[" line="35" column="71" />
+        <mark key="]" line="35" column="65" />
+        <mark key="." line="35" column="64" />
+        <mark key="^" line="35" column="65" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593818160445">
         <mark key="]" line="338" column="4" />
         <mark key="." line="338" column="3" />
@@ -166,36 +175,30 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1593654333600">
-        <mark key="[" line="31" column="2" />
-        <mark key="]" line="31" column="4" />
-        <mark key="^" line="31" column="4" />
-        <mark key="." line="31" column="3" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593818165172">
         <mark key="'" line="0" column="59" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/book.cljs" timestamp="1593605031288">
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="66" column="102" />
-        <mark key="." line="66" column="101" />
-        <mark key="^" line="66" column="102" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/link.cljs" timestamp="1593818100372">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/create/unit.cljs" timestamp="1593861192894">
+        <mark key="[" line="34" column="6" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593818020412">
         <mark key="[" line="197" column="0" />
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/unit_buttons.cljs" timestamp="1593860003768">
-        <mark key="[" line="40" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/unit_buttons.cljs" timestamp="1593861280586">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="48" column="27" />
+        <mark key="^" line="48" column="27" />
+        <mark key="." line="48" column="26" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit_button.cljs" timestamp="1593859994924">
         <mark key="[" line="28" column="28" />
@@ -309,11 +312,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuc3Vicy5vcmdwYWdlLnVuaXQgOmFzIHVuaXRdCiAgICAgICAgICAgIFtvcmdwYWQuY29tbW9uLm1hcHMgOmFzIG1hcHNdCg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>[orgpad.client.util.hiccup :as hiccup]</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>just</text>
