@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>link-cre</entry>
         <entry>unit-buttons</entry>
         <entry>style</entry>
         <entry>mkdir</entry>
@@ -25,6 +24,7 @@
         <entry>logs</entry>
         <entry>card</entry>
         <entry>edited</entry>
+        <entry>hover</entry>
       </history-search>
       <history-cmd>
         <entry>wwa</entry>
@@ -155,6 +155,9 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="33" />
       </file>
+      <file name="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" timestamp="1593881579454">
+        <mark key="'" line="1046" column="20" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/coeffects/uuids.cljs" timestamp="1593879880021" />
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1593871186838">
         <mark key="[" line="119" column="52" />
@@ -178,7 +181,7 @@
         <mark key="." line="127" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/effects/time.cljs" timestamp="1593877563803" />
-      <file name="/Dummy.txt" timestamp="1593876355224">
+      <file name="/Dummy.txt" timestamp="1593881086805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1593880547064">
@@ -186,6 +189,9 @@
         <mark key="]" line="13" column="45" />
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="45" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/button.clj" timestamp="1593881537042">
+        <mark key="[" line="32" column="8" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/effects/fullscreen.cljs" timestamp="1593878911696">
         <mark key="[" line="6" column="6" />
@@ -202,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="30" filename="C:/Shared/orgpad/src/orgpad/client/events/usergroups.cljs" />
       <jump line="138" column="34" filename="C:/Shared/orgpad/src/orgpad/client/events/usergroups.cljs" />
       <jump line="98" column="4" filename="C:/Shared/orgpad/src/orgpad/client/events/share_orgpage.cljs" />
       <jump line="87" column="21" filename="C:/Shared/orgpad/src/orgpad/client/events/share_orgpage.cljs" />
@@ -268,18 +273,6 @@
       <jump line="1" column="33" filename="C:/Shared/orgpad/src/orgpad/server/email/templates/common.cljc" />
       <jump line="15" column="17" filename="C:/Shared/orgpad/src/orgpad/landing/scripts/send-contact-form.js" />
       <jump line="0" column="4" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="583" column="10" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="587" column="24" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="588" column="14" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="622" column="20" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="623" column="17" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="624" column="5" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="626" column="19" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="627" column="14" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="634" column="19" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="635" column="12" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="818" column="4" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
-      <jump line="1046" column="20" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
       <jump line="3" column="0" filename="C:/Shared/orgpad/src/orgpad/server/scheduling.clj" />
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
       <jump line="131" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
@@ -302,6 +295,19 @@
       <jump line="51" column="13" filename="C:/Shared/orgpad/src/orgpad/landing/css/common.clj" />
       <jump line="43" column="33" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" />
       <jump line="48" column="42" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" />
+      <jump line="101" column="44" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="583" column="10" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="587" column="24" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="588" column="14" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="622" column="20" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="623" column="17" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="624" column="5" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="626" column="19" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="627" column="14" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="634" column="19" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="635" column="12" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="818" column="4" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
+      <jump line="1046" column="20" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +319,7 @@
         <text>(map first (take-while #(= (first %) (second %)) paired ))</text>
       </register>
       <register name="/" type="4">
-        <text>edited</text>
+        <text>hover</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAocmYvc3Vic2NyaWJlIFs6bGluay9mcm9tLXBvcyBpZF0pCiAgICAgKHJmL3N1YnNjcmliZSBbOmxpbmsvZnJvbS1zaXplIGlkXSkK</text>
@@ -352,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>edited</last-search>
+      <last-search>hover</last-search>
       <last-offset />
-      <last-pattern>edited</last-pattern>
+      <last-pattern>hover</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
