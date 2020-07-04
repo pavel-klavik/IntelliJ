@@ -149,26 +149,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/view.cljs" timestamp="1593821898413">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="66" column="5" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/edit_mode.cljs" timestamp="1593822106831">
-        <mark key="[" line="149" column="92" />
-        <mark key="]" line="150" column="28" />
-        <mark key="." line="150" column="27" />
-        <mark key="^" line="150" column="28" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1593871186838">
         <mark key="[" line="119" column="52" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" timestamp="1593822034056">
-        <mark key="[" line="318" column="34" />
-        <mark key="]" line="318" column="35" />
-        <mark key="^" line="318" column="35" />
-        <mark key="." line="318" column="34" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/presentation_switch.cljs" timestamp="1593874453267">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="16" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/app.clj" timestamp="1593874288633">
+        <mark key="[" line="12" column="12" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/presentation.cljs" timestamp="1593874338521">
+        <mark key="[" line="106" column="14" />
+        <mark key="]" line="106" column="58" />
+        <mark key="^" line="106" column="58" />
+        <mark key="." line="106" column="57" />
       </file>
       <file name="/Dummy.txt" timestamp="1593871729620">
         <mark key="[" line="0" column="0" />
