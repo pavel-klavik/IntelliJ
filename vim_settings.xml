@@ -212,12 +212,6 @@
         <mark key="^" line="72" column="10" />
         <mark key="." line="72" column="9" />
       </file>
-      <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1593958439038">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="10" column="1" />
-      </file>
       <file name="/REPL.clj" timestamp="1593992372289">
         <mark key="[" line="0" column="0" />
       </file>
@@ -226,6 +220,12 @@
         <mark key="]" line="16" column="78" />
         <mark key="^" line="16" column="78" />
         <mark key="." line="16" column="77" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/image.clj" timestamp="1594051880721">
+        <mark key="[" line="59" column="2" />
+        <mark key="]" line="65" column="51" />
+        <mark key="^" line="65" column="51" />
+        <mark key="." line="65" column="50" />
       </file>
       <file name="/Dummy.txt" timestamp="1593982645728">
         <mark key="[" line="0" column="0" />
@@ -236,17 +236,17 @@
         <mark key="^" line="54" column="60" />
         <mark key="." line="54" column="59" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/util/extensions.clj" timestamp="1594051723820">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="20" column="62" />
+        <mark key="^" line="20" column="62" />
+        <mark key="." line="20" column="61" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/editor_change.cljs" timestamp="1593981043669">
         <mark key="[" line="65" column="8" />
         <mark key="]" line="136" column="27" />
         <mark key="^" line="136" column="27" />
         <mark key="." line="136" column="26" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/change.cljs" timestamp="1593960762999">
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="46" column="98" />
-        <mark key="^" line="46" column="98" />
-        <mark key="." line="46" column="97" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit_button.cljs" timestamp="1593981263781">
         <mark key="[" line="72" column="42" />
