@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>link-cre</entry>
         <entry>unit-buttons</entry>
         <entry>style</entry>
         <entry>mkdir</entry>
@@ -25,6 +24,7 @@
         <entry>show-content</entry>
         <entry>parent</entry>
         <entry>just</entry>
+        <entry>of</entry>
       </history-search>
       <history-cmd>
         <entry>orgpage\/title</entry>
@@ -164,17 +164,28 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="17" column="45" />
       </file>
+      <file name="$USER_HOME$/.m2/repository/net/coobird/thumbnailator/0.4.11/thumbnailator-0.4.11.jar!/net/coobird/thumbnailator/Thumbnails.class" timestamp="1594073442694">
+        <mark key="'" line="25" column="93" />
+        <mark key="[" line="66" column="14" />
+        <mark key="]" line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+        <mark key="." line="27" column="40" />
+      </file>
+      <file name="/REPL.clj" timestamp="1594073068409">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/editors/link_editor.cljs" timestamp="1593863932914">
         <mark key="[" line="54" column="66" />
         <mark key="]" line="54" column="129" />
         <mark key="^" line="54" column="129" />
         <mark key="." line="54" column="128" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/image.clj" timestamp="1594068402594">
-        <mark key="[" line="59" column="86" />
-        <mark key="]" line="60" column="50" />
-        <mark key="^" line="60" column="50" />
-        <mark key="." line="60" column="49" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/image.clj" timestamp="1594073296651">
+        <mark key="[" line="87" column="13" />
+        <mark key="]" line="87" column="33" />
+        <mark key="^" line="87" column="33" />
+        <mark key="." line="87" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1593866762375">
         <mark key="'" line="0" column="59" />
@@ -187,6 +198,9 @@
         <mark key="]" line="15" column="45" />
         <mark key="^" line="15" column="45" />
         <mark key="." line="15" column="44" />
+      </file>
+      <file name="/REPL.txt" timestamp="1594072986707">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/editor.cljs" timestamp="1593863235375">
         <mark key="[" line="102" column="8" />
@@ -235,10 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" />
-      <jump line="147" column="0" filename="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" />
-      <jump line="153" column="13" filename="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" />
-      <jump line="155" column="0" filename="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" />
       <jump line="178" column="0" filename="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" />
       <jump line="189" column="0" filename="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" />
       <jump line="194" column="13" filename="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" />
@@ -269,7 +279,6 @@
       <jump line="103" column="8" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="107" column="48" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="108" column="21" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
-      <jump line="0" column="0" filename="/REPL.clj" />
       <jump line="16" column="39" filename="C:/Shared/klavik/src/klavik/css/menu.clj" />
       <jump line="1" column="2" filename="C:/Shared/klavik/resources/contact.php" />
       <jump line="23" column="59" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
@@ -335,18 +344,23 @@
       <jump line="140" column="23" filename="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" />
       <jump line="158" column="23" filename="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" />
       <jump line="180" column="23" filename="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/unit.cljs" />
+      <jump line="0" column="0" filename="/REPL.clj" />
+      <jump line="27" column="40" filename="$USER_HOME$/.m2/repository/net/coobird/thumbnailator/0.4.11/thumbnailator-0.4.11.jar!/net/coobird/thumbnailator/Thumbnails.class" />
+      <jump line="67" column="0" filename="$USER_HOME$/.m2/repository/net/coobird/thumbnailator/0.4.11/thumbnailator-0.4.11.jar!/net/coobird/thumbnailator/Thumbnails.class" />
+      <jump line="66" column="82" filename="$USER_HOME$/.m2/repository/net/coobird/thumbnailator/0.4.11/thumbnailator-0.4.11.jar!/net/coobird/thumbnailator/Thumbnails.class" />
+      <jump line="25" column="93" filename="$USER_HOME$/.m2/repository/net/coobird/thumbnailator/0.4.11/thumbnailator-0.4.11.jar!/net/coobird/thumbnailator/Thumbnails.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(rf/subscribe [:paths/menu])</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>(rf/subscribe [:paths/menu])</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>just</text>
+        <text>of</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBeezprZXkgKHN0ciBsaW5rLWlkICItc2VsZWN0ZWQiKX0gW2xpbmtzL3JlbmRlciBsaW5rLWlkIDpsaW5rL3NlbGVjdGlvbl0K</text>
@@ -394,9 +408,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>just</last-search>
+      <last-search>of</last-search>
       <last-offset />
-      <last-pattern>just</last-pattern>
+      <last-pattern>of</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
