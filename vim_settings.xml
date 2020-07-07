@@ -149,11 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/core.cljs" timestamp="1593981127115">
-        <mark key="[" line="236" column="20" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/image_list.cljs" timestamp="1594156569241">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="17" column="24" />
@@ -166,8 +161,8 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/image.clj" timestamp="1594157280974">
-        <mark key="[" line="24" column="22" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/image.clj" timestamp="1594161290003">
+        <mark key="[" line="25" column="65" />
         <mark key="]" line="24" column="26" />
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="26" />
@@ -192,6 +187,12 @@
         <mark key="]" line="46" column="51" />
         <mark key="." line="46" column="50" />
         <mark key="^" line="46" column="51" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/hiccup.cljs" timestamp="1594163169274">
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="76" />
+        <mark key="^" line="38" column="76" />
+        <mark key="." line="38" column="75" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/drag_start.cljs" timestamp="1593981209766">
         <mark key="[" line="78" column="8" />
