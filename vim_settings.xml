@@ -149,9 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1593861594147">
-        <mark key="[" line="129" column="27" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/unit_buttons.cljs" timestamp="1593864543259">
         <mark key="[" line="35" column="71" />
         <mark key="]" line="35" column="65" />
@@ -171,6 +168,9 @@
         <mark key="^" line="27" column="41" />
         <mark key="." line="27" column="40" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/images.clj" timestamp="1594122094524">
+        <mark key="[" line="0" column="32" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/file.clj" timestamp="1594096109153">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -182,14 +182,14 @@
         <mark key="^" line="54" column="129" />
         <mark key="." line="54" column="128" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/image.clj" timestamp="1594120738788">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="30" column="56" />
-        <mark key="." line="30" column="55" />
-        <mark key="^" line="30" column="56" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/image.clj" timestamp="1594122330708">
+        <mark key="[" line="120" column="32" />
+        <mark key="]" line="119" column="60" />
+        <mark key="." line="119" column="59" />
+        <mark key="^" line="119" column="60" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/util/image.clj" timestamp="1594092746901">
-        <mark key="[" line="26" column="46" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/util/image.clj" timestamp="1594122396444">
+        <mark key="[" line="37" column="40" />
         <mark key="]" line="27" column="95" />
         <mark key="^" line="27" column="95" />
         <mark key="." line="27" column="94" />
