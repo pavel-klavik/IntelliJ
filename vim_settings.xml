@@ -43,9 +43,9 @@
         <entry>va</entry>
         <entry>wva</entry>
         <entry>aw</entry>
-        <entry>wa'</entry>
-        <entry>w</entry>
         <entry>w'a</entry>
+        <entry>w</entry>
+        <entry>wa'</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -149,11 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1594232415975">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="94" column="48" />
-        <mark key="^" line="94" column="48" />
-        <mark key="." line="94" column="47" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1594233121240">
+        <mark key="[" line="36" column="74" />
+        <mark key="]" line="37" column="54" />
+        <mark key="^" line="37" column="54" />
+        <mark key="." line="37" column="53" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/orgpage.cljs" timestamp="1594227712813">
         <mark key="[" line="31" column="42" />
@@ -161,11 +161,11 @@
         <mark key="^" line="32" column="59" />
         <mark key="." line="32" column="58" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/update.cljs" timestamp="1594231672736">
-        <mark key="[" line="39" column="75" />
-        <mark key="]" line="39" column="74" />
-        <mark key="^" line="39" column="74" />
-        <mark key="." line="39" column="73" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/update.cljs" timestamp="1594233202840">
+        <mark key="[" line="38" column="2" />
+        <mark key="]" line="38" column="74" />
+        <mark key="^" line="38" column="74" />
+        <mark key="." line="38" column="73" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/image_list.cljs" timestamp="1594164666302">
         <mark key="[" line="17" column="28" />
