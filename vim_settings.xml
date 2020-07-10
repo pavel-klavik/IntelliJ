@@ -198,12 +198,6 @@
         <mark key="." line="90" column="30" />
         <mark key="^" line="90" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/paths.cljs" timestamp="1593866243019">
-        <mark key="[" line="185" column="5" />
-        <mark key="]" line="185" column="5" />
-        <mark key="." line="185" column="4" />
-        <mark key="^" line="185" column="5" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/attachments.cljs" timestamp="1594291580491">
         <mark key="[" line="129" column="15" />
         <mark key="]" line="129" column="17" />
@@ -248,6 +242,12 @@
         <mark key="]" line="106" column="73" />
         <mark key="^" line="106" column="73" />
         <mark key="." line="106" column="72" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/links/bezier.cljs" timestamp="1594343437752">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="15" column="65" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -356,7 +356,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAobG9nL2luZm8gImZpbGUiIGlkIGZpbGVuYW1lIGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBiZXogdGltZSBkaXN0YW5jZSBzYW1wbGUtZGlzdGFuY2UgcG9pbnQtdGltZSkK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -368,31 +368,33 @@
         <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJmaWxlIiBpZCBmaWxlbmFtZSBkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAobG9nL2luZm8gImZpbGUiIGlkIGZpbGVuYW1lIGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBiZXogdGltZSBkaXN0YW5jZSBzYW1wbGUtZGlzdGFuY2UgcG9pbnQtdGltZSkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAobG9nL2luZm8gImZpbGUiIGlkIGZpbGVuYW1lIGRhdGEpCiAgICAgICAgKGRvdG8gemlwLXN0cmVhbQo=</text>
+      <register name="2" type="4">
+        <text>(geom/vec+ (geom-link/bezier-point bez time)
+                                   (geom/vec* (geom-link/bezier-derivative bez time)
+                                              ))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAobG9nL2luZm8gImltYWdlIiBpZCBmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAobG9nL2luZm8gImZpbGUiIGlkIGZpbGVuYW1lIGRhdGEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJjb21wcmVzcy1vcmdwYWdlLWF0dGFjaG1lbnRzIiBmaWxlcyBpbWFnZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAobG9nL2luZm8gImZpbGUiIGlkIGZpbGVuYW1lIGRhdGEpCiAgICAgICAgKGRvdG8gemlwLXN0cmVhbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aCAoc29tZS0+IHBhcmFtcyA6dyBJbnRlZ2VyL3BhcnNlSW50KQogICAgICAgIHs6aW1hZ2Uva2V5cyBbdGh1bWJuYWlsLXNpemVzXX0gKGltYWdlL2dldC1pbWFnZSBpZCkKICAgICAgICBmaWxlbmFtZSAob3IgKHNvbWUtPj4gdGh1bWJuYWlsLXNpemVzIChmaWx0ZXIgIyg9ICg6dGh1bWJuYWlsL3dpZHRoICUpIHdpZHRoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3QgKGltYWdlL3RodW1ibmFpbC1maWxlbmFtZSBpZCkpCiAgICAgICAgICAgICAgICAgICAgIChzb21lLT4+IHRodW1ibmFpbC1zaXplcyBmaXJzdCAoaW1hZ2UvdGh1bWJuYWlsLWZpbGVuYW1lIGlkKSkKICAgICAgICAgICAgICAgICAgICAgaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAobG9nL2luZm8gImltYWdlIiBpZCBmaWxlbmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChwcmludGxuIGlkICI6IiAoYWxlbmd0aCBieXRlLWFycmF5KSkK</text>
+        <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJjb21wcmVzcy1vcmdwYWdlLWF0dGFjaG1lbnRzIiBmaWxlcyBpbWFnZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSAoLT4gZmlsZW5hbWUgZXh0ZW5zaW9ucy9kZWxldGUgKHN0ci9yZXBsYWNlIFxfIFwgKSkKICAgICAgICB2aWV3LXRva2VuIChVVUlEL3JhbmRvbVVVSUQpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aCAoc29tZS0+IHBhcmFtcyA6dyBJbnRlZ2VyL3BhcnNlSW50KQogICAgICAgIHs6aW1hZ2Uva2V5cyBbdGh1bWJuYWlsLXNpemVzXX0gKGltYWdlL2dldC1pbWFnZSBpZCkKICAgICAgICBmaWxlbmFtZSAob3IgKHNvbWUtPj4gdGh1bWJuYWlsLXNpemVzIChmaWx0ZXIgIyg9ICg6dGh1bWJuYWlsL3dpZHRoICUpIHdpZHRoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3QgKGltYWdlL3RodW1ibmFpbC1maWxlbmFtZSBpZCkpCiAgICAgICAgICAgICAgICAgICAgIChzb21lLT4+IHRodW1ibmFpbC1zaXplcyBmaXJzdCAoaW1hZ2UvdGh1bWJuYWlsLWZpbGVuYW1lIGlkKSkKICAgICAgICAgICAgICAgICAgICAgaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQgKChzZXQvbWFwLWludmVydCBleHRlbnNpb25zL2NvbnRlbnQtdHlwZXMpIGNvbnRlbnQtdHlwZSkK</text>
+        <text encoding="base64">ICAgIChwcmludGxuIGlkICI6IiAoYWxlbmd0aCBieXRlLWFycmF5KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dC1zdHJlYW0gKEltYWdlSU8vY3JlYXRlSW1hZ2VJbnB1dFN0cmVhbSBmaWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZSAoLT4gZmlsZW5hbWUgZXh0ZW5zaW9ucy9kZWxldGUgKHN0ci9yZXBsYWNlIFxfIFwgKSkKICAgICAgICB2aWV3LXRva2VuIChVVUlEL3JhbmRvbVVVSUQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
