@@ -34,7 +34,6 @@
         <entry>;wa</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>waa</entry>
-        <entry>a</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
         <entry>va</entry>
@@ -46,6 +45,7 @@
         <entry>w'</entry>
         <entry>w</entry>
         <entry>:wa</entry>
+        <entry>a</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -149,7 +149,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594760254784">
+      <file name="/Dummy.txt" timestamp="1594897457678">
         <mark key="'" line="0" column="59" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -198,11 +198,11 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="55" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/landing/css/intro.clj" timestamp="1594841143774">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="3" />
-        <mark key="." line="29" column="2" />
-        <mark key="^" line="29" column="3" />
+      <file name="C:/Shared/orgpad/src/orgpad/landing/css/intro.clj" timestamp="1594897397903">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="124" column="7" />
+        <mark key="." line="124" column="6" />
+        <mark key="^" line="124" column="7" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/attachments.clj" timestamp="1594305679154">
         <mark key="[" line="12" column="12" />
@@ -244,6 +244,11 @@
         <mark key="]" line="141" column="51" />
         <mark key="." line="141" column="50" />
         <mark key="^" line="141" column="51" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/landing/pages/intro.cljc" timestamp="1594897453470">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -352,7 +357,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZmtleWZyYW1lcyBmKQo=</text>
+        <text encoding="base64">ICAgICBbOmRpdi5jaGFuZ2luZy10ZXh0ICJBQkNERSJdCg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -364,33 +369,31 @@
         <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJmaWxlIiBpZCBmaWxlbmFtZSBkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGRlZmtleWZyYW1lcyBmKQo=</text>
+        <text encoding="base64">ICAgICBbOmRpdi5jaGFuZ2luZy10ZXh0ICJBQkNERSJdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmRhc2hib2FyZC1zd2l0Y2ggOmFzIGRhc2hib2FyZC1zd2l0Y2hdCg==</text>
+        <text encoding="base64">KGRlZmtleWZyYW1lcyBmKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICI6bW91c2UvbW92ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmRhc2hib2FyZC1zd2l0Y2ggOmFzIGRhc2hib2FyZC1zd2l0Y2hdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgOm9uLXRvdWNoLXN0YXJ0ICMoZG8gKC5zdG9wUHJvcGFnYXRpb24gJSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgKHJmL2Rpc3BhdGNoIFs6Y2FudmFzL21vdXNlLWRvd24gKG1vdXNlLWV2ZW50cy90b3VjaC1jb29yZCAlKSBmYWxzZSBmYWxzZV0pKQo=</text>
+        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICI6bW91c2UvbW92ZSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7OmNhbnZhcy9rZXlzIFtzaG93LXpvb20/IHpvb21dfSBAKHJmL3N1YnNjcmliZSBbOmFwcC1zdGF0ZS9jYW52YXNdKQo=</text>
+        <text encoding="base64">ICAgICAgOm9uLXRvdWNoLXN0YXJ0ICMoZG8gKC5zdG9wUHJvcGFnYXRpb24gJSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgKHJmL2Rpc3BhdGNoIFs6Y2FudmFzL21vdXNlLWRvd24gKG1vdXNlLWV2ZW50cy90b3VjaC1jb29yZCAlKSBmYWxzZSBmYWxzZV0pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICA6Y29tcG9uZW50LWRpZC11cGRhdGUgKHBhcnRpYWwgY29tcHV0ZS11bml0LXNpemUgcmVzaXplLWlkKQo=</text>
+        <text encoding="base64">ICAgICAgICB7OmNhbnZhcy9rZXlzIFtzaG93LXpvb20/IHpvb21dfSBAKHJmL3N1YnNjcmliZSBbOmFwcC1zdGF0ZS9jYW52YXNdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdmctcGF0aCAoYXJyb3doZWFkLWN1cnZlIGxpbmstbWFwIDEpCg==</text>
+        <text encoding="base64">ICAgICA6Y29tcG9uZW50LWRpZC11cGRhdGUgKHBhcnRpYWwgY29tcHV0ZS11bml0LXNpemUgcmVzaXplLWlkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBiZXogdGltZSBkaXN0YW5jZSBzYW1wbGUtZGlzdGFuY2UgcG9pbnQtdGltZSkK</text>
+        <text encoding="base64">ICAgICAgICBzdmctcGF0aCAoYXJyb3doZWFkLWN1cnZlIGxpbmstbWFwIDEpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>(geom/vec+ (geom-link/bezier-point bez time)
-                                   (geom/vec* (geom-link/bezier-derivative bez time)
-                                              ))</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBiZXogdGltZSBkaXN0YW5jZSBzYW1wbGUtZGlzdGFuY2UgcG9pbnQtdGltZSkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
