@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mkdir</entry>
         <entry>site</entry>
         <entry encoding="base64">XiAg</entry>
         <entry encoding="base64">XiAgICA=</entry>
@@ -25,6 +24,7 @@
         <entry>of</entry>
         <entry>ws</entry>
         <entry>device</entry>
+        <entry>transit</entry>
       </history-search>
       <history-cmd>
         <entry>orgpage\/title</entry>
@@ -180,7 +180,7 @@
         <mark key="^" line="36" column="19" />
         <mark key="." line="36" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595852806596">
+      <file name="/Dummy.txt" timestamp="1595861792296">
         <mark key="'" line="0" column="59" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -217,20 +217,24 @@
       <file name="/" timestamp="1595859422398">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1595861526057">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="52" />
+        <mark key="^" line="4" column="52" />
+        <mark key="." line="4" column="51" />
+      </file>
       <file name="C:/Shared/orgpad/resources/public/app.html" timestamp="1595790954367">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="19" column="73" />
         <mark key="^" line="19" column="73" />
         <mark key="." line="19" column="72" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" timestamp="1595074199696">
-        <mark key="'" line="5" column="30" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/project.clj" timestamp="1595853055107">
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1595861589797">
+        <mark key="'" line="51" column="32" />
         <mark key="[" line="48" column="47" />
+        <mark key="]" line="42" column="33" />
+        <mark key="^" line="42" column="33" />
+        <mark key="." line="42" column="32" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/device.clj" timestamp="1595112447102">
         <mark key="[" line="29" column="74" />
@@ -240,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="8" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
-      <jump line="78" column="105" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="86" column="47" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="103" column="8" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="107" column="48" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
@@ -340,6 +342,8 @@
       <jump line="96" column="53" filename="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" />
       <jump line="99" column="68" filename="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" />
       <jump line="5" column="30" filename="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" />
+      <jump line="42" column="32" filename="C:/Shared/orgpad/project.clj" />
+      <jump line="51" column="32" filename="C:/Shared/orgpad/project.clj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,7 +355,7 @@
         <text>device_id.substring(7,43)</text>
       </register>
       <register name="/" type="4">
-        <text>device</text>
+        <text>transit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eGhyLm9ucmVhZHlzdGF0ZWNoYW5nZSA9IGZ1bmN0aW9uICgpIHsKICBpZiAoeGhyLnJlYWR5U3RhdGUgPT09IDQgJiYgeGhyLnN0YXR1cyA9PT0gMjAwKSB7CiAgfQp9Owp4aHIuc2VuZCgpOw==</text>
@@ -390,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>device</last-search>
+      <last-search>transit</last-search>
       <last-offset />
-      <last-pattern>device</last-pattern>
+      <last-pattern>transit</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
