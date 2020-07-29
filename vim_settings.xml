@@ -168,7 +168,7 @@
         <mark key="^" line="92" column="16" />
         <mark key="." line="92" column="15" />
       </file>
-      <file name="/REPL.txt" timestamp="1596056021474">
+      <file name="/REPL.txt" timestamp="1596060065483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1596057452395">
@@ -223,8 +223,8 @@
         <mark key="^" line="42" column="33" />
         <mark key="." line="42" column="32" />
       </file>
-      <file name="/REPL.clj" timestamp="1596056021471">
-        <mark key="[" line="0" column="0" />
+      <file name="/REPL.clj" timestamp="1596060223801">
+        <mark key="]" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1596051084335">
         <mark key="'" line="0" column="0" />
@@ -359,7 +359,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0LWZpbmdlcnMgKDp0b3VjaC1zdGVwL2ZpbmdlcnMgbGFzdC1zdGVwKQogICAgICAgIGxhc3QtdGltZXN0YW1wICg6dG91Y2gtc3RlcC90aW1lc3RhbXAgbGFzdC1zdGVwKQo=</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
         <text>device_id.substring(7,43)</text>
@@ -371,31 +371,31 @@
         <text encoding="base64">eGhyLm9ucmVhZHlzdGF0ZWNoYW5nZSA9IGZ1bmN0aW9uICgpIHsKICBpZiAoeGhyLnJlYWR5U3RhdGUgPT09IDQgJiYgeGhyLnN0YXR1cyA9PT0gMjAwKSB7CiAgfQp9Owp4aHIuc2VuZCgpOw==</text>
       </register>
       <register name="1" type="2">
+        <text>()</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBsYXN0LWZpbmdlcnMgKDp0b3VjaC1zdGVwL2ZpbmdlcnMgbGFzdC1zdGVwKQogICAgICAgIGxhc3QtdGltZXN0YW1wICg6dG91Y2gtc3RlcC90aW1lc3RhbXAgbGFzdC1zdGVwKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">WzouY2hhbmdpbmctdGV4dAogICAgICAgIFsoJiBhZnRlcikgezpjb250ZW50ICAgICAgICAgICAgICAgICAgICJcIlwiIgogICAgICAgICAgICAgICAgICAgIDphbmltYXRpb24tbmFtZSAgICAgICAgICAgICJjaGFuZ2luZy10ZXh0IgogICAgICAgICAgICAgICAgICAgIDphbmltYXRpb24tZHVyYXRpb24gICAgICAgIChzICgqIChjb3VudCB1c2FnZXMpIHVzYWdlLWxlbmd0aCkpCiAgICAgICAgICAgICAgICAgICAgOmFuaW1hdGlvbi1pdGVyYXRpb24tY291bnQgOmluZmluaXRlfV1dCiAgICAgICBbOi5jdXJzb3Igezp3aWR0aCAgICAgICAgICAgICAgICAgICAgIChweCAyKQogICAgICAgICAgICAgICAgICA6aGVpZ2h0ICAgICAgICAgICAgICAgICAgICAobWluICh1L3JlbSAxLjkwKSAodncgMi4yKSk=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgO1s6ZGl2LmNoYW5naW5nLXRleHRdCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICNfWzouY2hhbmdpbmctdGV4dAogICAgICAgIFsoJiBhZnRlcikgezpjb250ZW50ICAgICAgICAgICAgICAgICAgICJcIlwiIgogICAgICAgICAgICAgICAgICAgIDphbmltYXRpb24tbmFtZSAgICAgICAgICAgICJjaGFuZ2luZy10ZXh0IgogICAgICAgICAgICAgICAgICAgIDphbmltYXRpb24tZHVyYXRpb24gICAgICAgIChzICgqIChjb3VudCB1c2FnZXMpIHVzYWdlLWxlbmd0aCkpCiAgICAgICAgICAgICAgICAgICAgOmFuaW1hdGlvbi1pdGVyYXRpb24tY291bnQgOmluZmluaXRlfV1dCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDtjaGFuZ2luZy10ZXh0Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB1c2FnZV9zdGFnZT1zdGFnZSVtYXhfcHJlc3Nlcwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAoLnByZXZlbnREZWZhdWx0IGpzLWV2ZW50KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgW3RvdWNoLW1hcF0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">OyBUT0RPOiBOZWVkcyB0byBiZSBmaXhlZC4K</text>
+        <text encoding="base64">ICBsZXQgW3RvdWNoLW1hcF0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
