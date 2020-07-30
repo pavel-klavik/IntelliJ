@@ -189,10 +189,10 @@
         <mark key="]" line="155" column="7" />
         <mark key="." line="155" column="7" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" timestamp="1596070534022">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="20" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" timestamp="1596104245269">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
         <mark key="^" line="13" column="21" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/vectors.cljc" timestamp="1596051411576">
@@ -359,7 +359,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>()</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dGltZS1kZWx0YSB0aW1lLWRlbHRhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmMtZGVsdGEgICAgKGdlb20vdmVjLSBbY3VyLWN4IGN1ci1jeV0gW2N4IGN5XSkK</text>
       </register>
       <register name="-" type="4">
         <text>device_id.substring(7,43)</text>
@@ -371,31 +371,31 @@
         <text encoding="base64">eGhyLm9ucmVhZHlzdGF0ZWNoYW5nZSA9IGZ1bmN0aW9uICgpIHsKICBpZiAoeGhyLnJlYWR5U3RhdGUgPT09IDQgJiYgeGhyLnN0YXR1cyA9PT0gMjAwKSB7CiAgfQp9Owp4aHIuc2VuZCgpOw==</text>
       </register>
       <register name="1" type="2">
-        <text>()</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dGltZS1kZWx0YSB0aW1lLWRlbHRhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmMtZGVsdGEgICAgKGdlb20vdmVjLSBbY3VyLWN4IGN1ci1jeV0gW2N4IGN5XSkK</text>
       </register>
       <register name="2" type="2">
+        <text>()</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBsYXN0LWZpbmdlcnMgKDp0b3VjaC1zdGVwL2ZpbmdlcnMgbGFzdC1zdGVwKQogICAgICAgIGxhc3QtdGltZXN0YW1wICg6dG91Y2gtc3RlcC90aW1lc3RhbXAgbGFzdC1zdGVwKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">WzouY2hhbmdpbmctdGV4dAogICAgICAgIFsoJiBhZnRlcikgezpjb250ZW50ICAgICAgICAgICAgICAgICAgICJcIlwiIgogICAgICAgICAgICAgICAgICAgIDphbmltYXRpb24tbmFtZSAgICAgICAgICAgICJjaGFuZ2luZy10ZXh0IgogICAgICAgICAgICAgICAgICAgIDphbmltYXRpb24tZHVyYXRpb24gICAgICAgIChzICgqIChjb3VudCB1c2FnZXMpIHVzYWdlLWxlbmd0aCkpCiAgICAgICAgICAgICAgICAgICAgOmFuaW1hdGlvbi1pdGVyYXRpb24tY291bnQgOmluZmluaXRlfV1dCiAgICAgICBbOi5jdXJzb3Igezp3aWR0aCAgICAgICAgICAgICAgICAgICAgIChweCAyKQogICAgICAgICAgICAgICAgICA6aGVpZ2h0ICAgICAgICAgICAgICAgICAgICAobWluICh1L3JlbSAxLjkwKSAodncgMi4yKSk=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgO1s6ZGl2LmNoYW5naW5nLXRleHRdCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICNfWzouY2hhbmdpbmctdGV4dAogICAgICAgIFsoJiBhZnRlcikgezpjb250ZW50ICAgICAgICAgICAgICAgICAgICJcIlwiIgogICAgICAgICAgICAgICAgICAgIDphbmltYXRpb24tbmFtZSAgICAgICAgICAgICJjaGFuZ2luZy10ZXh0IgogICAgICAgICAgICAgICAgICAgIDphbmltYXRpb24tZHVyYXRpb24gICAgICAgIChzICgqIChjb3VudCB1c2FnZXMpIHVzYWdlLWxlbmd0aCkpCiAgICAgICAgICAgICAgICAgICAgOmFuaW1hdGlvbi1pdGVyYXRpb24tY291bnQgOmluZmluaXRlfV1dCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDtjaGFuZ2luZy10ZXh0Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB1c2FnZV9zdGFnZT1zdGFnZSVtYXhfcHJlc3Nlcwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAoLnByZXZlbnREZWZhdWx0IGpzLWV2ZW50KQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgW3RvdWNoLW1hcF0K</text>
+        <text encoding="base64">ICAoLnByZXZlbnREZWZhdWx0IGpzLWV2ZW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
