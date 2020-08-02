@@ -163,9 +163,7 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1596386703366">
         <mark key="[" line="115" column="37" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="118" column="75" />
-        <mark key="." line="116" column="0" />
+        <mark key="^" line="115" column="75" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_canvas.cljs" timestamp="1596300988618">
         <mark key="[" line="12" column="0" />
@@ -194,11 +192,11 @@
         <mark key="^" line="106" column="32" />
         <mark key="." line="106" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" timestamp="1596386872878">
-        <mark key="[" line="143" column="29" />
-        <mark key="]" line="145" column="36" />
-        <mark key="." line="145" column="35" />
-        <mark key="^" line="145" column="36" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" timestamp="1596389235774">
+        <mark key="[" line="126" column="12" />
+        <mark key="]" line="126" column="96" />
+        <mark key="." line="126" column="95" />
+        <mark key="^" line="126" column="96" />
       </file>
       <file name="C:/Shared/orgpad/package.json" timestamp="1596386519985">
         <mark key="[" line="14" column="0" />
@@ -212,11 +210,11 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="16" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/canvas.cljs" timestamp="1596384858817">
-        <mark key="[" line="25" column="10" />
-        <mark key="]" line="25" column="93" />
-        <mark key="." line="25" column="92" />
-        <mark key="^" line="25" column="93" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/canvas.cljs" timestamp="1596388850266">
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="29" column="82" />
+        <mark key="." line="29" column="81" />
+        <mark key="^" line="29" column="82" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1596378342222">
         <mark key="'" line="0" column="0" />
@@ -243,12 +241,11 @@
         <mark key="^" line="166" column="50" />
         <mark key="." line="166" column="49" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1596378314599">
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1596387958605">
         <mark key="'" line="20" column="45" />
-        <mark key="[" line="85" column="33" />
-        <mark key="]" line="82" column="38" />
-        <mark key="^" line="82" column="38" />
-        <mark key="." line="82" column="37" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1596301616153">
         <mark key="[" line="0" column="0" />
@@ -372,10 +369,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1vZGUgKGRiLWdldC9tb2RlIGVmZmVjdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGFuZCBuZXctZ2VzdHVyZSBuZXctZ2VzdHVyZS1tYXApIChkYi1hc3NvYy9nZXN0dXJlLW1hcCBuZXctZ2VzdHVyZSBuZXctZ2VzdHVyZS1tYXApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>upd</text>
+        <text>zero? num-fingers</text>
       </register>
       <register name="/" type="4">
         <text>:mouse\/click</text>
@@ -384,32 +381,32 @@
         <text encoding="base64">ICAgICAgICB7Zmlyc3Qtc3RhcnQtY3BvcyA6ZmluZ2VyL3N0YXJ0LWNwb3MKICAgICAgICAgZmlyc3QtY3VyLWNwb3MgOmZpbmdlci9jdXItY3Bvc30gKGRiLWdldC90b3VjaC1maW5nZXIgZWZmZWN0cyBmaXJzdC1pbmRleCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1vZGUgKGRiLWdldC9tb2RlIGVmZmVjdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGFuZCBuZXctZ2VzdHVyZSBuZXctZ2VzdHVyZS1tYXApIChkYi1hc3NvYy9nZXN0dXJlLW1hcCBuZXctZ2VzdHVyZSBuZXctZ2VzdHVyZS1tYXApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJoYW1tZXJqcyI6ICJeMi4wLjgiLAo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBnZXN0dXJlIGdlc3R1cmUtbWFwIG5ldy1nZXN0dXJlIG5ldy1nZXN0dXJlLW1hcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Zmlyc3Qtc3RhcnQtY3BvcyA6ZmluZ2VyL3N0YXJ0LWNwb3MKICAgICAgICAgZmlyc3QtY3VyLWNwb3MgOmZpbmdlci9jdXItY3Bvc30gKGRiLWdldC90b3VjaC1maW5nZXIgZWZmZWN0cyBmaXJzdC1pbmRleCkKICAgICAgICB7c2Vjb25kLXN0YXJ0LWNwb3MgOmZpbmdlci9zdGFydC1jcG9zCiAgICAgICAgIHNlY29uZC1jdXItY3BvcyA6ZmluZ2VyL2N1ci1jcG9zfSAoZGItZ2V0L3RvdWNoLWZpbmdlciBlZmZlY3RzIGZpcnN0LWluZGV4KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpjdXItY3BvcyAgIGN1ci1jcG9zCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>:touch/gesture-maps {new-gesture new-gesture-map
-                                                      gesture     gesture-map}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBmaXJlLWxhc3QtZ2VzdHVyZSBsYXN0LWdlc3R1cmUgZmlyZS1nZXN0dXJlIGdlc3R1cmUgdG91Y2gpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbbGFzdC1nZXN0dXJlIGxhc3QtZ2VzdHVyZS1tYXBdICh3aGVuICgjezp0b3VjaC9kcmFnIDp0b3VjaC96b29tfSBnZXN0dXJlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbZ2VzdHVyZSBnZXN0dXJlLW1hcF0pCg==</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImdlc3R1cmUtbWFwIiBnZXN0dXJlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHs6ZmluZ2VyL2tleXMgW21vdmVkP119IChkYi1nZXQvdG91Y2gtZmluZ2VyIGVmZmVjdHMtd2l0aC1maW5nZXIgMCkK</text>
+        <text encoding="base64">ICAgICAgICAgIG1vZGUgKGRiLWdldC9tb2RlIGVmZmVjdHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV2ZW50LXR5cGUgKGlmIG1vdmVkPyA6dG91Y2gvZHJhZyA6dG91Y2gvdGFwKQo=</text>
+        <text encoding="base64">ICAgICJoYW1tZXJqcyI6ICJeMi4wLjgiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Zmlyc3Qtc3RhcnQtY3BvcyA6ZmluZ2VyL3N0YXJ0LWNwb3MKICAgICAgICAgZmlyc3QtY3VyLWNwb3MgOmZpbmdlci9jdXItY3Bvc30gKGRiLWdldC90b3VjaC1maW5nZXIgZWZmZWN0cyBmaXJzdC1pbmRleCkKICAgICAgICB7c2Vjb25kLXN0YXJ0LWNwb3MgOmZpbmdlci9zdGFydC1jcG9zCiAgICAgICAgIHNlY29uZC1jdXItY3BvcyA6ZmluZ2VyL2N1ci1jcG9zfSAoZGItZ2V0L3RvdWNoLWZpbmdlciBlZmZlY3RzIGZpcnN0LWluZGV4KQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">OmNhbnZhcy95Cg==</text>
+      <register name="9" type="4">
+        <text>:touch/gesture-maps {new-gesture new-gesture-map
+                                                      gesture     gesture-map}</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
