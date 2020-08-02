@@ -161,6 +161,12 @@
         <mark key="^" line="233" column="26" />
         <mark key="." line="233" column="25" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1596374589236">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="118" column="75" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_canvas.cljs" timestamp="1596300988618">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -188,11 +194,11 @@
         <mark key="^" line="106" column="32" />
         <mark key="." line="106" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" timestamp="1596297008315">
-        <mark key="[" line="54" column="25" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="18" />
-        <mark key="^" line="25" column="19" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" timestamp="1596375344122">
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="24" />
+        <mark key="^" line="53" column="25" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/attachments.cljs" timestamp="1596297288253">
         <mark key="[" line="180" column="72" />
@@ -223,12 +229,6 @@
         <mark key="]" line="106" column="19" />
         <mark key="^" line="106" column="19" />
         <mark key="." line="106" column="18" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/map.cljs" timestamp="1596296898277">
-        <mark key="[" line="52" column="25" />
-        <mark key="]" line="53" column="20" />
-        <mark key="^" line="53" column="20" />
-        <mark key="." line="53" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1596301616153">
         <mark key="[" line="0" column="0" />
@@ -370,7 +370,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHs6ZmluZ2VyL2tleXMgW21vdmVkP119IChkYi1nZXQvdG91Y2gtZmluZ2VyIGVmZmVjdHMtd2l0aC1maW5nZXIgMCkK</text>
       </register>
       <register name="-" type="4">
         <text>upd</text>
@@ -382,31 +382,31 @@
         <text encoding="base64">eGhyLm9ucmVhZHlzdGF0ZWNoYW5nZSA9IGZ1bmN0aW9uICgpIHsKICBpZiAoeGhyLnJlYWR5U3RhdGUgPT09IDQgJiYgeGhyLnN0YXR1cyA9PT0gMjAwKSB7CiAgfQp9Owp4aHIuc2VuZCgpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHs6ZmluZ2VyL2tleXMgW21vdmVkP119IChkYi1nZXQvdG91Y2gtZmluZ2VyIGVmZmVjdHMtd2l0aC1maW5nZXIgMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OmNhbnZhcy95Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV2ZW50LXR5cGUgKGlmIG1vdmVkPyA6dG91Y2gvZHJhZyA6dG91Y2gvdGFwKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OmNhbnZhcy94Cg==</text>
+        <text encoding="base64">OmNhbnZhcy95Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA6Y2FudmFzL3kgeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOmNhbnZhcy95IHkK</text>
+        <text encoding="base64">OmNhbnZhcy94Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6Y2FudmFzL3kgbmV3LXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA6Y2FudmFzL3kgeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6Y2FudmFzL3kgdW5pdC15Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOmNhbnZhcy95IHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLnBhdGhzLmF0ZSA6YXMgcGF0aHMtdXBkYXRlXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6Y2FudmFzL3kgbmV3LXkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
