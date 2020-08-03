@@ -195,11 +195,11 @@
         <mark key="^" line="76" column="56" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" timestamp="1596475413820">
-        <mark key="[" line="130" column="20" />
-        <mark key="]" line="130" column="57" />
-        <mark key="." line="130" column="56" />
-        <mark key="^" line="130" column="57" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" timestamp="1596476457710">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="176" column="35" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/events.cljs" timestamp="1596474312405">
         <mark key="[" line="9" column="0" />
@@ -373,7 +373,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmNhbnZhcy5jb3JlIDphcyBjYW52YXNdCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBpbmRleGVzIGZpbmdlcnMgKG5vdC1hbnk/IDpmaW5nZXIvbW92ZWQ/IGZpbmdlcnMpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>zero? num-fingers</text>
@@ -385,16 +385,16 @@
         <text encoding="base64">ICAgICAgICB7Zmlyc3Qtc3RhcnQtY3BvcyA6ZmluZ2VyL3N0YXJ0LWNwb3MKICAgICAgICAgZmlyc3QtY3VyLWNwb3MgOmZpbmdlci9jdXItY3Bvc30gKGRiLWdldC90b3VjaC1maW5nZXIgZWZmZWN0cyBmaXJzdC1pbmRleCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmNhbnZhcy5jb3JlIDphcyBjYW52YXNdCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBpbmRleGVzIGZpbmdlcnMgKG5vdC1hbnk/IDpmaW5nZXIvbW92ZWQ/IGZpbmdlcnMpKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmNhbnZhcy5jb3JlIDphcyBjYW52YXNdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZGIudXBkYXRlIDphcyBkYi11cGRhdGVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmNhbnZhcy5jb3JlIDphcyBjYW52YXNdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmNhbnZhcy5jb3JlIDphcyBjYW52YXNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZGIudXBkYXRlIDphcyBkYi11cGRhdGVdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmNhbnZhcy5jb3JlIDphcyBjYW52YXNdCg==</text>
