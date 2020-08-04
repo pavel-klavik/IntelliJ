@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Margin</entry>
         <entry>:dding</entry>
         <entry>pending</entry>
         <entry>dialogs</entry>
@@ -25,6 +24,7 @@
         <entry>mouse-pos</entry>
         <entry>:mouse\/click</entry>
         <entry>init</entry>
+        <entry>move</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
@@ -149,7 +149,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/core.cljs" timestamp="1596562775713">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/core.cljs" timestamp="1596584327415">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -166,9 +166,6 @@
         <mark key="]" line="179" column="84" />
         <mark key="." line="179" column="83" />
         <mark key="^" line="179" column="84" />
-      </file>
-      <file name="/" timestamp="1596483070530">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/resources/public/app.html" timestamp="1596565109306">
         <mark key="[" line="19" column="74" />
@@ -194,17 +191,20 @@
         <mark key="." line="44" column="71" />
         <mark key="^" line="44" column="72" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/core.cljs" timestamp="1596584498440">
+        <mark key="'" line="50" column="18" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" timestamp="1596584532612">
+        <mark key="'" line="123" column="45" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="99" column="44" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1596562790099">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1596481060692" />
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/ops.clj" timestamp="1596481224822">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="33" column="98" />
-        <mark key="^" line="33" column="98" />
-        <mark key="." line="33" column="97" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/common/touch.cljs" timestamp="1596554611381">
         <mark key="[" line="12" column="7" />
@@ -212,12 +212,15 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/canvas.cljs" timestamp="1596582699297">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/canvas.cljs" timestamp="1596583655167">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="27" column="2" />
-        <mark key="]" line="27" column="65" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="37" column="0" />
         <mark key="." line="27" column="64" />
         <mark key="^" line="27" column="65" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/util.cljs" timestamp="1596584509399">
+        <mark key="[" line="42" column="10" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/core.cljs" timestamp="1596582610252">
         <mark key="[" line="81" column="6" />
@@ -237,7 +240,7 @@
         <mark key="^" line="45" column="92" />
         <mark key="." line="45" column="91" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596495628985">
+      <file name="/Dummy.txt" timestamp="1596582737340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/common/zoom.cljs" timestamp="1596556872518">
@@ -248,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="68" filename="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" />
       <jump line="5" column="30" filename="C:/Shared/orgpad/src/orgpad/server/handler/user.clj" />
       <jump line="42" column="32" filename="C:/Shared/orgpad/project.clj" />
       <jump line="51" column="32" filename="C:/Shared/orgpad/project.clj" />
@@ -348,54 +350,52 @@
       <jump line="59" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
       <jump line="33" column="2" filename="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" />
       <jump line="30" column="0" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/canvas.cljs" />
+      <jump line="59" column="18" filename="C:/Shared/orgpad/src/orgpad/client/events/unit/core.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(js/console.log &quot;up/handle :gesture/drag&quot; start-cpos cur-cpos velocity scaled-velocity
-                    (geom/vec- (geom/vec+ cur-cpos scaled-velocity) start-cpos)
-                    (db-get/canvas effects)
-                    (db-get/canvas (canvas-camera/move-by effects (geom/vec- (geom/vec+ cur-cpos scaled-velocity) start-cpos))))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLnVuaXQuY29yZSA6YXMgdW5pdF0K</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>move</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImhhbmRsZS10b3VjaC1lbmQiIGpzLWV2ZW50KQo=</text>
+        <text encoding="base64">KGRlZm1ldGhvZCB1cC9oYW5kbGUgWzpnZXN0dXJlL2RyYWcgOm9yZ3BhZ2UvY2FudmFzIDptb2RlL2FsbCA6bW9kaWZpZXIvYWxsXQogIFtlZmZlY3RzIF8gXyBfIF8gX10KICAobGV0IFt7Omdlc3R1cmUva2V5cyBbc3RhcnQtY3BvcyBjdXItY3BvcyB2ZWxvY2l0eV19IChkYi1nZXQvZ2VzdHVyZSBlZmZlY3RzKQogICAgICAgIHNjYWxlZC12ZWxvY2l0eSAod2hlbiB2ZWxvY2l0eSAoZ2VvbS92ZWMqIHZlbG9jaXR5IDAuMSkpXQogICAgezp1cGRhdGVkLWVmZmVjdHMgKGNhbnZhcy1jYW1lcmEvbW92ZS1ieSBlZmZlY3RzIChnZW9tL3ZlYy0gKGdlb20vdmVjKyBjdXItY3BvcyBzY2FsZWQtdmVsb2NpdHkpIHN0YXJ0LWNwb3MpKQogICAgIDpjb25zdW1lLWNsaWNrICAgdHJ1ZX0pKQoKKGRlZm1ldGhvZCB1cC9oYW5kbGUgWzpnZXN0dXJlL3pvb20gOm9yZ3BhZ2UvY2FudmFzIDptb2RlL2FsbCA6bW9kaWZpZXIvYWxsXQogIFtlZmZlY3RzIF8gXyBfIF8gX10KICAobGV0IFt7Onpvb20va2V5cyBbZGlmZiBwcmVzZXJ2ZWQtcG9zIHNjYWxlXX0gKGNvbW1vbi10b3VjaC96b29tLT5kaWZmLWFuZC1zY2FsZSAoZGItZ2V0L2dlc3R1cmUgZWZmZWN0cykpXQogICAgezp1cGRhdGVkLWVmZmVjdHMgKC0+IGVmZmVjdHMgKGNhbnZhcy1jYW1lcmEvbW92ZS1ieSBkaWZmKQogICAgICAgICAgICAgICAgICAgICAgICAgIChjYW52YXMtY2FtZXJhL3NjYWxlLXpvb20gc2NhbGUgcHJlc2VydmVkLXBvcykpCiAgICAgOmNvbnN1bWUtY2xpY2sgICB0cnVlfSkpCgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLnVuaXQuY29yZSA6YXMgdW5pdF0K</text>
+      </register>
+      <register name="2" type="4">
         <text>(js/console.log &quot;up/handle :gesture/drag&quot; start-cpos cur-cpos velocity scaled-velocity
                     (geom/vec- (geom/vec+ cur-cpos scaled-velocity) start-cpos)
                     (db-get/canvas effects)
                     (db-get/canvas (canvas-camera/move-by effects (geom/vec- (geom/vec+ cur-cpos scaled-velocity) start-cpos))))</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgIjp0b3VjaC9lbmQiICh0b3VjaC1tYXAganMtZXZlbnQpKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImhhbmRsZS10b3VjaC1lbmQiIGpzLWV2ZW50KQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnRvdWNoL2VuZCIgdG91Y2gtbWFwKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOmNhbnZhcy90b3VjaC1zdGFydCIgdG91Y2gtbWFwKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInByb2Nlc3MtdG91Y2gtZXZlbnQiIHRvdWNoLW1hcCkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">KGRlZiBeOnByaXZhdGUgem9vbS1sZXZlbHMtYmVsb3ctb25lIDE0NDApCihkZWYgXjpwcml2YXRlIHpvb20tbGV2ZWxzLWFib3ZlLW9uZSAxMDA3KQooZGVmIF46cHJpdmF0ZSB6b29tLWxldmVsLW11bHRpcGxpZXIgMS4wMDE2KQoKKGRlZiBeOnByaXZhdGUgem9vbS1sZXZlbHMKICAiQWxsIHBvc3NpYmxlIHpvb20gbGV2ZWxzLiIKICAoaW50byBbXSAoY29uY2F0IChyZXZlcnNlICh0YWtlIChpbmMgem9vbS1sZXZlbHMtYmVsb3ctb25lKSAoaXRlcmF0ZSAjKC8gJSB6b29tLWxldmVsLW11bHRpcGxpZXIpIDEpKSkKICAgICAgICAgICAgICAgICAgIChkcm9wIDEgKHRha2UgKGluYyB6b29tLWxldmVscy1hYm92ZS1vbmUpIChpdGVyYXRlICMoKiAlIHpvb20tbGV2ZWwtbXVsdGlwbGllcikgMSkpKSkpKQooZGVmIF46cHJpdmF0ZSBtaW4tem9vbS1sZXZlbCAoYXBwbHkgbWluIHpvb20tbGV2ZWxzKSkKKGRlZiBeOnByaXZhdGUgbWF4LXpvb20tbGV2ZWwgKGFwcGx5IG1heCB6b29tLWxldmVscykpCgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydC1kaXN0YW5jZSAoYXBwbHkgZ2VvbS9kaXN0IHN0YXJ0LWNwb3NlcykKICAgICAgICBlbmQtZGlzdGFuY2UgKGFwcGx5IGdlb20vZGlzdCBjdXItY3Bvc2VzKQogICAgICAgIHN0YXJ0LXBvcyAoZ2VvbS9saW5lLXBvaW50IHN0YXJ0LWNwb3NlcyAwLjUpCiAgICAgICAgZW5kLXBvcyAoZ2VvbS9saW5lLXBvaW50IGN1ci1jcG9zZXMgMC41KQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICA6dXBkYXRlZC1lZmZlY3RzICgtPiBlZmZlY3RzIChjYW52YXMtY2FtZXJhL21vdmUtYnkgKQogICAgICAgICAgICAgICAgICAgICAgICAgIChjYW52YXMtY2FtZXJhL3NjYWxlLXpvb20gIGVuZC1wb3MpKQogICAgIDpjb25zdW1lLWNsaWNrICAgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydC1kaXN0YW5jZSAoYXBwbHkgZ2VvbS9kaXN0IHN0YXJ0LWNwb3NlcykKICAgICAgICBlbmQtZGlzdGFuY2UgKGFwcGx5IGdlb20vZGlzdCBjdXItY3Bvc2VzKQogICAgICAgIHN0YXJ0LXBvcyAoZ2VvbS9saW5lLXBvaW50IHN0YXJ0LWNwb3NlcyAwLjUpCiAgICAgICAgZW5kLXBvcyAoZ2VvbS9saW5lLXBvaW50IGN1ci1jcG9zZXMgMC41KQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -404,9 +404,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>init</last-search>
+      <last-search>move</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern>move</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
