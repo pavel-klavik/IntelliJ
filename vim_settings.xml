@@ -149,11 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/core.cljs" timestamp="1596584327415">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/touch.cljs" timestamp="1596555068267">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="17" column="43" />
@@ -172,17 +167,8 @@
         <mark key="^" line="19" column="93" />
         <mark key="." line="19" column="92" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/mouse_down.cljs" timestamp="1596552307995">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" timestamp="1596585612781">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" timestamp="1596587952199">
         <mark key="'" line="33" column="2" />
-        <mark key="[" line="67" column="46" />
-        <mark key="]" line="68" column="45" />
-        <mark key="." line="68" column="44" />
-        <mark key="^" line="68" column="45" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/camera.cljs" timestamp="1596556922402">
         <mark key="[" line="44" column="17" />
@@ -195,12 +181,6 @@
         <mark key="]" line="72" column="52" />
         <mark key="^" line="72" column="52" />
         <mark key="." line="72" column="51" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/core.cljs" timestamp="1596585555152">
-        <mark key="'" line="50" column="18" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" timestamp="1596584532612">
         <mark key="'" line="123" column="45" />
@@ -220,41 +200,13 @@
         <mark key="^" line="14" column="43" />
         <mark key="." line="14" column="42" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/common/touch.cljs" timestamp="1596554611381">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="10" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/canvas.cljs" timestamp="1596583655167">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="27" column="64" />
-        <mark key="^" line="27" column="65" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/util.cljs" timestamp="1596584509399">
-        <mark key="[" line="42" column="10" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/core.cljs" timestamp="1596582610252">
-        <mark key="[" line="81" column="6" />
-        <mark key="]" line="81" column="89" />
-        <mark key="." line="81" column="88" />
-        <mark key="^" line="81" column="89" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1596582676234">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="66" column="21" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/util.cljs" timestamp="1596552015684">
-        <mark key="[" line="45" column="2" />
-        <mark key="]" line="45" column="92" />
-        <mark key="^" line="45" column="92" />
-        <mark key="." line="45" column="91" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596582737340">
+      <file name="/Dummy.txt" timestamp="1596588266496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/common/zoom.cljs" timestamp="1596556872518">
@@ -370,7 +322,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKC5wcmV2ZW50RGVmYXVsdCAlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -382,34 +334,34 @@
         <text encoding="base64">KGRlZm1ldGhvZCB1cC9oYW5kbGUgWzpnZXN0dXJlL2RyYWcgOm9yZ3BhZ2UvY2FudmFzIDptb2RlL2FsbCA6bW9kaWZpZXIvYWxsXQogIFtlZmZlY3RzIF8gXyBfIF8gX10KICAobGV0IFt7Omdlc3R1cmUva2V5cyBbc3RhcnQtY3BvcyBjdXItY3BvcyB2ZWxvY2l0eV19IChkYi1nZXQvZ2VzdHVyZSBlZmZlY3RzKQogICAgICAgIHNjYWxlZC12ZWxvY2l0eSAod2hlbiB2ZWxvY2l0eSAoZ2VvbS92ZWMqIHZlbG9jaXR5IDAuMSkpXQogICAgezp1cGRhdGVkLWVmZmVjdHMgKGNhbnZhcy1jYW1lcmEvbW92ZS1ieSBlZmZlY3RzIChnZW9tL3ZlYy0gKGdlb20vdmVjKyBjdXItY3BvcyBzY2FsZWQtdmVsb2NpdHkpIHN0YXJ0LWNwb3MpKQogICAgIDpjb25zdW1lLWNsaWNrICAgdHJ1ZX0pKQoKKGRlZm1ldGhvZCB1cC9oYW5kbGUgWzpnZXN0dXJlL3pvb20gOm9yZ3BhZ2UvY2FudmFzIDptb2RlL2FsbCA6bW9kaWZpZXIvYWxsXQogIFtlZmZlY3RzIF8gXyBfIF8gX10KICAobGV0IFt7Onpvb20va2V5cyBbZGlmZiBwcmVzZXJ2ZWQtcG9zIHNjYWxlXX0gKGNvbW1vbi10b3VjaC96b29tLT5kaWZmLWFuZC1zY2FsZSAoZGItZ2V0L2dlc3R1cmUgZWZmZWN0cykpXQogICAgezp1cGRhdGVkLWVmZmVjdHMgKC0+IGVmZmVjdHMgKGNhbnZhcy1jYW1lcmEvbW92ZS1ieSBkaWZmKQogICAgICAgICAgICAgICAgICAgICAgICAgIChjYW52YXMtY2FtZXJhL3NjYWxlLXpvb20gc2NhbGUgcHJlc2VydmVkLXBvcykpCiAgICAgOmNvbnN1bWUtY2xpY2sgICB0cnVlfSkpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKC5wcmV2ZW50RGVmYXVsdCAlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJVbml0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJVbml0IikK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLnVuaXQuY29yZSA6YXMgdW5pdF0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>(js/console.log &quot;up/handle :gesture/drag&quot; start-cpos cur-cpos velocity scaled-velocity
                     (geom/vec- (geom/vec+ cur-cpos scaled-velocity) start-cpos)
                     (db-get/canvas effects)
                     (db-get/canvas (canvas-camera/move-by effects (geom/vec- (geom/vec+ cur-cpos scaled-velocity) start-cpos))))</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgIjp0b3VjaC9lbmQiICh0b3VjaC1tYXAganMtZXZlbnQpKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImhhbmRsZS10b3VjaC1lbmQiIGpzLWV2ZW50KQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnRvdWNoL2VuZCIgdG91Y2gtbWFwKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOmNhbnZhcy90b3VjaC1zdGFydCIgdG91Y2gtbWFwKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInByb2Nlc3MtdG91Y2gtZXZlbnQiIHRvdWNoLW1hcCkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOmNhbnZhcy90b3VjaC1zdGFydCIgdG91Y2gtbWFwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
