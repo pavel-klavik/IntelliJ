@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pending</entry>
         <entry>dialogs</entry>
         <entry>dialog</entry>
         <entry>firefox</entry>
@@ -25,6 +24,7 @@
         <entry>init</entry>
         <entry>move</entry>
         <entry>remove-finger</entry>
+        <entry>landing\/target</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
@@ -180,20 +180,14 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="28" column="30" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1596628023746">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="66" column="21" />
-      </file>
       <file name="/REPL.clj" timestamp="1596666800011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" timestamp="1596671301248">
-        <mark key="[" line="128" column="31" />
-        <mark key="]" line="128" column="26" />
-        <mark key="^" line="128" column="26" />
-        <mark key="." line="128" column="25" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" timestamp="1596674656271">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="51" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/render.cljs" timestamp="1596629324939">
         <mark key="[" line="85" column="6" />
@@ -207,6 +201,7 @@
         <mark key="^" line="14" column="43" />
         <mark key="." line="14" column="42" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/landing/config.cljc" timestamp="1596674602600" />
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/util.cljs" timestamp="1596629588804">
         <mark key="[" line="47" column="4" />
         <mark key="]" line="47" column="51" />
@@ -219,7 +214,7 @@
         <mark key="^" line="50" column="98" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596629656348">
+      <file name="/Dummy.txt" timestamp="1596674662085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/REPL.txt" timestamp="1596666800016">
@@ -242,17 +237,15 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/project.clj" timestamp="1596671822939">
-        <mark key="[" line="78" column="49" />
-        <mark key="]" line="78" column="46" />
-        <mark key="^" line="78" column="46" />
-        <mark key="." line="78" column="45" />
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1596674518045">
+        <mark key="'" line="101" column="51" />
+        <mark key="[" line="78" column="31" />
+        <mark key="]" line="78" column="30" />
+        <mark key="^" line="78" column="30" />
+        <mark key="." line="78" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="32" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="51" column="32" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
       <jump line="20" column="45" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
@@ -350,48 +343,51 @@
       <jump line="30" column="0" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/canvas.cljs" />
       <jump line="59" column="18" filename="C:/Shared/orgpad/src/orgpad/client/events/unit/core.cljs" />
       <jump line="120" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" />
+      <jump line="68" column="0" filename="C:/Shared/orgpad/project.clj" />
+      <jump line="78" column="32" filename="C:/Shared/orgpad/project.clj" />
+      <jump line="101" column="51" filename="C:/Shared/orgpad/project.clj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyJAbWF0ZXJpYWwtdWkvY29yZS9zdHlsZXMiIDpyZWZlciBbY3JlYXRlTXVpVGhlbWUgd2l0aFN0eWxlc11dCiAgICAgICAgICAgIFsiQG1hdGVyaWFsLXVpL3N0eWxlcy9UaGVtZVByb3ZpZGVyIiA6ZGVmYXVsdCBUaGVtZVByb3ZpZGVyXQogICAgICAgICAgICBbIkBtYXRlcmlhbC11aS9jb3JlL2NvbG9ycyIgOmFzIG11aS1jb2xvcnNdCiAgICAgICAgICAgIFsiQG1hdGVyaWFsLXVpL2NvcmUvQ3NzQmFzZWxpbmUiIDpkZWZhdWx0IENzc0Jhc2VsaW5lXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDpzaXRlL2ludHJvICAgICAgICAgICAgICAgICAgIChsYW5kaW5nLXBhZ2UgImludHJvLmh0bWwiKQogICAgICAgICAgOnNpdGUvcHJpdmFjeS1wb2xpY3kgICAgICAgICAgKGxhbmRpbmctcGFnZSAicHJpdmFjeS1wb2xpY3kuaHRtbCIpCiAgICAgICAgICA6c2l0ZS90ZXJtcy1hbmQtY29uZGl0aW9ucyAgICAobGFuZGluZy1wYWdlICJ0ZXJtcy1hbmQtY29uZGl0aW9ucy5odG1sIikK</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>remove-finger</text>
+        <text>landing\/target</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZm4tIGluaXQtdG91Y2gtZXZlbnQtaGFuZGxlcgogIFt7OmtleXMgW2RhdGFdIDphcyBhbmltLXByb3BzfSBjb21wb25lbnRdCiAgKGxldCBbZG9tLW5vZGUgKHItZG9tL2RvbS1ub2RlIGNvbXBvbmVudCldCiAgICAoLmFkZEV2ZW50TGlzdGVuZXIgZG9tLW5vZGUgInRvdWNoc3RhcnQiCiAgICAgICAgICAgICAgICAgICAgICAgKHBhcnRpYWwgdXRpbC91bml0LXRvdWNoLXN0YXJ0IGRhdGEgOnVuaXQvY29udGVudCkKICAgICAgICAgICAgICAgICAgICAgICAjanN7OnBhc3NpdmUgZmFsc2V9KSkpCgooZGVmbi0gYm9vawogIFthbmltLXByb3BzXQogIChyL2NyZWF0ZS1jbGFzcwogICAgezpjb21wb25lbnQtZGlkLW1vdW50IChwYXJ0aWFsIGluaXQtdG91Y2gtZXZlbnQtaGFuZGxlciBhbmltLXByb3BzKQogICAgIDpkaXNwbGF5LW5hbWUgICAgICAgICJib29rIgogICAgIDpyZWFnZW50LXJlbmRlciAgICAgIHJlbmRlci1ib29rfSkpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyJAbWF0ZXJpYWwtdWkvY29yZS9zdHlsZXMiIDpyZWZlciBbY3JlYXRlTXVpVGhlbWUgd2l0aFN0eWxlc11dCiAgICAgICAgICAgIFsiQG1hdGVyaWFsLXVpL3N0eWxlcy9UaGVtZVByb3ZpZGVyIiA6ZGVmYXVsdCBUaGVtZVByb3ZpZGVyXQogICAgICAgICAgICBbIkBtYXRlcmlhbC11aS9jb3JlL2NvbG9ycyIgOmFzIG11aS1jb2xvcnNdCiAgICAgICAgICAgIFsiQG1hdGVyaWFsLXVpL2NvcmUvQ3NzQmFzZWxpbmUiIDpkZWZhdWx0IENzc0Jhc2VsaW5lXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDpzaXRlL2ludHJvICAgICAgICAgICAgICAgICAgIChsYW5kaW5nLXBhZ2UgImludHJvLmh0bWwiKQogICAgICAgICAgOnNpdGUvcHJpdmFjeS1wb2xpY3kgICAgICAgICAgKGxhbmRpbmctcGFnZSAicHJpdmFjeS1wb2xpY3kuaHRtbCIpCiAgICAgICAgICA6c2l0ZS90ZXJtcy1hbmQtY29uZGl0aW9ucyAgICAobGFuZGluZy1wYWdlICJ0ZXJtcy1hbmQtY29uZGl0aW9ucy5odG1sIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZiBeOnByaXZhdGUgY3VzdG9tLXRoZW1lCiAgKGNyZWF0ZU11aVRoZW1lCiAgICAoY2xqLT5qcyB7OnBhbGV0dGUgezpwcmltYXJ5ICAgezptYWluICg6NjAwIChqcy0+Y2xqICguLWJsdWUgXmpzL011aS5Db2xvcnMgbXVpLWNvbG9ycykgOmtleXdvcmRpemUta2V5cyB0cnVlKSl9CiAgICAgICAgICAgICAgICAgICAgICAgIDpzZWNvbmRhcnkgezptYWluICg6NjAwIChqcy0+Y2xqICguLWdyZWVuIF5qcy9NdWkuQ29sb3JzIG11aS1jb2xvcnMpIDprZXl3b3JkaXplLWtleXMgdHJ1ZSkpfQogICAgICAgICAgICAgICAgICAgICAgICA6ZXJyb3IgICAgIHs6bWFpbiAoOjYwMCAoanMtPmNsaiAoLi1yZWQgXmpzL011aS5Db2xvcnMgbXVpLWNvbG9ycykgOmtleXdvcmRpemUta2V5cyB0cnVlKSl9fX0pKSkKCgooZGVmbiB0aGVtZS1wcm92aWRlcgogICJSb290IGNvbXBvbmVudCBmb3IgbWF0ZXJpYWwgZGVzaWduIHRoZW1lLiIKICBbXQogIFs6PiBUaGVtZVByb3ZpZGVyCiAgIHs6dGhlbWUgY3VzdG9tLXRoZW1lfQogICA7Wzo+ICh3aXRoLWN1c3RvbS1zdHlsZXMgKHIvcmVhY3RpZnktY29tcG9uZW50IHJvb3QpKV0KICAgW3Jvb3RdICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyhyL3JlYWN0aWZ5LWNvbXBvbmVudCByb290KQogICBdKQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDsocmVzb3VyY2Uvd3JhcC1yZXNvdXJjZSAibGFuZGluZy9wdWJsaWMiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDtbcm9vdC90aGVtZS1wcm92aWRlcl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgWyJAbWF0ZXJpYWwtdWkvY29yZS9zdHlsZXMiIDpyZWZlciBbY3JlYXRlTXVpVGhlbWUgd2l0aFN0eWxlc11dCiAgICAgICAgICAgIFsiQG1hdGVyaWFsLXVpL3N0eWxlcy9UaGVtZVByb3ZpZGVyIiA6ZGVmYXVsdCBUaGVtZVByb3ZpZGVyXQogICAgICAgICAgICBbIkBtYXRlcmlhbC11aS9jb3JlL2NvbG9ycyIgOmFzIG11aS1jb2xvcnNdCiAgICAgICAgICAgIFsiQG1hdGVyaWFsLXVpL2NvcmUvQ3NzQmFzZWxpbmUiIDpkZWZhdWx0IENzc0Jhc2VsaW5lXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDpzaXRlL2VkdSAgICAgICAgICAgICAgICAgICAgIChsYW5kaW5nLXBhZ2UgImVkdS5odG1sIikKICAgICAgICAgIDpzaXRlL2J1c2luZXNzICAgICAgICAgICAgICAgIChsYW5kaW5nLXBhZ2UgImJ1c2luZXNzLmh0bWwiKQogICAgICAgICAgOnNpdGUvYWJvdXQgICAgICAgICAgICAgICAgICAgKGxhbmRpbmctcGFnZSAiYWJvdXQuaHRtbCIpCg==</text>
+        <text encoding="base64">KGRlZiBeOnByaXZhdGUgY3VzdG9tLXRoZW1lCiAgKGNyZWF0ZU11aVRoZW1lCiAgICAoY2xqLT5qcyB7OnBhbGV0dGUgezpwcmltYXJ5ICAgezptYWluICg6NjAwIChqcy0+Y2xqICguLWJsdWUgXmpzL011aS5Db2xvcnMgbXVpLWNvbG9ycykgOmtleXdvcmRpemUta2V5cyB0cnVlKSl9CiAgICAgICAgICAgICAgICAgICAgICAgIDpzZWNvbmRhcnkgezptYWluICg6NjAwIChqcy0+Y2xqICguLWdyZWVuIF5qcy9NdWkuQ29sb3JzIG11aS1jb2xvcnMpIDprZXl3b3JkaXplLWtleXMgdHJ1ZSkpfQogICAgICAgICAgICAgICAgICAgICAgICA6ZXJyb3IgICAgIHs6bWFpbiAoOjYwMCAoanMtPmNsaiAoLi1yZWQgXmpzL011aS5Db2xvcnMgbXVpLWNvbG9ycykgOmtleXdvcmRpemUta2V5cyB0cnVlKSl9fX0pKSkKCgooZGVmbiB0aGVtZS1wcm92aWRlcgogICJSb290IGNvbXBvbmVudCBmb3IgbWF0ZXJpYWwgZGVzaWduIHRoZW1lLiIKICBbXQogIFs6PiBUaGVtZVByb3ZpZGVyCiAgIHs6dGhlbWUgY3VzdG9tLXRoZW1lfQogICA7Wzo+ICh3aXRoLWN1c3RvbS1zdHlsZXMgKHIvcmVhY3RpZnktY29tcG9uZW50IHJvb3QpKV0KICAgW3Jvb3RdICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyhyL3JlYWN0aWZ5LWNvbXBvbmVudCByb290KQogICBdKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDpmbGV4LXdyYXAgICAgICAgIChjb21tb24vaW1wb3J0YW50IDpub3dyYXApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDtbcm9vdC90aGVtZS1wcm92aWRlcl0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDpkaXNwbGF5ICAgICAgICAgIDpmbGV4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDpzaXRlL2VkdSAgICAgICAgICAgICAgICAgICAgIChsYW5kaW5nLXBhZ2UgImVkdS5odG1sIikKICAgICAgICAgIDpzaXRlL2J1c2luZXNzICAgICAgICAgICAgICAgIChsYW5kaW5nLXBhZ2UgImJ1c2luZXNzLmh0bWwiKQogICAgICAgICAgOnNpdGUvYWJvdXQgICAgICAgICAgICAgICAgICAgKGxhbmRpbmctcGFnZSAiYWJvdXQuaHRtbCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDp0ZXh0LWFsaWduICAgICAgIDpjZW50ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDpmbGV4LXdyYXAgICAgICAgIChjb21tb24vaW1wb3J0YW50IDpub3dyYXApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDpwYWRkaW5nICAgICAgICAgIFtbKHB4IDEwKSAocHggMzUpXV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDpkaXNwbGF5ICAgICAgICAgIDpmbGV4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAoanMvY29uc29sZS5sb2cgIjptb3VzZS1kb3duL2RyYWciIChnZW9tL3ZlYy0gY3VyLWNwb3Mgc3RhcnQtY3BvcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDp0ZXh0LWFsaWduICAgICAgIDpjZW50ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -400,9 +396,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>remove-finger</last-search>
+      <last-search>landing\/target</last-search>
       <last-offset />
-      <last-pattern>remove-finger</last-pattern>
+      <last-pattern>landing\/target</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
