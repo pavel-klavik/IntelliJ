@@ -162,6 +162,12 @@
         <mark key="^" line="129" column="58" />
         <mark key="." line="129" column="57" />
       </file>
+      <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1596821308968">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="28" column="44" />
+        <mark key="." line="28" column="43" />
+      </file>
       <file name="/REPL.clj" timestamp="1596817798679">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,7 +178,7 @@
         <mark key="^" line="207" column="74" />
         <mark key="." line="207" column="73" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1596818615398">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1596821055327">
         <mark key="[" line="39" column="43" />
         <mark key="]" line="39" column="45" />
         <mark key="^" line="39" column="45" />
@@ -320,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IDs6czMtdXJsICAgICAgICAgICAgICAgImh0dHA6Ly8xOTIuMTY4LjEuMTk0OjkwMDEiICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>(map first (take-while #(= (first %) (second %)) paired ))</text>
@@ -329,7 +335,7 @@
         <text>move-by</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvcmVzaXplLWlkcyAoaW50byAje30gbmV3LWNoaWxkLXVuaXQtaWRzKQo=</text>
+        <text encoding="base64">IDs6czMtdXJsICAgICAgICAgICAgICAgImh0dHA6Ly8xOTIuMTY4LjEuMTk0OjkwMDEiICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
