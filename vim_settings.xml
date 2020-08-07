@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>unit-buttons</entry>
         <entry>style</entry>
         <entry>mkdir</entry>
         <entry>site</entry>
@@ -25,6 +24,7 @@
         <entry>card</entry>
         <entry>edited</entry>
         <entry>hover</entry>
+        <entry>move-by</entry>
       </history-search>
       <history-cmd>
         <entry>orgpage/title</entry>
@@ -150,25 +150,44 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1596649471115" />
-      <file name="C:/Shared/orgpad/src/orgpad/landing/pages/intro.cljc" timestamp="1594909213820">
-        <mark key="[" line="46" column="28" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/core.cljs" timestamp="1596818112305">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="58" />
+        <mark key="^" line="30" column="58" />
+        <mark key="." line="30" column="57" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" timestamp="1596818171563">
+        <mark key="[" line="128" column="16" />
+        <mark key="]" line="129" column="58" />
+        <mark key="^" line="129" column="58" />
+        <mark key="." line="129" column="57" />
+      </file>
+      <file name="/REPL.clj" timestamp="1596817798679">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/camera.cljs" timestamp="1596818061250">
+        <mark key="'" line="128" column="17" />
+        <mark key="[" line="206" column="100" />
+        <mark key="]" line="207" column="74" />
+        <mark key="^" line="207" column="74" />
+        <mark key="." line="207" column="73" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/anim.cljs" timestamp="1596818615398">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="39" column="45" />
+        <mark key="." line="39" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1596647702884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/REPL.txt" timestamp="1594905844657">
+      <file name="/REPL.txt" timestamp="1596817798692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/administration.cljs" timestamp="1596647692983">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/landing/css/intro.clj" timestamp="1594932481872">
-        <mark key="[" line="123" column="16" />
-        <mark key="]" line="124" column="21" />
-        <mark key="." line="124" column="20" />
-        <mark key="^" line="124" column="21" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/touch.cljs" timestamp="1596647517333">
         <mark key="[" line="8" column="0" />
@@ -188,9 +207,14 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="44" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/core.cljs" timestamp="1596818138281">
+        <mark key="[" line="53" column="13" />
+        <mark key="]" line="53" column="61" />
+        <mark key="^" line="53" column="61" />
+        <mark key="." line="53" column="60" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="4" filename="C:/Shared/orgpad/src/orgpad/client/events/share_orgpage.cljs" />
       <jump line="87" column="21" filename="C:/Shared/orgpad/src/orgpad/client/events/share_orgpage.cljs" />
       <jump line="269" column="15" filename="C:/Shared/orgpad/src/orgpad/client/events/usergroups.cljs" />
       <jump line="73" column="59" filename="C:/Shared/orgpad/src/orgpad/css/orgpage/orgpage.clj" />
@@ -290,6 +314,7 @@
       <jump line="818" column="4" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
       <jump line="1046" column="20" filename="$USER_HOME$/.m2/repository/garden/garden/1.3.9/garden-1.3.9.jar!/garden/selectors.cljc" />
       <jump line="27" column="56" filename="C:/Shared/orgpad/src/orgpad/client/events/paths/update.cljs" />
+      <jump line="128" column="17" filename="C:/Shared/orgpad/src/orgpad/client/events/canvas/camera.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +326,7 @@
         <text>(map first (take-while #(= (first %) (second %)) paired ))</text>
       </register>
       <register name="/" type="4">
-        <text>hover</text>
+        <text>move-by</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvcmVzaXplLWlkcyAoaW50byAje30gbmV3LWNoaWxkLXVuaXQtaWRzKQo=</text>
@@ -340,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hover</last-search>
+      <last-search>move-by</last-search>
       <last-offset />
-      <last-pattern>hover</last-pattern>
+      <last-pattern>move-by</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
