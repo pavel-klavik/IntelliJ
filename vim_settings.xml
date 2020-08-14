@@ -41,12 +41,12 @@
         <entry>w;</entry>
         <entry>unit/parent-map</entry>
         <entry>w'</entry>
-        <entry>:wa</entry>
         <entry>a</entry>
         <entry>wva</entry>
         <entry>wma</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry>:wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,7 +149,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1596736383884">
+      <file name="/Dummy.txt" timestamp="1597417672781">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1596727166985">
