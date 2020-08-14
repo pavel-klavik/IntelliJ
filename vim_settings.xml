@@ -164,11 +164,11 @@
       <file name="/REPL.clj" timestamp="1597429296649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/share_orgpage.cljs" timestamp="1597434950922">
-        <mark key="[" line="65" column="61" />
-        <mark key="]" line="65" column="61" />
-        <mark key="^" line="65" column="61" />
-        <mark key="." line="65" column="60" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/share_orgpage.cljs" timestamp="1597436904488">
+        <mark key="[" line="74" column="44" />
+        <mark key="]" line="74" column="78" />
+        <mark key="^" line="74" column="78" />
+        <mark key="." line="74" column="77" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/panel.clj" timestamp="1597432572723">
         <mark key="[" line="62" column="45" />
@@ -176,8 +176,11 @@
         <mark key="." line="62" column="37" />
         <mark key="^" line="62" column="38" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1597433689523">
-        <mark key="[" line="2184" column="124" />
+      <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1597436373282">
+        <mark key="[" line="2223" column="124" />
+        <mark key="]" line="2244" column="4" />
+        <mark key="^" line="2244" column="4" />
+        <mark key="." line="2244" column="3" />
       </file>
       <file name="/REPL.txt" timestamp="1597429296650">
         <mark key="[" line="0" column="0" />
@@ -338,11 +341,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICM6aXRlbXs6aWQgICAgICA6c2lkZS1wYW5lbC9ob21lLWRpdmlkZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZGl2aWRlciB0cnVlfQo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFtvcmdwYWQuY2xpZW50LmV2ZW50cy5jYW52YXMuY29yZSA6YXMgY2FudmFzXQ==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>move</text>
