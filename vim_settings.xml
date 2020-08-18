@@ -45,8 +45,8 @@
         <entry>wva</entry>
         <entry>wma</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>:wa</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,6 +152,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1597746829104">
         <mark key="[" line="14" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/image_list.cljs" timestamp="1597747788078">
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+        <mark key="." line="29" column="46" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/dashboard.clj" timestamp="1596980078122">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -169,12 +175,6 @@
         <mark key="]" line="28" column="44" />
         <mark key="^" line="28" column="44" />
         <mark key="." line="28" column="43" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/core.cljs" timestamp="1596978594862">
-        <mark key="[" line="97" column="16" />
-        <mark key="]" line="94" column="19" />
-        <mark key="^" line="94" column="19" />
-        <mark key="." line="94" column="18" />
       </file>
       <file name="/REPL.clj" timestamp="1597088158644">
         <mark key="[" line="0" column="0" />
@@ -198,8 +198,11 @@
         <mark key="^" line="51" column="6" />
         <mark key="." line="51" column="5" />
       </file>
-      <file name="/" timestamp="1596813823978">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/attachments.cljs" timestamp="1597747916512">
+        <mark key="[" line="172" column="71" />
+        <mark key="]" line="167" column="41" />
+        <mark key="^" line="167" column="41" />
+        <mark key="." line="167" column="40" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" timestamp="1597417657763">
         <mark key="[" line="130" column="48" />
