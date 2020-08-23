@@ -44,8 +44,8 @@
         <entry>a</entry>
         <entry>wva</entry>
         <entry>wma</entry>
-        <entry>w</entry>
         <entry>:wa</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -149,7 +149,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1598220700832">
+      <file name="/Dummy.txt" timestamp="1598223131210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/logs.cljs" timestamp="1598053701406">
@@ -198,14 +198,17 @@
         <mark key="^" line="29" column="47" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1598220617904">
-        <mark key="[" line="89" column="16" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1598223095010">
+        <mark key="[" line="95" column="19" />
+        <mark key="]" line="95" column="19" />
+        <mark key="^" line="95" column="19" />
+        <mark key="." line="95" column="18" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/connection.clj" timestamp="1598220608750">
-        <mark key="[" line="3" column="62" />
-        <mark key="]" line="4" column="45" />
-        <mark key="^" line="4" column="45" />
-        <mark key="." line="4" column="44" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/connection.clj" timestamp="1598223029231">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="40" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" timestamp="1597417657763">
         <mark key="[" line="130" column="48" />
