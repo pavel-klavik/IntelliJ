@@ -149,12 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/switch.cljs" timestamp="1599243874988">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="38" />
-        <mark key="^" line="26" column="39" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/share_orgpage.cljs" timestamp="1599301735504">
         <mark key="[" line="189" column="90" />
         <mark key="]" line="194" column="92" />
@@ -176,8 +170,14 @@
       <file name="/REPL.txt" timestamp="1599310095657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1599413940766">
+      <file name="/" timestamp="1599478074676">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/sql/devices.sql" timestamp="1599478667468">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="47" />
+        <mark key="^" line="57" column="47" />
+        <mark key="." line="57" column="46" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/share/links.cljs" timestamp="1599302400076">
         <mark key="[" line="42" column="57" />
@@ -213,9 +213,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1599441886177" />
-      <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1599439772785">
-        <mark key="[" line="70" column="50" />
-        <mark key="]" line="71" column="41" />
+      <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1599477995730">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="38" />
         <mark key="^" line="71" column="41" />
         <mark key="." line="71" column="40" />
       </file>
@@ -326,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBDT0FMRVNDRShudW1faW1hZ2VzLCAwKSBBUyBudW1faW1hZ2VzLAo=</text>
+        <text encoding="base64">ICBDT0FMRVNDRShudW1fdW5pdHMsIDApIEFTIG51bV91bml0cywK</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -335,7 +335,7 @@
         <text>presentatations</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBDT0FMRVNDRShudW1faW1hZ2VzLCAwKSBBUyBudW1faW1hZ2VzLAo=</text>
+        <text encoding="base64">ICBDT0FMRVNDRShudW1fdW5pdHMsIDApIEFTIG51bV91bml0cywK</text>
       </register>
       <register name="1" type="4">
         <text>(boolean (#{:checkbox/indetermined-unchecked
