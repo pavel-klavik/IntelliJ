@@ -161,6 +161,12 @@
         <mark key="^" line="194" column="92" />
         <mark key="." line="194" column="91" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/common.cljs" timestamp="1599439657530">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="15" column="90" />
+        <mark key="^" line="15" column="90" />
+        <mark key="." line="15" column="89" />
+      </file>
       <file name="/REPL.txt" timestamp="1599310095657">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,7 +191,6 @@
         <mark key="^" line="84" column="56" />
         <mark key="." line="84" column="55" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/spinner.cljs" timestamp="1599241495973" />
       <file name="C:/Shared/orgpad/src/orgpad/server/db/permission.clj" timestamp="1599311143295">
         <mark key="[" line="114" column="63" />
       </file>
@@ -206,6 +211,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1599313435017">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1599439772785">
+        <mark key="[" line="70" column="50" />
+        <mark key="]" line="71" column="41" />
+        <mark key="^" line="71" column="41" />
+        <mark key="." line="71" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -313,9 +324,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>view-link (short-link/generate-full-link)
-        edit-link (short-link/generate-full-link)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBDT0FMRVNDRShudW1faW1hZ2VzLCAwKSBBUyBudW1faW1hZ2VzLAo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -323,9 +333,8 @@
       <register name="/" type="4">
         <text>presentatations</text>
       </register>
-      <register name="0" type="4">
-        <text>view-link (short-link/generate-full-link)
-        edit-link (short-link/generate-full-link)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBDT0FMRVNDRShudW1faW1hZ2VzLCAwKSBBUyBudW1faW1hZ2VzLAo=</text>
       </register>
       <register name="1" type="4">
         <text>(boolean (#{:checkbox/indetermined-unchecked
