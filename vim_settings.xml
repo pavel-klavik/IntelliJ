@@ -179,12 +179,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="168" column="42" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dialogs/feedback.cljs" timestamp="1599614048909">
-        <mark key="[" line="19" column="66" />
-        <mark key="]" line="19" column="66" />
-        <mark key="^" line="19" column="66" />
-        <mark key="." line="19" column="65" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/profile.cljs" timestamp="1599735217556">
         <mark key="[" line="33" column="20" />
         <mark key="]" line="33" column="28" />
@@ -224,6 +218,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/unit_buttons.cljs" timestamp="1599949511512">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="65" column="114" />
+        <mark key="." line="65" column="113" />
+        <mark key="^" line="65" column="114" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" timestamp="1599690946225">
         <mark key="'" line="123" column="8" />
         <mark key="[" line="129" column="0" />
@@ -241,12 +241,6 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" timestamp="1599703728388">
         <mark key="'" line="158" column="34" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/canvas/resize.cljs" timestamp="1599613795387">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="29" column="41" />
-        <mark key="^" line="29" column="41" />
-        <mark key="." line="29" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -355,10 +349,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>(defmethod up/handle [:event-type/click-or-tap :profile/save-public-profile-changes :mode/all :modifier/all]
-  [effects _ _ _ _ _]
-  {:updated-effects (profile/save-public-profile-changes effects)
-   :consume-click   true})</text>
+        <text encoding="base64">ICAgICAgICAgIHs6dW5pdC1lZGl0b3Iva2V5cyBbdW5pdC1pZF19IChkYi1nZXQvdW5pdC1lZGl0b3IgZWZmZWN0cykKICAgICAgICAgIHs6dW5pdC9rZXlzIFtwYXJlbnQtaWRdfSAoZGItZ2V0L3VuaXQgZWZmZWN0cyB1bml0LWlkKQo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -370,34 +361,34 @@
         <text encoding="base64">ICBDT0FMRVNDRShudW1fdW5pdHMsIDApIEFTIG51bV91bml0cywK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHs6dW5pdC1lZGl0b3Iva2V5cyBbdW5pdC1pZF19IChkYi1nZXQvdW5pdC1lZGl0b3IgZWZmZWN0cykKICAgICAgICAgIHs6dW5pdC9rZXlzIFtwYXJlbnQtaWRdfSAoZGItZ2V0L3VuaXQgZWZmZWN0cyB1bml0LWlkKQo=</text>
+      </register>
+      <register name="2" type="2">
         <text>(defmethod up/handle [:event-type/click-or-tap :profile/save-public-profile-changes :mode/all :modifier/all]
   [effects _ _ _ _ _]
   {:updated-effects (profile/save-public-profile-changes effects)
    :consume-click   true})</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICA6PC0gWzphZG1pbmlzdHJhdGlvbi91c2VyZ3JvdXBzXQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW3JpbmcudXRpbC5yZXNwb25zZSA6YXMgcmVzcG9uc2VdCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJyZXF1ZXN0IiAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgcmVxdWVzdCkpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9hdXRoMi9yZWRpcmVjdC1vbi1mYi1hbmQtZ29vZ2xlLWxvZ2luLWZhaWx1cmUK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAobG9nL2luZm8gInJlc29sdmUtZmIgIiAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgcmVxdWVzdCkpKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIChsb2cvaW5mbyAicmVzb2x2ZS1mYiIgKHdpdGgtb3V0LXN0ciAoY2xvanVyZS5wcHJpbnQvcHByaW50IHJlc3BvbnNlKSkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZ2V0LW9yZ3BhZ2UtbG9ncyA6PyA6KgotLSA6ZG9jIGdldHMgYWxsIGxvZ3Mgb2YgYSBnaXZlbiBPcmdwYWdlClNFTEVDVCAqIEZST00gbG9ncwpXSEVSRSBvcmdwYWdlX2lkID0gOm9yZ3BhZ2VfaWQKCi0tIDpuYW1lIGdldC1kZXZpY2UtbG9ncyA6PyA6KgotLSA6ZG9jIGdldHMgYWxsIGxvZ3Mgb2YgYSBnaXZlbiBkZXZpY2UKU0VMRUNUICogRlJPTSBsb2dzCldIRVJFIGRldmljZV9pZCA9IDpkZXZpY2VfaWQKCi0tIDpuYW1lIGdldC11c2VyLW9yZ3BhZ2UtbG9ncyA6PyA6KgotLSA6ZG9jIGdldHMgYWxsIGxvZ3Mgb2YgYSBnaXZlbiB1c2VyIGFuZCBPcmdwYWdlClNFTEVDVCAqIEZST00gbG9ncwpXSEVSRSB1c2VyX2lkID0gOnVzZXJfaWQgQU5EIG9yZ3BhZ2VfaWQgPSA6b3JncGFnZV9pZAoKLS0gOm5hbWUgZ2V0LXVzZXItZGV2aWNlLWxvZ3MgOj8gOioKLS0gOmRvYyBnZXRzIGFsbCBsb2dzIG9mIGEgZ2l2ZW4gdXNlciBhbmQgZGV2aWNlClNFTEVDVCAqIEZST00gbG9ncwpXSEVSRSB1c2VyX2lkID0gOnVzZXJfaWQgQU5EIGRldmljZV9pZCA9IDpkZXZpY2VfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
