@@ -170,12 +170,6 @@
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/link_editor.clj" timestamp="1599992616058">
         <mark key="[" line="5" column="28" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/profile.cljs" timestamp="1599735179359">
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="35" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/side_panel.clj" timestamp="1599960419905">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="19" column="32" />
@@ -195,9 +189,6 @@
         <mark key="^" line="24" column="60" />
         <mark key="." line="24" column="59" />
       </file>
-      <file name="/REPL.clj" timestamp="1599951670096">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/unit_editor.clj" timestamp="1599992518129">
         <mark key="[" line="9" column="57" />
       </file>
@@ -215,7 +206,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/REPL.txt" timestamp="1599951670099">
+      <file name="/REPL.txt" timestamp="1600260799857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/side_panel.cljs" timestamp="1599959180795">
@@ -224,11 +215,11 @@
         <mark key="^" line="42" column="47" />
         <mark key="." line="42" column="46" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" timestamp="1600260355842">
-        <mark key="[" line="94" column="33" />
-        <mark key="]" line="94" column="32" />
-        <mark key="^" line="94" column="32" />
-        <mark key="." line="94" column="31" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" timestamp="1600261625329">
+        <mark key="[" line="157" column="9" />
+        <mark key="]" line="183" column="36" />
+        <mark key="." line="183" column="35" />
+        <mark key="^" line="183" column="36" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" timestamp="1599870691435">
         <mark key="[" line="30" column="17" />
@@ -236,6 +227,7 @@
         <mark key="^" line="32" column="12" />
         <mark key="." line="32" column="11" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1600260832724" />
       <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/unit_buttons.cljs" timestamp="1599949511512">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="65" column="114" />
@@ -352,7 +344,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBzdHlsZS1zZWxlY3QtY2xvc2UtdGltZSAoc3lzdGVtLXRpbWUpIGp1c3QtY2xvc2VkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHByaW50bG4gdGFyZ2V0LXN0YXRzIGsgdikK</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -364,34 +356,34 @@
         <text encoding="base64">ICBDT0FMRVNDRShudW1fdW5pdHMsIDApIEFTIG51bV91bml0cywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBzdHlsZS1zZWxlY3QtY2xvc2UtdGltZSAoc3lzdGVtLXRpbWUpIGp1c3QtY2xvc2VkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHByaW50bG4gdGFyZ2V0LXN0YXRzIGsgdikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHs6dW5pdC1lZGl0b3Iva2V5cyBbdW5pdC1pZF19IChkYi1nZXQvdW5pdC1lZGl0b3IgZWZmZWN0cykKICAgICAgICAgIHs6dW5pdC9rZXlzIFtwYXJlbnQtaWRdfSAoZGItZ2V0L3VuaXQgZWZmZWN0cyB1bml0LWlkKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBzdHlsZS1zZWxlY3QtY2xvc2UtdGltZSAoc3lzdGVtLXRpbWUpIGp1c3QtY2xvc2VkKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHs6dW5pdC1lZGl0b3Iva2V5cyBbdW5pdC1pZF19IChkYi1nZXQvdW5pdC1lZGl0b3IgZWZmZWN0cykKICAgICAgICAgIHs6dW5pdC9rZXlzIFtwYXJlbnQtaWRdfSAoZGItZ2V0L3VuaXQgZWZmZWN0cyB1bml0LWlkKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text>(defmethod up/handle [:event-type/click-or-tap :profile/save-public-profile-changes :mode/all :modifier/all]
   [effects _ _ _ _ _]
   {:updated-effects (profile/save-public-profile-changes effects)
    :consume-click   true})</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICA6PC0gWzphZG1pbmlzdHJhdGlvbi91c2VyZ3JvdXBzXQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW3JpbmcudXRpbC5yZXNwb25zZSA6YXMgcmVzcG9uc2VdCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgKGxvZy9pbmZvICJyZXF1ZXN0IiAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgcmVxdWVzdCkpKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG9hdXRoMi9yZWRpcmVjdC1vbi1mYi1hbmQtZ29vZ2xlLWxvZ2luLWZhaWx1cmUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAobG9nL2luZm8gInJlc29sdmUtZmIgIiAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgcmVxdWVzdCkpKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChsb2cvaW5mbyAicmVzb2x2ZS1mYiIgKHdpdGgtb3V0LXN0ciAoY2xvanVyZS5wcHJpbnQvcHByaW50IHJlc3BvbnNlKSkpCg==</text>
+        <text encoding="base64">ICAobG9nL2luZm8gInJlc29sdmUtZmIgIiAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgcmVxdWVzdCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
