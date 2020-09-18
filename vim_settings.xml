@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mouse-down</entry>
         <entry>mouse-pos</entry>
         <entry>:mouse\/click</entry>
         <entry>init</entry>
@@ -25,6 +24,7 @@
         <entry>usergroups</entry>
         <entry>administration</entry>
         <entry>member</entry>
+        <entry>metrics</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
@@ -158,17 +158,18 @@
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/link_editor.clj" timestamp="1599992616058">
         <mark key="[" line="5" column="28" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/core.clj" timestamp="1600394620808">
-        <mark key="[" line="29" column="58" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="6" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/administration/core.clj" timestamp="1600427764083">
+        <mark key="[" line="31" column="62" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="30" />
+        <mark key="^" line="32" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1600397649687">
-        <mark key="[" line="215" column="48" />
-        <mark key="]" line="215" column="62" />
-        <mark key="^" line="215" column="62" />
-        <mark key="." line="215" column="61" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1600427963472">
+        <mark key="'" line="22" column="54" />
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="42" column="79" />
+        <mark key="^" line="42" column="79" />
+        <mark key="." line="42" column="78" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/side_panel.clj" timestamp="1599960419905">
         <mark key="[" line="19" column="31" />
@@ -236,11 +237,11 @@
       <file name="/REPL.txt" timestamp="1600351708074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" timestamp="1600397523260">
+      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" timestamp="1600427941447">
         <mark key="[" line="303" column="19" />
-        <mark key="]" line="302" column="47" />
-        <mark key="." line="302" column="46" />
-        <mark key="^" line="302" column="47" />
+        <mark key="]" line="299" column="45" />
+        <mark key="." line="299" column="44" />
+        <mark key="^" line="299" column="45" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1600260832724" />
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/orgpage.clj" timestamp="1599992596838">
@@ -248,8 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="19" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/share_orgpage.cljs" />
-      <jump line="5" column="47" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/share_orgpage.cljs" />
       <jump line="10" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/share_orgpage.cljs" />
       <jump line="15" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/share_orgpage.cljs" />
       <jump line="20" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/share_orgpage.cljs" />
@@ -348,6 +347,8 @@
       <jump line="157" column="7" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
       <jump line="158" column="34" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
       <jump line="12" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/orgpage/links/render.cljs" />
+      <jump line="77" column="0" filename="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" />
+      <jump line="22" column="54" filename="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -359,7 +360,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>member</text>
+        <text>metrics</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBDT0FMRVNDRShudW1fdW5pdHMsIDApIEFTIG51bV91bml0cywK</text>
@@ -398,9 +399,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>member</last-search>
+      <last-search>metrics</last-search>
       <last-offset />
-      <last-pattern>member</last-pattern>
+      <last-pattern>metrics</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
