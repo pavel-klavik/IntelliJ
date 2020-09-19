@@ -172,10 +172,6 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1600433450219">
         <mark key="'" line="22" column="54" />
-        <mark key="[" line="42" column="66" />
-        <mark key="]" line="42" column="82" />
-        <mark key="^" line="42" column="82" />
-        <mark key="." line="42" column="81" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/unit.clj" timestamp="1599993472883">
         <mark key="[" line="84" column="37" />
@@ -198,9 +194,6 @@
       </file>
       <file name="/REPL.clj" timestamp="1600433117357">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/unit_editor.clj" timestamp="1599992518129">
-        <mark key="[" line="9" column="57" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/render.cljs" timestamp="1599994114009">
         <mark key="[" line="88" column="3" />
@@ -243,6 +236,12 @@
         <mark key="]" line="309" column="5" />
         <mark key="." line="309" column="4" />
         <mark key="^" line="309" column="5" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/chart.cljs" timestamp="1600479258357">
+        <mark key="[" line="52" column="40" />
+        <mark key="]" line="52" column="38" />
+        <mark key="^" line="52" column="38" />
+        <mark key="." line="52" column="37" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1600260832724" />
       <file name="C:/Shared/orgpad/src/orgpad/css/orgpage/orgpage.clj" timestamp="1599992596838">
@@ -355,7 +354,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2NsamMuamF2YS10aW1lLmxvY2FsLWRhdGUtdGltZSA6YXMgdGltZS1sZHRdCg==</text>
+        <text encoding="base64">ICAgICAgICBbbWluLXkgbWF4LXkgZGlmZi15XSAoY29tcHV0ZS1heGlzIChtYXBjYXQgIygtPj4gJSA6c2VyaWUvdmFsdWVzIChtYXAgc2Vjb25kKSkgc2VyaWVzKSB5LWF4aXMpCg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -364,7 +363,7 @@
         <text>total</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBDT0FMRVNDRShudW1fdW5pdHMsIDApIEFTIG51bV91bml0cywK</text>
+        <text encoding="base64">ICAgICAgICBbbWluLXkgbWF4LXkgZGlmZi15XSAoY29tcHV0ZS1heGlzIChtYXBjYXQgIygtPj4gJSA6c2VyaWUvdmFsdWVzIChtYXAgc2Vjb25kKSkgc2VyaWVzKSB5LWF4aXMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW2NsamMuamF2YS10aW1lLmxvY2FsLWRhdGUtdGltZSA6YXMgdGltZS1sZHRdCg==</text>
