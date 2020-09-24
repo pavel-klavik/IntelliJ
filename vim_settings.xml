@@ -165,10 +165,11 @@
       <file name="/REPL.txt" timestamp="1600518028861">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1600910844236">
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="263" column="11" />
-        <mark key="." line="263" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1600912029148">
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="40" />
+        <mark key="." line="272" column="39" />
+        <mark key="^" line="272" column="40" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1600905136984">
         <mark key="[" line="23" column="0" />
@@ -188,8 +189,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="/REPL.clj" timestamp="1600909682879">
-        <mark key="[" line="0" column="25" />
+      <file name="/REPL.clj" timestamp="1600912115324">
+        <mark key="[" line="0" column="28" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/util/date.cljs" timestamp="1600518373931">
         <mark key="'" line="21" column="4" />
@@ -340,7 +341,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ImthY2thIgo=</text>
+        <text encoding="base64">InZpa3RvciIKInZpbmNlbnQiCiJ2aW5pY2l1cyIKInZpdCIKInZsYWRpbWlyIgoidmxhc3RpbWlsIgoidm9qdGEiCiJ2b2p0ZWNoIgo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -349,34 +350,36 @@
         <text>devices</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ImRlbmlzYSIKImRlbmlza2EiCg==</text>
+        <text encoding="base64">ICAgICJzYXJrYSIKICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ImthY2thIgo=</text>
+        <text encoding="base64">InZpa3RvciIKInZpbmNlbnQiCiJ2aW5pY2l1cyIKInZpdCIKInZsYWRpbWlyIgoidmxhc3RpbWlsIgoidm9qdGEiCiJ2b2p0ZWNoIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Imp1bGl1cyIKImp1cmEiCiJqdXJhaiIKImp1c3RpbiIK</text>
+        <text>&quot;алексей&quot;
+&quot;анатолий&quot;
+&quot;павел&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Imp1ZGl0YSIKImp1bGllIgo=</text>
+        <text encoding="base64">Inp1eiIKInp1emFuYSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJkaWVnbyIK</text>
+        <text encoding="base64">Inp1Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ImpvaG4iCiJqb2hubnkiCiJqb2hueSIKImpvbiIKImpvcmRhbiIKImpvc2UiCiJqb3NlZiIKImpvc2VwaCIKImpvemVmIgoianVhbiBkaWVnbyIK</text>
+        <text encoding="base64">InpoYW5nIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ImpvaGFuYSIK</text>
+        <text encoding="base64">Inpla2UiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ImpvZSIKImpvZWwiCiJqb2hhbiIK</text>
+        <text encoding="base64">InplIHlhbiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ImppdGthIgo=</text>
+        <text encoding="base64">InplIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ImppcmthIgo=</text>
+        <text encoding="base64">InouIgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
