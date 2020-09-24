@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>move</entry>
         <entry>remove-finger</entry>
         <entry>landing\/target</entry>
         <entry>+</entry>
@@ -25,6 +24,7 @@
         <entry>total</entry>
         <entry>devices</entry>
         <entry>arka</entry>
+        <entry>draw</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
@@ -187,6 +187,9 @@
         <mark key="^" line="260" column="50" />
         <mark key="." line="260" column="49" />
       </file>
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1600942811714">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" timestamp="1600904912044">
         <mark key="[" line="34" column="39" />
         <mark key="]" line="36" column="50" />
@@ -201,13 +204,6 @@
       </file>
       <file name="/REPL.clj" timestamp="1600940409925">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/date.cljs" timestamp="1600518373931">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="8" />
-        <mark key="^" line="24" column="8" />
-        <mark key="." line="24" column="7" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/css/widgets/chart.clj" timestamp="1600560509204">
         <mark key="[" line="55" column="6" />
@@ -245,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/side_panel.cljs" />
       <jump line="19" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" />
       <jump line="32" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" />
       <jump line="46" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" />
@@ -345,6 +340,7 @@
       <jump line="42" column="0" filename="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" />
       <jump line="267" column="27" filename="C:/Shared/orgpad/src/orgpad/server/db/user.clj" />
       <jump line="271" column="29" filename="C:/Shared/orgpad/src/orgpad/server/db/user.clj" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/project.clj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -356,7 +352,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>arka</text>
+        <text>draw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJzYXJrYSIKICAgIH0pCg==</text>
@@ -397,9 +393,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>arka</last-search>
+      <last-search>draw</last-search>
       <last-offset />
-      <last-pattern>arka</last-pattern>
+      <last-pattern>draw</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
