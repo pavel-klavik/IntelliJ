@@ -149,6 +149,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user_resource_data.clj" timestamp="1600978878556">
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="22" column="47" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="22" column="46" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/core.cljs" timestamp="1600686348473">
         <mark key="[" line="60" column="37" />
         <mark key="]" line="61" column="68" />
@@ -205,12 +211,6 @@
       <file name="/REPL.clj" timestamp="1600940409925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/chart.clj" timestamp="1600560509204">
-        <mark key="[" line="55" column="6" />
-        <mark key="]" line="55" column="40" />
-        <mark key="^" line="55" column="40" />
-        <mark key="." line="55" column="39" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/util/search.cljc" timestamp="1600940610250">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="8" />
@@ -238,6 +238,12 @@
         <mark key="]" line="102" column="98" />
         <mark key="^" line="102" column="98" />
         <mark key="." line="102" column="97" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1600978586223">
+        <mark key="[" line="160" column="40" />
+        <mark key="]" line="164" column="59" />
+        <mark key="^" line="164" column="59" />
+        <mark key="." line="164" column="58" />
       </file>
     </filemarks>
     <jumps>
