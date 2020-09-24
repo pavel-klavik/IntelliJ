@@ -149,11 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/user_resource_data.clj" timestamp="1600978982198">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="14" column="44" />
-        <mark key="^" line="14" column="44" />
-        <mark key="." line="14" column="43" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/user_resource_data.clj" timestamp="1600980530277">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="58" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/core.cljs" timestamp="1600686348473">
         <mark key="[" line="60" column="37" />
@@ -161,8 +161,8 @@
         <mark key="^" line="61" column="68" />
         <mark key="." line="61" column="67" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/common.clj" timestamp="1600940373620">
-        <mark key="[" line="34" column="101" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/common.clj" timestamp="1600980304245">
+        <mark key="[" line="110" column="26" />
         <mark key="]" line="35" column="64" />
         <mark key="^" line="35" column="64" />
         <mark key="." line="35" column="63" />
@@ -239,11 +239,11 @@
         <mark key="^" line="102" column="98" />
         <mark key="." line="102" column="97" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1600978586223">
-        <mark key="[" line="160" column="40" />
-        <mark key="]" line="163" column="59" />
-        <mark key="^" line="163" column="59" />
-        <mark key="." line="163" column="58" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/orgpage.clj" timestamp="1600980613786">
+        <mark key="[" line="174" column="19" />
+        <mark key="]" line="174" column="105" />
+        <mark key="." line="174" column="104" />
+        <mark key="^" line="174" column="105" />
       </file>
     </filemarks>
     <jumps>
@@ -352,7 +352,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">InZpa3RvciIKInZpbmNlbnQiCiJ2aW5pY2l1cyIKInZpdCIKInZsYWRpbWlyIgoidmxhc3RpbWlsIgoidm9qdGEiCiJ2b2p0ZWNoIgo=</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2UtaWQgKHV0aWwvZGV2aWNlLWlkIGlucHV0KQo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -361,36 +361,36 @@
         <text>draw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzYXJrYSIKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2UtaWQgKHV0aWwvZGV2aWNlLWlkIGlucHV0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">InZpa3RvciIKInZpbmNlbnQiCiJ2aW5pY2l1cyIKInZpdCIKInZsYWRpbWlyIgoidmxhc3RpbWlsIgoidm9qdGEiCiJ2b2p0ZWNoIgo=</text>
+        <text encoding="base64">ICAgICAgICB7OnVzZXItZGF0YS9rZXlzIFthY3RpdmUtcGFnZXNdfSAodXNlci1yZXNvdXJjZS1kYXRhL2dldC11c2VyLXJlc291cmNlLWRhdGEgZGV2aWNlLWlkIGlkKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB7OnVzZXItZGF0YS9rZXlzIFthY3RpdmUtcGFnZXNdfSAodXNlci1yZXNvdXJjZS1kYXRhL2dldC11c2VyLXJlc291cmNlLWRhdGEgZGV2aWNlLWlkIGlkKV0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">InZpa3RvciIKInZpbmNlbnQiCiJ2aW5pY2l1cyIKInZpdCIKInZsYWRpbWlyIgoidmxhc3RpbWlsIgoidm9qdGEiCiJ2b2p0ZWNoIgo=</text>
+      </register>
+      <register name="4" type="2">
         <text>&quot;алексей&quot;
 &quot;анатолий&quot;
 &quot;павел&quot;</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Inp1eiIKInp1emFuYSIK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Inp1Igo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">InpoYW5nIgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Inpla2UiCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">InplIHlhbiIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">InplIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">InouIgo=</text>
+        <text encoding="base64">InplIHlhbiIK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
