@@ -183,13 +183,6 @@
         <mark key="." line="239" column="73" />
         <mark key="^" line="239" column="74" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/chart.cljs" timestamp="1600565376028">
-        <mark key="'" line="81" column="4" />
-        <mark key="[" line="267" column="56" />
-        <mark key="]" line="270" column="55" />
-        <mark key="." line="270" column="54" />
-        <mark key="^" line="270" column="55" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/post_ops.cljs" timestamp="1600994735336" />
       <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/users.cljs" timestamp="1600686734753">
         <mark key="[" line="17" column="75" />
@@ -215,12 +208,6 @@
         <mark key="^" line="102" column="98" />
         <mark key="." line="102" column="97" />
       </file>
-      <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1600652932733">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="1" />
-      </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1600942811714">
         <mark key="'" line="0" column="0" />
       </file>
@@ -242,7 +229,12 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/layout.cljs" timestamp="1601030051412" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/handle.cljs" timestamp="1601114617065">
+        <mark key="[" line="72" column="50" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/webworker/layout.cljs" timestamp="1601114588818">
+        <mark key="[" line="227" column="75" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="19" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit.cljs" />
