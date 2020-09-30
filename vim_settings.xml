@@ -149,10 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage_meta.cljs" timestamp="1601463036195">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage_meta.cljs" timestamp="1601464467055">
         <mark key="[" line="14" column="66" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="]" line="62" column="73" />
+        <mark key="." line="62" column="72" />
+        <mark key="^" line="62" column="73" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1601416095754">
         <mark key="'" line="243" column="33" />
