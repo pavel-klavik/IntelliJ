@@ -149,6 +149,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage_meta.cljs" timestamp="1601515257763">
+        <mark key="[" line="86" column="5" />
+        <mark key="]" line="81" column="57" />
+        <mark key="^" line="81" column="57" />
+        <mark key="." line="81" column="56" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/core.cljs" timestamp="1601431491532">
         <mark key="[" line="23" column="56" />
         <mark key="]" line="22" column="21" />
@@ -160,11 +166,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" timestamp="1601514585296">
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="71" column="40" />
-        <mark key="^" line="71" column="40" />
-        <mark key="." line="71" column="39" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" timestamp="1601515373167">
+        <mark key="[" line="77" column="36" />
+        <mark key="]" line="77" column="37" />
+        <mark key="^" line="77" column="37" />
+        <mark key="." line="77" column="36" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/dashboard.cljs" timestamp="1601457891201">
         <mark key="[" line="22" column="0" />
@@ -197,11 +203,10 @@
       <file name="/Dummy.txt" timestamp="1601465701731">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/core.cljs" timestamp="1601514360134">
-        <mark key="[" line="100" column="46" />
-        <mark key="]" line="101" column="37" />
-        <mark key="^" line="101" column="37" />
-        <mark key="." line="101" column="36" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/core.cljs" timestamp="1601515502544">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="/REPL.txt" timestamp="1601510091680">
         <mark key="[" line="0" column="0" />
@@ -341,8 +346,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiRGFzaGJvYXJkOiIgdGFncykK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -354,12 +359,15 @@
         <text encoding="base64">ICAgICAgICBkZXZpY2UtaWQgKHV0aWwvZGV2aWNlLWlkIGlucHV0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiRGFzaGJvYXJkOiIgdGFncykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZm4gZWRpdAogICJTaG93cyBlZGl0IG1ldGEgZGlhbG9nLiIKICBbZWZmZWN0c10KICAobGV0IFt7Om9yZ3BhZ2Uva2V5cyBbdGl0bGUgZGVzY3JpcHRpb24gdGFnc119IChkYi1nZXQvb3JncGFnZSBlZmZlY3RzKV0KICAgICgtPiBlZmZlY3RzIChkYi11cGRhdGUvb3JncGFnZS1tZXRhIGFzc29jIDptZXRhL21vZGUgOm1ldGEvZWRpdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGl0bGUgdGl0bGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL2Rlc2NyaXB0aW9uIGRlc2NyaXB0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS90YWdzIHRhZ3MpKSkpCgooZGVmbiB2aWV3CiAgIlVzZXIgY2FuIHZpZXcgbWV0YSBpbiBtZXRhIGRpYWxvZy4iCiAgW2VmZmVjdHNdCiAgKGxldCBbezpvcmdwYWdlL2tleXMgW3RpdGxlIGRlc2NyaXB0aW9uIHRhZ3NdfSAoZGItZ2V0L29yZ3BhZ2UgZWZmZWN0cyldCiAgICAoLT4gZWZmZWN0cyAoZGItdXBkYXRlL29yZ3BhZ2UtbWV0YSBhc3NvYyA6bWV0YS9tb2RlIDptZXRhL3ZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL3RpdGxlIHRpdGxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS9kZXNjcmlwdGlvbiBkZXNjcmlwdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGFncyB0YWdzKSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">KGRlZm4gZWRpdAogICJTaG93cyBlZGl0IG1ldGEgZGlhbG9nLiIKICBbZWZmZWN0c10KICAobGV0IFt7Om9yZ3BhZ2Uva2V5cyBbdGl0bGUgZGVzY3JpcHRpb24gdGFnc119IChkYi1nZXQvb3JncGFnZSBlZmZlY3RzKV0KICAgICgtPiBlZmZlY3RzIChkYi11cGRhdGUvb3JncGFnZS1tZXRhIGFzc29jIDptZXRhL21vZGUgOm1ldGEvZWRpdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGl0bGUgdGl0bGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL2Rlc2NyaXB0aW9uIGRlc2NyaXB0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS90YWdzIHRhZ3MpKSkpCgooZGVmbiB2aWV3CiAgIlVzZXIgY2FuIHZpZXcgbWV0YSBpbiBtZXRhIGRpYWxvZy4iCiAgW2VmZmVjdHNdCiAgKGxldCBbezpvcmdwYWdlL2tleXMgW3RpdGxlIGRlc2NyaXB0aW9uIHRhZ3NdfSAoZGItZ2V0L29yZ3BhZ2UgZWZmZWN0cyldCiAgICAoLT4gZWZmZWN0cyAoZGItdXBkYXRlL29yZ3BhZ2UtbWV0YSBhc3NvYyA6bWV0YS9tb2RlIDptZXRhL3ZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL3RpdGxlIHRpdGxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS9kZXNjcmlwdGlvbiBkZXNjcmlwdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGFncyB0YWdzKSkpKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text>(defn render-title
   &quot;Renders Orgpage title together with a button opening the corresponding Orgpage meta dialog.&quot;
   [opacity]
@@ -384,25 +392,22 @@
                                  :icon    meta-icon
                                  :tooltip meta-tooltip}]]]])))</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7OnNoYXBlIDpidXR0b24vc3F1YXJlCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA7OnN0eWxlICAgICB7OmNvbG9yICh3aGVuIGxpbmsgImluaGVyaXQiKX0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI18od2hlbiAob3Igb24tY2xpY2sgbGluaykgbW91c2UtZXZlbnRzL2RlZmF1bHQtdG91Y2gtZXZlbnRzKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Organize a network of interconnected ideas.
 Visualize all the problems at once to make a good plan.
 Increase your productivity and cognitive abilities.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQud3MuZWZmZWN0IDphcyB3c10K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">OzsgVE9ETzogY3JlYXRlIHNob3cgbWV0YSBkaWFsb2cuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQud3MuZWZmZWN0IDphcyB3c10K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
