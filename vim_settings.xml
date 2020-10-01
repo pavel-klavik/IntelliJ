@@ -45,8 +45,8 @@
         <entry>wva</entry>
         <entry>wma</entry>
         <entry>:wa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,11 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage_meta.cljs" timestamp="1601542517839">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="81" column="57" />
-        <mark key="^" line="81" column="57" />
-        <mark key="." line="81" column="56" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage_meta.cljs" timestamp="1601547872837">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="37" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/core.cljs" timestamp="1601431491532">
         <mark key="[" line="23" column="56" />
@@ -166,30 +166,17 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" timestamp="1601545235219">
-        <mark key="[" line="60" column="35" />
-        <mark key="]" line="61" column="52" />
-        <mark key="." line="61" column="51" />
-        <mark key="^" line="61" column="52" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/dashboard.cljs" timestamp="1601457891201">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="4" column="59" />
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="59" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/meta.cljs" timestamp="1601465663775">
-        <mark key="[" line="75" column="34" />
-        <mark key="]" line="75" column="34" />
-        <mark key="^" line="75" column="34" />
-        <mark key="." line="75" column="33" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" timestamp="1601430771754" />
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/app.clj" timestamp="1601429904272">
-        <mark key="[" line="55" column="60" />
-        <mark key="]" line="49" column="123" />
-        <mark key="^" line="49" column="123" />
-        <mark key="." line="49" column="122" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/meta.cljs" timestamp="1601546784112">
+        <mark key="[" line="52" column="54" />
+        <mark key="]" line="52" column="67" />
+        <mark key="^" line="52" column="67" />
+        <mark key="." line="52" column="66" />
       </file>
       <file name="/REPL.clj" timestamp="1601510091678">
         <mark key="[" line="0" column="0" />
@@ -203,12 +190,6 @@
       <file name="/Dummy.txt" timestamp="1601545433248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/core.cljs" timestamp="1601545365524">
-        <mark key="[" line="101" column="70" />
-        <mark key="]" line="101" column="69" />
-        <mark key="." line="101" column="68" />
-        <mark key="^" line="101" column="69" />
-      </file>
       <file name="/REPL.txt" timestamp="1601510091680">
         <mark key="[" line="0" column="0" />
       </file>
@@ -219,11 +200,11 @@
         <mark key="." line="34" column="39" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/orgpage.cljs" timestamp="1601465441300">
-        <mark key="[" line="224" column="6" />
-        <mark key="]" line="228" column="30" />
-        <mark key="." line="228" column="29" />
-        <mark key="^" line="228" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="30" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/create/unit.cljs" timestamp="1601547490208" />
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1601463218111">
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
@@ -348,7 +329,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB0YWdzKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAic2F2ZSIgbmV3LW1ldGEpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDFweCBzb2xpZCByZ2JhICgwLCAwLCAwLCAwLjIzKX1dKQ==</text>
@@ -360,56 +341,34 @@
         <text encoding="base64">ICAgICAgICBkZXZpY2UtaWQgKHV0aWwvZGV2aWNlLWlkIGlucHV0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB0YWdzKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAic2F2ZSIgbmV3LW1ldGEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAxcHggc29saWQgcmdiYSAoMCwgMCwgMCwgMC4yMykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBmaWx0ZXJlZC10YWdzKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzIEAocmYvc3Vic2NyaWJlIFs6ZGFzaGJvYXJkL3RhZ3NdKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiRGFzaGJvYXJkOiIgdGFncykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">OzsgT3BzIG5lZWQgOm1ldGEvaWQgd2hlbiBtZXRhIGlzIGNoYW5nZWQgZGlyZWN0bHkgZnJvbSBkYXNoYm9hcmQsIHNvIHdlIHJlbW92ZSBpdCBhZnRlcndhcmRzLgoocmYvcmVnLWV2ZW50LWRiCiAgOm1ldGEvY2xlYW4tYWZ0ZXItc2F2ZQogIChmbiBbZGIgX10KICAgIChqcy9jb25zb2xlLmxvZyAiOm1ldGEvY2xlYW4tYWZ0ZXItc2F2ZSIpCiAgICApKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpyZXF1aXJlZCAgdHJ1ZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpyZXF1aXJlZCAgIHRydWUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB0YWdzKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRlZm4gZWRpdAogICJTaG93cyBlZGl0IG1ldGEgZGlhbG9nLiIKICBbZWZmZWN0c10KICAobGV0IFt7Om9yZ3BhZ2Uva2V5cyBbdGl0bGUgZGVzY3JpcHRpb24gdGFnc119IChkYi1nZXQvb3JncGFnZSBlZmZlY3RzKV0KICAgICgtPiBlZmZlY3RzIChkYi11cGRhdGUvb3JncGFnZS1tZXRhIGFzc29jIDptZXRhL21vZGUgOm1ldGEvZWRpdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGl0bGUgdGl0bGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL2Rlc2NyaXB0aW9uIGRlc2NyaXB0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS90YWdzIHRhZ3MpKSkpCgooZGVmbiB2aWV3CiAgIlVzZXIgY2FuIHZpZXcgbWV0YSBpbiBtZXRhIGRpYWxvZy4iCiAgW2VmZmVjdHNdCiAgKGxldCBbezpvcmdwYWdlL2tleXMgW3RpdGxlIGRlc2NyaXB0aW9uIHRhZ3NdfSAoZGItZ2V0L29yZ3BhZ2UgZWZmZWN0cyldCiAgICAoLT4gZWZmZWN0cyAoZGItdXBkYXRlL29yZ3BhZ2UtbWV0YSBhc3NvYyA6bWV0YS9tb2RlIDptZXRhL3ZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL3RpdGxlIHRpdGxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS9kZXNjcmlwdGlvbiBkZXNjcmlwdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGFncyB0YWdzKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAxcHggc29saWQgcmdiYSAoMCwgMCwgMCwgMC4yMykK</text>
       </register>
       <register name="8" type="2">
-        <text>(defn render-title
-  &quot;Renders Orgpage title together with a button opening the corresponding Orgpage meta dialog.&quot;
-  [opacity]
-  (let [title @(rf/subscribe [:orgpage/title])
-        permission @(rf/subscribe [:orgpage/permission])
-        [meta-tooltip meta-icon] (if (= permission :permission/view)
-                                   [&quot;Show information&quot; &quot;info-circle&quot;]
-                                   [&quot;Change information&quot; &quot;pencil-alt&quot;])]
-    (when (pos? opacity)
-      [:div.title-wrapper {:style {:opacity opacity}}
-       [grid/grid #:grid{:spacing     1
-                         :align-items :grid/center
-                         :justify     :grid/flex-start
-                         :style       {:flex-wrap &quot;nowrap&quot;}}
-        [grid/item #:grid{:key &quot;title&quot;}
-         (tooltip/wrap [:div.title (merge {:on-click #(rf/dispatch [:mouse/emulate-click :panel/open-meta])}
-                                          mouse-events/default-touch-events) title]
-                       meta-tooltip nil)]
-        [grid/item #:grid{:key &quot;details&quot;}
-         [button/button #:button{:id      :panel/open-meta
-                                 :color   :button/blue
-                                 :icon    meta-icon
-                                 :tooltip meta-tooltip}]]]])))</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBmaWx0ZXJlZC10YWdzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7OnNoYXBlIDpidXR0b24vc3F1YXJlCg==</text>
+        <text encoding="base64">ICAgICAgICB0YWdzIEAocmYvc3Vic2NyaWJlIFs6ZGFzaGJvYXJkL3RhZ3NdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
