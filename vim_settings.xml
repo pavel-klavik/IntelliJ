@@ -45,8 +45,8 @@
         <entry>wva</entry>
         <entry>wma</entry>
         <entry>:wa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -166,10 +166,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" timestamp="1601543894636">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" timestamp="1601545235219">
+        <mark key="[" line="60" column="35" />
+        <mark key="]" line="61" column="52" />
+        <mark key="." line="61" column="51" />
+        <mark key="^" line="61" column="52" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/dashboard.cljs" timestamp="1601457891201">
         <mark key="[" line="22" column="0" />
@@ -199,14 +200,14 @@
         <mark key="^" line="204" column="75" />
         <mark key="." line="204" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601515515693">
+      <file name="/Dummy.txt" timestamp="1601545433248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/core.cljs" timestamp="1601543934459">
-        <mark key="[" line="105" column="41" />
-        <mark key="]" line="106" column="55" />
-        <mark key="." line="106" column="54" />
-        <mark key="^" line="106" column="55" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/core.cljs" timestamp="1601545365524">
+        <mark key="[" line="101" column="70" />
+        <mark key="]" line="101" column="69" />
+        <mark key="." line="101" column="68" />
+        <mark key="^" line="101" column="69" />
       </file>
       <file name="/REPL.txt" timestamp="1601510091680">
         <mark key="[" line="0" column="0" />
@@ -347,7 +348,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAxcHggc29saWQgcmdiYSAoMCwgMCwgMCwgMC4yMykK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB0YWdzKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDFweCBzb2xpZCByZ2JhICgwLCAwLCAwLCAwLjIzKX1dKQ==</text>
@@ -359,24 +360,27 @@
         <text encoding="base64">ICAgICAgICBkZXZpY2UtaWQgKHV0aWwvZGV2aWNlLWlkIGlucHV0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAxcHggc29saWQgcmdiYSAoMCwgMCwgMCwgMC4yMykK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB0YWdzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBmaWx0ZXJlZC10YWdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAxcHggc29saWQgcmdiYSAoMCwgMCwgMCwgMC4yMykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzIEAocmYvc3Vic2NyaWJlIFs6ZGFzaGJvYXJkL3RhZ3NdKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBmaWx0ZXJlZC10YWdzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiRGFzaGJvYXJkOiIgdGFncykK</text>
+        <text encoding="base64">ICAgICAgICB0YWdzIEAocmYvc3Vic2NyaWJlIFs6ZGFzaGJvYXJkL3RhZ3NdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiRGFzaGJvYXJkOiIgdGFncykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGRlZm4gZWRpdAogICJTaG93cyBlZGl0IG1ldGEgZGlhbG9nLiIKICBbZWZmZWN0c10KICAobGV0IFt7Om9yZ3BhZ2Uva2V5cyBbdGl0bGUgZGVzY3JpcHRpb24gdGFnc119IChkYi1nZXQvb3JncGFnZSBlZmZlY3RzKV0KICAgICgtPiBlZmZlY3RzIChkYi11cGRhdGUvb3JncGFnZS1tZXRhIGFzc29jIDptZXRhL21vZGUgOm1ldGEvZWRpdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGl0bGUgdGl0bGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL2Rlc2NyaXB0aW9uIGRlc2NyaXB0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS90YWdzIHRhZ3MpKSkpCgooZGVmbiB2aWV3CiAgIlVzZXIgY2FuIHZpZXcgbWV0YSBpbiBtZXRhIGRpYWxvZy4iCiAgW2VmZmVjdHNdCiAgKGxldCBbezpvcmdwYWdlL2tleXMgW3RpdGxlIGRlc2NyaXB0aW9uIHRhZ3NdfSAoZGItZ2V0L29yZ3BhZ2UgZWZmZWN0cyldCiAgICAoLT4gZWZmZWN0cyAoZGItdXBkYXRlL29yZ3BhZ2UtbWV0YSBhc3NvYyA6bWV0YS9tb2RlIDptZXRhL3ZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL3RpdGxlIHRpdGxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS9kZXNjcmlwdGlvbiBkZXNjcmlwdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGFncyB0YWdzKSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">KGRlZm4gZWRpdAogICJTaG93cyBlZGl0IG1ldGEgZGlhbG9nLiIKICBbZWZmZWN0c10KICAobGV0IFt7Om9yZ3BhZ2Uva2V5cyBbdGl0bGUgZGVzY3JpcHRpb24gdGFnc119IChkYi1nZXQvb3JncGFnZSBlZmZlY3RzKV0KICAgICgtPiBlZmZlY3RzIChkYi11cGRhdGUvb3JncGFnZS1tZXRhIGFzc29jIDptZXRhL21vZGUgOm1ldGEvZWRpdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGl0bGUgdGl0bGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL2Rlc2NyaXB0aW9uIGRlc2NyaXB0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS90YWdzIHRhZ3MpKSkpCgooZGVmbiB2aWV3CiAgIlVzZXIgY2FuIHZpZXcgbWV0YSBpbiBtZXRhIGRpYWxvZy4iCiAgW2VmZmVjdHNdCiAgKGxldCBbezpvcmdwYWdlL2tleXMgW3RpdGxlIGRlc2NyaXB0aW9uIHRhZ3NdfSAoZGItZ2V0L29yZ3BhZ2UgZWZmZWN0cyldCiAgICAoLT4gZWZmZWN0cyAoZGItdXBkYXRlL29yZ3BhZ2UtbWV0YSBhc3NvYyA6bWV0YS9tb2RlIDptZXRhL3ZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRhL3RpdGxlIHRpdGxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWV0YS9kZXNjcmlwdGlvbiBkZXNjcmlwdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1ldGEvdGFncyB0YWdzKSkpKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text>(defn render-title
   &quot;Renders Orgpage title together with a button opening the corresponding Orgpage meta dialog.&quot;
   [opacity]
@@ -401,14 +405,11 @@
                                  :icon    meta-icon
                                  :tooltip meta-tooltip}]]]])))</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7OnNoYXBlIDpidXR0b24vc3F1YXJlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA7OnN0eWxlICAgICB7OmNvbG9yICh3aGVuIGxpbmsgImluaGVyaXQiKX0K</text>
-      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
