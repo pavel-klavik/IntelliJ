@@ -155,22 +155,16 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="20" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/data_transfer/input.cljs" timestamp="1601416390315">
-        <mark key="[" line="82" column="91" />
-        <mark key="]" line="82" column="102" />
-        <mark key="^" line="82" column="102" />
-        <mark key="." line="82" column="101" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/logo.cljs" timestamp="1601462535766">
         <mark key="[" line="4" column="54" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" timestamp="1601510787095">
-        <mark key="[" line="162" column="25" />
-        <mark key="]" line="166" column="57" />
-        <mark key="^" line="166" column="57" />
-        <mark key="." line="166" column="56" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" timestamp="1601514585296">
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="40" />
+        <mark key="^" line="71" column="40" />
+        <mark key="." line="71" column="39" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/dashboard.cljs" timestamp="1601457891201">
         <mark key="[" line="22" column="0" />
@@ -202,6 +196,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1601465701731">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/core.cljs" timestamp="1601514360134">
+        <mark key="[" line="100" column="46" />
+        <mark key="]" line="101" column="37" />
+        <mark key="^" line="101" column="37" />
+        <mark key="." line="101" column="36" />
       </file>
       <file name="/REPL.txt" timestamp="1601510091680">
         <mark key="[" line="0" column="0" />
@@ -341,11 +341,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>tool, mind maps, productivity, collaboration, network, information, Big Picture</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>meta</text>
