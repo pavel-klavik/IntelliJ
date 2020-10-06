@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>touch</entry>
         <entry>screenshot</entry>
         <entry>sit</entry>
         <entry>site-handler</entry>
@@ -16,7 +15,6 @@
         <entry>usergroups</entry>
         <entry>administration</entry>
         <entry>member</entry>
-        <entry>metrics</entry>
         <entry>total</entry>
         <entry>devices</entry>
         <entry>arka</entry>
@@ -25,6 +23,8 @@
         <entry>with-title</entry>
         <entry>dashboard\/filtered-dashboard</entry>
         <entry>:user</entry>
+        <entry>stats</entry>
+        <entry>metrics</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
@@ -149,17 +149,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage_meta.cljs" timestamp="1601628164668">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="91" column="43" />
-        <mark key="." line="9" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1601992407018">
+        <mark key="[" line="310" column="47" />
+        <mark key="]" line="313" column="44" />
+        <mark key="^" line="313" column="44" />
+        <mark key="." line="313" column="43" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/orgpage.cljs" timestamp="1601619665364">
-        <mark key="[" line="19" column="92" />
-        <mark key="]" line="19" column="93" />
-        <mark key="^" line="19" column="93" />
-        <mark key="." line="19" column="92" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/core.cljs" timestamp="1601992337187">
+        <mark key="[" line="69" column="87" />
+        <mark key="]" line="69" column="84" />
+        <mark key="^" line="69" column="84" />
+        <mark key="." line="69" column="83" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1601992439904">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="292" column="38" />
+        <mark key="]" line="292" column="38" />
+        <mark key="^" line="292" column="38" />
+        <mark key="." line="292" column="37" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/dashboard.cljs" timestamp="1601800001601">
         <mark key="[" line="11" column="62" />
@@ -167,23 +174,11 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/app.clj" timestamp="1601551821749">
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="44" column="44" />
-        <mark key="^" line="44" column="44" />
-        <mark key="." line="44" column="43" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1601828759521">
         <mark key="[" line="136" column="109" />
         <mark key="]" line="140" column="82" />
         <mark key="." line="140" column="81" />
         <mark key="^" line="140" column="82" />
-      </file>
-      <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1601798308123">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="10" column="1" />
       </file>
       <file name="/REPL.clj" timestamp="1601827822872">
         <mark key="[" line="0" column="0" />
@@ -194,11 +189,19 @@
         <mark key="^" line="25" column="34" />
         <mark key="." line="25" column="33" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/dashboard.cljs" timestamp="1601628176546">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="41" />
-        <mark key="." line="20" column="40" />
-        <mark key="^" line="20" column="41" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1601992457543">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="283" column="45" />
+        <mark key="]" line="283" column="43" />
+        <mark key="^" line="283" column="43" />
+        <mark key="." line="283" column="42" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1601992427466">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="269" column="42" />
+        <mark key="]" line="269" column="40" />
+        <mark key="^" line="269" column="40" />
+        <mark key="." line="269" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1601886577108">
         <mark key="[" line="0" column="0" />
@@ -272,9 +275,6 @@
       <jump line="127" column="8" filename="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" />
       <jump line="13" column="24" filename="C:/Shared/orgpad/resources/public/css/orgpad.css" />
       <jump line="11" column="10" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
       <jump line="14" column="0" filename="$USER_HOME$/.m2/repository/ring-oauth2/ring-oauth2/0.1.4/ring-oauth2-0.1.4.jar!/ring/middleware/oauth2.clj" />
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/core.cljs" />
       <jump line="28" column="69" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/core.cljs" />
@@ -343,6 +343,9 @@
       <jump line="123" column="8" filename="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" />
       <jump line="189" column="8" filename="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" />
       <jump line="436" column="0" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,7 +357,7 @@
         <text encoding="base64">IDFweCBzb2xpZCByZ2JhICgwLCAwLCAwLCAwLjIzKX1dKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>:user</text>
+        <text>metrics</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6b24tY2xpY2sgOmFkbWluaXN0cmF0aW9uL2xvYWQtdXNlcnMtZm9yLWRhdGUK</text>
@@ -393,9 +396,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>:user</last-search>
+      <last-search>metrics</last-search>
       <last-offset />
-      <last-pattern>:user</last-pattern>
+      <last-pattern>metrics</last-pattern>
       <last-replace>:orgpage</last-replace>
       <last-substitute>:user</last-substitute>
       <last-dir>1</last-dir>
