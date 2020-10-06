@@ -149,25 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1601886577108">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/metrics.cljs" timestamp="1601878973403">
-        <mark key="[" line="364" column="57" />
-        <mark key="]" line="364" column="71" />
-        <mark key="." line="364" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage_meta.cljs" timestamp="1601628164668">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="91" column="43" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/core.cljs" timestamp="1601799885967">
-        <mark key="[" line="42" column="73" />
-        <mark key="]" line="42" column="66" />
-        <mark key="^" line="42" column="66" />
-        <mark key="." line="42" column="65" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/orgpage.cljs" timestamp="1601619665364">
         <mark key="[" line="19" column="92" />
@@ -175,26 +161,11 @@
         <mark key="^" line="19" column="93" />
         <mark key="." line="19" column="92" />
       </file>
-      <file name="/REPL.txt" timestamp="1601827822875">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/metrics.cljs" timestamp="1601879007892">
-        <mark key="[" line="29" column="78" />
-        <mark key="]" line="32" column="31" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="32" column="30" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel/dashboard.cljs" timestamp="1601800001601">
         <mark key="[" line="11" column="62" />
         <mark key="]" line="11" column="12" />
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="11" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" timestamp="1601829026753">
-        <mark key="'" line="434" column="0" />
-        <mark key="[" line="413" column="22" />
-        <mark key="]" line="423" column="0" />
-        <mark key="." line="423" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/meta.cljs" timestamp="1601546784112">
         <mark key="[" line="52" column="54" />
@@ -241,11 +212,34 @@
         <mark key="." line="20" column="40" />
         <mark key="^" line="20" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/css/widgets/chip.clj" timestamp="1601544222254">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="58" />
+      <file name="/Dummy.txt" timestamp="1601886577108">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/metrics.cljs" timestamp="1601878973403">
+        <mark key="[" line="364" column="57" />
+        <mark key="]" line="364" column="71" />
+        <mark key="." line="364" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard/core.cljs" timestamp="1601799885967">
+        <mark key="[" line="42" column="73" />
+        <mark key="]" line="42" column="66" />
+        <mark key="^" line="42" column="66" />
+        <mark key="." line="42" column="65" />
+      </file>
+      <file name="/REPL.txt" timestamp="1601827822875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/metrics.cljs" timestamp="1601879007892">
+        <mark key="[" line="29" column="78" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="30" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" timestamp="1601829026753">
+        <mark key="'" line="434" column="0" />
+        <mark key="[" line="413" column="22" />
+        <mark key="]" line="423" column="0" />
+        <mark key="." line="423" column="0" />
       </file>
     </filemarks>
     <jumps>
