@@ -155,6 +155,12 @@
         <mark key="." line="56" column="35" />
         <mark key="^" line="56" column="36" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/unit.cljs" timestamp="1602109324380">
+        <mark key="[" line="154" column="60" />
+        <mark key="]" line="155" column="72" />
+        <mark key="." line="155" column="71" />
+        <mark key="^" line="155" column="72" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/side_panel/core.cljs" timestamp="1602103841362">
         <mark key="[" line="66" column="43" />
         <mark key="]" line="66" column="43" />
@@ -237,7 +243,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1602104058072">
+      <file name="/Dummy.txt" timestamp="1602104984254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/metrics.cljs" timestamp="1602103748167">
@@ -360,7 +366,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nIGFsaWduZWQtYWN0aXZpdHkgYWxpZ25lZC1zZXJpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbY29udGVudF19IAo=</text>
       </register>
       <register name="-" type="4">
         <text>[grid/item #:grid{:key &quot;domains&quot;} [domains]]</text>
@@ -372,9 +378,12 @@
         <text encoding="base64">ICAgICAgICB7OmFkbWluaXN0cmF0aW9uL2tleXMgW2FjdGl2aXR5LWdyYW51bGFyaXR5IGFjdGl2aXR5LWNoYXJ0IGhpZGUtbm9ucG9zaXRpdmUtYWN0aXZpdHldCiAgICAgICAgIDpvciAgICAgICAgICAgICAgICAgIHthY3Rpdml0eS1ncmFudWxhcml0eSA6dW5pdC93ZWVrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS1jaGFydCAgICAgICA6bWV0cmljcy90aW1lLXNwZW50fX0gQChyZi9zdWJzY3JpYmUgWzphZG1pbmlzdHJhdGlvbi9hZG1pbmlzdHJhdGlvbl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nIGFsaWduZWQtYWN0aXZpdHkgYWxpZ25lZC1zZXJpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbY29udGVudF19IAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nIGFsaWduZWQtYWN0aXZpdHkgYWxpZ25lZC1zZXJpZXMpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text>(rf/reg-event-db
   :administration/update-activity-granularity
   (fn [db [_ new-granularity]]
@@ -390,10 +399,10 @@
   (fn [db _]
     (db-update/administration db update :administration/hide-nonpositive-activity not)))</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmFkbWluaXN0cmF0aW9uLmNoYXJ0cyA6YXMgY2hhcnRzXQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>[chart/chart #:chart{:id       :administration/total-time-spend
                         :title    &quot;Total time spend in OrgPad per day&quot;
                         :size     [chart-width chart-height]
@@ -412,20 +421,17 @@
                                            :label  &quot;Time spent editing&quot;
                                            :values time-spent-editing-serie}]}]</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFtvcmdwYWQuY2xpZW50LnZpZXdzLnByb2ZpbGUuY29yZSA6YXMgcHJvZmlsZV0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWxpZ25lZC1hY3Rpdml0eSAoY29uZC0+PiAoKGNhc2UgYWN0aXZpdHktZ3JhbnVsYXJpdHkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dW5pdC9kYXkgOm1ldHJpY3MvZGFpbHktYWxpZ25lZC1hY3Rpdml0eQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp1bml0L21vbnRoIDptZXRyaWNzL21vbnRobHktYWxpZ25lZC1hY3Rpdml0eQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRyaWNzL3dlZWtseS1hbGlnbmVkLWFjdGl2aXR5KSBtZXRyaWNzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpZGUtbm9ucG9zaXRpdmUtYWN0aXZpdHkgKGZpbHRlciAjKHBvcz8gKGZpcnN0ICUpKSkpCiAgICAgICAgICAgIGFsaWduZWQtc2VyaWVzIChjb21tb24vbWFwLXNlcmllLT5zZXJpZXMgYWxpZ25lZC1hY3Rpdml0eSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyLT5jcmVhdGlvbi1kYXRlICgtPj4gdXNlcnMgKHJlbW92ZSAjKGFkbWluLWlkcyAoOnVzZXIvaWQgJSkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobWFwIChmbiBbezp1c2VyL2tleXMgW2lkIGNyZWF0aW9uLXRpbWVdfV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtpZCAoc3VicyBjcmVhdGlvbi10aW1lIDAgMTApXSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChpbnRvIHt9KSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5zZXJ2ZXIuYWRtaW5pc3RyYXRpb24uc3RhdHMuY29yZSA6YXMgc3RhdHNdCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5zZXJ2ZXIuYWRtaW5pc3RyYXRpb24uc3RhdHMuY29yZSA6YXMgc3RhdHNdCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
