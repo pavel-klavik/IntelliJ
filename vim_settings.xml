@@ -167,11 +167,11 @@
         <mark key="^" line="66" column="43" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/charts.cljs" timestamp="1602104714634">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="22" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/charts.cljs" timestamp="1602144367528">
+        <mark key="[" line="20" column="65" />
+        <mark key="]" line="21" column="73" />
+        <mark key="^" line="21" column="73" />
+        <mark key="." line="21" column="72" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/charts.cljs" timestamp="1602104378328">
         <mark key="[" line="15" column="20" />
@@ -179,16 +179,16 @@
         <mark key="." line="32" column="87" />
         <mark key="^" line="32" column="88" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/charts.cljs" timestamp="1602104812512">
-        <mark key="[" line="248" column="90" />
-        <mark key="]" line="248" column="91" />
-        <mark key="^" line="248" column="91" />
-        <mark key="." line="248" column="90" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/charts.cljs" timestamp="1602145225750">
+        <mark key="[" line="24" column="105" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="36" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/metrics.cljs" timestamp="1602102990772">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/metrics.cljs" timestamp="1602144533563">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1602103931952">
         <mark key="[" line="74" column="66" />
@@ -223,12 +223,6 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="129" column="52" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1602056140756">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="54" />
-        <mark key="." line="23" column="53" />
-        <mark key="^" line="23" column="54" />
-      </file>
       <file name="/REPL.clj" timestamp="1602104411085">
         <mark key="[" line="0" column="24" />
       </file>
@@ -251,6 +245,12 @@
         <mark key="]" line="336" column="44" />
         <mark key="." line="336" column="43" />
         <mark key="^" line="336" column="44" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/common.cljs" timestamp="1602144689851">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" timestamp="1602104486706">
         <mark key="'" line="29" column="15" />
@@ -366,7 +366,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBhY3RpdmUtcGFnZXMgIi0+IiBhY3RpdmUtcGFnZXMnKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBjaGFydHMpCg==</text>
       </register>
       <register name="-" type="4">
         <text>[grid/item #:grid{:key &quot;domains&quot;} [domains]]</text>
@@ -378,18 +378,21 @@
         <text encoding="base64">ICAgICAgICB7OmFkbWluaXN0cmF0aW9uL2tleXMgW2FjdGl2aXR5LWdyYW51bGFyaXR5IGFjdGl2aXR5LWNoYXJ0IGhpZGUtbm9ucG9zaXRpdmUtYWN0aXZpdHldCiAgICAgICAgIDpvciAgICAgICAgICAgICAgICAgIHthY3Rpdml0eS1ncmFudWxhcml0eSA6dW5pdC93ZWVrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS1jaGFydCAgICAgICA6bWV0cmljcy90aW1lLXNwZW50fX0gQChyZi9zdWJzY3JpYmUgWzphZG1pbmlzdHJhdGlvbi9hZG1pbmlzdHJhdGlvbl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBhY3RpdmUtcGFnZXMgIi0+IiBhY3RpdmUtcGFnZXMnKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBjaGFydHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLWRhdGEnIChjb25kLT4gdXNlci1kYXRhICh6ZXJvPyAoY291bnQgKGRpc3NvYyBhY3RpdmUtcGFnZXMgbmlsKSkpIChkaXNzb2MgOnVzZXItZGF0YS9hY3RpdmUtcGFnZXMpKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBhY3RpdmUtcGFnZXMgIi0+IiBhY3RpdmUtcGFnZXMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbY29udGVudF19IAo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLWRhdGEnIChjb25kLT4gdXNlci1kYXRhICh6ZXJvPyAoY291bnQgKGRpc3NvYyBhY3RpdmUtcGFnZXMgbmlsKSkpIChkaXNzb2MgOnVzZXItZGF0YS9hY3RpdmUtcGFnZXMpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nIGFsaWduZWQtYWN0aXZpdHkgYWxpZ25lZC1zZXJpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbY29udGVudF19IAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nIGFsaWduZWQtYWN0aXZpdHkgYWxpZ25lZC1zZXJpZXMpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text>(rf/reg-event-db
   :administration/update-activity-granularity
   (fn [db [_ new-granularity]]
@@ -405,10 +408,10 @@
   (fn [db _]
     (db-update/administration db update :administration/hide-nonpositive-activity not)))</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmFkbWluaXN0cmF0aW9uLmNoYXJ0cyA6YXMgY2hhcnRzXQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>[chart/chart #:chart{:id       :administration/total-time-spend
                         :title    &quot;Total time spend in OrgPad per day&quot;
                         :size     [chart-width chart-height]
@@ -427,11 +430,8 @@
                                            :label  &quot;Time spent editing&quot;
                                            :values time-spent-editing-serie}]}]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFtvcmdwYWQuY2xpZW50LnZpZXdzLnByb2ZpbGUuY29yZSA6YXMgcHJvZmlsZV0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxpZ25lZC1hY3Rpdml0eSAoY29uZC0+PiAoKGNhc2UgYWN0aXZpdHktZ3JhbnVsYXJpdHkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dW5pdC9kYXkgOm1ldHJpY3MvZGFpbHktYWxpZ25lZC1hY3Rpdml0eQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp1bml0L21vbnRoIDptZXRyaWNzL21vbnRobHktYWxpZ25lZC1hY3Rpdml0eQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptZXRyaWNzL3dlZWtseS1hbGlnbmVkLWFjdGl2aXR5KSBtZXRyaWNzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpZGUtbm9ucG9zaXRpdmUtYWN0aXZpdHkgKGZpbHRlciAjKHBvcz8gKGZpcnN0ICUpKSkpCiAgICAgICAgICAgIGFsaWduZWQtc2VyaWVzIChjb21tb24vbWFwLXNlcmllLT5zZXJpZXMgYWxpZ25lZC1hY3Rpdml0eSkK</text>
+        <text encoding="base64">ICAgIFtvcmdwYWQuY2xpZW50LnZpZXdzLnByb2ZpbGUuY29yZSA6YXMgcHJvZmlsZV0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
