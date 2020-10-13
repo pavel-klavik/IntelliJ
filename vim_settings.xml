@@ -193,11 +193,11 @@
         <mark key="^" line="66" column="43" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/charts.cljs" timestamp="1602568703010">
-        <mark key="[" line="153" column="43" />
-        <mark key="]" line="150" column="48" />
-        <mark key="^" line="150" column="48" />
-        <mark key="." line="150" column="47" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/charts.cljs" timestamp="1602569644755">
+        <mark key="[" line="164" column="68" />
+        <mark key="]" line="165" column="14" />
+        <mark key="^" line="165" column="14" />
+        <mark key="." line="165" column="13" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/common.cljs" timestamp="1602144689851">
         <mark key="[" line="16" column="34" />
@@ -226,11 +226,11 @@
         <mark key="." line="32" column="87" />
         <mark key="^" line="32" column="88" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/charts.cljs" timestamp="1602515357462">
-        <mark key="[" line="32" column="42" />
-        <mark key="]" line="31" column="79" />
-        <mark key="." line="31" column="78" />
-        <mark key="^" line="31" column="79" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/charts.cljs" timestamp="1602569781140">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="93" />
+        <mark key="." line="14" column="92" />
+        <mark key="^" line="14" column="93" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/combine.clj" timestamp="1602056390013">
         <mark key="[" line="59" column="6" />
@@ -365,8 +365,10 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDp1c2VyLWFsaWduZWQtYWN0aXZpdHktdGl0bGUgWyJUb3RhbCBudW1iZXIgb2YgbGlua3MgZmxpcHBlZCBwZXIgIiA6Y2hhcnRzL2dyYW51bGFyaXR5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIGFsaWduZWQgdG8gdXNlcnMnIGNyZWF0aW9uIl0K</text>
+      <register name="&quot;" type="4">
+        <text>{:administration/keys [chart-granularity chart-type hide-nonpositive-activity]w
+         :or                  {chart-type        :charts/time-spent
+                               chart-granularity :unit/week}}</text>
       </register>
       <register name="-" type="4">
         <text>[grid/item #:grid{:key &quot;domains&quot;} [domains]]</text>
@@ -378,25 +380,30 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDp1c2VyLWFsaWduZWQtYWN0aXZpdHktdGl0bGUgWyJUb3RhbCBudW1iZXIgb2YgbGlua3MgZmxpcHBlZCBwZXIgIiA6Y2hhcnRzL2dyYW51bGFyaXR5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIGFsaWduZWQgdG8gdXNlcnMnIGNyZWF0aW9uIl0K</text>
       </register>
       <register name="1" type="4">
+        <text>{:administration/keys [chart-granularity chart-type hide-nonpositive-activity]w
+         :or                  {chart-type        :charts/time-spent
+                               chart-granularity :unit/week}}</text>
+      </register>
+      <register name="2" type="4">
         <text>str &quot;Total number of Orgpages created and deleted per &quot; (name activity-granularity)
                                                   &quot; aligned to users' creation&quot;</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBjaGFydHMpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBhY3RpdmUtcGFnZXMgIi0+IiBhY3RpdmUtcGFnZXMnKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyLWRhdGEnIChjb25kLT4gdXNlci1kYXRhICh6ZXJvPyAoY291bnQgKGRpc3NvYyBhY3RpdmUtcGFnZXMgbmlsKSkpIChkaXNzb2MgOnVzZXItZGF0YS9hY3RpdmUtcGFnZXMpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbY29udGVudF19IAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nIGFsaWduZWQtYWN0aXZpdHkgYWxpZ25lZC1zZXJpZXMpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>(rf/reg-event-db
   :administration/update-activity-granularity
   (fn [db [_ new-granularity]]
@@ -412,27 +419,8 @@
   (fn [db _]
     (db-update/administration db update :administration/hide-nonpositive-activity not)))</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmFkbWluaXN0cmF0aW9uLmNoYXJ0cyA6YXMgY2hhcnRzXQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>[chart/chart #:chart{:id       :administration/total-time-spend
-                        :title    &quot;Total time spend in OrgPad per day&quot;
-                        :size     [chart-width chart-height]
-                        :type     :chart/bar
-                        :on-click :administration/load-users-for-date
-                        :x-axis   #:axis{:type          :axis/date
-                                         :blur-weekends true}
-                        :y-axis   #:axis{:type      :axis/time
-                                         :min-value 0}
-                        :series   [#:serie{:id     :metrics/time-spent-viewing
-                                           :color  :serie/green
-                                           :label  &quot;Time spent reading&quot;
-                                           :values time-spent-viewing-serie}
-                                   #:serie{:id     :metrics/time-spent-editing
-                                           :color  :serie/red
-                                           :label  &quot;Time spent editing&quot;
-                                           :values time-spent-editing-serie}]}]</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
