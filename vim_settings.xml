@@ -172,7 +172,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1602139413938">
+      <file name="/Dummy.txt" timestamp="1602574260963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/metrics.cljs" timestamp="1602103748167">
@@ -193,11 +193,11 @@
         <mark key="^" line="66" column="43" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/charts.cljs" timestamp="1602571814345">
-        <mark key="[" line="197" column="78" />
-        <mark key="]" line="197" column="81" />
-        <mark key="." line="197" column="80" />
-        <mark key="^" line="197" column="81" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/charts.cljs" timestamp="1602574135343">
+        <mark key="[" line="243" column="98" />
+        <mark key="]" line="227" column="25" />
+        <mark key="." line="227" column="24" />
+        <mark key="^" line="227" column="25" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/common.cljs" timestamp="1602570342779">
         <mark key="[" line="18" column="21" />
@@ -225,11 +225,11 @@
         <mark key="." line="32" column="87" />
         <mark key="^" line="32" column="88" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/charts.cljs" timestamp="1602571731097">
-        <mark key="[" line="40" column="102" />
-        <mark key="]" line="41" column="47" />
-        <mark key="." line="41" column="46" />
-        <mark key="^" line="41" column="47" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/charts.cljs" timestamp="1602573940342">
+        <mark key="[" line="54" column="30" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="29" />
+        <mark key="^" line="55" column="30" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/combine.clj" timestamp="1602056390013">
         <mark key="[" line="59" column="6" />
@@ -365,7 +365,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgQChyZi9zdWJzY3JpYmUgWzphZG1pbmlzdHJhdGlvbi9jaGFydHNdKQogICAgICAgIHs6c3RhdC9rZXlzIFt0aW1lLXNwZW50LXZpZXdpbmcgdGltZS1zcGVudC1lZGl0aW5nIHVuaXRzLWNyZWF0ZWQgcGFnZXMtY3JlYXRlZCBsaW5rcy1jcmVhdGVkCiAgICAgICAgICAgICAgICAgICAgIHVuaXRzLW9yLXBhZ2VzLWRlbGV0ZWQgbGlua3MtZGVsZXRlZCB1bml0cy1lZGl0ZWQgdW5jaGFuZ2VkLXVuaXQtZWRpdG9yCiAgICAgICAgICAgICAgICAgICAgIHVuaXQtcHJvcHMtY2hhbmdlZCBsaW5rLXByb3BzLWNoYW5nZWQgb3JncGFnZXMtY3JlYXRlZCBvcmdwYWdlcy1kZWxldGVkCiAgICAgICAgICAgICAgICAgICAgIG9yZ3BhZ2VzLWxvYWRlZCBkYXNoYm9hcmQtbG9hZGVkIG1vZGVzLWNoYW5nZWQgY2FudmFzLW1vdmVzIGxpbmtzLWZsaXBwZWQKICAgICAgICAgICAgICAgICAgICAgbnVtLXVzZXJzXX0gYWxpZ25lZC11c2VyLXNlcmllcwogICAgICAgIHs6YWRtaW5pc3RyYXRpb24va2V5cyBbY2hhcnQtZ3JhbnVsYXJpdHkgY2hhcnQtdHlwZV0KICAgICAgICAgOm9yICAgICAgICAgICAgICAgICAge2NoYXJ0LWdyYW51bGFyaXR5IDp1bml0L3dlZWsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoYXJ0LXR5cGUgICAgICAgIDpjaGFydHMvdGltZS1zcGVudH19IEAocmYvc3Vic2NyaWJlIFs6YWRtaW5pc3RyYXRpb24vYWRtaW5pc3RyYXRpb25dKQogICAgICAgIHs6d2luZG93L2tleXMgW3dpZHRoXX0gQChyZi9zdWJzY3JpYmUgWzphcHAtc3RhdGUvd2luZG93XSkKICAgICAgICBjaGFydC13aWR0aCAobWF4IDc1MCAoLSB3aWR0aCAxMDApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDp5LWF4aXMtdHlwZSAgICAgICAgICAgICAgICAgICAgOmF4aXMvdGltZQo=</text>
       </register>
       <register name="-" type="4">
         <text>[grid/item #:grid{:key &quot;domains&quot;} [domains]]</text>
@@ -374,38 +374,38 @@
         <text>date\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDp1c2VyLWFsaWduZWQtYWN0aXZpdHktdGl0bGUgWyJUb3RhbCBudW1iZXIgb2YgbGlua3MgZmxpcHBlZCBwZXIgIiA6Y2hhcnRzL2dyYW51bGFyaXR5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIGFsaWduZWQgdG8gdXNlcnMnIGNyZWF0aW9uIl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDp5LWF4aXMtdHlwZSAgICAgICAgICAgICAgICAgICAgOmF4aXMvdGltZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgQChyZi9zdWJzY3JpYmUgWzphZG1pbmlzdHJhdGlvbi9jaGFydHNdKQogICAgICAgIHs6c3RhdC9rZXlzIFt0aW1lLXNwZW50LXZpZXdpbmcgdGltZS1zcGVudC1lZGl0aW5nIHVuaXRzLWNyZWF0ZWQgcGFnZXMtY3JlYXRlZCBsaW5rcy1jcmVhdGVkCiAgICAgICAgICAgICAgICAgICAgIHVuaXRzLW9yLXBhZ2VzLWRlbGV0ZWQgbGlua3MtZGVsZXRlZCB1bml0cy1lZGl0ZWQgdW5jaGFuZ2VkLXVuaXQtZWRpdG9yCiAgICAgICAgICAgICAgICAgICAgIHVuaXQtcHJvcHMtY2hhbmdlZCBsaW5rLXByb3BzLWNoYW5nZWQgb3JncGFnZXMtY3JlYXRlZCBvcmdwYWdlcy1kZWxldGVkCiAgICAgICAgICAgICAgICAgICAgIG9yZ3BhZ2VzLWxvYWRlZCBkYXNoYm9hcmQtbG9hZGVkIG1vZGVzLWNoYW5nZWQgY2FudmFzLW1vdmVzIGxpbmtzLWZsaXBwZWQKICAgICAgICAgICAgICAgICAgICAgbnVtLXVzZXJzXX0gYWxpZ25lZC11c2VyLXNlcmllcwogICAgICAgIHs6YWRtaW5pc3RyYXRpb24va2V5cyBbY2hhcnQtZ3JhbnVsYXJpdHkgY2hhcnQtdHlwZV0KICAgICAgICAgOm9yICAgICAgICAgICAgICAgICAge2NoYXJ0LWdyYW51bGFyaXR5IDp1bml0L3dlZWsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoYXJ0LXR5cGUgICAgICAgIDpjaGFydHMvdGltZS1zcGVudH19IEAocmYvc3Vic2NyaWJlIFs6YWRtaW5pc3RyYXRpb24vYWRtaW5pc3RyYXRpb25dKQogICAgICAgIHs6d2luZG93L2tleXMgW3dpZHRoXX0gQChyZi9zdWJzY3JpYmUgWzphcHAtc3RhdGUvd2luZG93XSkKICAgICAgICBjaGFydC13aWR0aCAobWF4IDc1MCAoLSB3aWR0aCAxMDApKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1c2VyLWFsaWduZWQtYWN0aXZpdHktY2hhcnQpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1c2VyLWFsaWduZWQtYWN0aXZpdHktY2hhcnQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyB1c2VyLWFsaWduZWQtYWN0aXZpdHktY2hhcnQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgQChyZi9zdWJzY3JpYmUgWzphZG1pbmlzdHJhdGlvbi9jaGFydHNdKQogICAgICAgIHs6c3RhdC9rZXlzIFt0aW1lLXNwZW50LXZpZXdpbmcgdGltZS1zcGVudC1lZGl0aW5nIHVuaXRzLWNyZWF0ZWQgcGFnZXMtY3JlYXRlZCBsaW5rcy1jcmVhdGVkCiAgICAgICAgICAgICAgICAgICAgIHVuaXRzLW9yLXBhZ2VzLWRlbGV0ZWQgbGlua3MtZGVsZXRlZCB1bml0cy1lZGl0ZWQgdW5jaGFuZ2VkLXVuaXQtZWRpdG9yCiAgICAgICAgICAgICAgICAgICAgIHVuaXQtcHJvcHMtY2hhbmdlZCBsaW5rLXByb3BzLWNoYW5nZWQgb3JncGFnZXMtY3JlYXRlZCBvcmdwYWdlcy1kZWxldGVkCiAgICAgICAgICAgICAgICAgICAgIG9yZ3BhZ2VzLWxvYWRlZCBkYXNoYm9hcmQtbG9hZGVkIG1vZGVzLWNoYW5nZWQgY2FudmFzLW1vdmVzIGxpbmtzLWZsaXBwZWQKICAgICAgICAgICAgICAgICAgICAgbnVtLXVzZXJzXX0gYWxpZ25lZC11c2VyLXNlcmllcwogICAgICAgIHs6YWRtaW5pc3RyYXRpb24va2V5cyBbY2hhcnQtZ3JhbnVsYXJpdHkgY2hhcnQtdHlwZV0KICAgICAgICAgOm9yICAgICAgICAgICAgICAgICAge2NoYXJ0LWdyYW51bGFyaXR5IDp1bml0L3dlZWsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoYXJ0LXR5cGUgICAgICAgIDpjaGFydHMvdGltZS1zcGVudH19IEAocmYvc3Vic2NyaWJlIFs6YWRtaW5pc3RyYXRpb24vYWRtaW5pc3RyYXRpb25dKQogICAgICAgIHs6d2luZG93L2tleXMgW3dpZHRoXX0gQChyZi9zdWJzY3JpYmUgWzphcHAtc3RhdGUvd2luZG93XSkKICAgICAgICBjaGFydC13aWR0aCAobWF4IDc1MCAoLSB3aWR0aCAxMDApKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text>(rf/reg-sub
   :charts/width)</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>{:administration/keys [chart-granularity chart-type hide-nonpositive-activity]w
          :or                  {chart-type        :charts/time-spent
                                chart-granularity :unit/week}}</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>str &quot;Total number of Orgpages created and deleted per &quot; (name activity-granularity)
                                                   &quot; aligned to users' creation&quot;</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBjaGFydHMpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBhY3RpdmUtcGFnZXMgIi0+IiBhY3RpdmUtcGFnZXMnKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLWRhdGEnIChjb25kLT4gdXNlci1kYXRhICh6ZXJvPyAoY291bnQgKGRpc3NvYyBhY3RpdmUtcGFnZXMgbmlsKSkpIChkaXNzb2MgOnVzZXItZGF0YS9hY3RpdmUtcGFnZXMpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbY29udGVudF19IAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nIGFsaWduZWQtYWN0aXZpdHkgYWxpZ25lZC1zZXJpZXMpCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBhY3RpdmUtcGFnZXMgIi0+IiBhY3RpdmUtcGFnZXMnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
