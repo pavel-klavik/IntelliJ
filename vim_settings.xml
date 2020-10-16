@@ -149,8 +149,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/query.clj" timestamp="1602059674139">
-        <mark key="[" line="84" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/query.clj" timestamp="1602831043339">
+        <mark key="[" line="59" column="79" />
         <mark key="]" line="56" column="36" />
         <mark key="." line="56" column="35" />
         <mark key="^" line="56" column="36" />
@@ -160,12 +160,6 @@
         <mark key="]" line="155" column="72" />
         <mark key="." line="155" column="71" />
         <mark key="^" line="155" column="72" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/core.cljs" timestamp="1602103286186">
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="6" column="57" />
-        <mark key="^" line="6" column="57" />
-        <mark key="." line="6" column="56" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/core.cljs" timestamp="1602104307893">
         <mark key="[" line="5" column="0" />
@@ -211,7 +205,7 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="129" column="52" />
       </file>
-      <file name="/REPL.txt" timestamp="1602660274889">
+      <file name="/REPL.txt" timestamp="1602831112028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/metrics.cljs" timestamp="1602104320055">
@@ -254,8 +248,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1602660274883">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/administration/charts.clj" timestamp="1602831035808">
+        <mark key="[" line="21" column="112" />
+        <mark key="]" line="22" column="68" />
+        <mark key="^" line="22" column="68" />
+        <mark key="." line="22" column="67" />
       </file>
     </filemarks>
     <jumps>
