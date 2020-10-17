@@ -149,8 +149,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/query.clj" timestamp="1602873568760">
-        <mark key="[" line="86" column="20" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/query.clj" timestamp="1602876765975">
+        <mark key="[" line="86" column="23" />
         <mark key="]" line="85" column="50" />
         <mark key="." line="85" column="49" />
         <mark key="^" line="85" column="50" />
@@ -168,12 +168,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1602791064127">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/metrics.cljs" timestamp="1602103748167">
-        <mark key="[" line="336" column="56" />
-        <mark key="]" line="336" column="44" />
-        <mark key="." line="336" column="43" />
-        <mark key="^" line="336" column="44" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1602103931952">
         <mark key="[" line="74" column="66" />
@@ -252,6 +246,12 @@
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/common/date.cljc" timestamp="1602921126145">
+        <mark key="[" line="148" column="17" />
+        <mark key="]" line="148" column="54" />
+        <mark key="^" line="148" column="54" />
+        <mark key="." line="148" column="53" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/administration/charts.clj" timestamp="1602831035808">
         <mark key="[" line="21" column="112" />
@@ -365,8 +365,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGRlZiB3ZWVrZW5kCiAgI3s6ZGF5L3NhdHVyZGF5IDpkYXkvc3VuZGF5fSkK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -374,8 +374,8 @@
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">KGRlZiB3ZWVrZW5kCiAgI3s6ZGF5L3NhdHVyZGF5IDpkYXkvc3VuZGF5fSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWZuIHdlZWstZGF5LXN0YXRzCg==</text>
