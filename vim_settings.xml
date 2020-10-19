@@ -149,10 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/query.clj" timestamp="1603098321449">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/query.clj" timestamp="1603101528120">
+        <mark key="[" line="33" column="74" />
+        <mark key="]" line="33" column="87" />
+        <mark key="." line="33" column="86" />
+        <mark key="^" line="33" column="87" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/unit.cljs" timestamp="1602109324380">
         <mark key="[" line="154" column="60" />
@@ -186,7 +187,7 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="129" column="52" />
       </file>
-      <file name="/REPL.txt" timestamp="1602921856910">
+      <file name="/REPL.txt" timestamp="1603101124570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/metrics.cljs" timestamp="1602104320055">
@@ -233,7 +234,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1602921856906">
+      <file name="/REPL.clj" timestamp="1603101124567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
