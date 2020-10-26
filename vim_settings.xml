@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>MuiSwitch</entry>
         <entry>presentatations</entry>
         <entry>canvas</entry>
         <entry>http</entry>
@@ -25,9 +24,9 @@
         <entry>date\/</entry>
         <entry>console</entry>
         <entry>charts</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry>:w</entry>
         <entry>;wa</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
@@ -46,6 +45,7 @@
         <entry>:wa</entry>
         <entry encoding="base64">JzwsJz5zLzp1c2VyLzpvcmdwYWdlL2c=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLzovOmZhXC8=</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -164,6 +164,13 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="48" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" timestamp="1603745592377">
+        <mark key="'" line="2263" column="14" />
+        <mark key="[" line="2190" column="16" />
+        <mark key="]" line="2179" column="17" />
+        <mark key="^" line="2179" column="17" />
+        <mark key="." line="2179" column="16" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1602139398512">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -197,7 +204,7 @@
         <mark key="^" line="57" column="54" />
         <mark key="." line="57" column="53" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1603744566577">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/users.cljs" timestamp="1603745354713">
         <mark key="[" line="441" column="45" />
         <mark key="]" line="444" column="54" />
         <mark key="^" line="444" column="54" />
@@ -214,13 +221,6 @@
         <mark key="]" line="239" column="45" />
         <mark key="^" line="239" column="45" />
         <mark key="." line="239" column="44" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" timestamp="1602104486706">
-        <mark key="'" line="29" column="15" />
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="13" column="44" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/metrics.cljs" timestamp="1602144533563">
         <mark key="[" line="28" column="11" />
@@ -243,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="20" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
       <jump line="4" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
       <jump line="9" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
       <jump line="14" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
@@ -343,6 +342,7 @@
       <jump line="14" column="37" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
       <jump line="29" column="15" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
       <jump line="160" column="50" filename="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" />
+      <jump line="2263" column="14" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,7 +354,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>charts</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA6PC0gWzphZG1pbmlzdHJhdGlvbi9jaGFydHNdCg==</text>
@@ -393,11 +393,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>charts</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern>charts</last-pattern>
-      <last-replace>:orgpage</last-replace>
-      <last-substitute>:user</last-substitute>
+      <last-pattern>:</last-pattern>
+      <last-replace>:fa\/</last-replace>
+      <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
