@@ -149,6 +149,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1604233335921">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="35" />
+        <mark key="^" line="125" column="35" />
+        <mark key="." line="125" column="34" />
+      </file>
       <file name="/Dummy.txt" timestamp="1603796753259">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,12 +194,6 @@
         <mark key="^" line="250" column="44" />
         <mark key="." line="250" column="43" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/administration.cljs" timestamp="1603751339926">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="47" column="55" />
-        <mark key="^" line="47" column="55" />
-        <mark key="." line="47" column="54" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/user.clj" timestamp="1603751565208">
         <mark key="[" line="154" column="0" />
       </file>
@@ -219,8 +219,8 @@
         <mark key="." line="46" column="23" />
         <mark key="^" line="46" column="24" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor_change.cljs" timestamp="1604233186675">
-        <mark key="[" line="160" column="54" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor_change.cljs" timestamp="1604233931689">
+        <mark key="[" line="156" column="41" />
         <mark key="]" line="160" column="71" />
         <mark key="^" line="160" column="71" />
         <mark key="." line="160" column="70" />
