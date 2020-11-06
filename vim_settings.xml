@@ -149,11 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1604237417064">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit_editor.cljs" timestamp="1604241699055">
         <mark key="'" line="53" column="69" />
         <mark key="[" line="53" column="69" />
@@ -179,6 +174,12 @@
         <mark key="]" line="43" column="32" />
         <mark key="^" line="43" column="32" />
         <mark key="." line="43" column="31" />
+      </file>
+      <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1604693306854">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="61" />
+        <mark key="^" line="1" column="61" />
+        <mark key="." line="1" column="60" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/presentation.cljs" timestamp="1604516715064">
         <mark key="[" line="2" column="12" />
