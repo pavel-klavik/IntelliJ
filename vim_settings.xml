@@ -204,7 +204,7 @@
         <mark key="^" line="25" column="49" />
         <mark key="." line="25" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1605210229740">
+      <file name="/Dummy.txt" timestamp="1605214520728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/change.cljs" timestamp="1604240143295">
@@ -231,11 +231,11 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/vectors.cljc" timestamp="1605210558050">
-        <mark key="[" line="94" column="16" />
-        <mark key="]" line="94" column="16" />
-        <mark key="^" line="94" column="16" />
-        <mark key="." line="94" column="15" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/vectors.cljc" timestamp="1605213607525">
+        <mark key="[" line="101" column="2" />
+        <mark key="]" line="98" column="13" />
+        <mark key="^" line="98" column="13" />
+        <mark key="." line="98" column="12" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/elevation_shadow.cljs" timestamp="1604459201950">
         <mark key="[" line="106" column="60" />
@@ -243,11 +243,11 @@
         <mark key="^" line="108" column="119" />
         <mark key="." line="108" column="118" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" timestamp="1605212823636">
-        <mark key="[" line="47" column="69" />
-        <mark key="]" line="47" column="54" />
-        <mark key="^" line="47" column="54" />
-        <mark key="." line="47" column="53" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" timestamp="1605214508294">
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="72" column="58" />
+        <mark key="^" line="72" column="58" />
+        <mark key="." line="72" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -355,8 +355,9 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7OnBhcmFncmFwaC9rZXlzIFtjaGlsZC1zZWdtZW50LWlkc119IChkYi1nZXQvcGFyYWdyYXBoIGVmZmVjdHMgKGFuY2hvci1wYXJhZ3JhcGgtaWQgZWZmZWN0cykpCg==</text>
+      <register name="&quot;" type="4">
+        <text>(cond (and in-subvec ) 
+                  )</text>
       </register>
       <register name="-" type="4">
         <text>(and (= mode :mode/view) (isa? :permission/edit permission))</text>
@@ -367,35 +368,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7OnBhcmFncmFwaC9rZXlzIFtjaGlsZC1zZWdtZW50LWlkc119IChkYi1nZXQvcGFyYWdyYXBoIGVmZmVjdHMgKGFuY2hvci1wYXJhZ3JhcGgtaWQgZWZmZWN0cykpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7OnBhcmFncmFwaC9rZXlzIFtjaGlsZC1zZWdtZW50LWlkc119IChkYi1nZXQvcGFyYWdyYXBoIGVmZmVjdHMgKGFuY2hvci1wYXJhZ3JhcGgtaWQgZWZmZWN0cykpCg==</text>
+      <register name="1" type="4">
+        <text>(cond (and in-subvec ) 
+                  )</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChlZGl0b3ItY2hhbmdlL2NoYW5nZS1hY3RpdmUtcGFnZSBlZmZlY3RzIGlkIHs6YWJzb2x1dGUgbmV3LXBhZ2V9KSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7OnBhcmFncmFwaC9rZXlzIFtjaGlsZC1zZWdtZW50LWlkc119IChkYi1nZXQvcGFyYWdyYXBoIGVmZmVjdHMgKGFuY2hvci1wYXJhZ3JhcGgtaWQgZWZmZWN0cykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uIEAocmYvc3Vic2NyaWJlIFs6b3JncGFnZS9wZXJtaXNzaW9uXSkK</text>
+        <text encoding="base64">ICAgIChlZGl0b3ItY2hhbmdlL2NoYW5nZS1hY3RpdmUtcGFnZSBlZmZlY3RzIGlkIHs6YWJzb2x1dGUgbmV3LXBhZ2V9KSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uIEAocmYvc3Vic2NyaWJlIFs6b3JncGFnZS9wZXJtaXNzaW9uXSkKICAgICAgICBtb2RlIEAocmYvc3Vic2NyaWJlIFs6YXBwLXN0YXRlL21vZGVdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uIEAocmYvc3Vic2NyaWJlIFs6b3JncGFnZS9wZXJtaXNzaW9uXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfIChqcy9jb25zb2xlLmxvZyBvbGQtaW5kZXggY2hpbGQtdW5pdC1pZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uIEAocmYvc3Vic2NyaWJlIFs6b3JncGFnZS9wZXJtaXNzaW9uXSkKICAgICAgICBtb2RlIEAocmYvc3Vic2NyaWJlIFs6YXBwLXN0YXRlL21vZGVdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RpdmUtcGFnZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoPj0gYWN0aXZlLXBhZ2Ugb2xkLWluZGV4KQogICAgICAgICAgICAgICAgICAgICAgICAgIChpbmMgYWN0aXZlLXBhZ2UpCiAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZlLXBhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBfIChqcy9jb25zb2xlLmxvZyBvbGQtaW5kZXggY2hpbGQtdW5pdC1pZHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvcmVzaXplLWlkcyAod2hlbiAoPSB0eXBlIDp1bml0L2Jvb2spIChpbnRvICN7fSBuZXctY2hpbGQtdW5pdC1pZHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RpdmUtcGFnZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoPj0gYWN0aXZlLXBhZ2Ugb2xkLWluZGV4KQogICAgICAgICAgICAgICAgICAgICAgICAgIChpbmMgYWN0aXZlLXBhZ2UpCiAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZlLXBhZ2UpCg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvcmVzaXplLWlkcyAod2hlbiAoPSB0eXBlIDp1bml0L2Jvb2spIChpbnRvICN7fSBuZXctY2hpbGQtdW5pdC1pZHMpKQo=</text>
+      </register>
+      <register name="9" type="2">
         <text>(defmethod up/handle [:event-type/click-or-tap :unit-editor/next-page :mode/edit :modifier/all]
   [effects _ _ _ _ {:unit/keys [id]}]
   {:updated-effects (editor-change/change-active-page effects id {:relative +1})
    :consume-click   true})</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBldmFuZ2VsaXN0cyAobWFwICMoc2VsZWN0LWtleXMgJSAjezp1c2VyL2lkIDp1c2VyL2ZpcnN0LW5hbWUgOnVzZXIvbGFzdC1uYW1lIDp1c2VyL2VtYWlsfSkKICAgICAgICAgICAgICAgICAgICAgICAgICh1c2VyL2V2YW5nZWxpc3RzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
