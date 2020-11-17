@@ -218,6 +218,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/events/update.cljs" timestamp="1605619768541">
+        <mark key="[" line="145" column="104" />
+        <mark key="]" line="145" column="89" />
+        <mark key="^" line="145" column="89" />
+        <mark key="." line="145" column="88" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/presentation.cljs" timestamp="1604516715064">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="48" column="58" />
@@ -351,9 +357,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(cond (and in-subvec ) 
-                  )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDs7IFRPRE86IEZpeCBtZS4K</text>
       </register>
       <register name="-" type="4">
         <text>(and (= mode :mode/view) (isa? :permission/edit permission))</text>
@@ -364,36 +369,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7OnBhcmFncmFwaC9rZXlzIFtjaGlsZC1zZWdtZW50LWlkc119IChkYi1nZXQvcGFyYWdyYXBoIGVmZmVjdHMgKGFuY2hvci1wYXJhZ3JhcGgtaWQgZWZmZWN0cykpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDs7IFRPRE86IEZpeCBtZS4K</text>
+      </register>
+      <register name="2" type="4">
         <text>(cond (and in-subvec ) 
                   )</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7OnBhcmFncmFwaC9rZXlzIFtjaGlsZC1zZWdtZW50LWlkc119IChkYi1nZXQvcGFyYWdyYXBoIGVmZmVjdHMgKGFuY2hvci1wYXJhZ3JhcGgtaWQgZWZmZWN0cykpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIChlZGl0b3ItY2hhbmdlL2NoYW5nZS1hY3RpdmUtcGFnZSBlZmZlY3RzIGlkIHs6YWJzb2x1dGUgbmV3LXBhZ2V9KSkpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uIEAocmYvc3Vic2NyaWJlIFs6b3JncGFnZS9wZXJtaXNzaW9uXSkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uIEAocmYvc3Vic2NyaWJlIFs6b3JncGFnZS9wZXJtaXNzaW9uXSkKICAgICAgICBtb2RlIEAocmYvc3Vic2NyaWJlIFs6YXBwLXN0YXRlL21vZGVdKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBfIChqcy9jb25zb2xlLmxvZyBvbGQtaW5kZXggY2hpbGQtdW5pdC1pZHMpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RpdmUtcGFnZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoPj0gYWN0aXZlLXBhZ2Ugb2xkLWluZGV4KQogICAgICAgICAgICAgICAgICAgICAgICAgIChpbmMgYWN0aXZlLXBhZ2UpCiAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZlLXBhZ2UpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvcmVzaXplLWlkcyAod2hlbiAoPSB0eXBlIDp1bml0L2Jvb2spIChpbnRvICN7fSBuZXctY2hpbGQtdW5pdC1pZHMpKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text>(defmethod up/handle [:event-type/click-or-tap :unit-editor/next-page :mode/edit :modifier/all]
-  [effects _ _ _ _ {:unit/keys [id]}]
-  {:updated-effects (editor-change/change-active-page effects id {:relative +1})
-   :consume-click   true})</text>
+        <text encoding="base64">ICAgICAgICBhdXRvcmVzaXplLWlkcyAod2hlbiAoPSB0eXBlIDp1bml0L2Jvb2spIChpbnRvICN7fSBuZXctY2hpbGQtdW5pdC1pZHMpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
