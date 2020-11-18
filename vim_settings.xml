@@ -149,12 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/units/util.cljs" timestamp="1604240736014">
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="25" column="49" />
-        <mark key="^" line="25" column="49" />
-        <mark key="." line="25" column="48" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit_editor.cljs" timestamp="1604241699055">
         <mark key="'" line="53" column="69" />
         <mark key="[" line="53" column="69" />
@@ -164,9 +158,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1605621311137">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit/change.cljs" timestamp="1604240143295">
-        <mark key="[" line="121" column="78" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/orgpage/presentation.cljs" timestamp="1604241228517">
         <mark key="[" line="15" column="18" />
@@ -201,11 +192,25 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/core.cljs" timestamp="1605714220388">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="110" column="29" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/vectors.cljc" timestamp="1605213607525">
         <mark key="[" line="101" column="2" />
         <mark key="]" line="98" column="13" />
         <mark key="^" line="98" column="13" />
         <mark key="." line="98" column="12" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/core.cljs" timestamp="1605714534090">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="30" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/link.cljs" timestamp="1605714621618">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="59" />
       </file>
       <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1605210217740">
         <mark key="[" line="1" column="61" />
@@ -236,11 +241,11 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="8" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/core.cljs" timestamp="1604241121648">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="140" column="20" />
-        <mark key="^" line="140" column="20" />
-        <mark key="." line="140" column="19" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1605714701931">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/elevation_shadow.cljs" timestamp="1604459201950">
         <mark key="[" line="106" column="60" />
@@ -358,7 +363,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDs7IFRPRE86IEZpeCBtZS4K</text>
+        <text encoding="base64">OzsgQ3JlYXRlcyBhIG5ldyBsaW5rLiBUaGUgc2luZ2xlIHBhcmFtZXRlciBpcyB0aGUgbGluay1tYXAuCihkZWZtZXRob2Qgb3Avb3JncGFnZS1vcCA6bGluay9jcmVhdGUgW18gZWZmZWN0cyBbXyB7Omxpbmsva2V5cyBbaWRdIDphcyBsaW5rLW1hcH1dXQogIHs6dXBkYXRlZC1lZmZlY3RzICAgKGRiLWFzc29jL2xpbmsgZWZmZWN0cyBpZCBsaW5rLW1hcCl9KQo=</text>
       </register>
       <register name="-" type="4">
         <text>(and (= mode :mode/view) (isa? :permission/edit permission))</text>
@@ -367,7 +372,7 @@
         <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7OnBhcmFncmFwaC9rZXlzIFtjaGlsZC1zZWdtZW50LWlkc119IChkYi1nZXQvcGFyYWdyYXBoIGVmZmVjdHMgKGFuY2hvci1wYXJhZ3JhcGgtaWQgZWZmZWN0cykpCg==</text>
+        <text encoding="base64">OzsgQ3JlYXRlcyBhIG5ldyBsaW5rLiBUaGUgc2luZ2xlIHBhcmFtZXRlciBpcyB0aGUgbGluay1tYXAuCihkZWZtZXRob2Qgb3Avb3JncGFnZS1vcCA6bGluay9jcmVhdGUgW18gZWZmZWN0cyBbXyB7Omxpbmsva2V5cyBbaWRdIDphcyBsaW5rLW1hcH1dXQogIHs6dXBkYXRlZC1lZmZlY3RzICAgKGRiLWFzc29jL2xpbmsgZWZmZWN0cyBpZCBsaW5rLW1hcCl9KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDs7IFRPRE86IEZpeCBtZS4K</text>
