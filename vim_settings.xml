@@ -223,8 +223,11 @@
         <mark key="^" line="26" column="57" />
         <mark key="." line="26" column="56" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1606056655840">
-        <mark key="[" line="5" column="12" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1606120643573">
+        <mark key="[" line="83" column="92" />
+        <mark key="]" line="83" column="90" />
+        <mark key="^" line="83" column="90" />
+        <mark key="." line="83" column="89" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/elevation_shadow.cljs" timestamp="1604459201950">
         <mark key="[" line="106" column="60" />
@@ -346,15 +349,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>[:segment/split #:segment{:id      start-id
-                                                   :offsets [start-offset end-offset]
-                                                   :splits  [#:segment{:id           new-start-id
-                                                                       :style        start-style
-                                                                       :hyperlink-id start-hyperlink-id}
-                                                             #:segment{:id           new-end-id
-                                                                       :style        start-style
-                                                                       :hyperlink-id start-hyperlink-id}]}]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">OzsgRGVsZXRlcyB0aGUgY3VycmVudCBlZGl0b3Itc2VsZWN0aW9uLiBUaGUgc2VsZWN0aW9uIGNhcmV0IGlzIHBsYWNlZCBhdCB0aGUgYmVnaW5uaW5nLiBXaGVuCjs7IHNlbGVjdGlvbiBpcyBlbXB0eSwgbm90aGluZyBpcyBjaGFuZ2VkLgooZGVmbWV0aG9kIG9wL2VkaXRvci1vcCA6ZWRpdG9yL2RlbGV0ZS1zZWxlY3Rpb24gW18gZWZmZWN0cyBfIF9dCiAgKGlmIChzZWxlY3Rpb24tdXRpbC9jYXJldD8gZWZmZWN0cykKICAgIHs6dXBkYXRlZC1lZmZlY3RzIGVmZmVjdHN9CiAgICB7OnVwZGF0ZWQtZWZmZWN0cyAoLT4gZWZmZWN0cyBzZWxlY3RlZC1zdHlsZQogICAgICAgICAgICAgICAgICAgICAgICAgIGNhcmV0LXBvc2l0aW9uLWZvci1kZWxldGVkLXNlbGVjdGlvbikKICAgICA6bmV3LW9wcyAgICAgICAgIChvcHMtdG8tZGVsZXRlLXNlbGVjdGlvbiBlZmZlY3RzKX0pKQ==</text>
       </register>
       <register name="-" type="4">
         <text>(and (= mode :mode/view) (isa? :permission/edit permission))</text>
@@ -363,7 +359,7 @@
         <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydC1zdHlsZSAoZGItc2VnbWVudC9zdHlsZSBlZmZlY3RzIHN0YXJ0LWlkKQogICAgICAgIHN0YXJ0LWh5cGVybGluay1pZCAoZGItc2VnbWVudC9oeXBlcmxpbmstaWQgZWZmZWN0cyBzdGFydC1pZCkK</text>
+        <text encoding="base64">OzsgRGVsZXRlcyB0aGUgY3VycmVudCBlZGl0b3Itc2VsZWN0aW9uLiBUaGUgc2VsZWN0aW9uIGNhcmV0IGlzIHBsYWNlZCBhdCB0aGUgYmVnaW5uaW5nLiBXaGVuCjs7IHNlbGVjdGlvbiBpcyBlbXB0eSwgbm90aGluZyBpcyBjaGFuZ2VkLgooZGVmbWV0aG9kIG9wL2VkaXRvci1vcCA6ZWRpdG9yL2RlbGV0ZS1zZWxlY3Rpb24gW18gZWZmZWN0cyBfIF9dCiAgKGlmIChzZWxlY3Rpb24tdXRpbC9jYXJldD8gZWZmZWN0cykKICAgIHs6dXBkYXRlZC1lZmZlY3RzIGVmZmVjdHN9CiAgICB7OnVwZGF0ZWQtZWZmZWN0cyAoLT4gZWZmZWN0cyBzZWxlY3RlZC1zdHlsZQogICAgICAgICAgICAgICAgICAgICAgICAgIGNhcmV0LXBvc2l0aW9uLWZvci1kZWxldGVkLXNlbGVjdGlvbikKICAgICA6bmV3LW9wcyAgICAgICAgIChvcHMtdG8tZGVsZXRlLXNlbGVjdGlvbiBlZmZlY3RzKX0pKQ==</text>
       </register>
       <register name="1" type="4">
         <text>[:segment/split #:segment{:id      start-id
