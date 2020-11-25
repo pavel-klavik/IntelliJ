@@ -176,11 +176,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/js/selection.cljs" timestamp="1606303609674">
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="37" column="93" />
-        <mark key="." line="37" column="92" />
-        <mark key="^" line="37" column="93" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/js/selection.cljs" timestamp="1606305212455">
+        <mark key="[" line="72" column="6" />
+        <mark key="]" line="72" column="49" />
+        <mark key="^" line="72" column="49" />
+        <mark key="." line="72" column="48" />
       </file>
       <file name="/Dummy.txt" timestamp="1606144614778">
         <mark key="[" line="0" column="0" />
@@ -188,11 +188,10 @@
       <file name="/REPL.txt" timestamp="1606055648568">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/core.cljs" timestamp="1606303644130">
-        <mark key="[" line="64" column="61" />
-        <mark key="]" line="65" column="63" />
-        <mark key="^" line="65" column="63" />
-        <mark key="." line="65" column="62" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/core.cljs" timestamp="1606305070107">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/vectors.cljc" timestamp="1605213607525">
         <mark key="[" line="101" column="2" />
@@ -228,11 +227,11 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1606303560453">
-        <mark key="[" line="168" column="73" />
-        <mark key="]" line="144" column="89" />
-        <mark key="." line="144" column="88" />
-        <mark key="^" line="144" column="89" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1606304634869">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="90" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="108" column="88" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/segment.cljs" timestamp="1606055783596">
         <mark key="[" line="47" column="0" />
@@ -349,7 +348,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIChqcy1zZWxlY3Rpb24vdXBkYXRlLXNlbGVjdGlvbikK</text>
       </register>
       <register name="-" type="4">
         <text>(and (= mode :mode/view) (isa? :permission/edit permission))</text>
@@ -358,67 +357,27 @@
         <text>:</text>
       </register>
       <register name="0" type="2">
-        <text>(defn- delete-newline-forward
-  &quot;Adds operation joining the two paragraphs when the caret is at the end of the first paragraph
-  while deleting forward.&quot;
-  [effects]
-  (let [{:editor-selection/keys [anchor-id]} (db-get/editor-selection effects)
-        paragraph-id (db-segment/paragraph-id effects anchor-id)
-        next-paragraph-id (db-paragraph/next-paragraph effects paragraph-id)
-        next-segment-id (db-paragraph/first-segment-id effects next-paragraph-id)]
-    {:updated-effects (db-assoc/editor-selection effects #:editor-selection{:anchor-id      next-segment-id
-                                                                            :anchor-offset  0
-                                                                            :force-update   true
-                                                                            :auto-direction :editor-selection/forward})
-     :new-ops         (when next-paragraph-id
-                        [[:paragraph/join #:paragraph{:ids [paragraph-id next-paragraph-id]}]])}))
-
-(defn- delete-character-forward
-  &quot;Adds operation to delete a single character forward. If the caret occurs at the end of the current segment,
-  the character is deleted from the following segment, moving the caret there.&quot;
-  [effects]
-  (let [{:editor-selection/keys [anchor-id anchor-offset]} (db-get/editor-selection effects)
-        last-offset (db-segment/last-offset? effects anchor-id anchor-offset)]
-    (if (not last-offset)
-      {:updated-effects (db-update/editor-selection effects assoc :editor-selection/force-update true
-                                                    :editor-selection/auto-direction :editor-selection/forward)
-       :new-ops         [[:segment/remove-text #:segment{:id     anchor-id
-                                                         :offset anchor-offset
-                                                         :length 1}]]}
-      (let [next-segment-id (db-segment/next-segment effects anchor-id)]
-        {:updated-effects (db-assoc/editor-selection
-                            effects #:editor-selection{:anchor-id      next-segment-id
-                                                       :anchor-offset  0
-                                                       :force-update   true
-                                                       :auto-direction :editor-selection/forward})
-         :new-ops         [[:segment/remove-text #:segment{:id     next-segment-id
-                                                           :offset 0
-                                                           :length 1}]]}))))
-
-;; Deletes one character forward of the caret. The position of the caret will stay the same.
-(defmethod op/editor-op :editor/delete-forward [_ effects _ _]
-  (if (selection-util/caret? effects)
-    (let [{:editor-selection/keys [anchor-id anchor-offset]} (db-get/editor-selection effects)
-          last-offset (db-segment/last-offset? effects anchor-id anchor-offset)
-          last-segment (db-segment/last? effects anchor-id)]
-      (if (and last-segment last-offset)
-        (delete-newline-forward effects)
-        (delete-character-forward effects)))
-    {:updated-effects effects}))</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpibG9jay11cGRhdGVzICB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIChqcy1zZWxlY3Rpb24vdXBkYXRlLXNlbGVjdGlvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhc3Qtb2Zmc2V0IChkYi1zZWdtZW50L2xhc3Qtb2Zmc2V0PyBlZmZlY3RzIGFuY2hvci1pZCBhbmNob3Itb2Zmc2V0KQo=</text>
+        <text encoding="base64">ICAgICAgICBfIChqcy9jb25zb2xlLmxvZyAidXBkYXRlLXNlbGVjdGlvbiIgZWRpdG9yLXNlbGVjdGlvbiBhbmNob3Itbm9kZSBmb2N1cy1ub2RlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0LXNlZ21lbnQgKGRiLXNlZ21lbnQvbGFzdD8gZWZmZWN0cyBhbmNob3ItaWQpCg==</text>
+        <text encoding="base64">ICAgIGxldCBbXQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxhc3Qtb2Zmc2V0IChkYi1zZWdtZW50L2xhc3Qtb2Zmc2V0PyBlZmZlY3RzIGFuY2hvci1pZCBhbmNob3Itb2Zmc2V0KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsYXN0LXNlZ21lbnQgKGRiLXNlZ21lbnQvbGFzdD8gZWZmZWN0cyBhbmNob3ItaWQpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhZ3JhcGgtaWQgKGRiLXNlZ21lbnQvcGFyYWdyYXBoLWlkIGVmZmVjdHMgYW5jaG9yLWlkKQogICAgICAgIG5leHQtcGFyYWdyYXBoLWlkIChkYi1wYXJhZ3JhcGgvbmV4dC1wYXJhZ3JhcGggZWZmZWN0cyBwYXJhZ3JhcGgtaWQpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>[:segment/split #:segment{:id      start-id
                                                    :offsets [start-offset end-offset]
                                                    :splits  [#:segment{:id           new-start-id
@@ -428,17 +387,11 @@
                                                                        :style        start-style
                                                                        :hyperlink-id start-hyperlink-id}]}]</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzcGxpdC1zdGFydC1pZCAoYW5kICg+IHN0YXJ0LW9mZnNldCAwKSAobm90IChkYi1zZWdtZW50L2xhc3Qtb2Zmc2V0PyBlZmZlY3RzJyBzdGFydC1pZCBzdGFydC1vZmZzZXQpKSkKICAgICAgICBzcGxpdC1lbmQtaWQgKGFuZCAoPiBlbmQtb2Zmc2V0IDApIChub3QgKGRiLXNlZ21lbnQvbGFzdC1vZmZzZXQ/IGVmZmVjdHMnIGVuZC1pZCBlbmQtb2Zmc2V0KSkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDphbmNob3Itb2Zmc2V0IDAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZGIuZ2V0IDphcyBkYi1nZXRdCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbc3RhcnQtaWQgc3RhcnQtb2Zmc2V0XSAoc2VsZWN0aW9uLXV0aWwvc2VsZWN0aW9uLXN0YXJ0IGVmZmVjdHMnKQogICAgICAgIFtlbmQtaWQgZW5kLW9mZnNldF0gKHNlbGVjdGlvbi11dGlsL3NlbGVjdGlvbi1lbmQgZWZmZWN0cycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDphbmNob3Itb2Zmc2V0IDAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
