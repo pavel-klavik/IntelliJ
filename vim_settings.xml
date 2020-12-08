@@ -232,12 +232,11 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/segment.cljs" timestamp="1607420664166">
-        <mark key="'" line="65" column="76" />
-        <mark key="[" line="63" column="84" />
-        <mark key="]" line="62" column="42" />
-        <mark key="." line="62" column="41" />
-        <mark key="^" line="62" column="42" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/segment.cljs" timestamp="1607422636337">
+        <mark key="[" line="91" column="84" />
+        <mark key="]" line="88" column="85" />
+        <mark key="." line="88" column="84" />
+        <mark key="^" line="88" column="85" />
       </file>
     </filemarks>
     <jumps>
@@ -345,8 +344,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(= current :bp/RI)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzaG9ydGVuZWQtdGV4dCAoc29tZS0+IHRleHQgKHN1YnMgMCAoZmlyc3Qgb2Zmc2V0cykpIGNvbGxzL2VtcHR5LT5uaWwpCg==</text>
       </register>
       <register name="-" type="4">
         <text>(= current :bp/RI)</text>
@@ -358,34 +357,34 @@
         <text encoding="base64">ICAgICAgICB1cGRhdGUtYW5jaG9yLWJvdW5kYXJ5ICh1cGRhdGUtYm91bmRhcnktb2Zmc2V0PyBlZmZlY3RzIGFuY2hvci1pZCBhbmNob3Itb2Zmc2V0IGFuY2hvci1ib3VuZGFyeS1vZmZzZXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JyZXNwb25kaW5nLWFuY2hvci1ib3VuZGFyeS1vZmZzZXQK</text>
+        <text encoding="base64">ICAgICAgICBzaG9ydGVuZWQtdGV4dCAoc29tZS0+IHRleHQgKHN1YnMgMCAoZmlyc3Qgb2Zmc2V0cykpIGNvbGxzL2VtcHR5LT5uaWwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jb21tb24udXRpbC5zdHIgOmFzIHN0ci11dGlsXQo=</text>
+        <text encoding="base64">ICAgICAgICBjb3JyZXNwb25kaW5nLWFuY2hvci1ib3VuZGFyeS1vZmZzZXQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jb21tb24udXRpbC5zdHIgOmFzIHN0ci11dGlsXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBfIChqcy9jb25zb2xlLmxvZyAoa2V5Y29kZXMva2V5d29yZHMgKC4ta2V5Q29kZSBuYXRpdmUtZXZlbnQpKSAoLi1rZXlDb2RlIG5hdGl2ZS1ldmVudCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jb21tb24udXRpbC5zdHIgOmFzIHN0ci11dGlsXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KHJmL3JlZy1zdWItcmF3CiAgOmVkaXRvci9zZWdtZW50LWluZGV4CiAgKGZuIFtfIFtfIGlkXV0KICAgIChyYXRvbS9yZWFjdGlvbgogICAgICAobGV0IFt7OnNlZ21lbnQva2V5cyBbcGFyYWdyYXBoLWlkXX0gQChyZi9zdWJzY3JpYmUgWzplZGl0b3Ivc2VnbWVudCBpZF0pCiAgICAgICAgICAgIHNlZ21lbnQtaWRzIEAocmYvc3Vic2NyaWJlIFs6ZWRpdG9yL3BhcmFncmFwaC1zZWdtZW50LWlkcyBwYXJhZ3JhcGgtaWRdKV0KICAgICAgICAodmVjdG9ycy9pbmRleC1vZiBzZWdtZW50LWlkcyBpZCkpKSkpCgoocmYvcmVnLXN1YgogIDplZGl0b3IvZmlyc3Qtc2VnbWVudD8KICAoZm4gW1tfIGlkXSBfXQogICAgKHJmL3N1YnNjcmliZSBbOmVkaXRvci9zZWdtZW50LWluZGV4IGlkXSkpCiAgKGZuIFtpbmRleCBfIF9dCiAgICAoPSBpbmRleCAwKSkpCgoocmYvcmVnLXN1Yi1yYXcKICA6ZWRpdG9yL2xhc3Qtc2VnbWVudD8KICAoZm4gW18gW18gaWRdXQogICAgKHJhdG9tL3JlYWN0aW9uCiAgICAgIChsZXQgW2luZGV4IEAocmYvc3Vic2NyaWJlIFs6ZWRpdG9yL3NlZ21lbnQtaW5kZXggaWRdKQogICAgICAgICAgICB7OnNlZ21lbnQva2V5cyBbcGFyYWdyYXBoLWlkXX0gQChyZi9zdWJzY3JpYmUgWzplZGl0b3Ivc2VnbWVudCBpZF0pCiAgICAgICAgICAgIHNlZ21lbnQtaWRzIEAocmYvc3Vic2NyaWJlIFs6ZWRpdG9yL3BhcmFncmFwaC1zZWdtZW50LWlkcyBwYXJhZ3JhcGgtaWRdKV0KICAgICAgICAoPSBpbmRleCAoZGVjIChjb3VudCBzZWdtZW50LWlkcykpKSkpKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBfIChqcy9jb25zb2xlLmxvZyAoa2V5Y29kZXMva2V5d29yZHMgKC4ta2V5Q29kZSBuYXRpdmUtZXZlbnQpKSAoLi1rZXlDb2RlIG5hdGl2ZS1ldmVudCkpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">KHJmL3JlZy1zdWItcmF3CiAgOmVkaXRvci9zZWdtZW50LWluZGV4CiAgKGZuIFtfIFtfIGlkXV0KICAgIChyYXRvbS9yZWFjdGlvbgogICAgICAobGV0IFt7OnNlZ21lbnQva2V5cyBbcGFyYWdyYXBoLWlkXX0gQChyZi9zdWJzY3JpYmUgWzplZGl0b3Ivc2VnbWVudCBpZF0pCiAgICAgICAgICAgIHNlZ21lbnQtaWRzIEAocmYvc3Vic2NyaWJlIFs6ZWRpdG9yL3BhcmFncmFwaC1zZWdtZW50LWlkcyBwYXJhZ3JhcGgtaWRdKV0KICAgICAgICAodmVjdG9ycy9pbmRleC1vZiBzZWdtZW50LWlkcyBpZCkpKSkpCgoocmYvcmVnLXN1YgogIDplZGl0b3IvZmlyc3Qtc2VnbWVudD8KICAoZm4gW1tfIGlkXSBfXQogICAgKHJmL3N1YnNjcmliZSBbOmVkaXRvci9zZWdtZW50LWluZGV4IGlkXSkpCiAgKGZuIFtpbmRleCBfIF9dCiAgICAoPSBpbmRleCAwKSkpCgoocmYvcmVnLXN1Yi1yYXcKICA6ZWRpdG9yL2xhc3Qtc2VnbWVudD8KICAoZm4gW18gW18gaWRdXQogICAgKHJhdG9tL3JlYWN0aW9uCiAgICAgIChsZXQgW2luZGV4IEAocmYvc3Vic2NyaWJlIFs6ZWRpdG9yL3NlZ21lbnQtaW5kZXggaWRdKQogICAgICAgICAgICB7OnNlZ21lbnQva2V5cyBbcGFyYWdyYXBoLWlkXX0gQChyZi9zdWJzY3JpYmUgWzplZGl0b3Ivc2VnbWVudCBpZF0pCiAgICAgICAgICAgIHNlZ21lbnQtaWRzIEAocmYvc3Vic2NyaWJlIFs6ZWRpdG9yL3BhcmFncmFwaC1zZWdtZW50LWlkcyBwYXJhZ3JhcGgtaWRdKV0KICAgICAgICAoPSBpbmRleCAoZGVjIChjb3VudCBzZWdtZW50LWlkcykpKSkpKSkKCg==</text>
+      </register>
+      <register name="7" type="2">
         <text>(def ^:private zero-width-nbsp
   &quot;*&quot;
   ;&quot;\uFEFF&quot;
   )</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dHlwZSAgICAgICAgICA6ZWRpdG9yLXNlbGVjdGlvbi9jYXJldAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnR5cGUgICAgICAgICAgOmVkaXRvci1zZWxlY3Rpb24vY2FyZXQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnR5cGUgICAgICAgICAgOmVkaXRvci1zZWxlY3Rpb24vY2FyZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnR5cGUgICAgICAgICAgOmVkaXRvci1zZWxlY3Rpb24vY2FyZXQK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
