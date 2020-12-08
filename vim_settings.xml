@@ -149,12 +149,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/unicode.cljs" timestamp="1607383743964">
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/unicode.cljs" timestamp="1607385360210">
         <mark key="'" line="9" column="57" />
-        <mark key="[" line="276" column="16" />
-        <mark key="]" line="276" column="16" />
-        <mark key="^" line="275" column="39" />
-        <mark key="." line="276" column="16" />
+        <mark key="[" line="302" column="16" />
+        <mark key="]" line="311" column="42" />
+        <mark key="^" line="311" column="42" />
+        <mark key="." line="311" column="41" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/colls.cljc" timestamp="1607025349021">
         <mark key="[" line="22" column="20" />
@@ -173,7 +173,7 @@
         <mark key="^" line="0" column="23147" />
         <mark key="." line="0" column="23146" />
       </file>
-      <file name="/REPL.clj" timestamp="1607383692807">
+      <file name="/REPL.clj" timestamp="1607384764901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/editor/js/input.cljs" timestamp="1607066133275">
