@@ -199,11 +199,11 @@
       <file name="/REPL.txt" timestamp="1607383692811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/core.cljs" timestamp="1607746690785">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="46" column="74" />
-        <mark key="." line="46" column="73" />
-        <mark key="^" line="46" column="74" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/core.cljs" timestamp="1607747675821">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="46" column="83" />
+        <mark key="." line="46" column="82" />
+        <mark key="^" line="46" column="83" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/keyboard/keycodes.cljs" timestamp="1607044024618" />
       <file name="C:/Shared/orgpad/src/orgpad/common/sets.cljc" timestamp="1607025332277">
@@ -347,11 +347,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0cnVlIChkYi1hc3NvYy9lZGl0b3Itc3R5bGUgbmlsKQogICAgICAgICAgICAgIHRydWUgKGRiLWFzc29jL2VkaXRvci1zZWxlY3Rpb24gbmV3LXNlbGVjdGlvbikK</text>
+      <register name="&quot;" type="4">
+        <text>(selection-util/forward? effects)</text>
       </register>
       <register name="-" type="4">
-        <text>(= current :bp/RI)</text>
+        <text>(selection-util/forward? effects)</text>
       </register>
       <register name="/" type="4">
         <text>boundary</text>
