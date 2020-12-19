@@ -182,14 +182,15 @@
         <mark key="^" line="26" column="12" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/insert.cljs" timestamp="1607499828331">
-        <mark key="]" line="7" column="79" />
-        <mark key="." line="7" column="78" />
-        <mark key="^" line="7" column="79" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/keyboard_events.cljs" timestamp="1608192854485" />
-      <file name="/Dummy.txt" timestamp="1608367765623">
+      <file name="/Dummy.txt" timestamp="1608407856682">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/layout/core.cljs" timestamp="1608407766488">
+        <mark key="[" line="86" column="10" />
+        <mark key="]" line="91" column="40" />
+        <mark key="^" line="91" column="40" />
+        <mark key="." line="91" column="39" />
       </file>
       <file name="/REPL.txt" timestamp="1608365020520">
         <mark key="[" line="0" column="0" />
@@ -206,8 +207,11 @@
         <mark key="." line="96" column="5" />
         <mark key="^" line="96" column="6" />
       </file>
-      <file name="/" timestamp="1607664595224">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/post_ops.cljs" timestamp="1608407745545">
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="30" column="68" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="7" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/editor/subs/core.cljs" timestamp="1607782896880">
         <mark key="[" line="1" column="0" />
@@ -328,8 +332,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7OnByZXNlbnRhdGlvbi9rZXlzIFtwYXRoLWlkXX0gKGRiLWdldC9wcmVzZW50YXRpb24gZWZmZWN0cykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -338,7 +342,7 @@
         <text>boundary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGUtYW5jaG9yLWJvdW5kYXJ5ICh1cGRhdGUtYm91bmRhcnktb2Zmc2V0PyBlZmZlY3RzIGFuY2hvci1pZCBhbmNob3Itb2Zmc2V0IGFuY2hvci1ib3VuZGFyeS1vZmZzZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB7OnByZXNlbnRhdGlvbi9rZXlzIFtwYXRoLWlkXX0gKGRiLWdldC9wcmVzZW50YXRpb24gZWZmZWN0cykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
