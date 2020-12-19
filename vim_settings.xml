@@ -158,17 +158,23 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/util/tld.cljc" timestamp="1608364992614">
-        <mark key="[" line="0" column="26" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/util/tld.cljc" timestamp="1608367637094">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="21" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/common/spec/email.cljc" timestamp="1608366525898">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="32" />
       </file>
       <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1608192375708">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="14" column="2" />
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="1" />
-      </file>
-      <file name="/REPL.clj" timestamp="1608365020518">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/editor/js/input.cljs" timestamp="1607782945862">
         <mark key="[" line="15" column="0" />
@@ -182,7 +188,7 @@
         <mark key="^" line="7" column="79" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/keyboard_events.cljs" timestamp="1608192854485" />
-      <file name="/Dummy.txt" timestamp="1608194036282">
+      <file name="/Dummy.txt" timestamp="1608367765623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/REPL.txt" timestamp="1608365020520">
@@ -217,12 +223,6 @@
         <mark key="]" line="39" column="16" />
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="15" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/segment.cljs" timestamp="1607422636337">
-        <mark key="[" line="91" column="84" />
-        <mark key="]" line="88" column="85" />
-        <mark key="." line="88" column="84" />
-        <mark key="^" line="88" column="85" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" timestamp="1607772552678">
         <mark key="]" line="75" column="0" />
@@ -334,11 +334,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(selection-util/forward? effects)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>boundary</text>
