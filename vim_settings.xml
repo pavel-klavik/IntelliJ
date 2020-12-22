@@ -199,11 +199,11 @@
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="56" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/apply.cljs" timestamp="1608653709258">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="6" />
-        <mark key="^" line="42" column="6" />
-        <mark key="." line="42" column="5" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/apply.cljs" timestamp="1608664865211">
+        <mark key="[" line="49" column="52" />
+        <mark key="]" line="51" column="3" />
+        <mark key="^" line="51" column="3" />
+        <mark key="." line="51" column="2" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/editor/views/css.cljs" timestamp="1608630964324">
         <mark key="[" line="14" column="2" />
@@ -234,12 +234,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1608659918789">
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1608664808344">
         <mark key="'" line="84" column="54" />
-        <mark key="[" line="287" column="10" />
-        <mark key="]" line="283" column="51" />
-        <mark key="^" line="283" column="51" />
-        <mark key="." line="283" column="50" />
+        <mark key="[" line="294" column="6" />
+        <mark key="]" line="294" column="36" />
+        <mark key="^" line="294" column="36" />
+        <mark key="." line="294" column="35" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1608557401644">
         <mark key="'" line="13" column="44" />
@@ -362,18 +362,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>;; Deletes the space before the caret if it exists. The position of the caret is preserved, including anchor-id.
-(defmethod op/editor-op :editor/delete-space-backwards [_ effects _ _]
-  (if (and (selection-util/caret? effects) (delete-backwards? effects))
-    (let [effects' (selection-convert/move-caret-into-paragraph effects)
-          {:editor-selection/keys [anchor-id anchor-offset] :as editor-selection} (db-get/editor-selection effects')]
-      (if (= (first (db-segment/chars-before-backwards effects' anchor-id anchor-offset)) &quot; &quot;)
-        (let [{:keys [updated-effects] :as output} (delete-characters-backwards effects' 1)]
-          (if (= anchor-offset 0)
-            (assoc output :updated-effects (db-assoc/editor-selection updated-effects editor-selection))
-            output))
-        {:updated-effects effects}))
-    {:updated-effects effects}))</text>
+        <text encoding="base64">ICAgICAgICAgIHs6ZWRpdG9yLXNlbGVjdGlvbi9rZXlzIFthbmNob3ItaWQgYW5jaG9yLW9mZnNldF0gOmFzIGVkaXRvci1zZWxlY3Rpb259IChkYi1nZXQvZWRpdG9yLXNlbGVjdGlvbiBlZmZlY3RzJykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -382,18 +371,7 @@
         <text>auto-direction</text>
       </register>
       <register name="0" type="2">
-        <text>;; Deletes the space before the caret if it exists. The position of the caret is preserved, including anchor-id.
-(defmethod op/editor-op :editor/delete-space-backwards [_ effects _ _]
-  (if (and (selection-util/caret? effects) (delete-backwards? effects))
-    (let [effects' (selection-convert/move-caret-into-paragraph effects)
-          {:editor-selection/keys [anchor-id anchor-offset] :as editor-selection} (db-get/editor-selection effects')]
-      (if (= (first (db-segment/chars-before-backwards effects' anchor-id anchor-offset)) &quot; &quot;)
-        (let [{:keys [updated-effects] :as output} (delete-characters-backwards effects' 1)]
-          (if (= anchor-offset 0)
-            (assoc output :updated-effects (db-assoc/editor-selection updated-effects editor-selection))
-            output))
-        {:updated-effects effects}))
-    {:updated-effects effects}))</text>
+        <text encoding="base64">ICAgICAgICAgIHs6ZWRpdG9yLXNlbGVjdGlvbi9rZXlzIFthbmNob3ItaWQgYW5jaG9yLW9mZnNldF0gOmFzIGVkaXRvci1zZWxlY3Rpb259IChkYi1nZXQvZWRpdG9yLXNlbGVjdGlvbiBlZmZlY3RzJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBhcHBlbmQtc3BhY2UnIHRleHQgdGV4dCcpCg==</text>
