@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>total</entry>
         <entry>devices</entry>
         <entry>arka</entry>
         <entry>draw</entry>
@@ -25,6 +24,7 @@
         <entry>mobile</entry>
         <entry>auto-direction</entry>
         <entry>dali</entry>
+        <entry>xml</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -158,11 +158,8 @@
       <file name="C:/Shared/orgpad/src/orgpad/common/colls.cljc" timestamp="1608719672138">
         <mark key="[" line="6" column="2" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/app_state/core.cljs" timestamp="1608557800015">
-        <mark key="[" line="102" column="4" />
-        <mark key="]" line="102" column="10" />
-        <mark key="^" line="102" column="10" />
-        <mark key="." line="102" column="9" />
+      <file name="/REPL.clj" timestamp="1608750036303">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/insert.cljs" timestamp="1608653605277">
         <mark key="[" line="182" column="0" />
@@ -173,14 +170,18 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/views/keyboard_events.cljs" timestamp="1608570814988">
         <mark key="[" line="47" column="91" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1608557890078">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" timestamp="1608750866043">
+        <mark key="[" line="131" column="72" />
+        <mark key="]" line="121" column="69" />
+        <mark key="^" line="121" column="69" />
+        <mark key="." line="121" column="68" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/login.cljs" timestamp="1608557871042">
-        <mark key="[" line="131" column="94" />
-        <mark key="]" line="131" column="91" />
-        <mark key="^" line="131" column="91" />
-        <mark key="." line="131" column="90" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" timestamp="1608750022267">
+        <mark key="'" line="31" column="11" />
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="35" column="75" />
+        <mark key="^" line="35" column="75" />
+        <mark key="." line="35" column="74" />
       </file>
       <file name="/Dummy.txt" timestamp="1608729823771">
         <mark key="[" line="0" column="0" />
@@ -190,7 +191,7 @@
         <mark key="." line="84" column="31" />
         <mark key="^" line="84" column="32" />
       </file>
-      <file name="/REPL.txt" timestamp="1608630780946">
+      <file name="/REPL.txt" timestamp="1608750036305">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/help_screen.cljs" timestamp="1608557950718">
@@ -211,6 +212,7 @@
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="56" />
       </file>
+      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1608749495014" />
       <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/apply.cljs" timestamp="1608688660368">
         <mark key="[" line="51" column="29" />
         <mark key="]" line="52" column="29" />
@@ -244,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="61" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="110" column="41" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
       <jump line="111" column="34" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
       <jump line="112" column="56" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
       <jump line="116" column="39" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
@@ -344,6 +344,8 @@
       <jump line="217" column="63" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
       <jump line="84" column="54" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
       <jump line="35" column="17" filename="C:/Shared/orgpad/project.clj" />
+      <jump line="4" column="33" filename="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" />
+      <jump line="30" column="11" filename="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -355,7 +357,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dali</text>
+        <text>xml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">OzsgSWYgdGhlcmUgaXMgYSBzcGFjZSBiZWZvcmUgYW5kIGFmdGVyIGNhcmV0LCByZW1vdmVzIHRoZSBzcGFjZSBhZnRlciBjYXJldCwgc28gbXVsdGlwbGUgc3BhY2VzIGFyZSBub3QgY3JlYXRlZC4KOzsgVGhlIHBvc2l0aW9uIG9mIHRoZSBjYXJldCBpcyBwcmVzZXJ2ZWQsIGluY2x1ZGluZyBhbmNob3ItaWQuIEFsc28gOmVkaXRvci1zZWxlY3Rpb24vYXBwZW5kLXNwYWNlIGlzIHNldC4KKGRlZm1ldGhvZCBvcC9lZGl0b3Itb3AgOmVkaXRvci9kZWxldGUtZXh0cmEtc3BhY2VzIFtfIGVmZmVjdHMgXyBfXQogIChsZXQgW2VmZmVjdHMnIChzZWxlY3Rpb24tY29udmVydC9tb3ZlLWNhcmV0LWludG8tcGFyYWdyYXBoIGVmZmVjdHMpCiAgICAgICAgezplZGl0b3Itc2VsZWN0aW9uL2tleXMgW2FuY2hvci1pZCBhbmNob3Itb2Zmc2V0XSA6YXMgZWRpdG9yLXNlbGVjdGlvbn0gKGRiLWdldC9lZGl0b3Itc2VsZWN0aW9uIGVmZmVjdHMnKV0KICAgIChpZiAoYW5kICg9IChmaXJzdCAoZGItc2VnbWVudC9jaGFycy1iZWZvcmUtYmFja3dhcmRzIGVmZmVjdHMnIGFuY2hvci1pZCBhbmNob3Itb2Zmc2V0KSkgIiAiKQogICAgICAgICAgICAgKD0gKGZpcnN0IChkYi1zZWdtZW50L2NoYXJzLWFmdGVyIGVmZmVjdHMnIGFuY2hvci1pZCBhbmNob3Itb2Zmc2V0KSkgIiAiKSkKICAgICAgKGRlbGV0ZS1zcGFjZS1mb3J3YXJkIGVmZmVjdHMnKQogICAgICB7OnVwZGF0ZWQtZWZmZWN0cyBlZmZlY3RzfSkpKQo=</text>
@@ -398,9 +400,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dali</last-search>
+      <last-search>xml</last-search>
       <last-offset />
-      <last-pattern>dali</last-pattern>
+      <last-pattern>xml</last-pattern>
       <last-replace>:fa\/</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
