@@ -149,12 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/unicode.cljs" timestamp="1608721391012">
-        <mark key="[" line="326" column="1" />
-        <mark key="]" line="318" column="32" />
-        <mark key="^" line="318" column="32" />
-        <mark key="." line="318" column="31" />
-      </file>
       <file name="/REPL.clj" timestamp="1608755973052">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,11 +172,11 @@
         <mark key="^" line="186" column="96" />
         <mark key="." line="186" column="95" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/orgpage/store.clj" timestamp="1609776015393">
-        <mark key="[" line="115" column="38" />
-        <mark key="]" line="115" column="41" />
-        <mark key="^" line="115" column="41" />
-        <mark key="." line="115" column="40" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/orgpage/store.clj" timestamp="1609777077860">
+        <mark key="[" line="98" column="96" />
+        <mark key="]" line="99" column="82" />
+        <mark key="^" line="99" column="82" />
+        <mark key="." line="99" column="81" />
       </file>
       <file name="/Dummy.txt" timestamp="1609150475425">
         <mark key="[" line="0" column="0" />
@@ -211,6 +205,12 @@
       <file name="C:/Shared/orgpad/project.clj" timestamp="1609149554342">
         <mark key="'" line="33" column="17" />
         <mark key="[" line="46" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/preview.clj" timestamp="1609776180172">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="53" column="6" />
+        <mark key="^" line="53" column="6" />
+        <mark key="." line="53" column="5" />
       </file>
       <file name="$USER_HOME$/.m2/repository/clj-http/clj-http/3.10.1/clj-http-3.10.1.jar!/clj_http/core.clj" timestamp="1608755008746">
         <mark key="'" line="124" column="10" />
