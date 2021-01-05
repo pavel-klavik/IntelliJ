@@ -227,23 +227,23 @@
         <mark key="'" line="33" column="17" />
         <mark key="[" line="57" column="51" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dialogs/share_orgpage.cljs" timestamp="1609848130526">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="35" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/i18n/core.cljs" timestamp="1609853009042">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="53" />
         <mark key="." line="16" column="52" />
         <mark key="^" line="16" column="53" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/init.cljs" timestamp="1609853495219">
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="29" column="56" />
-        <mark key="^" line="29" column="56" />
-        <mark key="." line="29" column="55" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/init.cljs" timestamp="1609854305308">
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="32" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/i18n/subs.cljs" timestamp="1609854149561">
+        <mark key="[" line="16" column="52" />
+        <mark key="]" line="16" column="53" />
+        <mark key="^" line="16" column="53" />
+        <mark key="." line="16" column="52" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/dialogs/usergroups.cljs" timestamp="1609848138651">
         <mark key="[" line="4" column="32" />
@@ -360,17 +360,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>(def dicts
-  {:en              en/dict
-   :cs              cs/dict
-   :tongue/fallback :en})
-
-(def translate
-  (tongue/build-translate dicts))</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGxvZy9pbmZvICJzaGFwZS0+dW5pdCIgdGV4dCAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgcHJvcHMpKSk=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mode</text>
