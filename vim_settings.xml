@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>with-title</entry>
         <entry>dashboard\/filtered-dashboard</entry>
         <entry>:user</entry>
         <entry>stats</entry>
@@ -25,6 +24,7 @@
         <entry>308</entry>
         <entry>length</entry>
         <entry>log</entry>
+        <entry>mode</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -154,11 +154,18 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1609852041327">
-        <mark key="[" line="129" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1609852601595">
+        <mark key="[" line="207" column="29" />
+        <mark key="]" line="207" column="33" />
+        <mark key="^" line="207" column="33" />
+        <mark key="." line="207" column="32" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" timestamp="1609848094126">
-        <mark key="[" line="6" column="28" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1609852640710">
+        <mark key="'" line="124" column="38" />
+        <mark key="[" line="199" column="35" />
+        <mark key="]" line="199" column="37" />
+        <mark key="^" line="199" column="37" />
+        <mark key="." line="199" column="36" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/attachments.cljs" timestamp="1609848152450">
         <mark key="[" line="10" column="31" />
@@ -171,9 +178,6 @@
         <mark key="]" line="4" column="28" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="24" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/share_orgpage.cljs" timestamp="1609848082735">
-        <mark key="[" line="8" column="32" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/dialogs/orgpage_meta.cljs" timestamp="1609848118022">
         <mark key="[" line="3" column="32" />
@@ -189,6 +193,20 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage/core.cljs" timestamp="1609848161191">
         <mark key="[" line="3" column="27" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1609852764756">
+        <mark key="'" line="91" column="43" />
+        <mark key="[" line="208" column="49" />
+        <mark key="]" line="208" column="42" />
+        <mark key="^" line="208" column="42" />
+        <mark key="." line="208" column="41" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1609852627028">
+        <mark key="'" line="113" column="40" />
+        <mark key="[" line="188" column="39" />
+        <mark key="]" line="188" column="39" />
+        <mark key="^" line="188" column="39" />
+        <mark key="." line="188" column="38" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/i18n/translate.cljs" timestamp="1609851849072">
         <mark key="[" line="4" column="0" />
@@ -206,12 +224,6 @@
       </file>
       <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1609849641080">
         <mark key="[" line="17" column="32" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/paths/change.cljs" timestamp="1609848061904">
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="47" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="4" column="47" />
       </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1609849629337">
         <mark key="'" line="33" column="17" />
@@ -240,12 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="37" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="138" column="55" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="139" column="63" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="146" column="96" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="149" column="96" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="150" column="82" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
       <jump line="154" column="59" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
       <jump line="157" column="7" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
       <jump line="158" column="34" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
@@ -286,7 +292,6 @@
       <jump line="123" column="8" filename="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" />
       <jump line="189" column="8" filename="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" />
       <jump line="436" column="0" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
       <jump line="7" column="60" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
       <jump line="10" column="31" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
       <jump line="13" column="44" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
@@ -317,8 +322,6 @@
       <jump line="224" column="22" filename="C:/Shared/orgpad/src/orgpad/client/editor/subs/core.cljs" />
       <jump line="227" column="26" filename="C:/Shared/orgpad/src/orgpad/client/editor/subs/core.cljs" />
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
       <jump line="13" column="44" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
       <jump line="178" column="101" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
       <jump line="201" column="80" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
@@ -340,6 +343,15 @@
       <jump line="25" column="21" filename="C:/Shared/orgpad/src/orgpad/landing/scripts/device.js" />
       <jump line="69" column="44" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
       <jump line="126" column="0" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="112" column="11" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="113" column="40" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="123" column="11" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="124" column="38" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="90" column="11" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="91" column="43" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -357,7 +369,7 @@
         <text encoding="base64">KGxvZy9pbmZvICJzaGFwZS0+dW5pdCIgdGV4dCAod2l0aC1vdXQtc3RyIChjbG9qdXJlLnBwcmludC9wcHJpbnQgcHJvcHMpKSk=</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>mode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZiB0ZXh0cwogICJBIG1hcCBmcm9tIGtleXdvcmRzIHRvIHRoZSBjb3JyZXNwb25kaW5nIEVuZ2xpc2ggdGV4dHMuIgogIHs6YnV0dG9uL2NhbmNlbCAiQ2FuY2VsIn0pCg==</text>
@@ -402,9 +414,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>log</last-search>
+      <last-search>mode</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>mode</last-pattern>
       <last-replace>:fa\/</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
