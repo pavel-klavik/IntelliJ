@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dashboard\/filtered-dashboard</entry>
         <entry>:user</entry>
         <entry>stats</entry>
         <entry>metrics</entry>
@@ -25,6 +24,7 @@
         <entry>length</entry>
         <entry>log</entry>
         <entry>mode</entry>
+        <entry>editor-selection</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -170,6 +170,9 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/i18n/translate.cljs" timestamp="1609853290537">
         <mark key="[" line="3" column="12" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" timestamp="1610205824864">
+        <mark key="'" line="21" column="28" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/i18n/core.cljs" timestamp="1609853009042">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="53" />
@@ -212,13 +215,6 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1609852764756">
-        <mark key="'" line="91" column="43" />
-        <mark key="[" line="208" column="49" />
-        <mark key="]" line="208" column="42" />
-        <mark key="^" line="208" column="42" />
-        <mark key="." line="208" column="41" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/i18n/events.cljs" timestamp="1609944555845">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="53" />
@@ -242,11 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="59" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="157" column="7" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="158" column="34" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="12" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/orgpage/links/render.cljs" />
-      <jump line="77" column="0" filename="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" />
       <jump line="22" column="54" filename="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" />
       <jump line="252" column="32" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="263" column="30" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
@@ -342,6 +333,11 @@
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
       <jump line="90" column="11" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
       <jump line="91" column="43" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
+      <jump line="16" column="11" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
+      <jump line="19" column="33" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
+      <jump line="20" column="24" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
+      <jump line="21" column="28" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +349,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mode</text>
+        <text>editor-selection</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgOmxvYWRpbmcvaW5pdGlhbC1hdXRvcmVzaXplICAgICAiQ29tcHV0aW5nIHNpemVzIG9mIGFsbCB1bml0cywge251bS11bml0c30gcmVtYWluaW5nIC4uLiIKICAgOmxvYWRpbmcvaW5pdGlhbC1sYXlvdXQgICAgICAgICAiSW1wcm92aW5nIHRoZSBpbml0aWFsIGxheW91dCAuLi4iCiAgIDpsb2FkaW5nL3Jlc3RvcmluZy1vcGVuZWQtcGFnZXMgIlJlc3RvcmluZyBwb3NpdGlvbiBvZiBvcGVuZWQgcGFnZXMgLi4uIgogICA6bG9hZGluZy9nZXR0aW5nLW9yZ3BhZ2UgICAgICAgICJEb3dubG9hZGluZyBhbiBvcmdwYWdlIGZyb20gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL2dldHRpbmctZGFzaGJvYXJkICAgICAgIkRvd25sb2FkaW5nIHRoZSBsaXN0IG9mIGF2YWlsYWJsZSBvcmdwYWdlcyBmcm9tIHRoZSBzZXJ2ZXIgLi4uIgogICA6bG9hZGluZy91cGxvYWRpbmctb3JncGFnZSAgICAgICJVcGxvYWRpbmcgYW4gb3JncGFnZSB0byB0aGUgc2VydmVyIC4uLiIKICAgOmxvYWRpbmcvYXV0aG9yaXppbmctdXNlciAgICAgICAiQXV0aG9yaXppbmcgdGhlIHVzZXIgLi4uIgogICA6bG9hZGluZy93cy1pbml0ICAgICAgICAgICAgICAgICJTZXR0aW5nIHVwIGNvbm5lY3Rpb24gdG8gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL3dzLWNsb3NlZCAgICAgICAgICAgICAgKHN0ciAiQ29ubmVjdGlvbiB0byBzZXJ2ZXIgY2xvc2VkLCB0cnlpbmcgdG8gcmVjb25uZWN0LiAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiSWYgdGhlIHByb2JsZW0gcGVyc2lzdHMsIHJlbG9hZCB0aGUgcGFnZS4iKQogICA6bG9hZGluZy9hZG1pbmlzdHJhdGlvbiAgICAgICAgICJMb2FkaW5nIGFkbWluaXN0cmF0aW9uIGRhdGEgLi4uIgogICA6bG9hZGluZy9zdHlsZSAgICAgICAgICAgICAgICAgICJMb2FkaW5nIHN0eWxlcyAuLi4iCiAgIDpsb2FkaW5nL3VwbG9hZGluZy1hdHRhY2htZW50cyAgIlVwbG9hZGluZyBhdHRhY2htZW50cyB0byB0aGUgc2VydmVyIC4uLiIK</text>
@@ -400,9 +396,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mode</last-search>
+      <last-search>editor-selection</last-search>
       <last-offset />
-      <last-pattern>mode</last-pattern>
+      <last-pattern>editor-selection</last-pattern>
       <last-replace>:fa\/</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
