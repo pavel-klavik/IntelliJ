@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>stats</entry>
         <entry>metrics</entry>
         <entry>date\/</entry>
         <entry>console</entry>
@@ -25,6 +24,7 @@
         <entry>mode</entry>
         <entry>editor-selection</entry>
         <entry>unconfirmed-ops</entry>
+        <entry>autoresize</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -179,30 +179,31 @@
         <mark key="." line="240" column="24" />
         <mark key="^" line="240" column="25" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1610665047815">
+        <mark key="'" line="302" column="20" />
+        <mark key="[" line="207" column="29" />
+        <mark key="]" line="207" column="33" />
+        <mark key="^" line="207" column="33" />
+        <mark key="." line="207" column="32" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/icon.cljs" timestamp="1609856556515">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="73" />
         <mark key="^" line="32" column="73" />
         <mark key="." line="32" column="72" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1610384202622">
-        <mark key="'" line="195" column="3" />
-        <mark key="[" line="199" column="35" />
-        <mark key="]" line="199" column="37" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1610665073421">
+        <mark key="'" line="283" column="33" />
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="0" />
         <mark key="^" line="199" column="37" />
-        <mark key="." line="199" column="36" />
+        <mark key="." line="360" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/i18n/en.cljs" timestamp="1609939657309">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="19" column="76" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="24" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/menu.cljs" timestamp="1609856009122">
-        <mark key="[" line="66" column="49" />
-        <mark key="]" line="33" column="11" />
-        <mark key="^" line="33" column="11" />
-        <mark key="." line="33" column="10" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/keyboard_events.cljs" timestamp="1609944003683">
         <mark key="[" line="23" column="10" />
@@ -231,16 +232,14 @@
         <mark key="^" line="67" column="52" />
         <mark key="." line="67" column="51" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/apply.cljs" timestamp="1610665170134">
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="24" column="48" />
+        <mark key="^" line="24" column="48" />
+        <mark key="." line="24" column="47" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="32" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="263" column="30" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="37" column="7" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="38" column="16" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="114" column="16" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="119" column="20" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="120" column="22" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="121" column="31" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="123" column="34" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="124" column="32" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="203" column="28" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
@@ -333,26 +332,40 @@
       <jump line="20" column="24" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
       <jump line="21" column="28" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
       <jump line="195" column="3" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="164" column="5" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="293" column="18" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="296" column="20" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="302" column="20" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="156" column="14" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="360" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="282" column="6" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="283" column="33" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0LXNlZ21lbnQtaWQgKGRiLXBhcmFncmFwaC9maXJzdC1zZWdtZW50LWlkIGVmZmVjdHMgbmV4dC1wYXJhZ3JhcGgtaWQpCg==</text>
+        <text encoding="base64">ICAoZ2V0LWluLWRiIGRiLW9yLWVmZmVjdHMgcGF0aHMvYXV0b3Jlc2l6ZSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>unconfirmed-ops</text>
+        <text>autoresize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgOmxvYWRpbmcvaW5pdGlhbC1hdXRvcmVzaXplICAgICAiQ29tcHV0aW5nIHNpemVzIG9mIGFsbCB1bml0cywge251bS11bml0c30gcmVtYWluaW5nIC4uLiIKICAgOmxvYWRpbmcvaW5pdGlhbC1sYXlvdXQgICAgICAgICAiSW1wcm92aW5nIHRoZSBpbml0aWFsIGxheW91dCAuLi4iCiAgIDpsb2FkaW5nL3Jlc3RvcmluZy1vcGVuZWQtcGFnZXMgIlJlc3RvcmluZyBwb3NpdGlvbiBvZiBvcGVuZWQgcGFnZXMgLi4uIgogICA6bG9hZGluZy9nZXR0aW5nLW9yZ3BhZ2UgICAgICAgICJEb3dubG9hZGluZyBhbiBvcmdwYWdlIGZyb20gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL2dldHRpbmctZGFzaGJvYXJkICAgICAgIkRvd25sb2FkaW5nIHRoZSBsaXN0IG9mIGF2YWlsYWJsZSBvcmdwYWdlcyBmcm9tIHRoZSBzZXJ2ZXIgLi4uIgogICA6bG9hZGluZy91cGxvYWRpbmctb3JncGFnZSAgICAgICJVcGxvYWRpbmcgYW4gb3JncGFnZSB0byB0aGUgc2VydmVyIC4uLiIKICAgOmxvYWRpbmcvYXV0aG9yaXppbmctdXNlciAgICAgICAiQXV0aG9yaXppbmcgdGhlIHVzZXIgLi4uIgogICA6bG9hZGluZy93cy1pbml0ICAgICAgICAgICAgICAgICJTZXR0aW5nIHVwIGNvbm5lY3Rpb24gdG8gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL3dzLWNsb3NlZCAgICAgICAgICAgICAgKHN0ciAiQ29ubmVjdGlvbiB0byBzZXJ2ZXIgY2xvc2VkLCB0cnlpbmcgdG8gcmVjb25uZWN0LiAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiSWYgdGhlIHByb2JsZW0gcGVyc2lzdHMsIHJlbG9hZCB0aGUgcGFnZS4iKQogICA6bG9hZGluZy9hZG1pbmlzdHJhdGlvbiAgICAgICAgICJMb2FkaW5nIGFkbWluaXN0cmF0aW9uIGRhdGEgLi4uIgogICA6bG9hZGluZy9zdHlsZSAgICAgICAgICAgICAgICAgICJMb2FkaW5nIHN0eWxlcyAuLi4iCiAgIDpsb2FkaW5nL3VwbG9hZGluZy1hdHRhY2htZW50cyAgIlVwbG9hZGluZyBhdHRhY2htZW50cyB0byB0aGUgc2VydmVyIC4uLiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0LXNlZ21lbnQtaWQgKGRiLXBhcmFncmFwaC9maXJzdC1zZWdtZW50LWlkIGVmZmVjdHMgbmV4dC1wYXJhZ3JhcGgtaWQpCg==</text>
+        <text encoding="base64">ICAoZ2V0LWluLWRiIGRiLW9yLWVmZmVjdHMgcGF0aHMvYXV0b3Jlc2l6ZSkpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">KGRlZm4gYXV0b3Jlc2l6ZSBbZGItb3ItZWZmZWN0c10K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBuZXh0LXNlZ21lbnQtaWQgKGRiLXBhcmFncmFwaC9maXJzdC1zZWdtZW50LWlkIGVmZmVjdHMgbmV4dC1wYXJhZ3JhcGgtaWQpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text>(defn- caret-position-for-deleted-selection
   &quot;Sets caret right after the selection which is removed.&quot;
   [effects]
@@ -364,34 +377,22 @@
                                 [start-paragraph-id :editor-selection/paragraph-end]
                                 [(db-segment/next-segment effects start-id) 0]))))</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICI6a2V5Ym9yZC9rZXktZG93biIgcHJlc3NlZC1rZXlzKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgcnVsZXMpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInRvZ2dsZS1sYW5nIiBsYW5nICItPiIgbmV3LWxhbmcpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>(if (= state :loading/initial-autoresize)
                                     [state {:num-units @(rf/subscribe [:autoresize/units-remaining])}]
                                     state)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQudmlld3Mud2lkZ2V0cy5pY29uIDphcyBpY29uXQogICAgICAgICAgICBbb3JncGFkLmNsaWVudC52aWV3cy53aWRnZXRzLnBhcGVyIDphcyBwYXBlcl0K</text>
-      </register>
-      <register name="8" type="2">
-        <text>(def dicts
-  {:en              en/dict
-   :cs              cs/dict
-   :tongue/fallback :en})
-
-(def translate
-  (tongue/build-translate dicts))</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgIkJ1aWxkaW5nIGRpY3Rpb25hcmllcyAuLi4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQudmlld3Mud2lkZ2V0cy5pY29uIDphcyBpY29uXQogICAgICAgICAgICBbb3JncGFkLmNsaWVudC52aWV3cy53aWRnZXRzLnBhcGVyIDphcyBwYXBlcl0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -400,9 +401,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>unconfirmed-ops</last-search>
+      <last-search>autoresize</last-search>
       <last-offset />
-      <last-pattern>unconfirmed-ops</last-pattern>
+      <last-pattern>autoresize</last-pattern>
       <last-replace>:fa\/</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
