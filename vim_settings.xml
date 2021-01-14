@@ -173,11 +173,11 @@
         <mark key="^" line="103" column="60" />
         <mark key="." line="103" column="59" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1610657600887">
-        <mark key="[" line="190" column="79" />
-        <mark key="]" line="190" column="93" />
-        <mark key="^" line="190" column="93" />
-        <mark key="." line="190" column="92" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1610659647257">
+        <mark key="[" line="211" column="72" />
+        <mark key="]" line="240" column="25" />
+        <mark key="." line="240" column="24" />
+        <mark key="^" line="240" column="25" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/icon.cljs" timestamp="1609856556515">
         <mark key="[" line="32" column="21" />
@@ -215,7 +215,7 @@
         <mark key="]" line="36" column="53" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1609944838492">
+      <file name="/Dummy.txt" timestamp="1610659049270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/keyboard/rules/login.cljs" timestamp="1609944252431" />
@@ -338,7 +338,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICI6a2V5Ym9yZC9rZXktZG93biIgcHJlc3NlZC1rZXlzKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0LXNlZ21lbnQtaWQgKGRiLXBhcmFncmFwaC9maXJzdC1zZWdtZW50LWlkIGVmZmVjdHMgbmV4dC1wYXJhZ3JhcGgtaWQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -350,23 +350,38 @@
         <text encoding="base64">ICAgOmxvYWRpbmcvaW5pdGlhbC1hdXRvcmVzaXplICAgICAiQ29tcHV0aW5nIHNpemVzIG9mIGFsbCB1bml0cywge251bS11bml0c30gcmVtYWluaW5nIC4uLiIKICAgOmxvYWRpbmcvaW5pdGlhbC1sYXlvdXQgICAgICAgICAiSW1wcm92aW5nIHRoZSBpbml0aWFsIGxheW91dCAuLi4iCiAgIDpsb2FkaW5nL3Jlc3RvcmluZy1vcGVuZWQtcGFnZXMgIlJlc3RvcmluZyBwb3NpdGlvbiBvZiBvcGVuZWQgcGFnZXMgLi4uIgogICA6bG9hZGluZy9nZXR0aW5nLW9yZ3BhZ2UgICAgICAgICJEb3dubG9hZGluZyBhbiBvcmdwYWdlIGZyb20gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL2dldHRpbmctZGFzaGJvYXJkICAgICAgIkRvd25sb2FkaW5nIHRoZSBsaXN0IG9mIGF2YWlsYWJsZSBvcmdwYWdlcyBmcm9tIHRoZSBzZXJ2ZXIgLi4uIgogICA6bG9hZGluZy91cGxvYWRpbmctb3JncGFnZSAgICAgICJVcGxvYWRpbmcgYW4gb3JncGFnZSB0byB0aGUgc2VydmVyIC4uLiIKICAgOmxvYWRpbmcvYXV0aG9yaXppbmctdXNlciAgICAgICAiQXV0aG9yaXppbmcgdGhlIHVzZXIgLi4uIgogICA6bG9hZGluZy93cy1pbml0ICAgICAgICAgICAgICAgICJTZXR0aW5nIHVwIGNvbm5lY3Rpb24gdG8gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL3dzLWNsb3NlZCAgICAgICAgICAgICAgKHN0ciAiQ29ubmVjdGlvbiB0byBzZXJ2ZXIgY2xvc2VkLCB0cnlpbmcgdG8gcmVjb25uZWN0LiAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiSWYgdGhlIHByb2JsZW0gcGVyc2lzdHMsIHJlbG9hZCB0aGUgcGFnZS4iKQogICA6bG9hZGluZy9hZG1pbmlzdHJhdGlvbiAgICAgICAgICJMb2FkaW5nIGFkbWluaXN0cmF0aW9uIGRhdGEgLi4uIgogICA6bG9hZGluZy9zdHlsZSAgICAgICAgICAgICAgICAgICJMb2FkaW5nIHN0eWxlcyAuLi4iCiAgIDpsb2FkaW5nL3VwbG9hZGluZy1hdHRhY2htZW50cyAgIlVwbG9hZGluZyBhdHRhY2htZW50cyB0byB0aGUgc2VydmVyIC4uLiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICI6a2V5Ym9yZC9rZXktZG93biIgcHJlc3NlZC1rZXlzKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0LXNlZ21lbnQtaWQgKGRiLXBhcmFncmFwaC9maXJzdC1zZWdtZW50LWlkIGVmZmVjdHMgbmV4dC1wYXJhZ3JhcGgtaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgcnVsZXMpCg==</text>
+        <text>(defn- caret-position-for-deleted-selection
+  &quot;Sets caret right after the selection which is removed.&quot;
+  [effects]
+  (let [[start-id] (selection-util/selection-end effects)
+        start-paragraph-id (db-segment/paragraph-id effects start-id)
+        [end-id] (selection-util/selection-end effects)]
+    (selection-util/set-caret effects
+                              (if (db-segment/last? effects end-id)
+                                [start-paragraph-id :editor-selection/paragraph-end]
+                                [(db-segment/next-segment effects start-id) 0]))))</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICI6a2V5Ym9yZC9rZXktZG93biIgcHJlc3NlZC1rZXlzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgcnVsZXMpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInRvZ2dsZS1sYW5nIiBsYW5nICItPiIgbmV3LWxhbmcpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>(if (= state :loading/initial-autoresize)
                                     [state {:num-units @(rf/subscribe [:autoresize/units-remaining])}]
                                     state)</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQudmlld3Mud2lkZ2V0cy5pY29uIDphcyBpY29uXQogICAgICAgICAgICBbb3JncGFkLmNsaWVudC52aWV3cy53aWRnZXRzLnBhcGVyIDphcyBwYXBlcl0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text>(def dicts
   {:en              en/dict
    :cs              cs/dict
@@ -375,14 +390,8 @@
 (def translate
   (tongue/build-translate dicts))</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgIkJ1aWxkaW5nIGRpY3Rpb25hcmllcyAuLi4iKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jb21tb24udXRpbC51cmwgOmFzIHVybF0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQudXRpbC5ob3N0IDphcyBob3N0XQogICAgICAgICAgICBbb3JncGFkLmNsaWVudC51dGlsLmkxOG4gOmFzIGkxOG5dCg==</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgIkJ1aWxkaW5nIGRpY3Rpb25hcmllcyAuLi4iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
