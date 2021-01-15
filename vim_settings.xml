@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>metrics</entry>
         <entry>date\/</entry>
         <entry>console</entry>
         <entry>charts</entry>
@@ -25,6 +24,7 @@
         <entry>editor-selection</entry>
         <entry>unconfirmed-ops</entry>
         <entry>autoresize</entry>
+        <entry>offset-map</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -167,6 +167,13 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="72" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/paragraph.cljs" timestamp="1610682727660">
+        <mark key="'" line="75" column="22" />
+        <mark key="[" line="97" column="33" />
+        <mark key="]" line="97" column="70" />
+        <mark key="^" line="97" column="70" />
+        <mark key="." line="97" column="69" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" timestamp="1610657990914">
         <mark key="[" line="105" column="38" />
         <mark key="]" line="103" column="60" />
@@ -216,7 +223,7 @@
         <mark key="]" line="36" column="53" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1610665814810">
+      <file name="/Dummy.txt" timestamp="1610682752988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/keyboard/rules/login.cljs" timestamp="1609944252431" />
@@ -240,9 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="34" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="124" column="32" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="203" column="28" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="204" column="80" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="209" column="8" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="21" column="4" filename="C:/Shared/orgpad/src/orgpad/client/util/date.cljs" />
@@ -340,6 +344,9 @@
       <jump line="360" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
       <jump line="282" column="6" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
       <jump line="283" column="33" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="16" column="19" filename="C:/Shared/orgpad/src/orgpad/client/op/paragraph.cljs" />
+      <jump line="64" column="24" filename="C:/Shared/orgpad/src/orgpad/client/op/paragraph.cljs" />
+      <jump line="75" column="22" filename="C:/Shared/orgpad/src/orgpad/client/op/paragraph.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,7 +358,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>autoresize</text>
+        <text>offset-map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgOmxvYWRpbmcvaW5pdGlhbC1hdXRvcmVzaXplICAgICAiQ29tcHV0aW5nIHNpemVzIG9mIGFsbCB1bml0cywge251bS11bml0c30gcmVtYWluaW5nIC4uLiIKICAgOmxvYWRpbmcvaW5pdGlhbC1sYXlvdXQgICAgICAgICAiSW1wcm92aW5nIHRoZSBpbml0aWFsIGxheW91dCAuLi4iCiAgIDpsb2FkaW5nL3Jlc3RvcmluZy1vcGVuZWQtcGFnZXMgIlJlc3RvcmluZyBwb3NpdGlvbiBvZiBvcGVuZWQgcGFnZXMgLi4uIgogICA6bG9hZGluZy9nZXR0aW5nLW9yZ3BhZ2UgICAgICAgICJEb3dubG9hZGluZyBhbiBvcmdwYWdlIGZyb20gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL2dldHRpbmctZGFzaGJvYXJkICAgICAgIkRvd25sb2FkaW5nIHRoZSBsaXN0IG9mIGF2YWlsYWJsZSBvcmdwYWdlcyBmcm9tIHRoZSBzZXJ2ZXIgLi4uIgogICA6bG9hZGluZy91cGxvYWRpbmctb3JncGFnZSAgICAgICJVcGxvYWRpbmcgYW4gb3JncGFnZSB0byB0aGUgc2VydmVyIC4uLiIKICAgOmxvYWRpbmcvYXV0aG9yaXppbmctdXNlciAgICAgICAiQXV0aG9yaXppbmcgdGhlIHVzZXIgLi4uIgogICA6bG9hZGluZy93cy1pbml0ICAgICAgICAgICAgICAgICJTZXR0aW5nIHVwIGNvbm5lY3Rpb24gdG8gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL3dzLWNsb3NlZCAgICAgICAgICAgICAgKHN0ciAiQ29ubmVjdGlvbiB0byBzZXJ2ZXIgY2xvc2VkLCB0cnlpbmcgdG8gcmVjb25uZWN0LiAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiSWYgdGhlIHByb2JsZW0gcGVyc2lzdHMsIHJlbG9hZCB0aGUgcGFnZS4iKQogICA6bG9hZGluZy9hZG1pbmlzdHJhdGlvbiAgICAgICAgICJMb2FkaW5nIGFkbWluaXN0cmF0aW9uIGRhdGEgLi4uIgogICA6bG9hZGluZy9zdHlsZSAgICAgICAgICAgICAgICAgICJMb2FkaW5nIHN0eWxlcyAuLi4iCiAgIDpsb2FkaW5nL3VwbG9hZGluZy1hdHRhY2htZW50cyAgIlVwbG9hZGluZyBhdHRhY2htZW50cyB0byB0aGUgc2VydmVyIC4uLiIK</text>
@@ -401,9 +408,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>autoresize</last-search>
+      <last-search>offset-map</last-search>
       <last-offset />
-      <last-pattern>autoresize</last-pattern>
+      <last-pattern>offset-map</last-pattern>
       <last-replace>:fa\/</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
