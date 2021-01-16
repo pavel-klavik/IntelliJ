@@ -203,11 +203,11 @@
         <mark key="^" line="67" column="52" />
         <mark key="." line="67" column="51" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" timestamp="1610657990914">
-        <mark key="[" line="105" column="38" />
-        <mark key="]" line="103" column="60" />
-        <mark key="^" line="103" column="60" />
-        <mark key="." line="103" column="59" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" timestamp="1610773124137">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/i18n/cs.cljs" timestamp="1609940288476">
         <mark key="[" line="9" column="36" />
@@ -350,11 +350,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAoZ2V0LWluLWRiIGRiLW9yLWVmZmVjdHMgcGF0aHMvYXV0b3Jlc2l6ZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>(db-get/editor-selection effects)</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(db-get/editor-selection effects)</text>
       </register>
       <register name="/" type="4">
         <text>offset-map</text>
