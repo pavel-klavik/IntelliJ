@@ -188,11 +188,11 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" timestamp="1610814753329">
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="28" column="21" />
-        <mark key="." line="28" column="20" />
-        <mark key="^" line="28" column="21" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" timestamp="1610817772945">
+        <mark key="[" line="80" column="88" />
+        <mark key="]" line="80" column="139" />
+        <mark key="." line="80" column="138" />
+        <mark key="^" line="80" column="139" />
       </file>
       <file name="/REPL.clj" timestamp="1610813539720">
         <mark key="[" line="0" column="0" />
@@ -340,7 +340,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOmVkaXRvci9yZW1vdmUtdW5uZWVkZWQtb3BzIiByZW1vdmVkLXNlZ21lbnQtaWRzIG9wcyBmaWx0ZXJlZC1vcHMpCg==</text>
       </register>
       <register name="-" type="4">
         <text>(db-get/editor-selection effects)</text>
@@ -352,21 +352,24 @@
         <text encoding="base64">ICAgOmxvYWRpbmcvaW5pdGlhbC1hdXRvcmVzaXplICAgICAiQ29tcHV0aW5nIHNpemVzIG9mIGFsbCB1bml0cywge251bS11bml0c30gcmVtYWluaW5nIC4uLiIKICAgOmxvYWRpbmcvaW5pdGlhbC1sYXlvdXQgICAgICAgICAiSW1wcm92aW5nIHRoZSBpbml0aWFsIGxheW91dCAuLi4iCiAgIDpsb2FkaW5nL3Jlc3RvcmluZy1vcGVuZWQtcGFnZXMgIlJlc3RvcmluZyBwb3NpdGlvbiBvZiBvcGVuZWQgcGFnZXMgLi4uIgogICA6bG9hZGluZy9nZXR0aW5nLW9yZ3BhZ2UgICAgICAgICJEb3dubG9hZGluZyBhbiBvcmdwYWdlIGZyb20gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL2dldHRpbmctZGFzaGJvYXJkICAgICAgIkRvd25sb2FkaW5nIHRoZSBsaXN0IG9mIGF2YWlsYWJsZSBvcmdwYWdlcyBmcm9tIHRoZSBzZXJ2ZXIgLi4uIgogICA6bG9hZGluZy91cGxvYWRpbmctb3JncGFnZSAgICAgICJVcGxvYWRpbmcgYW4gb3JncGFnZSB0byB0aGUgc2VydmVyIC4uLiIKICAgOmxvYWRpbmcvYXV0aG9yaXppbmctdXNlciAgICAgICAiQXV0aG9yaXppbmcgdGhlIHVzZXIgLi4uIgogICA6bG9hZGluZy93cy1pbml0ICAgICAgICAgICAgICAgICJTZXR0aW5nIHVwIGNvbm5lY3Rpb24gdG8gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL3dzLWNsb3NlZCAgICAgICAgICAgICAgKHN0ciAiQ29ubmVjdGlvbiB0byBzZXJ2ZXIgY2xvc2VkLCB0cnlpbmcgdG8gcmVjb25uZWN0LiAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiSWYgdGhlIHByb2JsZW0gcGVyc2lzdHMsIHJlbG9hZCB0aGUgcGFnZS4iKQogICA6bG9hZGluZy9hZG1pbmlzdHJhdGlvbiAgICAgICAgICJMb2FkaW5nIGFkbWluaXN0cmF0aW9uIGRhdGEgLi4uIgogICA6bG9hZGluZy9zdHlsZSAgICAgICAgICAgICAgICAgICJMb2FkaW5nIHN0eWxlcyAuLi4iCiAgIDpsb2FkaW5nL3VwbG9hZGluZy1hdHRhY2htZW50cyAgIlVwbG9hZGluZyBhdHRhY2htZW50cyB0byB0aGUgc2VydmVyIC4uLiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOmVkaXRvci9yZW1vdmUtdW5uZWVkZWQtb3BzIiByZW1vdmVkLXNlZ21lbnQtaWRzIG9wcyBmaWx0ZXJlZC1vcHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZm4tIHVwZGF0ZS1wb3MtZm9yLWpvaW5pbmcKICAiVXBkYXRlcyBlZGl0b3Itc2VsZWN0aW9uIHBvcyBvZiB0aGUgZ2l2ZW4gcG9zLWtleSB3aGVuIGl0IGFwcGVhcnMgaW4gdGhlIG1pZGRsZQogIG9mIGpvaW5lZCBzZWdtZW50cy4iCiAgW2VkaXRvci1zZWxlY3Rpb24gZWZmZWN0cyBzZWdtZW50LWlkcyBwb3Mta2V5XQogIChsZXQgW1tzZWdtZW50LWlkIHNlZ21lbnQtb2Zmc2V0XSAoZ2V0IGVkaXRvci1zZWxlY3Rpb24gcG9zLWtleSldCiAgICAoaWYgKGNvbGxzL3NvbWU9IHNlZ21lbnQtaWRzIHNlZ21lbnQtaWQpCiAgICAgIChsZXQgW25ldy1zZWdtZW50LWlkIChmaXJzdCBzZWdtZW50LWlkcykKICAgICAgICAgICAgbmV3LW9mZnNldCAoLT4+IHNlZ21lbnQtaWRzICh0YWtlLXdoaWxlICMobm90PSAlIHNlZ21lbnQtaWQpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKG1hcCAocGFydGlhbCBkYi1zZWdtZW50L251bS1jaGFycyBlZmZlY3RzKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIChhcHBseSArIHNlZ21lbnQtb2Zmc2V0KSldCiAgICAgICAgKGFzc29jIGVkaXRvci1zZWxlY3Rpb24gcG9zLWtleSBbbmV3LXNlZ21lbnQtaWQgbmV3LW9mZnNldF0pCiAgICAgICAgKGRiLXVwZGF0ZS9lZGl0b3Itc2VsZWN0aW9uIGVmZmVjdHMgYXNzb2MgcG9zLWtleSApKQogICAgICBlZGl0b3Itc2VsZWN0aW9uKSkpCgooZGVmbi0gdXBkYXRlLWVkaXRvci1zZWxlY3Rpb24tZm9yLWpvaW5pbmcKICAiVXBkYXRlcyBlZGl0b3Itc2VsZWN0aW9uIHdoZW4gYW5jaG9yLWlkIG9yIGZvY3VzLWlkIGlzIGpvaW5lZCB3aXRoIGFub3RoZXIgc2VnbWVudHMuIgogIFtlZmZlY3RzIGVkaXRvci1zZWxlY3Rpb24gc2VnbWVudC1pZHNdCiAgKC0+IGVkaXRvci1zZWxlY3Rpb24gKHVwZGF0ZS1wb3MtZm9yLWpvaW5pbmcgZWZmZWN0cyBzZWdtZW50LWlkcyA6ZWRpdG9yLXNlbGVjdGlvbi9hbmNob3IpCiAgICAgICh1cGRhdGUtcG9zLWZvci1qb2luaW5nIHNlZ21lbnQtaWRzIGVmZmVjdHMgOmVkaXRvci1zZWxlY3Rpb24vZm9jdXMpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAoZ2V0LWluLWRiIGRiLW9yLWVmZmVjdHMgcGF0aHMvYXV0b3Jlc2l6ZSkpCg==</text>
+        <text encoding="base64">KGRlZm4tIHVwZGF0ZS1wb3MtZm9yLWpvaW5pbmcKICAiVXBkYXRlcyBlZGl0b3Itc2VsZWN0aW9uIHBvcyBvZiB0aGUgZ2l2ZW4gcG9zLWtleSB3aGVuIGl0IGFwcGVhcnMgaW4gdGhlIG1pZGRsZQogIG9mIGpvaW5lZCBzZWdtZW50cy4iCiAgW2VkaXRvci1zZWxlY3Rpb24gZWZmZWN0cyBzZWdtZW50LWlkcyBwb3Mta2V5XQogIChsZXQgW1tzZWdtZW50LWlkIHNlZ21lbnQtb2Zmc2V0XSAoZ2V0IGVkaXRvci1zZWxlY3Rpb24gcG9zLWtleSldCiAgICAoaWYgKGNvbGxzL3NvbWU9IHNlZ21lbnQtaWRzIHNlZ21lbnQtaWQpCiAgICAgIChsZXQgW25ldy1zZWdtZW50LWlkIChmaXJzdCBzZWdtZW50LWlkcykKICAgICAgICAgICAgbmV3LW9mZnNldCAoLT4+IHNlZ21lbnQtaWRzICh0YWtlLXdoaWxlICMobm90PSAlIHNlZ21lbnQtaWQpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKG1hcCAocGFydGlhbCBkYi1zZWdtZW50L251bS1jaGFycyBlZmZlY3RzKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIChhcHBseSArIHNlZ21lbnQtb2Zmc2V0KSldCiAgICAgICAgKGFzc29jIGVkaXRvci1zZWxlY3Rpb24gcG9zLWtleSBbbmV3LXNlZ21lbnQtaWQgbmV3LW9mZnNldF0pCiAgICAgICAgKGRiLXVwZGF0ZS9lZGl0b3Itc2VsZWN0aW9uIGVmZmVjdHMgYXNzb2MgcG9zLWtleSApKQogICAgICBlZGl0b3Itc2VsZWN0aW9uKSkpCgooZGVmbi0gdXBkYXRlLWVkaXRvci1zZWxlY3Rpb24tZm9yLWpvaW5pbmcKICAiVXBkYXRlcyBlZGl0b3Itc2VsZWN0aW9uIHdoZW4gYW5jaG9yLWlkIG9yIGZvY3VzLWlkIGlzIGpvaW5lZCB3aXRoIGFub3RoZXIgc2VnbWVudHMuIgogIFtlZmZlY3RzIGVkaXRvci1zZWxlY3Rpb24gc2VnbWVudC1pZHNdCiAgKC0+IGVkaXRvci1zZWxlY3Rpb24gKHVwZGF0ZS1wb3MtZm9yLWpvaW5pbmcgZWZmZWN0cyBzZWdtZW50LWlkcyA6ZWRpdG9yLXNlbGVjdGlvbi9hbmNob3IpCiAgICAgICh1cGRhdGUtcG9zLWZvci1qb2luaW5nIHNlZ21lbnQtaWRzIGVmZmVjdHMgOmVkaXRvci1zZWxlY3Rpb24vZm9jdXMpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGRlZm4gYXV0b3Jlc2l6ZSBbZGItb3ItZWZmZWN0c10K</text>
+        <text encoding="base64">ICAoZ2V0LWluLWRiIGRiLW9yLWVmZmVjdHMgcGF0aHMvYXV0b3Jlc2l6ZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0LXNlZ21lbnQtaWQgKGRiLXBhcmFncmFwaC9maXJzdC1zZWdtZW50LWlkIGVmZmVjdHMgbmV4dC1wYXJhZ3JhcGgtaWQpCg==</text>
+        <text encoding="base64">KGRlZm4gYXV0b3Jlc2l6ZSBbZGItb3ItZWZmZWN0c10K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuZXh0LXNlZ21lbnQtaWQgKGRiLXBhcmFncmFwaC9maXJzdC1zZWdtZW50LWlkIGVmZmVjdHMgbmV4dC1wYXJhZ3JhcGgtaWQpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text>(defn- caret-position-for-deleted-selection
   &quot;Sets caret right after the selection which is removed.&quot;
   [effects]
@@ -378,14 +381,11 @@
                                 [start-paragraph-id :editor-selection/paragraph-end]
                                 [(db-segment/next-segment effects start-id) 0]))))</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICI6a2V5Ym9yZC9rZXktZG93biIgcHJlc3NlZC1rZXlzKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgcnVsZXMpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInRvZ2dsZS1sYW5nIiBsYW5nICItPiIgbmV3LWxhbmcpCg==</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgcnVsZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
