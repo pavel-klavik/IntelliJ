@@ -5,29 +5,28 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>MuiSwitch</entry>
-        <entry>presentatations</entry>
-        <entry>canvas</entry>
-        <entry>http</entry>
-        <entry>usergroups</entry>
-        <entry>administration</entry>
-        <entry>member</entry>
-        <entry>total</entry>
-        <entry>devices</entry>
-        <entry>arka</entry>
-        <entry>draw</entry>
-        <entry>meta</entry>
-        <entry>with-title</entry>
-        <entry>dashboard\/filtered-dashboard</entry>
-        <entry>:user</entry>
-        <entry>stats</entry>
-        <entry>metrics</entry>
         <entry>date\/</entry>
         <entry>console</entry>
         <entry>charts</entry>
+        <entry>:</entry>
+        <entry>blank</entry>
+        <entry>8205</entry>
+        <entry>boundary</entry>
+        <entry>mobile</entry>
+        <entry>auto-direction</entry>
+        <entry>dali</entry>
+        <entry>xml</entry>
+        <entry>redirect-strategy</entry>
+        <entry>308</entry>
+        <entry>length</entry>
+        <entry>log</entry>
+        <entry>mode</entry>
+        <entry>editor-selection</entry>
+        <entry>unconfirmed-ops</entry>
+        <entry>autoresize</entry>
+        <entry>offset-map</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry>:w</entry>
         <entry>;wa</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
@@ -35,7 +34,6 @@
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
         <entry>va</entry>
-        <entry>aw</entry>
         <entry>wa'</entry>
         <entry>w;</entry>
         <entry>unit/parent-map</entry>
@@ -45,6 +43,8 @@
         <entry>wma</entry>
         <entry>:wa</entry>
         <entry encoding="base64">JzwsJz5zLzp1c2VyLzpvcmdwYWdlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzovOmZhXC8=</entry>
+        <entry>aw</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
@@ -149,175 +149,93 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/query.clj" timestamp="1603101528120">
-        <mark key="[" line="33" column="74" />
-        <mark key="]" line="33" column="87" />
-        <mark key="." line="33" column="86" />
-        <mark key="^" line="33" column="87" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1610665047815">
+        <mark key="'" line="302" column="20" />
+        <mark key="[" line="207" column="29" />
+        <mark key="]" line="207" column="33" />
+        <mark key="^" line="207" column="33" />
+        <mark key="." line="207" column="32" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/unit.cljs" timestamp="1602109324380">
-        <mark key="[" line="154" column="60" />
-        <mark key="]" line="155" column="72" />
-        <mark key="." line="155" column="71" />
-        <mark key="^" line="155" column="72" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/keyboard/rules/core.cljs" timestamp="1609944596684">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="27" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/core.cljs" timestamp="1602104307893">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1610665073421">
+        <mark key="'" line="283" column="33" />
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="0" />
+        <mark key="^" line="199" column="37" />
+        <mark key="." line="360" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1602930252458">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/keyboard/rules/global.cljs" timestamp="1609944434758">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="63" />
+        <mark key="^" line="5" column="63" />
+        <mark key="." line="5" column="62" />
+      </file>
+      <file name="/REPL.clj" timestamp="1610813539720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/charts.cljs" timestamp="1602929999279">
-        <mark key="[" line="120" column="3" />
-        <mark key="]" line="120" column="18" />
-        <mark key="." line="120" column="17" />
-        <mark key="^" line="120" column="18" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/style.cljs" timestamp="1610820067113">
+        <mark key="[" line="38" column="102" />
+        <mark key="]" line="39" column="65" />
+        <mark key="^" line="39" column="65" />
+        <mark key="." line="39" column="64" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/common.cljs" timestamp="1602704004989">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="47" />
-        <mark key="^" line="11" column="48" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/insert.cljs" timestamp="1610760042707">
+        <mark key="[" line="155" column="100" />
+        <mark key="]" line="155" column="20" />
+        <mark key="^" line="155" column="20" />
+        <mark key="." line="155" column="19" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1602139398512">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="129" column="52" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/selection.cljs" timestamp="1610824422240" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/i18n/events.cljs" timestamp="1609944555845">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="53" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="/REPL.txt" timestamp="1603101124570">
+      <file name="/Dummy.txt" timestamp="1610760881029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/metrics.cljs" timestamp="1602104320055">
-        <mark key="[" line="37" column="79" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="37" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/paragraph.cljs" timestamp="1610682727660">
+        <mark key="'" line="75" column="22" />
+        <mark key="[" line="97" column="33" />
+        <mark key="]" line="97" column="70" />
+        <mark key="^" line="97" column="70" />
+        <mark key="." line="97" column="69" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/administration/charts.cljs" timestamp="1602104378328">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="32" column="88" />
-        <mark key="." line="32" column="87" />
-        <mark key="^" line="32" column="88" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/chart.cljs" timestamp="1602790215333">
-        <mark key="[" line="169" column="64" />
-        <mark key="]" line="170" column="56" />
-        <mark key="." line="170" column="55" />
-        <mark key="^" line="170" column="56" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/administration/charts.cljs" timestamp="1602929955770">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="7" column="82" />
-        <mark key="." line="7" column="81" />
-        <mark key="^" line="7" column="82" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/app.clj" timestamp="1602582363747">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" timestamp="1603097828443">
-        <mark key="'" line="160" column="50" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" timestamp="1602104486706">
-        <mark key="'" line="29" column="15" />
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="13" column="44" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/administration/metrics.cljs" timestamp="1602144533563">
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="/REPL.clj" timestamp="1603101124567">
+      <file name="/REPL.txt" timestamp="1610813539722">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/date.cljc" timestamp="1602926448315">
-        <mark key="[" line="138" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" timestamp="1610819763577">
+        <mark key="[" line="71" column="35" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="32" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/administration/charts.clj" timestamp="1602923778449">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-        <mark key="." line="22" column="30" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/segment.cljs" timestamp="1610820357744">
+        <mark key="[" line="226" column="36" />
+        <mark key="]" line="226" column="101" />
+        <mark key="^" line="226" column="101" />
+        <mark key="." line="226" column="100" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/init.cljs" timestamp="1610813386112" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" timestamp="1610659647257">
+        <mark key="[" line="211" column="72" />
+        <mark key="]" line="240" column="25" />
+        <mark key="." line="240" column="24" />
+        <mark key="^" line="240" column="25" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/segment.cljs" timestamp="1610682055169">
+        <mark key="[" line="139" column="9" />
+        <mark key="]" line="54" column="59" />
+        <mark key="^" line="54" column="59" />
+        <mark key="." line="54" column="58" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="20" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="4" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="9" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="14" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="19" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="24" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="29" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="34" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="39" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="44" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="49" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="54" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="59" column="45" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/usergroups.cljs" />
-      <jump line="33" column="2" filename="C:/Shared/orgpad/src/orgpad/client/views/orgpage/core.cljs" />
-      <jump line="30" column="0" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/canvas.cljs" />
-      <jump line="59" column="18" filename="C:/Shared/orgpad/src/orgpad/client/events/unit/core.cljs" />
-      <jump line="20" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
-      <jump line="17" column="22" filename="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" />
-      <jump line="71" column="28" filename="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" />
-      <jump line="139" column="31" filename="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" />
-      <jump line="127" column="8" filename="C:/Shared/orgpad/src/orgpad/server/handler/core.clj" />
-      <jump line="13" column="24" filename="C:/Shared/orgpad/resources/public/css/orgpad.css" />
-      <jump line="11" column="10" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
-      <jump line="14" column="0" filename="$USER_HOME$/.m2/repository/ring-oauth2/ring-oauth2/0.1.4/ring-oauth2-0.1.4.jar!/ring/middleware/oauth2.clj" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/core.cljs" />
-      <jump line="28" column="69" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/core.cljs" />
-      <jump line="31" column="38" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/core.cljs" />
-      <jump line="9" column="0" filename="C:/Shared/orgpad/src/orgpad/client/subs/administration/core.cljs" />
-      <jump line="4" column="12" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="20" column="45" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="94" column="36" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="99" column="22" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="102" column="61" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="104" column="41" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="107" column="61" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="110" column="41" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="111" column="34" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="112" column="56" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="116" column="39" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="118" column="7" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="119" column="38" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="120" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="131" column="11" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="132" column="19" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="134" column="50" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="137" column="37" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="138" column="55" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="139" column="63" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="146" column="96" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="149" column="96" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="150" column="82" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="154" column="59" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="157" column="7" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="158" column="34" filename="C:/Shared/orgpad/src/orgpad/client/views/profile/usergroups.cljs" />
-      <jump line="12" column="0" filename="C:/Shared/orgpad/src/orgpad/client/views/orgpage/links/render.cljs" />
-      <jump line="77" column="0" filename="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" />
-      <jump line="22" column="54" filename="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" />
-      <jump line="252" column="32" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="263" column="30" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="37" column="7" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="38" column="16" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="114" column="16" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="119" column="20" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="120" column="22" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="121" column="31" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="123" column="34" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="124" column="32" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="203" column="28" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="204" column="80" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="209" column="8" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
       <jump line="21" column="4" filename="C:/Shared/orgpad/src/orgpad/client/util/date.cljs" />
@@ -341,57 +259,134 @@
       <jump line="123" column="8" filename="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" />
       <jump line="189" column="8" filename="C:/Shared/orgpad/src/orgpad/client/subs/dashboard.cljs" />
       <jump line="436" column="0" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats.clj" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
-      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
       <jump line="7" column="60" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
       <jump line="10" column="31" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
       <jump line="13" column="44" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
       <jump line="14" column="37" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
       <jump line="29" column="15" filename="C:/Shared/orgpad/src/orgpad/server/administration/stats/compute.clj" />
       <jump line="160" column="50" filename="C:/Shared/orgpad/src/orgpad/server/ws/handler/administration.clj" />
+      <jump line="2263" column="14" filename="C:/Shared/orgpad/src/orgpad/css/font_awesome.clj" />
+      <jump line="54" column="69" filename="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit_editor.cljs" />
+      <jump line="161" column="38" filename="C:/Shared/orgpad/src/orgpad/client/editor/subs/core.cljs" />
+      <jump line="19" column="32" filename="C:/Shared/orgpad/src/orgpad/client/op/segment.cljs" />
+      <jump line="33" column="39" filename="C:/Shared/orgpad/src/orgpad/client/op/segment.cljs" />
+      <jump line="57" column="76" filename="C:/Shared/orgpad/src/orgpad/client/op/segment.cljs" />
+      <jump line="9" column="57" filename="C:/Shared/orgpad/src/orgpad/client/util/unicode.cljs" />
+      <jump line="116" column="5" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="147" column="31" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="148" column="78" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="149" column="56" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="152" column="74" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="154" column="23" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="161" column="58" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="162" column="95" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="187" column="39" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="188" column="86" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="191" column="48" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="42" column="8" filename="C:/Shared/orgpad/src/orgpad/client/editor/events/selection/util.cljs" />
+      <jump line="173" column="47" filename="C:/Shared/orgpad/src/orgpad/client/editor/subs/core.cljs" />
+      <jump line="222" column="18" filename="C:/Shared/orgpad/src/orgpad/client/editor/subs/core.cljs" />
+      <jump line="224" column="22" filename="C:/Shared/orgpad/src/orgpad/client/editor/subs/core.cljs" />
+      <jump line="227" column="26" filename="C:/Shared/orgpad/src/orgpad/client/editor/subs/core.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="13" column="44" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="178" column="101" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
+      <jump line="201" column="80" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
+      <jump line="213" column="89" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
+      <jump line="83" column="80" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
+      <jump line="98" column="63" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
+      <jump line="204" column="54" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
+      <jump line="217" column="63" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
+      <jump line="84" column="54" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/delete.cljs" />
+      <jump line="35" column="17" filename="C:/Shared/orgpad/project.clj" />
+      <jump line="4" column="33" filename="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" />
+      <jump line="30" column="11" filename="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" />
+      <jump line="378" column="50" filename="$USER_HOME$/.m2/repository/clj-http/clj-http/3.10.1/clj-http-3.10.1.jar!/clj_http/core.clj" />
+      <jump line="569" column="12" filename="$USER_HOME$/.m2/repository/clj-http/clj-http/3.10.1/clj-http-3.10.1.jar!/clj_http/core.clj" />
+      <jump line="72" column="15" filename="$USER_HOME$/.m2/repository/clj-http/clj-http/3.10.1/clj-http-3.10.1.jar!/clj_http/core.clj" />
+      <jump line="102" column="14" filename="$USER_HOME$/.m2/repository/clj-http/clj-http/3.10.1/clj-http-3.10.1.jar!/clj_http/core.clj" />
+      <jump line="124" column="10" filename="$USER_HOME$/.m2/repository/clj-http/clj-http/3.10.1/clj-http-3.10.1.jar!/clj_http/core.clj" />
+      <jump line="11" column="47" filename="C:/Shared/orgpad/src/orgpad/landing/scripts/device.js" />
+      <jump line="25" column="21" filename="C:/Shared/orgpad/src/orgpad/landing/scripts/device.js" />
+      <jump line="69" column="44" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
+      <jump line="126" column="0" filename="C:/Shared/orgpad/src/orgpad/server/convert/lucidchart.clj" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="112" column="11" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="113" column="40" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="123" column="11" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="124" column="38" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="90" column="11" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="91" column="43" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
+      <jump line="16" column="11" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
+      <jump line="19" column="33" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
+      <jump line="20" column="24" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
+      <jump line="21" column="28" filename="C:/Shared/orgpad/src/orgpad/client/editor/op/clean.cljs" />
+      <jump line="195" column="3" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="164" column="5" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="293" column="18" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="296" column="20" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="302" column="20" filename="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" />
+      <jump line="156" column="14" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="360" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="282" column="6" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="283" column="33" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="16" column="19" filename="C:/Shared/orgpad/src/orgpad/client/op/paragraph.cljs" />
+      <jump line="64" column="24" filename="C:/Shared/orgpad/src/orgpad/client/op/paragraph.cljs" />
+      <jump line="75" column="22" filename="C:/Shared/orgpad/src/orgpad/client/op/paragraph.cljs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWZuIHRvdGFsLXN0YXRzCiAgIlNlbGVjdHMgb25seSB0b3RhbCBzdGF0cy4iCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOmVkaXRvci9yZW1vdmUtdW5uZWVkZWQtb3BzIiByZW1vdmVkLXNlZ21lbnQtaWRzIG9wcyBmaWx0ZXJlZC1vcHMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>(db-get/editor-selection effects)</text>
       </register>
       <register name="/" type="4">
-        <text>charts</text>
+        <text>offset-map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA6PC0gWzphZG1pbmlzdHJhdGlvbi9jaGFydHNdCg==</text>
+        <text encoding="base64">ICAgOmxvYWRpbmcvaW5pdGlhbC1hdXRvcmVzaXplICAgICAiQ29tcHV0aW5nIHNpemVzIG9mIGFsbCB1bml0cywge251bS11bml0c30gcmVtYWluaW5nIC4uLiIKICAgOmxvYWRpbmcvaW5pdGlhbC1sYXlvdXQgICAgICAgICAiSW1wcm92aW5nIHRoZSBpbml0aWFsIGxheW91dCAuLi4iCiAgIDpsb2FkaW5nL3Jlc3RvcmluZy1vcGVuZWQtcGFnZXMgIlJlc3RvcmluZyBwb3NpdGlvbiBvZiBvcGVuZWQgcGFnZXMgLi4uIgogICA6bG9hZGluZy9nZXR0aW5nLW9yZ3BhZ2UgICAgICAgICJEb3dubG9hZGluZyBhbiBvcmdwYWdlIGZyb20gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL2dldHRpbmctZGFzaGJvYXJkICAgICAgIkRvd25sb2FkaW5nIHRoZSBsaXN0IG9mIGF2YWlsYWJsZSBvcmdwYWdlcyBmcm9tIHRoZSBzZXJ2ZXIgLi4uIgogICA6bG9hZGluZy91cGxvYWRpbmctb3JncGFnZSAgICAgICJVcGxvYWRpbmcgYW4gb3JncGFnZSB0byB0aGUgc2VydmVyIC4uLiIKICAgOmxvYWRpbmcvYXV0aG9yaXppbmctdXNlciAgICAgICAiQXV0aG9yaXppbmcgdGhlIHVzZXIgLi4uIgogICA6bG9hZGluZy93cy1pbml0ICAgICAgICAgICAgICAgICJTZXR0aW5nIHVwIGNvbm5lY3Rpb24gdG8gdGhlIHNlcnZlciAuLi4iCiAgIDpsb2FkaW5nL3dzLWNsb3NlZCAgICAgICAgICAgICAgKHN0ciAiQ29ubmVjdGlvbiB0byBzZXJ2ZXIgY2xvc2VkLCB0cnlpbmcgdG8gcmVjb25uZWN0LiAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiSWYgdGhlIHByb2JsZW0gcGVyc2lzdHMsIHJlbG9hZCB0aGUgcGFnZS4iKQogICA6bG9hZGluZy9hZG1pbmlzdHJhdGlvbiAgICAgICAgICJMb2FkaW5nIGFkbWluaXN0cmF0aW9uIGRhdGEgLi4uIgogICA6bG9hZGluZy9zdHlsZSAgICAgICAgICAgICAgICAgICJMb2FkaW5nIHN0eWxlcyAuLi4iCiAgIDpsb2FkaW5nL3VwbG9hZGluZy1hdHRhY2htZW50cyAgIlVwbG9hZGluZyBhdHRhY2htZW50cyB0byB0aGUgc2VydmVyIC4uLiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWZuIHRvdGFsLXN0YXRzCiAgIlNlbGVjdHMgb25seSB0b3RhbCBzdGF0cy4iCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOmVkaXRvci9yZW1vdmUtdW5uZWVkZWQtb3BzIiByZW1vdmVkLXNlZ21lbnQtaWRzIG9wcyBmaWx0ZXJlZC1vcHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLWFsaWduZWQtYWN0aXZpdHktY2hhcnQgQChyZi9zdWJzY3JpYmUgWzphZG1pbmlzdHJhdGlvbi91c2VyLWFsaWduZWQtYWN0aXZpdHktY2hhcnRdKQogICAgICAgIG9yZ3BhZ2UtYWxpZ25lZC1hY3Rpdml0eS1jaGFydCBAKHJmL3N1YnNjcmliZSBbOmFkbWluaXN0cmF0aW9uL29yZ3BhZ2UtYWxpZ25lZC1hY3Rpdml0eS1jaGFydF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA6PC0gWzphZG1pbmlzdHJhdGlvbi9jaGFydC1ncmFudWxhcml0eV0K</text>
+        <text encoding="base64">KGRlZm4tIHVwZGF0ZS1wb3MtZm9yLWpvaW5pbmcKICAiVXBkYXRlcyBlZGl0b3Itc2VsZWN0aW9uIHBvcyBvZiB0aGUgZ2l2ZW4gcG9zLWtleSB3aGVuIGl0IGFwcGVhcnMgaW4gdGhlIG1pZGRsZQogIG9mIGpvaW5lZCBzZWdtZW50cy4iCiAgW2VkaXRvci1zZWxlY3Rpb24gZWZmZWN0cyBzZWdtZW50LWlkcyBwb3Mta2V5XQogIChsZXQgW1tzZWdtZW50LWlkIHNlZ21lbnQtb2Zmc2V0XSAoZ2V0IGVkaXRvci1zZWxlY3Rpb24gcG9zLWtleSldCiAgICAoaWYgKGNvbGxzL3NvbWU9IHNlZ21lbnQtaWRzIHNlZ21lbnQtaWQpCiAgICAgIChsZXQgW25ldy1zZWdtZW50LWlkIChmaXJzdCBzZWdtZW50LWlkcykKICAgICAgICAgICAgbmV3LW9mZnNldCAoLT4+IHNlZ21lbnQtaWRzICh0YWtlLXdoaWxlICMobm90PSAlIHNlZ21lbnQtaWQpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKG1hcCAocGFydGlhbCBkYi1zZWdtZW50L251bS1jaGFycyBlZmZlY3RzKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIChhcHBseSArIHNlZ21lbnQtb2Zmc2V0KSldCiAgICAgICAgKGFzc29jIGVkaXRvci1zZWxlY3Rpb24gcG9zLWtleSBbbmV3LXNlZ21lbnQtaWQgbmV3LW9mZnNldF0pCiAgICAgICAgKGRiLXVwZGF0ZS9lZGl0b3Itc2VsZWN0aW9uIGVmZmVjdHMgYXNzb2MgcG9zLWtleSApKQogICAgICBlZGl0b3Itc2VsZWN0aW9uKSkpCgooZGVmbi0gdXBkYXRlLWVkaXRvci1zZWxlY3Rpb24tZm9yLWpvaW5pbmcKICAiVXBkYXRlcyBlZGl0b3Itc2VsZWN0aW9uIHdoZW4gYW5jaG9yLWlkIG9yIGZvY3VzLWlkIGlzIGpvaW5lZCB3aXRoIGFub3RoZXIgc2VnbWVudHMuIgogIFtlZmZlY3RzIGVkaXRvci1zZWxlY3Rpb24gc2VnbWVudC1pZHNdCiAgKC0+IGVkaXRvci1zZWxlY3Rpb24gKHVwZGF0ZS1wb3MtZm9yLWpvaW5pbmcgZWZmZWN0cyBzZWdtZW50LWlkcyA6ZWRpdG9yLXNlbGVjdGlvbi9hbmNob3IpCiAgICAgICh1cGRhdGUtcG9zLWZvci1qb2luaW5nIHNlZ21lbnQtaWRzIGVmZmVjdHMgOmVkaXRvci1zZWxlY3Rpb24vZm9jdXMpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWZuIHdlZWstZGF5LXN0YXRzCg==</text>
+        <text encoding="base64">ICAoZ2V0LWluLWRiIGRiLW9yLWVmZmVjdHMgcGF0aHMvYXV0b3Jlc2l6ZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBoaWdobGlnaHRlZC1sYWJlbCB2YWx1ZS0+bGFiZWwpCg==</text>
+        <text encoding="base64">KGRlZm4gYXV0b3Jlc2l6ZSBbZGItb3ItZWZmZWN0c10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGRlZm4tIHVzZXItYWxpZ25lZC1hY3Rpdml0eQogIFtdCiAgKHdoZW4tbGV0IFt1c2VyLWFsaWduZWQtYWN0aXZpdHktY2hhcnQgQChyZi9zdWJzY3JpYmUgWzphZG1pbmlzdHJhdGlvbi91c2VyLWFsaWduZWQtYWN0aXZpdHktY2hhcnRdKV0KICAgIFtjaGFydC9jaGFydCB1c2VyLWFsaWduZWQtYWN0aXZpdHktY2hhcnRdKSkKCihkZWZuLSBvcmdwYWdlLWFsaWduZWQtYWN0aXZpdHkKICBbXQogICh3aGVuLWxldCBbb3JncGFnZS1hbGlnbmVkLWFjdGl2aXR5LWNoYXJ0IEAocmYvc3Vic2NyaWJlIFs6YWRtaW5pc3RyYXRpb24vb3JncGFnZS1hbGlnbmVkLWFjdGl2aXR5LWNoYXJ0XSldCiAgICBbY2hhcnQvY2hhcnQgb3JncGFnZS1hbGlnbmVkLWFjdGl2aXR5LWNoYXJ0XSkpCgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0LXNlZ21lbnQtaWQgKGRiLXBhcmFncmFwaC9maXJzdC1zZWdtZW50LWlkIGVmZmVjdHMgbmV4dC1wYXJhZ3JhcGgtaWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBbdXNlci1zdGF0c10KICAgICBbYW5vbnltb3VzLXN0YXRzXQo=</text>
+        <text>(defn- caret-position-for-deleted-selection
+  &quot;Sets caret right after the selection which is removed.&quot;
+  [effects]
+  (let [[start-id] (selection-util/selection-end effects)
+        start-paragraph-id (db-segment/paragraph-id effects start-id)
+        [end-id] (selection-util/selection-end effects)]
+    (selection-util/set-caret effects
+                              (if (db-segment/last? effects end-id)
+                                [start-paragraph-id :editor-selection/paragraph-end]
+                                [(db-segment/next-segment effects start-id) 0]))))</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGRlZm4tIHRvdGFsLXN0YXRzCiAgW10KICAobGV0IFt0b3RhbC1zdGF0cy1jaGFydF0KICAgIFtjaGFydC9jaGFydCB0b3RhbC1zdGF0cy1jaGFydF0pKQoKKGRlZm4tIHVzZXItc3RhdHMKICBbXQogIChsZXQgW3VzZXItc3RhdHMtY2hhcnQgQChyZi9zdWJzY3JpYmUgWzphZG1pbmlzdHJhdGlvbi91c2VyLXN0YXRzLWNoYXJ0XSldCiAgICBbY2hhcnQvY2hhcnQgdXNlci1zdGF0cy1jaGFydF0pKQoKKGRlZm4tIGFub255bW91cy1zdGF0cwogIFtdCiAgKGxldCBbYW5vbnltb3VzLXN0YXRzLWNoYXJ0IEAocmYvc3Vic2NyaWJlIFs6YWRtaW5pc3RyYXRpb24vYW5vbnltb3VzLXN0YXRzLWNoYXJ0XSldCiAgICBbY2hhcnQvY2hhcnQgYW5vbnltb3VzLXN0YXRzLWNoYXJ0XSkpCgo=</text>
+        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICI6a2V5Ym9yZC9rZXktZG93biIgcHJlc3NlZC1rZXlzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA6PC0gWzphZG1pbmlzdHJhdGlvbi90b3RhbC1zdGF0c10KICA6PC0gWzphZG1pbmlzdHJhdGlvbi9jaGFydC10eXBlXQogIDo8LSBbOmFkbWluaXN0cmF0aW9uL2NoYXJ0LWdyYW51bGFyaXR5XQogIDo8LSBbOmFkbWluaXN0cmF0aW9uL2NoYXJ0LXdpZHRoXQogIDo8LSBbOmFkbWluaXN0cmF0aW9uL2NoYXJ0LWhlaWdodF0K</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgcnVsZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -400,11 +395,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>charts</last-search>
+      <last-search>offset-map</last-search>
       <last-offset />
-      <last-pattern>charts</last-pattern>
-      <last-replace>:orgpage</last-replace>
-      <last-substitute>:user</last-substitute>
+      <last-pattern>offset-map</last-pattern>
+      <last-replace>:fa\/</last-replace>
+      <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
