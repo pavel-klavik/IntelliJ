@@ -93,7 +93,11 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="ShowContent" />
+  <action id="ShowFilePath" />
   <action id="ShowSettings" />
+  <action id="TW.ViewModeGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
