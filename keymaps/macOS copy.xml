@@ -41,7 +41,10 @@
   <action id=":cursive.repl.actions/next-history-item" />
   <action id=":cursive.repl.actions/prev-history-item" />
   <action id="CloseContent" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
   <action id="Debug" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -49,6 +52,7 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -77,9 +81,15 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="ServiceView.GroupByContributor" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark0" />
   <action id="ToggleBookmark9" />
   <action id="TypeHierarchy" />
@@ -88,4 +98,5 @@
   <action id="UsageGrouping.FileStructure" />
   <action id="UsageGrouping.UsageType" />
   <action id="UsageView.Rerun" />
+  <action id="ViewSource" />
 </keymap>
