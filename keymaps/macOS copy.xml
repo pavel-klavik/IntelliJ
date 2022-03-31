@@ -10,6 +10,7 @@
   </action>
   <action id=":cursive.actions.paredit/kill">
     <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id=":cursive.actions.paredit/move-form-down">
     <keyboard-shortcut first-keystroke="meta down" />
@@ -41,25 +42,31 @@
   <action id=":cursive.repl.actions/next-history-item" />
   <action id=":cursive.repl.actions/prev-history-item" />
   <action id="CloseContent" />
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
   <action id="Debug" />
+  <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift meta w" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="Images.Thumbnails.Hide" />
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
@@ -71,15 +78,21 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="SendEOF" />
   <action id="ServiceView.GroupByContributor" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -94,9 +107,11 @@
   <action id="ToggleBookmark9" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UsageFiltering.WriteAccess" />
   <action id="UsageGrouping.DirectoryStructure" />
   <action id="UsageGrouping.FileStructure" />
   <action id="UsageGrouping.UsageType" />
   <action id="UsageView.Rerun" />
   <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch" />
 </keymap>
