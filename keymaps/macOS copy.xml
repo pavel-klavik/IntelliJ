@@ -33,6 +33,14 @@
   <action id=":cursive.actions.paredit/split">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id=":cursive.actions.paredit/thread-form">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id=":cursive.actions.paredit/unthread-form">
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
   <action id=":cursive.actions.paredit/wrap-curly">
     <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
   </action>
@@ -45,6 +53,7 @@
   <action id=":cursive.repl.actions/next-history-item" />
   <action id=":cursive.repl.actions/prev-history-item" />
   <action id="CloseContent" />
+  <action id="CollapseBlock" />
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
