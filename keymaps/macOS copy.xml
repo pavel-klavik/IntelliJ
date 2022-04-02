@@ -1,9 +1,11 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id=":cursive.actions.paredit/barf-backwards">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id=":cursive.actions.paredit/barf-forwards">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id=":cursive.actions.paredit/join">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
@@ -26,6 +28,7 @@
   </action>
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id=":cursive.actions.paredit/split">
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -112,6 +115,7 @@
   <action id="UsageGrouping.FileStructure" />
   <action id="UsageGrouping.UsageType" />
   <action id="UsageView.Rerun" />
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
 </keymap>
