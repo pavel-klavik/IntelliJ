@@ -108,6 +108,7 @@
     <mouse-shortcut keystroke="button2" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="GotoTest" />
   <action id="Images.Thumbnails.Hide" />
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
