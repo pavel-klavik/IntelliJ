@@ -45,6 +45,7 @@
   </action>
   <action id=":cursive.actions.paredit/split">
     <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id=":cursive.actions.paredit/thread-form">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
@@ -62,6 +63,9 @@
   </action>
   <action id=":cursive.actions.paredit/wrap-square">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id=":cursive.repl.actions/next-history-item" />
   <action id=":cursive.repl.actions/prev-history-item" />
@@ -108,6 +112,7 @@
     <mouse-shortcut keystroke="button2" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="GotoLine" />
   <action id="GotoTest" />
   <action id="Images.Thumbnails.Hide" />
   <action id="NavBar-navigate">
@@ -132,6 +137,7 @@
   <action id="Replace" />
   <action id="Rerun" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -148,6 +154,9 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark0" />
   <action id="ToggleBookmark9" />
@@ -158,6 +167,7 @@
   <action id="UsageGrouping.FileStructure" />
   <action id="UsageGrouping.UsageType" />
   <action id="UsageView.Rerun" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
