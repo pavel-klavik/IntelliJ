@@ -43,6 +43,7 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id=":cursive.actions.paredit/splice" />
   <action id=":cursive.actions.paredit/split">
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
