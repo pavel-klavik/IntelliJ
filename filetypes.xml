@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="erased-permissions" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="less" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
