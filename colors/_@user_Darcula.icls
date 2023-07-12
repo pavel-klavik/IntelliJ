@@ -3,7 +3,7 @@
     <property name="created">2018-12-19T17:10:46</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2023-07-12T08:59:00</property>
+    <property name="modified">2023-07-12T14:53:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -14,6 +14,12 @@
     <option name="Clojure Keyword">
       <value>
         <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5394ec" />
+        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="Rainbow Parens Level 4">
