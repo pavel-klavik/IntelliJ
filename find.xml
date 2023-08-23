@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.clj" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,8 +17,8 @@
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
     <mask>*.cljc</mask>
+    <mask>*.cljs</mask>
+    <mask>*.cljs</mask>
     <mask>*.clj</mask>
-    <mask>*.cljs</mask>
-    <mask>*.cljs</mask>
   </component>
 </application>
