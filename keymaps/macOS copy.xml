@@ -73,7 +73,6 @@
   <action id="CloseContent" />
   <action id="CollapseBlock" />
   <action id="CompareTwoFiles" />
-  <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
@@ -126,6 +125,9 @@
     <keyboard-shortcut first-keystroke="shift meta v" />
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
+  <action id="ProblemsView.QuickFixes">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -147,9 +149,8 @@
   </action>
   <action id="SendEOF" />
   <action id="ServiceView.GroupByContributor" />
-  <action id="ShowIntentionActions">
+  <action id="SetShortcutAction">
     <keyboard-shortcut first-keystroke="alt enter" />
-    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
