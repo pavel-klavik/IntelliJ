@@ -105,6 +105,10 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="multiply" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
