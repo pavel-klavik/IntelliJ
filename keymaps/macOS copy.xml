@@ -70,6 +70,10 @@
   </action>
   <action id=":cursive.repl.actions/next-history-item" />
   <action id=":cursive.repl.actions/prev-history-item" />
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateREPLToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="CloseContent" />
   <action id="CollapseBlock" />
   <action id="CompareTwoFiles" />
@@ -77,6 +81,7 @@
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -105,6 +110,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoProject" />
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="multiply" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
