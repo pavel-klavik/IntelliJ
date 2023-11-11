@@ -1,0 +1,81 @@
+<scheme name="Presentation" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2023-11-11T01:03:50</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2022.2.3.0.0</property>
+    <property name="modified">2023-11-11T11:31:54</property>
+    <property name="originalScheme">Presentation</property>
+  </metaInfo>
+  <attributes>
+    <option name="Clojure Keyword">
+      <value>
+        <option name="FOREGROUND" value="640078" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Clojure Literal">
+      <value>
+        <option name="FOREGROUND" value="f65a3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Clojure Numbers">
+      <value>
+        <option name="FOREGROUND" value="990000" />
+      </value>
+    </option>
+    <option name="Clojure Strings">
+      <value>
+        <option name="FOREGROUND" value="8000" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ffbe72" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Head symbol">
+      <value>
+        <option name="FOREGROUND" value="f65a3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Head symbol from clojure.core">
+      <value>
+        <option name="FOREGROUND" value="f65a3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 3">
+      <value>
+        <option name="FOREGROUND" value="2a894a" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 4">
+      <value>
+        <option name="FOREGROUND" value="958604" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 5">
+      <value>
+        <option name="FOREGROUND" value="47bf00" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 6">
+      <value>
+        <option name="FOREGROUND" value="b55086" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 7">
+      <value>
+        <option name="FOREGROUND" value="47bf00" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 9">
+      <value>
+        <option name="FOREGROUND" value="d048ae" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
