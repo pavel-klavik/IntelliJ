@@ -11,7 +11,10 @@
       <mapping ext="less" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="qrc" type="XML" />
+      <removed_mapping ext="py" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yml" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
