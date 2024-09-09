@@ -6,6 +6,7 @@
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern=".github/workflows/build-test.yml" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="latex" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="less" type="PLAIN_TEXT" />
