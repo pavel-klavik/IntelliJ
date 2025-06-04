@@ -82,6 +82,7 @@
   </action>
   <action id="CloseContent" />
   <action id="CollapseBlock" />
+  <action id="CollapseSelection" />
   <action id="CompareTwoFiles" />
   <action id="Console.SplitLine" />
   <action id="Debug" />
