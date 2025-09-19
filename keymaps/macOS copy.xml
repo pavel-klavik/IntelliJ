@@ -80,6 +80,7 @@
   <action id="ActivateREPLToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="CloseContent" />
   <action id="CollapseBlock" />
   <action id="CollapseRegion" />
@@ -120,6 +121,9 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Fonts.Toggle13_15">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="multiply" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
