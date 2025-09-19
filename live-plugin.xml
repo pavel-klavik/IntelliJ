@@ -1,5 +1,7 @@
 <application>
   <component name="LivePluginSettings">
     <option name="justInstalled" value="false" />
+    <option name="runAllPluginsOnIDEStartup" value="true" />
+    <option name="runProjectSpecificPlugins" value="true" />
   </component>
 </application>
