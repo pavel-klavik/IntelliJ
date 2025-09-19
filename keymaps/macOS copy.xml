@@ -80,6 +80,7 @@
   <action id="ActivateREPLToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow" />
   <action id="CloseContent" />
   <action id="CollapseBlock" />
@@ -90,6 +91,9 @@
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Documentation.ToggleAutoUpdate">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
