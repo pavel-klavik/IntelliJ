@@ -3,13 +3,24 @@
     <property name="created">2018-12-19T17:10:46</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2023-07-12T15:01:13</property>
+    <property name="modified">2025-11-18T17:46:49</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="Clojure Keyword">
       <value>
         <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="GLSL.PREPROCESSOR_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="GLSL.QUALIFIER_TOKENS" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="GLSL.TYPE_SPECIFIER">
+      <value>
+        <option name="FOREGROUND" value="b3b466" />
       </value>
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
