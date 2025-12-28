@@ -132,6 +132,7 @@
     <keyboard-shortcut first-keystroke="multiply" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
@@ -140,6 +141,9 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoLine" />
+  <action id="GotoNamespace">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="GotoTest" />
   <action id="Hello World">
     <keyboard-shortcut first-keystroke="shift alt h" />
