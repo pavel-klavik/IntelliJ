@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="erased-permissions" type="AUTO_DETECTED" />
+      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping pattern=".github/workflows/build-test.yml" type="PLAIN_TEXT" />
