@@ -156,6 +156,7 @@
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="NextWindow" />
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -185,6 +186,9 @@
   </action>
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="SendEOF" />
   <action id="ServiceView.GroupByContributor" />
