@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="erased-permissions" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="erased-permissions" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
+      <mapping ext="avif" type="Image" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping pattern=".github/workflows/build-test.yml" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
@@ -15,8 +16,8 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="orgpad" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <removed_mapping ext="glsl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="py" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
